@@ -1,0 +1,8 @@
+Date: 06 August 2011
+
+# Now with shiny new buttons!
+
+I added a sidebar with links to my profile on some social networks I use.
+There's still stuff to do! I need to find a better font, especially for the title. "Georgia" looks ugly.
+
+Oh, and I should start writing some interesting content. 
