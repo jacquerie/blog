@@ -8,7 +8,7 @@ To quickly test a line of JavaScript code without leaving your terminal you can 
 
     $ /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc
 
-Your prompt should have changed to
+Your prompt should have changed to:
 
     >
 
