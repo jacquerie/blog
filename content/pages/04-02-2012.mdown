@@ -1,0 +1,24 @@
+Date: 04 February 2012
+
+# How to run JavaScript from the command line
+
+This is an easy but useful tip for those of you that are running Mac OS X.
+
+To quickly test a line of JavaScript code without leaving your terminal you can run:
+
+    $ /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc
+
+Your prompt should have changed to
+
+    >
+
+And now you can run JavaScript code, as in:
+
+    > 1+1
+    2
+
+You'd want to alias that to something more manageable. I'd suggest either `/usr/bin/jsc` or `/usr/local/bin/jsc`. You can use `ln` for that:
+
+    $ ln /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc /usr/bin/jsc
+
+And voilà, you're done!
