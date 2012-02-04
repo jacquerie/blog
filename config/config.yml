@@ -1,8 +1,8 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
-title: "JACQUERIE"
-subtitle: "someone who is trying to learn Ruby"
+title: "Jacquerie"
+subtitle: "just someone who is trying to learn Ruby"
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -25,7 +25,7 @@ author:
 # site's short name here. A comment form will automatically be added to
 # the bottom of your pages.
 #
-disqus_short_name: jacquerie
+# disqus_short_name: jacquerie
 
 # cache
 #     Set it to true if you'd like Nesta to cache your pages in ./public.
