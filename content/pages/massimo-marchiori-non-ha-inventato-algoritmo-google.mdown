@@ -20,8 +20,6 @@ In altre parole secondo Brin e Page **una pagina è importante quando è linkata
 
 Basta confrontare i due grassetti per rendersi conto della differenza fra i due algoritmi.
 
-Si potrebbe obiettare 
-
 [giornali]: http://www.corriere.it/scienze_e_tecnologie/12_febbraio_06/volunia-motore-ricerca-caprara_95eeca66-50cb-11e1-aa9f-fca1e0292c07.shtml
 
 [blogger]: http://hardwaregadget.blogosfere.it/2012/02/volunia-la-presentazione-rispettato-il-paradigma-di-steve-jobs.html
