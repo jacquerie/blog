@@ -6,10 +6,10 @@ Secondo alcuni [giornali][] e [blogger][] italiani l'algoritmo di Google fu inve
 
 Nel suo [articolo del 1997][] Massimo Marchiori introdusse la nozione di $\text{HYPERINFO}$, una misura della propagazione dell'informazione testuale di un documento attraverso i suoi link.
 
-Supponiamo di poter misurare l'informazione testuale contenuta in una pagina $A$ con un qualche algoritmo, e chiamiamo $\text{TEXTINFO}(A)$ l'informazione testuale contenuta in $A$. Supponiamo che $A$ stia linkando le pagine $B_1\dots B_k$, ognuna dotata della propria informazione testuale $\text{TEXTINFO}(B_i)$ e tali che $\text{TEXTINFO}(B_1) \ge \text{TEXTINFO}(B_2) \ge \dots \ge \text{TEXTINFO}(B_k)$. Allora definiamo:
-$$\text{HYPERINFO}(A) = F \cdot \text{TEXTINFO}(B_1) + \dots + F^k \cdot \text{TEXTINFO}(B_k)$$ dove $F$ e' un qualche fattore di attenuazione, compreso fra $0$ ed $1$, in modo che anche $\text{HYPERINFO}(A)$ sia compreso fra $0$ e $1$.
+Supponiamo di poter misurare l'informazione testuale contenuta in una pagina $A$ con qualche algoritmo, e chiamiamo $\text{TEXTINFO}(A)$ l'informazione testuale contenuta in $A$. Supponiamo che $A$ stia linkando le pagine $B_1\dots B_k$, ognuna dotata della propria informazione testuale $\text{TEXTINFO}(B_i)$ e tali che $$\text{TEXTINFO}(B_1)\ge\dots\ge\text{TEXTINFO}(B_k)$$ Allora definiamo:
+$$\text{HYPERINFO}(A) = F \cdot \text{TEXTINFO}(B_1) + \dots + F^ {k} \cdot \text{TEXTINFO}(B_k)$$ dove $F$ e' un qualche fattore di attenuazione, compreso fra $0$ ed $1$, in modo che anche $\text{HYPERINFO}(A)$ sia compreso fra $0$ e $1$.
 
-In altre secondo Marchiori **una pagina è importante quando linka pagine dal contenuto ritenuto interessante**.
+In altre parole secondo Marchiori **una pagina è importante quando linka pagine dal contenuto ritenuto interessante**.
 
 L'[articolo del 1998][] di Lawrence Page e Sergey Brin (fondatori di Google) procede diversamente.
 
@@ -19,6 +19,8 @@ dove $B_u$ è l'insieme delle pagine $v$ che linkano $u$, $N_v$ è il numero tot
 In altre parole secondo Brin e Page **una pagina è importante quando è linkata da pagine importanti**.
 
 Basta confrontare i due grassetti per rendersi conto della differenza fra i due algoritmi.
+
+Si potrebbe obiettare 
 
 [giornali]: http://www.corriere.it/scienze_e_tecnologie/12_febbraio_06/volunia-motore-ricerca-caprara_95eeca66-50cb-11e1-aa9f-fca1e0292c07.shtml
 
