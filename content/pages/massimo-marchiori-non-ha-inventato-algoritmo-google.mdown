@@ -2,7 +2,7 @@ Date: 06 February 2012
 
 # Massimo Marchiori non ha inventato l'algoritmo di Google #
 
-Secondo alcuni [giornalisti][] e [blogger][] italiani l'algoritmo di Google sarebbe stato inventato dal matematico italiano Massimo Marchiori. Ciò non è vero.
+Secondo alcuni [giornalisti][] e [blogger][] italiani l'algoritmo di Google sarebbe stato inventato dal matematico italiano Massimo Marchiori. Questo però non è vero.
 
 Nel suo [articolo del 1997][] Massimo Marchiori introdusse la nozione di $\text{HYPERINFO}$, una misura della propagazione dell'informazione testuale di un documento attraverso i suoi link.
 
@@ -19,6 +19,10 @@ dove $B_u$ è l'insieme delle pagine $v$ che linkano $u$, $N_v$ è il numero tot
 In altre parole secondo Brin e Page **una pagina è importante quando è linkata da pagine importanti**.
 
 Basta confrontare i due grassetti per rendersi conto della differenza fra i due algoritmi.
+
+L'approccio di Marchiori era ragionevole quando i motori di ricerca si basavano pesantemente sull'analisi dell'informazione testuale contenuta nei documenti.
+
+L'idea brillante di Page e Brin fu invece di ridurre l'importanza di tale analisi ed inferire la rilevanza di una pagina dalla struttura della rete.
 
 [giornalisti]: http://www.corriere.it/scienze_e_tecnologie/12_febbraio_06/volunia-motore-ricerca-caprara_95eeca66-50cb-11e1-aa9f-fca1e0292c07.shtml
 
