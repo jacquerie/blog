@@ -1,0 +1,32 @@
+Date: 08 February 2012
+
+# Perché Volunia è un flop #
+
+Il parere su Twitter è pressochè unanime: Volunia è un flop. Ma perché?
+
+I designer sostengono che questo sia dovuto all'[interfaccia][] scadente e all'esperienza utente mediocre, più adatte ad un sito di dieci anni fa.
+
+Gli esperti di marketing d'altro canto danno la colpa alla [presentazione][] piagata da problemi tecnici e poco coreografata.
+
+Gli sviluppatori invece lamentano l'uso di tecnologie datate come gli iframe, incompatibili per questioni di [sicurezza][] con molte pagine web.
+
+Gli utenti infine osservano la [scarsa qualità][] dei risultati, ben al di sotto di Google od ogni altro motore di ricerca moderno.
+
+Invece sostengo che Volunia sia un flop perché risolve problemi che nessuno aveva. Quanti hanno avuto il bisogno di vedere un sito come se fosse una fattoria di FarmVille? Quanti hanno desiderato chattare con sconosciuti mentre cercavano recensioni di alberghi? Quanti richiedevano tracciabilità ancora più stringente delle proprie abitudini di navigazione?
+
+L'unico modo per rispondere a queste domande era chiedere al pubblico prima di investire tre anni di tempo e due milioni di euro. Era davvero necessario creare sin dall'inizio un'architettura scalabile a milioni di utenti, se non era ovvio che questi milioni di utenti ci sarebbero stati?
+
+Google non è perfetto e le alternative esistono. Chi fosse interessato a risultati più curati con minore spam potrebbe provare [blekko][]. Chi avesse a cuore la propria privacy potrebbe usare [duckduckgo][]. Di certo, attualmente, Volunia non rappresenta un'alternativa.
+
+
+[scarsa qualità]: http://www.pandemia.info/2012/02/07/volunia-bocciato-alla-prova-su-strada.html
+
+[blekko]: http://blekko.com/
+
+[duckduckgo]: http://duckduckgo.com/
+
+[sicurezza]: http://security.stackexchange.com/questions/894/are-there-security-issues-with-embedding-an-https-iframe-on-an-http-page
+
+[presentazione]: http://www.unipd-cmela.it/volunia/
+
+[interfaccia]: http://www.volunia.com/
