@@ -29,4 +29,4 @@ Google non è perfetto e le alternative esistono. Chi fosse interessato a risult
 
 [presentazione]: http://www.unipd-cmela.it/volunia/
 
-[interfaccia]: http://www.volunia.com/
+[interfaccia]: http://launch.volunia.com/
