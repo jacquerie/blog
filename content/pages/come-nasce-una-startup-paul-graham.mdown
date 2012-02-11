@@ -1,0 +1,95 @@
+Date: 10 February 2012
+
+# Come nasce una Startup #
+
+Hai bisogno di tre cose per creare una startup di successo: devi partire con persone valide, devi fare qualcosa che gli utenti vogliono, devi spendere il meno possibile. La maggior parte delle startup fallisce perche' non fa una di queste. Una startup che le fa tutte e tre probabilmente avra' successo.
+
+E questo e' piuttosto eccitante, perche', se ci pensi, tutte e tre sono fattibili. Difficili, ma fattibili. E poiche' una startup che ha successo in genere rende i suoi fondatori ricchi, questo implica che e' fattibile diventare ricco. Difficile, ma fattibile.
+
+Se potessi dire soltanto una cosa sulle startup, sarebbe questo. Non esiste un passo magicamente difficile che solo i geni possono risolvere.
+
+## L'idea ##
+
+In particolare, non hai bisogno di un'idea geniale per creare una startup. Una startup fa soldi offrendo alla gente della tecnologia migliore rispetto a quella che hanno ora. Ma quello che le persone hanno ora e' talmente brutto che non servono idee geniali per fare meglio.
+
+Il piano di Google, infatti, era semplicemente creare un motore di ricerca che non facesse schifo. Avevano tre nuove idee: indicizzare una porzione piu' ampia del Web, utilizzare i link per ordinare i risultati delle ricerche, avere pagine semplici e pulite con pubblicita' [...] Prima di tutto, erano determinati a fare un sito che fosse buono da usare. Senza dubbio ci sono grandi trucchi tecnici dentro Google, ma il piano complessivo era evidente. E sebbene ora abbiano piu' ampi ora, soltanto questo frutta loro un miliardo di dollari per anno. [1]
+
+Ci sono tante altre aree che sono tanto arretrare quanto lo era la ricerca prima di Google. Posso pensare a svariate euristiche per generare idee per startup, ma la maggior parte si riducono a questo: osserva qualcosa che le persone tentano di fare, trova il modo di farlo che non faccia schifo.
+
+Ad esempio, i siti d'incontri attualmente fanno piu' schifo della ricerca prima di Google. Usano tutti lo stesso approccio naive. Sembrano aver approcciato il problema pensando come mettere insieme due righe di un database invece che due persone. Uno studente universitario potrebbe costruire qualcosa di migliore come progetto per un corso. Eppure ci sono molti soldi in palio. Gli incontri online valgono molto ora, e potrebbero valere un centinaio di volte tanto se funzionassero.
+
+Un'idea per una startup, tuttavia, e' solo l'inizio. Molti aspiranti fondatori pensano che l'idea sia la chiave dell'intero processo, e da quel momento debbano soltanto eseguire. I Venture Capitalist invece sono piu' furbi. Se vai da un VC con un'idea brillante che gli comunicherai soltanto dopo aver firmato un accordo di non divulgazione, la maggior parte ti dira' di andare al diavolo. Questo fa vedere quanto valga la sola idea. Il prezzo di mercato e' minore della scocciatura di firmare un accordo di non divulgazione.
+
+Un ulteriore segno di quanto poco valga l'idea iniziale e' il numero di startup che cambiano il proprio piano in corsa. Il piano originale di Microsof era fare soldi vendendo linguaggi di programmazione. Il loro business model attuale non venne loro in mente finche' la IBM glielo regalo' cinque anni dopo.
+
+Le idee per le startup valgono qualcosa, e' vero, ma il problema e' che non sono trasferibili. Non sono qualcosa che puoi dare a qualcun altro ed eseguire. Il loro valore e' come punto di partenza: come domande per le persone che le hanno avute su cui continuare a pensare.
+
+Quello che importa non sono le idee, ma le persone che le hanno. Persone in gamba possono sistemare cattive idee, ma buone idee non possono salvare persone mediocri.
+
+## Persone ##
+
+Cosa intendo con persone in gamba? Uno dei trucchi migliori che ho imparato durante la nostra startup era la regola che usavamo per decidere chi assumere. Potresti descrivere la persona come "un animale"? Potrebbe essere difficile tradurlo in altre lingue, ma penso che tutti negli Stati Uniti capiscano cosa intenda. Significa qualcuno che prenda il proprio lavoro un po' troppo seriamente; qualcuno che fa quello che fa talmente bene che trascende il professionismo e diventa ossessione.
+
+Cosa significhi nello specifico dipende dal lavoro: un addetto alle vendite che semplicemente non accetti "no" come risposta; un hacker che stia sveglio fino alle 4 di mattina piuttosto che andare a letto lasciando del codice con un bug; un addetto alle relazioni che chiami i giornalisti del New York Times sui loro cellulari; un designer che provi dolore fisico quando qualcosa e' due millimetri fuori posto.
+
+Praticamente tutti quelli che hanno lavorato per noi erano animali in quel che facevano. La donna a capo delle vendite era cosi' tenace che mi dispiaceva per i potenziali clienti al telefono con lei. Potevi sentirli agitarsi sull'amo, ma sapevi che non ci sarebbe stato riposo per loro finche' non avessero comprato.
+
+Se pensi alle persone che conosci, troverai che il test dell'animale e' facile da fare. Richiama alla mente quella persona e immagina la frase "tizio e' un animale". Se ridi, non lo e'. Non hai bisogno e forse non vuoi neanche questa qualita' nelle grosse compagnie, ma ne hai bisogno in una startup.
+
+Per i programmatori ci sono tre test addizionali. Si tratta di una persona genuinamente intelligente? Se si', e' produttiva? Ed inoltre, poiche' qualche buon hacker ha una personalita' insopportabile, potevamo sopportare averli intorno?
+
+L'ultimo criterio filtra sorprendentemente poche persone. Potevamo sopportare qualunque ammontare di [...]. Quello che non potevamo sopportare erano le persone con molto carattere. Ma queste persone non erano davvero intelligenti, percio' il terzo criterio era in gran parte identico al primo.
+
+Un nerd e' insopportabile perche' sta provando con troppa foga a sembrare intelligente. Ma piu' sono intelligenti, meno pressione sentono a dover dimostrare di esserlo. Una regola per riconoscere le persone genuinamente intelligenti e' la loro abilita' a dire cose come "non lo so", "forse hai ragione", "non capisco abbastanza x".
+
+Questa tecnica non funziona sempre, perche' le persone possono essere influenzate dal proprio ambiente. Ad informatica al MIT sembra esistere la tradizione di fingersi uno scorbutico saputello. Mi dicono che questo derivi da Marvin Minsky, cosi' come il tipico atteggiamento da pilota derivi da Chuck Yeager. Anche le persone genuinamente intelligenti cominciano a fingersi cosi' in certi posti, percio' devi ammettere qualche tolleranza.
+
+Ci ha aiutato avere con noi Robert Morris, una delle persone piu' pronte a dire "non lo so" che io abbia mai incontrato. (O perlomeno, lo era prima di diventare professore al MIT). Nessuno osava darsi le arie vicino a Robert, perche' lui era ovviamente piu' intelligente di loro e tuttavia non si dava mai le arie.
+
+Come molte startup, la nostra comincio' con un gruppo di amici, e assumemmo attraverso contatti personali. Questa e' una differenza cruciale fra startup e grosse imprese. Essere amici con qualcuno anche soltanto per un paio di giorni vi dira' molto piu' di quanto le imprese potranno mai imparare nei colloqui di lavoro. [2]
+
+Non e' una coincidenza che le startup crescano intorno alle universita', perche' e' dove le persone intelligenti si incontrano. Non e' quello che gli studenti imparano nelle aule del MIT o di Stanford che abbia fatto si' che le compagnie di tecnologia crescessero intorno a queste universita'. Avrebbero anche potuto cantare canzoni intorno al fuoco durante le lezioni, purche' pero' i test d'ammissione funzionassero allo stesso modo.
+
+Se crei la tua startup c'e' una buona probabilita' che sia con persone che conosci dall'universita' o dal dottorato. Percio' in teoria dovresti provare ad essere amico con tante piu' persone intelligenti possibile, no? Beh, no. Non metterti in testa di coltivare amicizie importanti; non funziona molto bene con gli hacker.
+
+Quello che dovresti fare all'universita' e' lavorare sui tuoi progetti. Gli hacker dovrebbero farlo anche se non hanno intenzione di creare la propria startup, perche' e' l'unica vera maniera di imparare a programmare. In certi casi potresti collaborare con altri studenti, e questo e' il modo migliore per conoscere buoni hacker. Il progetto potrebbe crescere fino a diventare una startup. Ma, ancora una volta, non mirerei direttamente ad alcuno di questi obiettivi. Non provare a forzare le cose, lavora soltanto alle cose che ti piacciono con persone che ti piacciono.
+
+Idealmente vorresti da due a quattro fondatori. Sarebbe difficile cominciare con soltanto uno. Una persona potrebbe trovare insopportabile il peso morale di cominciare un'impresa. Persino Bill Gates, che sembrerebbe sopportare un bel po' di peso morale, dovette avere un cofondatore. Ma non vorresti avere cosi' tanti fondatori che la startup cominci a sembrare una foto di gruppo. In parte perche' all'inizio non vuoi molte persone, ma piu' che altro perche' piu' fondatori hai, peggiori 
+
+## Quello che i clienti vogliono ##
+
+Non sono soltanto le startup a doversi preoccupare di questo. Penso che la maggior parte delle imprese falliscano perche' non danno ai clienti quello che vogliono. Pensa ai ristoranti. Gran parte fallisce, il 25% nel primo anno. Ma puoi pensare ad un ristorante con del cibo davvero buono che sia fallito?
+
+I ristoranti che offrono buon cibo sembrano prosperare a prescindere che sia costoso, affollato, rumoroso, squallido, fuori mano
+
+## Chiedere finanziamenti ##
+
+## Non spenderli ##
+
+Quando e se arriveranno soldi veri dagli investori cosa dovrai farne? Non spenderli. In praticamente tutte le startup che falliscono la causa scatenante e' l'aver finito i soldi. Tipicamente c'e' qualcosa di sbagliato piu' a fondo. Ma ha senso provare ad evitare la causa di morte piu' prossima.
+
+Durante la Bolla molte startup hanno provato a "diventare grandi in fretta". Questo idealmente significava avere un sacco di clienti dopo poco tempo. Ma era facile che significasse in realta' assumere un sacco di persone dopo poco tempo.
+
+## Dovresti? ##
+
+Ma dovresti creare la tua startup? Sei il tipo di persona adatta per farlo? Se lo sei, ne vale la pena?
+
+## Note ##
+
+[1] I ricavi di Google sono circa due miliardi all'anno, ma meta' viene da pubblicita' su altri siti.
+
+[2] Un vantaggio delle startup sulle imprese e' che non ci sono leggi antidiscriminazione da seguire quando crei una startup. Ad esempio, sarei riluttante a cominciare una startup con una donna che ha bambini piccoli, o che e' probabile ne abbia in futuro. Ma non puoi chiedere ad un candidato in un colloquio di lavoro se abbia intenzione di fare figli a breve. Credeteci o no, per la legge vigente negli Stati Uniti, non puoi discriminare neanche sulla base di investigazioni. Invece quando stai cominciando una startup, puoi discriminare con chi partire su qualunque criterio.
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8] Ero un impiegato tanto cattivo quanto cattiva era l'impresa. Chiedo scusa a chi abbia dovuto lavorare con me li'.
+
+[9] Potresti probabilmente scrivere un libro su come fare un'impresa di successo facendo esattamente l'opposto di quello che fa la motorizzazione.
