@@ -2,7 +2,7 @@ Date: 10 February 2012
 
 # Come nasce una Startup #
 
-Hai bisogno di tre cose per creare una startup di successo: devi partire con persone valide, devi fare qualcosa che gli utenti vogliono, devi spendere il meno possibile. La maggior parte delle startup fallisce perche' non fa una di queste. Una startup che le fa tutte e tre probabilmente avra' successo.
+Hai bisogno di tre cose per fondare una startup di successo: devi partire con persone valide, devi fare qualcosa che gli utenti vogliano, devi spendere il meno possibile. La maggior parte delle startup fallisce perche' non fa una di queste. Una startup che le fa tutte e tre probabilmente avra' successo.
 
 E questo e' piuttosto eccitante, perche', se ci pensi, tutte e tre sono fattibili. Difficili, ma fattibili. E poiche' una startup che ha successo in genere rende i suoi fondatori ricchi, questo implica che e' fattibile diventare ricco. Difficile, ma fattibile.
 
@@ -24,9 +24,9 @@ Un ulteriore segno di quanto poco valga l'idea iniziale e' il numero di startup 
 
 Le idee per le startup valgono qualcosa, e' vero, ma il problema e' che non sono trasferibili. Non sono qualcosa che puoi dare a qualcun altro ed eseguire. Il loro valore e' come punto di partenza: come domande per le persone che le hanno avute su cui continuare a pensare.
 
-Quello che importa non sono le idee, ma le persone che le hanno. Persone in gamba possono sistemare cattive idee, ma buone idee non possono salvare persone mediocri.
+Quello che importa non sono le idee, ma le persone che le hanno. Persone in gamba possono mettere a posto cattive idee, ma buone idee non possono salvare persone mediocri.
 
-## Persone ##
+## Le persone ##
 
 Cosa intendo con persone in gamba? Uno dei trucchi migliori che ho imparato durante la nostra startup era la regola che usavamo per decidere chi assumere. Potresti descrivere la persona come "un animale"? Potrebbe essere difficile tradurlo in altre lingue, ma penso che tutti negli Stati Uniti capiscano cosa intenda. Significa qualcuno che prenda il proprio lavoro un po' troppo seriamente; qualcuno che fa quello che fa talmente bene che trascende il professionismo e diventa ossessione.
 
@@ -54,7 +54,21 @@ Se crei la tua startup c'e' una buona probabilita' che sia con persone che conos
 
 Quello che dovresti fare all'universita' e' lavorare sui tuoi progetti. Gli hacker dovrebbero farlo anche se non hanno intenzione di creare la propria startup, perche' e' l'unica vera maniera di imparare a programmare. In certi casi potresti collaborare con altri studenti, e questo e' il modo migliore per conoscere buoni hacker. Il progetto potrebbe crescere fino a diventare una startup. Ma, ancora una volta, non mirerei direttamente ad alcuno di questi obiettivi. Non provare a forzare le cose, lavora soltanto alle cose che ti piacciono con persone che ti piacciono.
 
-Idealmente vorresti da due a quattro fondatori. Sarebbe difficile cominciare con soltanto uno. Una persona potrebbe trovare insopportabile il peso morale di cominciare un'impresa. Persino Bill Gates, che sembrerebbe sopportare un bel po' di peso morale, dovette avere un cofondatore. Ma non vorresti avere cosi' tanti fondatori che la startup cominci a sembrare una foto di gruppo. In parte perche' all'inizio non vuoi molte persone, ma piu' che altro perche' piu' fondatori hai, peggiori 
+Idealmente vorresti da due a quattro fondatori. Sarebbe difficile cominciare con soltanto uno. Una persona potrebbe trovare insopportabile il peso morale di cominciare un'impresa. Persino Bill Gates, che sembrerebbe sopportare un bel po' di peso morale, dovette avere un cofondatore. Ma non vorresti avere cosi' tanti fondatori che la startup cominci a sembrare una foto di gruppo. In parte perche' all'inizio non vuoi molte persone, ma piu' che altro perche' piu' fondatori hai, peggio andrete d'accordo. Quando ci sono due o tre fondatori sai che dovete risolvere immediatamente le dispute, altrimenti fallirete. Se siete sette od otto i litigi possono rimanere latenti e tramutarsi in fazioni opposte. Non basta votare; e' necessaria l'unanimita'.
+
+In uno startup di alta tecnologia, cioe' la maggior parte, qualche fondatore deve essere tecnicamente esperto. Durante la Bolla di Internet c'erano startup fondate da persone esperte di affari che poi cercavano hacker che le realizzassero per loro. Questo non funziona. Le persone esperte di affari non sono adatte a decidere cosa fare della tecnologia, perche' non ne conoscono le opzioni, o non sanno valutare quali problemi siano facili e quali difficili. E quando provano ad assumere hacker, non sanno distinguere quali siano bravi. Per gli hacker stessi e' difficile, per gli esperti di affari e' come la roulette.
+
+Qualche fondatore deve essere esperto di affari? Dipende. Pensavamo cosi' quando cominciammo, e chiedemmo a piu' persone che sapevamo essere esperti di questi misteriosi "affari" se volessero essere presidenti. Ma tutti hanno risposto di no, e quindi ho fatto da solo. Quello che ho scoperto e' che fare affari non e' un gran mistero. Non e' come la fisica o la medicina, che richiedono lunghi studi. Devi soltanto provare a far comprare la tua roba dalle persone.
+
+Penso che la ragione per cui mi risultasse cosi' misterioso fosse perche' provavo disgusto all'idea di farlo. Volevo lavorare nel mondo puro ed intellettuale del software, non avere a che fare con i banali problemi dei clienti. Le persone che non vogliano essere trascinate in un certo tipo di lavoro spesso sviluppano una incompetenza protettiva. Il matematico Paul Erdős era particolarmente bravo in questo. Sembrando incapace di tagliare un pompelmo in due (per non parlare di andare a comprarne uno), costrinse altre persone a fare queste cose per lui, lasciandogli tutto il suo tempo a disposizione per fare matematica. Erdős era un caso estremo, ma la maggior parte dei mariti sfrutta lo stesso trucco, almeno fino ad un certo punto.
+
+Una volta che fui costretto ad abbandonare la mia incompetenza protettiva, trovai che fare affari non era ne' difficile ne' noioso come temevo. Ci sono aree esoteriche che sono piuttosto difficili, come la legislazione in materia di tasse o il prezzo dei derivati, ma non hai bisogno di conoscere queste cose in una startup. Tutto quello che devi conoscere di affari per fondare una startup sono quelle cose di buon senso che le persone hanno imparato prima che esistessero i master in economia o persino le universita'.
+
+Scorrendo la lista dei 400 uomini piu' ricchi secondo Forbes e facendo una x accanto al nome di ogni persona con un master in economia, scoprirai qualcosa di importante. Dopo Warren Buffett non troverai altri con un master in economia fino al numero 22, e cioe' Phil Knight, CEO della Nike. Ci sono soltanto 5 persone con un master in economia nella top 50. Noterai invece in tale lista molte persone con un background tecnico, come Bill Gates, Steve Jobs, Larry Ellison, Michael Dell, Jeff Bezos, Gordon Moore. Chi comanda negli affari di tecnologia piu' spesso vengono dal mondo della tecnologia, piuttosto che dagli affari. Percio' se vuoi investire due anni della tua vita facendo qualcosa che ti aiutera' ad avere successo negli affari i dati suggeriscono che sarebbe meglio imparare ad essere un hacker invece che prendere un master in economia. [3]
+
+C'e' pero' una ragione per cui vorresti includere uomini d'affari in una startup: perche' devi avere almeno una persona capace e disposta a concentrarsi su quello che vogliono i clienti. Alcuni pensano che soltanto gli uomini d'affari lo sappiano fare — gli hacker sanno implementare software, ma non disegnarlo. Questo non ha senso. Non c'e' niente 
+
+Se non capisci i tuoi utenti, tuttavia, dovresti impararlo oppure trovare un cofondatore che lo sappia fare. Questo e' il problema piu' importante delle startup tecnologiche, e il peso che le affonda piu' di ogni altro.
 
 ## Quello che i clienti vogliono ##
 
@@ -64,15 +78,73 @@ I ristoranti che offrono buon cibo sembrano prosperare a prescindere che sia cos
 
 ## Chiedere finanziamenti ##
 
+Per far si' che tutto cio' accada, avrai bisogno di soldi. Alcune startup si sono autofinanziate — Microsoft ad esempio — la maggior parte no. Penso che prendere soldi dagli investitori sia saggio. Per autofinanziarsi devi partire come consulente, ed e' difficile trasformarsi in una impresa costruita intorno ad un prodotto.
+
+Finanziariamente una startup e' come un corso in cui o passi o sei bocciato. Il modo di diventare ricchi da una startup e' rendere massima la probabilita' di avere successo, e non la quantita' di azioni che si possiede. Percio' scambiare le tue azioni per qualcosa che migliori le tue probabilita' e' una buona idea.
+
+Alla maggior parte degli hacker, trovare investitori sembra un processo misterioso e terrificante. In realta' e' soltanto noioso. Provero' a descrivere a grandi linee come funziona.
+
+Prima di tutto hai bisogno di qualche decina di migliaia di dollari per pagare le tue spese mentre sviluppi un prototipo. Questo e' chiamato seed capital. Poiche' si tratta di pochi soldi e' relativamente facile trovarli — almeno nel senso che otterrai rapidamente un assenso od un rifiuto.
+
+Tipicamente otterrai questo capitale da ricchi individui detti "angeli". Spesso loro stessi sono diventati ricchi grazie all'alta tecnologia. Allo stadio di seed, gli investitori non si aspettano che abbiate un business plan elaborato. La maggior parte sa che deve decidere in fretta. Non e' strano ricevere un assegno entro una settimana sulla base di una mezza pagina d'accordo.
+
+Abbiamo cominciato Viaweb con diecimila dollari di finanziamento seed dal nostro amico Julian. Ma ci ha dato molto piu' dei soldi. Egli era un ex CEO ed anche un [...]
+
+Alcuni angeli, specialmente quelli con un background nell'alta tecnologia, potrebbero essere soddisfatti con una demo ed una descrizione verbale di quello che avete intenzione di fare. Molti pero' vorranno una copia del vostro business plan, se non altro per ricordarsi in cosa hanno investito.
+
+I nostri angeli  ce ne chiesero uno e, guardando indietro, sono stupito da quanta preoccupazione genero' in me. "Business plan" contiene la parola "business", percio' ho pensato che dovesse essere qualcosa per cui avrei dovuto leggere un libro per essere in grado di scriverne uno. Beh, no. A questo stadio tutto quello che si aspetta la maggior parte degli investitori e' una breve descrizione di quello che avete intenzione di fare, come avrete intenzione di fare soldi e i curricula dei fondatori. Basta sedersi e scrivere quello che vi stavate dicendo l'un l'altro, e dovrebbe andare bene. Non ci dovrebbero volere piu' di un paio d'ore, e scoprirete che scriverlo vi fornisce piu' idee su che cosa fare.
+
+Perche' l'angelo abbia qualcuno a cui scrivere l'assegno, dovrete avere una qualche societa'. Il semplice atto di fondare una societa' non e' difficile. Il problema e' che, perche' la societa' esista, dovete decidere chi sono i fondatori e quante azioni ognuno abbia. Se ci sono due fondatori con le stesse qualifiche che siano entrambi dedicate interamente alla societa', la decisione e' facile. Ma se avete 
+
 ## Non spenderli ##
 
 Quando e se arriveranno soldi veri dagli investori cosa dovrai farne? Non spenderli. In praticamente tutte le startup che falliscono la causa scatenante e' l'aver finito i soldi. Tipicamente c'e' qualcosa di sbagliato piu' a fondo. Ma ha senso provare ad evitare la causa di morte piu' prossima.
 
-Durante la Bolla molte startup hanno provato a "diventare grandi in fretta". Questo idealmente significava avere un sacco di clienti dopo poco tempo. Ma era facile che significasse in realta' assumere un sacco di persone dopo poco tempo.
+Durante la Bolla molte startup provarono a "diventare grandi in fretta". Questo idealmente significava avere un sacco di clienti dopo poco tempo. Ma era facile che in realta' significasse assumere un sacco di persone dopo poco tempo.
+
+[...]
+
+Cosi' come per l'ufficio, la scelta dei tuoi dipendenti e' una scelta fra sembrare straordinari ed esserlo. Tutti quelli che sono stati nerd durante le superiori conoscono bene questa scelta. Continuate a tenerlo presente quando fonderete una startup.
 
 ## Dovresti? ##
 
-Ma dovresti creare la tua startup? Sei il tipo di persona adatta per farlo? Se lo sei, ne vale la pena?
+Ma dovresti creare la tua startup? Sei il tipo di persona adatta per farlo? Se lo fossi, ne vale la pena?
+
+Ci sono piu' persone del tipo giusto per fondare una startup di quante se ne rendano conto. Questa e' la ragione principale per cui ho scritto questo documento. Ci potrebbero essere dieci volte tante startup di quante ce ne siano oggi, e questa probabilmente sarebbe una cosa buona.
+
+Io ero, ora capisco, esattamente il tipo di persona adatto per fondare una startup. L'idea all'inizio mi terrificava. Sono stato costretto dall'essere un hacker che scriveva in Lisp. La compagnia per cui facevo consulenza sembrava in rotta per il fallimento, e non erano molte le altre compagnie che usassero il Lisp. Non potendo sopportare il pensiero di programmare in un altro linguaggio (era il 1995, ricordate, "altro linguaggio" significava C++) l'unica opzione sembrava essere fondare una nuova impresa che utilizzasse il Lisp.
+
+Mi rendo conto che questo suoni tirato per i capelli, ma se anche tu fossi un altro hacker che scrivesse in Lisp capiresti cosa intendo. E poiche' l'idea di fondare una startup mi intimoriva al punto che l'ho fatto per sola necessita', devono esistere molte altre persone che ne sarebbero in grado ma hanno troppa paura di provare.
+
+Percio' chi dovrebbe fondare una startup? Chi sia un buon hacker, di eta' compresa fra i 23 ed i 38 anni, e che voglia risolvere il problema del denaro in una volta sola invece che venendo pagato gradualmente durante una tipica vita di lavoro.
+
+Non so dire precisamente cosa sia un buon hacker. In una universita' di prima categoria questo potrebbe includere la meta' piu' brava dei laureati in Informatica. Naturalmente non e' necessaria una laurea in Informatica; io stesso sono laureato in Filosofia.
+
+E' difficile capire se sei un buon hacker, specialmente se sei giovane. Fortunatamente il processo stesso di fondare una startup tende a farli emergere. Quello che porta le persone a fondare una startup e' (o dovrebbe essere) l'osservare la tecnologia corrente e pensare, ma non capiscono che dovrebbero fare A, B e C? Questo e' un segnale che si e' un buon hacker.
+
+Ho messo il limite inferiore a 23 anni non perche' ci sia qualcosa che non accade al tuo cervello prima di allora, ma perche' hai bisogno di vedere come sia un'impresa prima di provare a gestire la propria. Ho speso un anno lavorando per una compagnia di software per pagare le mie spese universitarie. E' stato il peggior anno della mia vita adulta, ma ho imparato, senza rendermene conto al tempo, molte lezioni importanti sul mondo del software. In questo caso erano per la maggior parte lezioni su cosa non fare: non devi fare tante riunioni; non devi avere porzioni di codice che siano responsabilita' di piu' persone; non devi avere un esperto di marketing a capo della compagnia; non devi fare un prodotto destinato alla fascia alta del mercato; non devi [...] Ma le lezioni negative valgono tanto quanto quelle positive. Anzi forse di piu': e' difficile ripetere un risultato brillante, ma e' banale evitare un errore gia' fatto.
+
+L'altra ragione per cui e' difficile fondare la propria startup prima dei 23 anni e' che altrimenti le persone non vi prenderanno sul serio. I VC non si fideranno di voi, e proveranno a fare di voi una mascotte come condizione per accettare di investire. I clienti si preoccuperanno che un giorno vi scocciate e li lascerete al loro destino. Anche voi stessi, tipicamente, avvertirete il problema della vostra eta'; troverete imbarazzante essere a capo di persone molto piu' anziane di voi, ed avendo 21 anni non c'e' molta scelta fra le persone piu' giovani di voi.
+
+Alcune persone potrebbero probabilmente fondare la propria azienda a 18 anni se lo volessero. Bill Gates ne aveva 19 quando lui e Paul Allen fondarono la Microsoft. (Paul Allen pero' aveva 22 anni, e questo probabilmente ha fatto la differenza). Percio' se state pensando "non mi interessa cosa dice" potreste essere quel tipo di persona che ce la potrebbe fare.
+
+L'altro limite, 38 anni, e molto piu' complesso da spiegare. Una ragione fra le tante e' che non penso che molte persone abbiano la [...] Io lavoravo fino alle 2 o 3 di notte ogni notte, sette giorni alla settimana. Non so se oggi potrei farlo.
+
+Inoltre le startup sono, finanziariamente parlando, un grosso rischio. Se provi qualcosa che scoppia e ti lascia povero in canna a 26 anni non e' un grosso problema; a 26 anni tipicamente non hai tanti soldi. A 38 anni non puoi prenderti cosi' tanti rischi — specialmente se hai figli.
+
+Il mio ultimo test e' il piu' restrittivo. Vuoi davvero fondare una startup? Economicamente significa comprimere la tua vita lavorativa nel piu' breve lasso di tempo. Invece di lavorare ad un ritmo ordinario per 40 anni, lavori come un animale per 4. E forse rimani con un pugno di mosche — ma in questo caso probabilmente non ci vorranno quattro anni.
+
+In questo periodo non farai altro che lavorare, perche' mentre non stai lavorando lo stara' facendo la tua concorrenza. L'unica mia attivita' di svago era correre, di cui avevo comunque bisogno per continuare a lavorare, e circa 15 minuti di lettura per notte. Ho avuto una ragazza per un totale di due mesi in un arco di tre anni. Una volta ogni due settimane mi prendevo qualche ora per andare in una libreria di libri usati o a cena da un amico. Ho visitato la mia famiglia due volte. Nel resto del tempo stavo lavorando.
+
+Spesso lavorare era divertente, perche' che le persone con cui lavoravo erano alcuni dei miei migliori amici. Certe volte era persino interessante da un punto di vista tecnico. Ma soltanto un 10% delle volte. Il meglio che posso dire del restante 90% e' che parte e' piu' divertente in retrospettiva di quanto sembrasse allora. Come quella volta che la luce ando' via per 6 ore a Cambridge, e facemmo l'errore di provare a far partire un generatore a gasolio dentro i nostri uffici. Non faro' questo errore una seconda volta.
+
+Non penso che uno debba sopportare piu' stronzate facendo una startup che in una tipica vita lavorativa. Anzi, sono probabilmente meno; sembrano di piu' soltanto perche' concentrate in poco tempo. Insomma principalmente una startup  [...]
+
+Per molte persone il dilemma e' fra fondare una startup o cominciare un dottorato. I dottorandi sono dell'eta' e proprio del tipo di persona giusto per fondare startup di software. Potresti preoccuparti [...] Esistono poche cose con piu' energia di un dottorando che evita attivamente il proprio lavoro.
+
+Se devi proprio lasciare il dottorato, alla peggio non sara' per troppo tempo. Se una startup fallisce, fallisce abbastanza in fretta da permetterti di ritornare alla carriera accademica. Se invece ha successo potresti scoprire di non avere piu' cosi' tanta voglia di diventare un ricercatore.
+
+Se lo vuoi fare, fallo. Fondare una startup non e' quel grande enigma che potrebbe sembrare da fuori. Non devi saperne di "affari" prima di fondarne una. Costruisci qualcosa che i tuoi utenti amino, e spendi meno soldi di quanto ne guadagni. Cosa c'e' di tanto difficile?
 
 ## Note ##
 
@@ -80,7 +152,7 @@ Ma dovresti creare la tua startup? Sei il tipo di persona adatta per farlo? Se l
 
 [2] Un vantaggio delle startup sulle imprese e' che non ci sono leggi antidiscriminazione da seguire quando crei una startup. Ad esempio, sarei riluttante a cominciare una startup con una donna che ha bambini piccoli, o che e' probabile ne abbia in futuro. Ma non puoi chiedere ad un candidato in un colloquio di lavoro se abbia intenzione di fare figli a breve. Credeteci o no, per la legge vigente negli Stati Uniti, non puoi discriminare neanche sulla base di investigazioni. Invece quando stai cominciando una startup, puoi discriminare con chi partire su qualunque criterio.
 
-[3]
+[3] Imparare ad essere un hacker e' molto meno costoso di un master in economia, perche' lo puoi fare per la maggior parte da solo. Pagando il prezzo di un computer con Linux, una copia del Kernighan & Ritchie, qualche ora di consigli dal figlio quindicenne del tuo vicino, e sarai ben avviato.
 
 [4]
 
@@ -92,4 +164,4 @@ Ma dovresti creare la tua startup? Sei il tipo di persona adatta per farlo? Se l
 
 [8] Ero un impiegato tanto cattivo quanto cattiva era l'impresa. Chiedo scusa a chi abbia dovuto lavorare con me li'.
 
-[9] Potresti probabilmente scrivere un libro su come fare un'impresa di successo facendo esattamente l'opposto di quello che fa la motorizzazione.
+[9] Probabilmente si potrebbe scrivere un libro su come fare un'impresa di successo facendo esattamente l'opposto di quello che fa la motorizzazione.
