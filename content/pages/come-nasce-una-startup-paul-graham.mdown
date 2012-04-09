@@ -1,4 +1,4 @@
-Date: 10 February 2012
+Date: 18 May 2012
 
 # Come nasce una Startup #
 
@@ -72,9 +72,41 @@ Se non capisci i tuoi utenti, tuttavia, dovresti impararlo oppure trovare un cof
 
 ## Quello che i clienti vogliono ##
 
-Non sono soltanto le startup a doversi preoccupare di questo. Penso che la maggior parte delle imprese falliscano perche' non danno ai clienti quello che vogliono. Pensa ai ristoranti. Gran parte fallisce, il 25% nel primo anno. Ma puoi pensare ad un ristorante con del cibo davvero buono che sia fallito?
+Non sono soltanto le startup a doversi preoccupare di cio'. Penso che la maggior parte delle aziende fallisca perche' non danno ai clienti quello che vogliono. Pensate ai ristoranti. Gran parte falliscono, uno su quattro nel primo anno. Ma riesci a pensare ad un ristorante che sia fallito che servisse del cibo davvero buono?
 
-I ristoranti che offrono buon cibo sembrano prosperare a prescindere che sia costoso, affollato, rumoroso, squallido, fuori mano
+I ristoranti che servono del buon cibo sembrano prosperare a prescindere. Potrebbe essere caro, affollato, rumoroso, squallido, fuori mano e potrebbe anche avere del pessimo servizio, ma le persone continueranno a venire. E' vero che un ristorante con del cibo mediocre puo' attrarre clienti con dei trucchi. Ma e' un approccio rischioso, e' molto piu' semplice servire del buon cibo.
+
+Lo stesso vale per la tecnologia. Hai sentito ogni possibile ragione per cui le startup sono fallite. Ma riesci a pensare ad una che avesse un prodotto immensamente popolare e sia comunque fallita?
+
+In praticamente tutte le startup fallite, il vero problema era che i clienti non volevano il prodotto. Per la maggior parte, la causa di morte e' "soldi finiti", ma questa e' solo la causa piu' immediata. Perche' non riuscivano ad ottenere piu' fondi? Probabilmente perche' il prodotto faceva schifo, o non sembrava probabile che potesse essere completato, o entrambe.
+
+Mentre provavo a pensare alle cose che ogni startup deve fare, ne ho quasi incluso una quarta: preparare una alpha il prima possibile. Ma ho deciso di non farlo, perche' questo e' implicito nel fare qualcosa che i clienti vogliano. L'unica maniera per fare qualcosa che i clienti vogliano e' mettere loro di fronte un prototipo e rifinirlo sulla base delle loro impressioni.
+
+L'altro approccio e' quella strategia che chiamo "lancia e spera". Pianifichi minuziosamente un prodotto, assumi un team di ingegneri che lo realizzi (le persone che seguono questo approccio tendono a dire "ingegnere" invece che "hacker") per poi scoprire dopo un anno che hai speso due milioni di dollari per sviluppare qualcosa che nessuno vuole. Questo accadeva frequentemente durante la Bolla, specialmente nelle aziende gestite da persone esperte di affari, le quali pensavo allo sviluppo di software come qualcosa di terrificante che dovesse essere accuratamente pianificato.
+
+Non abbiamo nemmeno considerato questo approccio. Essendo un hacker esperto di Lisp, sono abituato a produrre rapidamente prototipi. Non vorrei sostenere (almeno in questa sede) che questo sia il modo giusto per scrivere ogni programma, ma e' certamente il modo giusto per scrivere software in una startup. Infatti in una startup i tuoi piani iniziali saranno quasi certamente sbagliati in qualche punto, e la tua priorita' e' capire dove. L'unica maniera per capirlo e' provare ad implementarlo.
+
+Come la maggior parte delle startup, cambiammo il nostro piano in corso d'opera. All'inizio ci aspettavamo che i nostri clienti sarebbero stati consulenti Web. Poi scoprimmo che a loro non piacevamo, perche' il nostro software era facile da usare e ci preoccupavamo noi dell'hosting. I clienti si sarebbero potuti sbarazzare di loro troppo facilmente. Ci aspettavamo inoltre che avremmo ricevuto molte richieste da [...], perche' vendere online era l'estensione naturale dei loro affari. Ma nel 1996 questo era difficile. I manager a cui parlavamo vedevano il Web non come una opportunita', ma come qualcosa che comportasse piu' lavoro per loro.
+
+Qualcuna di queste [...] diventarono nostri clienti. Fra di esse Frederick's di Hollywood, il che ci dette esperienza nel gestire elevato carico sui nostri server. Ma la maggior parte dei nostri utenti era piccola, ditte individuali che vedevano nel Web una opportunita' per creare i propri affari. Alcuni vendevano in un negozio, ma molte esistevano soltanto online. E percio' cambiammo direzione e ci concentrammo su questi utenti. Invece di concentrarci sulle funzionalita' che i consulenti Web e [...] avrebbero richiesto, lavorammo per rendere il nostro software facile da usare.
+
+Ho imparato qualcosa di importante da questo. Vale la pena provare in ogni modo a rendere la tecnologia facile da usare. Gli hacker sono talmente abituati alla tecnologia che non si rendono conto di quanto sembri orribile il loro software alle persone comuni. L'editor di Stephen Hawking gli disse che per ogni equazione nel suo libro avrebbe avuto la meta' delle vendite. Quando invece rendi la tecnologia piu' semplice da usare percorri questa curva nella direzione opposta. Un miglioramento di un decimo nella facilita' d'utilizzo comporta un incremento delle vendite di piu' del 10%. Piu' probabilmente raddoppieranno.
+
+Come capisci che cosa vogliano i clienti? Osservali. Uno dei migliori posti per farlo era alle fiere di settore. Le fiere di settore non rendono come modo di ottenere nuovi clienti, ma servono come ricerche di mercato. Non davamo soltanto presentazioni gia' pronte, ma facevamo loro vedere come creare negozi veri e funzionanti. Il che significava che li osservavamo mentre usavano il nostro software, e parlavamo con loro di quello di cui avevano bisogno.
+
+A prescindere dal tipo di startup, capire che cosa i clienti vogliano sara' un esercizio di elasticita' mentale per voi cofondatori. L'unico tipo di software che puoi costruire senza studiare gli utenti e' quello di cui siete l'utente tipico. Ma questo e' il tipo che tende ad essere open source: sistemi operativi, linguaggi di programmazione, editor di testo e cosi' via. Percio' se stai sviluppando tecnologia in cambio di soldi, probabilmente non la starai sviluppando per persone come te. In effetti questo puo' essere usato come metodo per generare idee per una startup: cosa chiedono alla tecnologia le persone diverse da te?
+
+Quando la maggior parte delle persone pensa alle startup, pensa ad aziende come Apple o Google. Tutti le conoscono, perche' sono marchi noti a tutti i consumatori. Ma per ogni startup di quel tipo ce ne sono venti e passa che operano in mercati di nicchia o che vivono senza clamore molto in fondo all'infrastruttura. Se fondi una startup di successo, e' piu' probabile che sia di questo secondo tipo.
+
+Un'altra maniera per dire la stessa cosa e' che, se provi a fondare una startup che diventi un marchio noto a tutti i consumatori, le probabilita' che tu non ci riesca sono piu' alte. Le migliori speranze le avrai nei mercati di nicchia. Poiche' le startup fanno soldi offrendo alle persone qualcosa di meglio di quello che avevano prima, le migliori opportunita' stanno dove le cose fanno piu' schifo. E sarebbe difficile trovare un posto in cui le cose facciano piu' schifo che nei servizi informatici aziendali. Non riusciresti a credere alla quantita' di soldi che le aziende spendono in software, e alla merda che ricevono in cambio. Questa squilibrio e' una opportunita'.
+
+Se vuoi idee per una startup, una delle esperienze piu' preziose e' trovare una azienda di medie dimensioni che non si occupi di tecnologia e passare un paio di settimane osservando che cosa fanno con i loro computer. La maggior parte dei buoni hacker non ha idea piu' precisa degli orrori perpetrati in questi posti di quanto il ceto abbiente americano l'abbia di quello che accade nelle favelas brasiliane.
+
+Comincia scrivendo software per le piccole aziende, perche' e' piu' facile vendere a queste. Si guadagna talmente tanto vendendo roba alle grosse aziende che le persone che vendono la merda che usano attualmente spendono un sacco di tempo e soldi per farlo. E sebbene tu possa programmare meglio di Oracle con un emisfero cerebrale legato dietro la tua schiena, non sai vendere meglio di un addetto alle vendite di Oracle. Percio' se vuoi vincere grazie alla migliore tecnologia devi mirare ai piccoli clienti. [4]
+
+In ogni caso sono la fetta di mercato strategicamente piu' preziosa. Nel mondo della tecnologia, Il low end si mangia sempre l'high end. E' piu' facile rendere piu' potente un prodotto economico che rendere economico un prodotto potente. Percio' i prodotti che nascono economici tendono a diventare sempre piu' potenti finche', come l'acqua che sale in una stanza, schiacciano i prodotti "high end" contro il soffitto. Sun fece questo con i mainframe, e la Intel sta facendo questo alla Sun. Microsoft Word fece questo a software di scrittura documenti come Interleaf e Framemaker. Macchine fotografiche digitali prodotte per il mercato consumer lo stanno facendo ai costosi modelli fatti per i professionisti. Avid lo fece ai costruttori di sistemi di video editing specializzati, e ora la Apple lo sta facendo alla Avid. _Henry Ford_ lo fece ai costruttori di auto che lo precedettero. Se avrai costruito l'alternativa semplice ed economica non soltanto troverai piu' semplice vendere all'inizio, ma sarai anche nella migliore posizione per conquistare il resto del mercato.
+
+E' molto rischioso permettere a qualcuno di volare sotto di voi. Se avete il prodotto meno costoso e piu' facile da usare, avrete vinto quella fetta di mercato. E se non lo avete, siete nel mirino di chiunque lo abbia.
 
 ## Chiedere finanziamenti ##
 
@@ -94,7 +126,31 @@ Alcuni angeli, specialmente quelli con un background nell'alta tecnologia, potre
 
 I nostri angeli  ce ne chiesero uno e, guardando indietro, sono stupito da quanta preoccupazione genero' in me. "Business plan" contiene la parola "business", percio' ho pensato che dovesse essere qualcosa per cui avrei dovuto leggere un libro per essere in grado di scriverne uno. Beh, no. A questo stadio tutto quello che si aspetta la maggior parte degli investitori e' una breve descrizione di quello che avete intenzione di fare, come avrete intenzione di fare soldi e i curricula dei fondatori. Basta sedersi e scrivere quello che vi stavate dicendo l'un l'altro, e dovrebbe andare bene. Non ci dovrebbero volere piu' di un paio d'ore, e scoprirete che scriverlo vi fornisce piu' idee su che cosa fare.
 
-Perche' l'angelo abbia qualcuno a cui scrivere l'assegno, dovrete avere una qualche societa'. Il semplice atto di fondare una societa' non e' difficile. Il problema e' che, perche' la societa' esista, dovete decidere chi sono i fondatori e quante azioni ognuno abbia. Se ci sono due fondatori con le stesse qualifiche che siano entrambi dedicate interamente alla societa', la decisione e' facile. Ma se avete 
+Perche' l'angelo abbia qualcuno a cui scrivere l'assegno, dovrete avere una qualche societa'. Il semplice atto di fondare una societa' non e' difficile. Il problema e' che, perche' la societa' esista, dovete decidere chi sono i fondatori e quante azioni ognuno abbia. Se ci sono due fondatori con le stesse qualifiche che siano entrambi dedicate interamente alla societa', la decisione e' facile. Ma se avete svariate persone che vi aspettate contribuiscano in modi diversi, dividere le azioni puo' diventare difficile. Ed una volta che lo avete fatto, tende ad essere definitivo.
+
+Non ho trucchi per affrontare questo problema. Tutto quello che posso dire e' provate seriamente a farlo bene. In compenso ho una semplice euristica per riconoscere quando e' stato fatto per bene. Se tutti sentono di starci perdendo un poco, che hanno contribuito piu' di quante azioni abbiano, allora avete distribuito ottimamente le azioni.
+
+Fare un'azienda e' ovviamente molto piu' del semplice fondarla: assicurazione, licenze, [...] varie cose con l'agenzia dell'entrate. Non so bene quale sia la lista perche', uh, le abbiamo saltate a pie' pari. Quando verso la fine del 1996 ricevemmo finanziamenti seri, assumemmo un bravo CFO, che sistemo' retroattivamente la situazione. A quanto pare nessuno ti viene ad arrestare se non fai tutto quello che dovresti fare quando apri un'azienda. E questa e' una buona cosa, altrimenti molte startup non sarebbero mai state fondate. [5]
+
+Puo' essere pericoloso aspettare a diventare un'azienda, perche' uno o piu' dei cofondatori potrebbero decidere di staccarsi e creare un'azienda che faccia la stessa cosa di prima. Queste cose accadono. Percio' quando metti su un'azienda, dovresti far firmare ai cofondatori un documento che affermi che le idee di tutti appartengono all'azienda, e questa azienda sara' l'unico lavoro di tutti.
+
+[Se questo fosse un film, qua comincerebbe una musica carica di presagi.]
+
+Gia' che ci sei, dovresti chiedere che altro abbiano firmato. Una delle peggiori cose che possano capitare ad una startup e' che si imbattano in problemi di proprieta' intellettuale. A noi successe, e arrivo' vicina a costringerci a chiudere piu' di ogni nostro altro concorrente.
+
+Proprio mentre stavamo per essere acquisiti, scoprimmo che uno dei nostri era, sin dall'inizio, legato da un accordo che diceva che tutte le sue idee appartenevano ad una grossa compagnia che gli stava pagando gli studi. In teoria, questo avrebbe potuto significare che qualcun altro possedeva grosse porzioni del nostro codice. L'acquisizione si fermo' di colpo mentre cercavamo di risolvere questo problema. Il problema era che, poiche' stavamo per essere acquisiti, ci eravamo permessi di avere poca cassa. Avevamo bisogno di altri fondi per continuare. Ma e' difficile prendere soldi quando hai una potenziale causa per violazione di proprieta' intellettuale sopra la tua testa, poiche' gli investitori non sanno valutare quanto seria possa diventare.
+
+I nostri investitori, sapendo che avevamo bisogno di denaro e che non avevamo altri a cui chiederli, provarano certi colpi bassi che non descrivero' in dettaglio, ricordando soltanto che la parola "angelo" sia soltanto una metafora. I cofondatori a questo punto minacciarono di abbandonare la compagnia dopo aver dato agli investitori una breve introduzione a come amministrare i server. E mentre tutto cio' stava accadendo, I potenziali acquirenti usarono il contrattempo come scusa per stringere i lacci della borsa.
+
+Per miracolo tutto si risolse. Gli investitori abbandonarono le proprie richieste; ricevemmo un ulteriore round di finanziamenti ad una buona valutazione; la grossa compagnia ci dette un pezzo di carta che diceva che il nostro software non fosse di loro proprieta'; e sei mesi dopo venemmo acquisiti da Yahoo per molto piu' del precedente tentativo di acquisizione. Percio' alla fine tutto ando' bene, sebbene l'esperienza mi abbia fatto perdere qualche anno di vita.
+
+Non fate quello che abbiamo fatto noi. Prima di portare a termine una startup, chiedete a tutti della propria situazione in quanto a proprieta' intellettuale.
+
+Una volta che avete messo su un'azienda, potrebbe sembrare arrogante andare a bussare alle porte di gente ricca e chiedere di investire decine di migliaia di dollari in qualcosa che per il momento e' un po' di gente con qualche idea. Ma la situazione e' piu' rosea dal punto di vista della gente ricca. La maggior parte delle persone abbienti cerca buoni investimenti. Se davvero pensi di avere una speranza di farcela, chiedendo finanziamenti stai facendo loro un favore. Insieme con il fastidio di essere approcciati ci sara' un pensiero: questi tizi saranno il prossimo Google?
+
+Tipicamente gli angeli hanno lo stesso status finanziario dei cofondatori. Prendono lo stesso tipo di azioni ed accettano che perdano di valore in futuro allo stesso modo. Quante azioni dovrebbero ricevere? Questo dipende da quanto ambizioso ti senti. Quando offri x percento della tua compagnia a y dollari, stai implicitamente dando un certo valore alla tua azienda. Gli investimenti di capitale di rischio spesso sono descritti in termini di questo numero. Se dai ai tuoi investitori nuove azioni oltre a quelle che gia' ci sono per un totale del [...]
+
+[...]
 
 ## Non spenderli ##
 
@@ -102,7 +158,49 @@ Quando e se arriveranno soldi veri dagli investori cosa dovrai farne? Non spende
 
 Durante la Bolla molte startup provarono a "diventare grandi in fretta". Questo idealmente significava avere un sacco di clienti dopo poco tempo. Ma era facile che in realta' significasse assumere un sacco di persone dopo poco tempo.
 
-[...]
+Delle due, naturalmente e' preferibile avere tanti clienti. Ma anche quello non va sopravvalutato. L'idea e' arrivare prima di tutti e accaparrarsi tutti gli utenti, senza lasciarne per la concorrenza. In realta' penso che [...] non ci siano cosi' tanti vantaggi ad arrivare per primi sul mercato. Ancora una volta pensiamo a Google. Quando apparvero sembrava che la ricerca fosse un mercato maturo, dominato da grosse aziende che avevano speso milioni di dollari per i loro marchi: Yahoo, Lycos, Excite, Infoseek, Altavista, Inktomi. Di certo il 1998 era tardi per considerarsi i primi sulla piazza.
+
+Ma, come i fondatori di Google sapevano, il marchio non vale quasi niente nel mercato dei motori di ricerca. Puoi arrivare in ogni momento con qualcosa di migliore, e piano piano gli utenti migreranno da te. Come se volessero sottolineare questo fatto, Google non ha mai fatto pubblicita'. Sono come spacciatori; vendono la roba, ma se ne guardano bene dall'usarla.
+
+I concorrenti sepolti da Google avrebbero fatto meglio a spendere quei milioni a migliorare il proprio prodotto. Le startup dovrebbero imparare da questo errore. A meno che non siate in un mercato i cui prodotti sono tanto indifferenziati quanto le sigarette, o la vodka, o i detersivi, spendere molti soldi per costruire il marchio e' un segno di rottura imminente. E pochi se non nessuno dei mercati del web sono altrettanto indifferenziati. I siti per incontri stanno facendo grandi campagne pubblicitarie, ulteriore segno che siano li' li' per essere spodestate. (Ucci, ucci, sento odor di compagnie gestite da esperti in marketing).
+
+Le circostanze ci costrinsero a crescere lentamente, e in retrospettiva questa fu una buona cosa. Tutti i cofondatori impararono a fare ogni lavoro nell'azienda. Cosi' come dovevo scrivere software, dovevo anche occuparmi delle vendite e dell'assistenza ai clienti. Non ero bravo nelle vendite. Ero tenace, ma non avevo il savoir-faire di un bravo addetto alle vendite. Il mio messaggio ai potenziali clienti era: saresti stupido a non vendere online, e se tu vendessi online sarebbe stupido usare il software di qualcun altro. Entrambe le frasi erano vere, ma non e' cosi' che si convincono le persone.
+
+In compenso ero bravo ad assistere i clienti. Immagina di parlare con una persona dell'assistenza che non solo sappia tutto sul prodotto, ma che si scusi umilmente ogni volta che ci fosse un bug, e poi lo riparasse immediatamente, tutto mentre stai al telefono con lei. I clienti ci amavano. E noi amavamo loro, perche' quando stai crescendo pian piano per il passaparola, i tuoi primi utenti sono quelli abbastanza furbi da trovarti da soli. Non c'e' niente che valga di piu', nelle prime fasi di una startup, che avere utenti intelligenti. Se li ascolti, ti diranno esattamente come creare un prodotto vincente. E non solo ti daranno questi consigli gratis, ti staranno anche pagando.
+
+Abbiamo lanciato ufficialmente all'inizio del 1996. Alla fine dell'anno avevamo una settantina di utenti. Poiche' questo era il periodo del "diventa grande in fretta" ero preoccupato di quanto piccoli e poco noti fossimo. Ma in realta' stavamo facendo esattamente la cosa giusta. Una volta che sei diventato grande (in termini di impiegati o di utenti) diventa difficile cambiare il prodotto. Alla fine, eravamo talmente in vantaggio sui nostri concorrenti che non avevano speranze di recuperare. E poiche' tutti gli hacker avevano passato molte ore a parlare con gli utenti, capivamo il commercio online molto meglio di chiunque altro.
+
+Questa e' la chiave del successo di una startup. Non c'e' niente di piu' importante che capire il tuo mercato. Potresti pensare che chiunque faccia parte di un mercato debba d'ufficio capirlo. Neanche per idea. L'arma segreta di Google era semplicemente che avevano capito la ricerca. Lavoravo a Yahoo quando Google apparve, e Yahoo non aveva capito la ricerca. Lo so perche' una volta provai a convincere i miei superiori che dovevamo migliorare la ricerca, e mi sentii rispondere la frase stock del momento: Yahoo non era piu' soltanto un "motore di ricerca". La ricerca era soltanto una piccola percentuale delle pagine consultate, meno di quanto crescessero in un mese, ed ora che ci eravamo affermati come "portale" o "media company", o qualunque cosa fossimo, la ricerca poteva essere lasciata avvizzire e poi tagliata, come un cavo ombelicale.
+
+Beh, potrebbero essere anche poche pagine consultate, ma sono una parte importante, perche' sono quelle con cui cominciano le sessioni di consultazione di internet. Penso che ora Yahoo l'abbia capito.
+
+Google capisce alcune altre cose che la maggior parte delle compagnie di internet ancora non hanno capito. La piu' importante e' che devi anteporre gli utenti alle pubblicita', sebbene le pubblicita' paghino e gli utenti no. Uno dei miei adesivi da macchina preferiti dice: "Se la gente comanda, i leader li seguiranno". Parafrasandola per Internet diventa: "Prendi tutti gli utenti, le pubblicita' li seguiranno". Piu' in generale, disegna il tuo prodotto in modo da soddisfare per primi gli utenti, e poi pensa a come fare soldi. Se non metti gli utenti al primo posto, lascerai un buco in cui si insinueranno i tuoi concorrenti.
+
+Per fare qualcosa che i tuoi utenti amino, li devi capire. E piu' grande sei, piu' e' difficile. Percio' ho detto "diventa grande pian piano". Piu' lentamente consumi i tuoi capitali, piu' tempo hai per imparare.
+
+L'altra ragione per spendere soldi lentamente era incoraggiare una cultura del risparmio. Questo Yahoo lo aveva capito. Il titolo di David Filo era "Chief Yahoo", ma era orgoglioso di dire che il suo titolo inofficiale fosse "Cheap Yahoo". Poco dopo che arrivammo a Yahoo, ricevemmo un'email da Filo, il quale stava consultando i nostri file. Ci chiedeva se fosse proprio necessario conservare cosi' tanti dati sui costosi hard disk RAID. Ne fui impressionato. Il valore di mercato di Yahoo era gia' nei miliardi, e si stavano sempre preoccupando di star sprecando qualche giga di spazio disco.
+
+Quando ricevi un paio di milioni da un VC, la tendenza e' sentirti ricco. E' importante capire che non lo sei. Un'azienda ricca e' una con grandi ricavi. Questi soldi non sono ricavi. Sono soldi che degli investitori ti hanno dato nella speranza che tu generi ricavi. Nonostante quei milioni in banca, tu sei sempre povero.
+
+Per la maggior parte delle startup il modello da seguire deve essere il dottorando, non lo studio legale. Mira a cose che siano belle e convenienti, piuttosto che costose e di effetto. Per noi il test per capire se una startup avesse capito questo era vedere se avessero sedie Aeron. Le Aeron uscirono durante la Bolla ed erano molto popolari nelle startup. Specialmente quel tipo, allora fin troppo comune, formate da un gruppetto di ragazzini che [...] con soldi forniti da dei VC. Avevamo sedie da ufficio tanto economiche che i braccioli cadevano da soli. Questa era leggermente imbarazzante allora, ma in retrospettiva l'atmosfera da studio di dottorandi del nostro ufficio era un'altra di quelle cose che avevamo azzeccato senza saperlo.
+
+I nostri uffici erano in palazzo di legno a tre piani in Harvard Square. Era stato un appartamento fino agli anni 70, e nel bagno c'era ancora una vasca con i piedi intarsiati come artigli. Un tempo doveva essere stata l'abitazione di qualcuno piuttosto eccentrico, perche' molte fessure nei muri erano state riempite con fogli di alluminio, come per proteggere dai raggi cosmici. Quando importanti visitatori venivano a vederci eravamo abbastanza ossequiosi per via dello scarso colpo d'occhio. Ma in realta' quel posto era perfetto per una startup. Sentivamo che il nostro ruolo fosse di impudenti sfavoriti piuttosto che professionali e perfettini, e questo e' esattamente lo spirito che volevamo.
+
+Un appartamento e' anche il posto giusto in cui sviluppare software. I cubicoli fanno schifo per quello, come avrai probabilmente scoperto se hai provato. Hai mai notato quanto sia piu' facile fare hack a casa piuttosto che a lavoro? Quindi perche' non lavorare in un ambiente piu' domestico?
+
+Quando stai cercando spazio per una startup, non sentirti che deve sembrare professionale. Essere professionale significa fare del buon lavoro, non ascensori e porte a vetri. Consiglierei alla maggior parte delle startup di evitare all'inizio uffici ed affittare un appartamento. Vuoi vivere nel tuo ufficio in una startup, quindi perche' non avere un posto pensato per essere vissuto come il tuo ufficio?
+
+Oltre ad essere meno cari e migliori luoghi di lavoro, gli appartamenti in genere sono in posti migliori rispetto agli uffici. Per una startup [...]
+
+Se oggi dovessi fondare una startup, ci sono soltanto tre posti in cui lo farei: sulla linea rossa vicino alla Central, Harvard o Davis Squares (Kendall e' troppo noiosa); a Palo Alto sulla University o California Avenue; e a Berkeley subito a nord o sud dell'universita'. Questi sono gli unici posti che conosca che abbiano lo spirito giusto.
+
+Il modo piu' importante per non spendere soldi e' non assumere. Potrei essere un estremista, ma penso che assumere persone sia la cosa peggiore che possa fare una startup. Tanto per cominciare, le persone che assumi sono una spesa mensile, il peggior tipo di spesa. Ti inducono ad espanderti, e forse anche a trasferirti in un noioso palazzo di uffici che peggiorera' la qualita' del tuo software. Ma quel che e' peggio, ti rallenteranno: invece che mettere la testa nell'ufficio di qualcuno e scambiare opinioni con lui, otto persone dovranno avere una riunione in proposito. Meno persone puoi assumere, meglio e'.
+
+Durante la Bolla molte startup pensavano l'opposto. Volevano riempirsi di personale il prima possibile, come se tu non possa fare niente se non hai la persona con la qualifica corrispondente. Questo e' il modo di pensare di una grossa azienda. Non assumere persone per tappare i buchi di una struttura organizzativa fissata a priori. L'unica ragione per assumere qualcuno e' per fare qualcosa che vorresti fare ma non sai fare.
+
+Se assumere oltre lo stretto necessario e' costoso e ti rallenta, perche' lo fanno praticamente tutte le aziende? Penso che la ragione principale sia che alle persone piace l'idea che molte persone lavorino per loro. Questa debolezza spesso arriva fino al CEO. Se finirai mai per dirigere un'azienda, vedrai che ti chiederanno spesso quanti dipendenti hai. Questa e' la loro maniera di pesarti. Non sono persone a caso che te lo chiedono; anche i giornalisti lo fanno. E saranno molto impressionati se la risposta e' mille invece che dieci.
+
+Questo e' davvero ridicolo. Se due aziende hanno gli stessi ricavi, e' quella con meno dipendenti ad essere piu' impressionante. Quando le persone mi chiedevano quante persone ci fossero nella nostra startup ed io rispondevo "venti", era come se li vedessi pensare che non contassimo molto. Desideravo aggiungere "Ma il nostro concorrente principale, a cui facciamo regolarmente il culo, ne ha 140, percio' che ne dici di giudicarci per il piu' grande dei due numeri?"
 
 Cosi' come per l'ufficio, la scelta dei tuoi dipendenti e' una scelta fra sembrare straordinari ed esserlo. Tutti quelli che sono stati nerd durante le superiori conoscono bene questa scelta. Continuate a tenerlo presente quando fonderete una startup.
 
@@ -154,9 +252,9 @@ Se lo vuoi fare, fallo. Fondare una startup non e' quel grande enigma che potreb
 
 [3] Imparare ad essere un hacker e' molto meno costoso di un master in economia, perche' lo puoi fare per la maggior parte da solo. Pagando il prezzo di un computer con Linux, una copia del Kernighan & Ritchie, qualche ora di consigli dal figlio quindicenne del tuo vicino, e sarai ben avviato.
 
-[4]
+[4] Corollario: Evita di fondare una startup che venda cose alla compagnia piu' grande di tutte, il governo. Si', ci sono molte opportunita' di vendere loro tecnologia. Ma fai fondare ad altre queste startup.
 
-[5]
+[5] Un amico ha aperto un'azienda in Germania e mi ha detto che laggiu' sono molto piu' attenti alla burocrazia, che e' oltretutto piu' pesante. Il che aiuta a spiegare perche' non ci siano tante startup in piu' in Germania.
 
 [6]
 
