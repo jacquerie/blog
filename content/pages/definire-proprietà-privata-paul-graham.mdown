@@ -12,9 +12,9 @@ Trattare gli odori come se fossero proprietà ci sembra ridicolo. Tuttavia riesc
 
 La ragione per cui trattare gli odori come proprietà privata ci sembra ridicolo è che non può funzionare sulla Terra. Però funzionerebbe sulla Luna.
 
-Ciò che riteniamo proprietà privata dipende da quello che riusciamo a far ritenere proprietà privata. E non solo questo può cambiare, ma è cambiato nel corso della storia. Gli uomini possono anche aver sempre (per qualche definizione di "uomini" e "sempre") aver considerato gli effetti personali come proprietà privata. Ma le società di cacciatori-raccoglitori non consideravano la terra, ad esempio, come proprietà nel senso in cui la intendiamo noi. [1]
+Ciò che riteniamo proprietà privata dipende da quello che riusciamo a far ritenere proprietà privata. E non solo questo può cambiare, ma è cambiato nel corso della storia. Gli uomini possono anche aver sempre (per qualche definizione di "uomini" e "sempre") aver considerato gli effetti personali come proprietà privata. Ma le società di cacciatori-raccoglitori non consideravano la terra, ad esempio, come proprietà nel senso in cui la intendiamo noi. <sup id="ref1-09042012"><a href="#fn1-09042012">1</a></sup>
 
-La ragione per cui così tante persone pensano che la proprietà privata abbia una sola immutabile definizione è che tale definzione cambia molto lentamente. [2] Oggi siamo nel mezzo di un tale cambiamento. Le case discografiche e cinematografiche un tempo distribuivano i propri prodotti come aria nei tubi di una base lunare. Ma, con l'arrivo della Rete, è come se ci fossimo spostati su un pianeta con atmosfera respirabile: oggi i dati si muovono come se fossero odori. E, per una combinazione di avidità a breve termine e pia illusione, le case discografiche e cinematografiche si sono messe nei panni del proprietario del ristorante, accusandoci di rubare i loro odori.
+La ragione per cui così tante persone pensano che la proprietà privata abbia una sola immutabile definizione è che tale definizione cambia molto lentamente. <sup id="ref2-09042012"><a href="#fn2-09042012">2</a></sup> Oggi siamo nel mezzo di un tale cambiamento. Le case discografiche e cinematografiche un tempo distribuivano i propri prodotti come aria nei tubi di una base lunare. Ma, con l'arrivo della Rete, è come se ci fossimo spostati su un pianeta con atmosfera respirabile: oggi i dati si muovono come se fossero odori. E, per una combinazione di avidità a breve termine e pia illusione, le case discografiche e cinematografiche si sono messe nei panni del proprietario del ristorante, accusandoci di rubare i loro odori.
 
 (La ragione per cui parlo di avidità a breve termine è che le persone che gestiscono case discografiche e cinematografiche sono incentivate con bonus di produzione e non da premi in azioni. Nel secondo caso cercherebbero modi per sfruttare l'evoluzione tecnologica invece di combatterla. Però costruire nuove cose richiede troppo tempo. I loro bonus invece dipendono dai ricavi dell'anno in corso, e la migliore maniera per incrementarli è estrarre più soldi dalla roba che già hanno.)
 
@@ -26,19 +26,18 @@ Ciò non è molto dissimile dalle folli misure legali che le case discografiche 
 
 In fin dei conti è una questione di buon senso. Quando abusi del sistema legale intentando cause di massa contro individui scelti a caso come forma di punizione esemplare, o quando fai pressione per favorire leggi che distruggebbero Internet se approvate, queste sono le più chiare prove che stai usando una definizione di proprietà privata che non funziona più.
 
-Qui torna utile avere democrazie che funzionino e più paesi sovrani. Se il mondo avesse un unico, autocratico governo, le case discografiche e cinematografiche potrebbero comprarsi leggi per far diventare la definizione di proprietà quello che desiderano. Ma fortunatamente esistono paesi che non siano colonie per copyright degli Stati Uniti, e, anche negli stessi Stati Uniti, i [politici][] sembrano continuare a temere i propri elettori, purchè in numeri sufficienti. [3]
+Qui torna utile avere democrazie che funzionino e più paesi sovrani. Se il mondo avesse un unico, autocratico governo, le case discografiche e cinematografiche potrebbero comprarsi leggi per far diventare la definizione di proprietà quello che desiderano. Ma fortunatamente esistono paesi che non siano colonie per copyright degli Stati Uniti, e, anche negli stessi Stati Uniti, i [politici][] sembrano continuare a temere i propri elettori, purchè in numeri sufficienti. <sup id="ref3-09042012"><a href="#fn3-09042012">3</a></sup>
 
-Le persone al potere negli Stati Uniti potranno non apprezzare quando i cittadini o le altre nazioni si rifiutino di piegarsi alla loro volontà, ma in fin dei conti è nel nostro interesse che non esista un unico punto di attacco per le persone che provino a cambiare le leggi in proprio favore. La proprietà privata è un'idea estremamente utile — forse una delle più grandi invenzioni. Finora, ogni sua nuova definizione ci ha portato nuove ricchezze materiali [4] . Sembra ragionevole supporre che così farà anche la prossima. Sarebbe un disastro se dovessimo continuare ad averne una obsoleta solo perchè pochi potenti sono troppo pigri per aggiornarsi.
+Le persone al potere negli Stati Uniti potranno non apprezzare quando i cittadini o le altre nazioni si rifiutino di piegarsi alla loro volontà, ma in fin dei conti è nel nostro interesse che non esista un unico punto di attacco per le persone che provino a cambiare le leggi in proprio favore. La proprietà privata è un'idea estremamente utile — forse una delle più grandi invenzioni. Finora, ogni sua nuova definizione ci ha portato nuove ricchezze materiali.  <sup id="ref4-09042012"><a href="#fn4-09042012">4</a></sup> Sembra ragionevole supporre che così farà anche la prossima. Sarebbe un disastro se dovessimo continuare ad averne una obsoleta solo perchè pochi potenti sono troppo pigri per aggiornarsi.
 
 ## Note ##
 
-1. Se vuoi imparare qualcosa di più sulle società di cacciatori-raccoglitori raccomando caldamente [The Harmless People][] e [The Old Way][] di Elizabeth Marshall Thomas.
-
-2. Tuttavia il cambiamento nella definizione di proprietà privata è guidato principalmente dal progresso tecnologico. Di conseguenza, poichè il progresso tecnologico sta accelerando, presumibilmente la definizione di proprietà privata cambierà più spesso. Il che significa che è ancora più importante che le società siano in grado di rispondere elasticamente a tali cambiamenti, perchè saranno sempre più frequenti.
-
-3. A quanto ne so, il termine "colonie per copyright" è stato coniato da [Myles Peterson][].
-
-4. Lo stato della tecnologia non è soltanto funzione della definizione di proprietà: entrambe si influenzano a vicenda. Pertanto non puoi pasticciare con la definizione di proprietà privata senza avere effetti (probabilmente dannosi) sullo stato della tecnologia. La storia dell'URSS ne offre un vivido esempio.
+<ol>
+  <li id="fn1-09042012">Se vuoi imparare qualcosa in più sulle società di cacciatori-raccoglitori raccomando caldamente <a href="http://www.amazon.it/Harmless-People-Elizabeth-Marshall-Thomas/dp/067972446X/ref=sr_1_1?s=english-books&amp;ie=UTF8&amp;qid=1333964325&amp;sr=1-1">The Harmless People</a> e <a href="http://www.amazon.it/The-Old-Way-Story-People/dp/031242728X/ref=sr_1_4?ie=UTF8&amp;qid=1333964301&amp;sr=8-4">The Old Way</a> di Elizabeth Marshall Thomas. <a href="#ref1-09042012">&#8617;</a></li>
+  <li id="fn2-09042012">Tuttavia il cambiamento nella definizione di proprietà privata è guidato principalmente dal progresso tecnologico. Di conseguenza, poichè il progresso tecnologico sta accelerando, presumibilmente la definizione di proprietà privata cambierà più spesso. Il che significa che è ancora più importante che le società siano in grado di rispondere elasticamente a tali cambiamenti, perchè saranno sempre più frequenti. <a href="#ref2-09042012">&#8617;</a></li>
+  <li id="fn3-09042012">A quanto ne so, il termine "colonie per copyright" è stato coniato da <a href="http://torrentfreak.com/australia-us-copyright-colony-or-just-a-good-friend-120121/">Myles Peterson</a>. <a href="#ref3-09042012">&#8617;</a></li>
+  <li id="fn4-09042012">Lo stato della tecnologia non è soltanto funzione della definizione di proprietà: entrambe si influenzano a vicenda. Pertanto non puoi pasticciare con la definizione di proprietà privata senza avere effetti (probabilmente dannosi) sullo stato della tecnologia. La storia dell'URSS ne offre un vivido esempio. <a href="#ref4-09042012">&#8617;</a></li>
+</ol>
 
 ["Defining Property"]: http://paulgraham.com/property.html
 
@@ -46,10 +45,4 @@ Le persone al potere negli Stati Uniti potranno non apprezzare quando i cittadin
 
 [MPAA]: http://it.wikipedia.org/wiki/Motion_Picture_Association_of_America
 
-[The Harmless People]: http://www.amazon.it/Harmless-People-Elizabeth-Marshall-Thomas/dp/067972446X/ref=sr_1_1?s=english-books&ie=UTF8&qid=1333964325&sr=1-1
-
-[The Old Way]: http://www.amazon.it/The-Old-Way-Story-People/dp/031242728X/ref=sr_1_4?ie=UTF8&qid=1333964301&sr=8-4
-
 [politici]: http://tctechcrunch2011.files.wordpress.com/2012/01/congress-on-sopa-done.png
-
-[Myles Peterson]: http://torrentfreak.com/australia-us-copyright-colony-or-just-a-good-friend-120121/
