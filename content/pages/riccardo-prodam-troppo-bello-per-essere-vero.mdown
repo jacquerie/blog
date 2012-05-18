@@ -1,0 +1,65 @@
+Date: 18 May 2012
+
+# Troppo bello per essere vero #
+
+Riccardo Prodam sostiene di aver inventato un caschetto ed un software in
+grado di interpretare con elevata accuratezza i pensieri dei pazienti
+colpiti da ictus, di nome Dreambrain. Non ritengo però che siano state esibite
+prove sufficienti per accettare questi risultati, e in questo post vorrei
+esporre in dettaglio cosa non mi convince.
+
+La mia opinione è, a quanto pare, di minoranza. Infatti il team di Riccardo
+Prodam è risultato vincitore di [20mila €][] nella competizione "Start Cup
+Piemonte". Prodam stesso si è guadagnato una [copertina][] sull'edizione
+italiana di Wired, è apparso a [Uno Mattina][] e sarà inoltre relatore al
+[rep2012][].
+
+Le mie perplessità derivano in parte dalle affermazioni e dalle immagini
+postate su Facebook. Da studente di matematica formule e grafici mi lasciano 
+indifferente se dietro di essi non riesco a scorgere un ragionamento solido.
+Ad esempio dubito che una particolare superficie di Riemann presa da 
+[Wikipedia][] sia usata "per studiare le traiettorie del pensiero", come
+invece sostenuto da Prodam su [Facebook][]. Difficile anche sostenere che un
+[diagramma][] commutativo di applicazioni fra spazi iperbolici possa essere
+rilevante; se lo fosse, andrebbe motivato.
+
+Se dal punto di vista matematico non emerge niente di significativo, non
+c'è molto di positivo da dire per quanto riguarda i prototipi. Ad esempio lo
+stesso [caschetto][] è in realtà prodotto [da altri][] per applicazioni
+orientate al gioco. Non c'è niente di impressionante nel [video][] che
+mostrerebbe il Dreambrain in azione: si tratta di uno slideshow di immagini.
+Allo stesso modo i [vari][] [screenshot][] della [GUI][] o i [render][] sono
+quello che sono: concept, non prodotti.
+
+Inoltre con il passare del tempo le promesse si sono ingigantite. All'inizio
+veniva promessa [Ermete][], la "libreria matematica del Dreambrain", mai
+rilasciata. Dal Dreambrain siamo passati al [Dreamglove][], che permetterebbe 
+di ridare l'uso degli arti a chi lo avesse perso. Ora invece siamo arrivati al
+Dreamworld, una maniera per condividere ricordi fra più persone. E, perché no, anche alla [Dreamcar][].
+
+Di tutto ciò non esiste altra prova che quelle che ho linkato. Mi permetto
+quindi di essere scettico: dopotutto, come diceva Carl Sagan, "Extraordinary
+claims require extraordinary evidence".
+
+
+
+[20mila €]: http://www.i3p.it/files/CS_2010_10_15_PremiazioneStartcup2010.pdf
+[copertina]: http://mag.wired.it/rivista/wired-giugno-io-leggo-la-mente-riccardo-prodam.html
+[Uno Mattina]: http://www.youtube.com/watch?v=owKLr1F-8sc
+[rep2012]: http://www.repubblica.it/speciali/repubblica-delle-idee/edizione2012/
+
+[Wikipedia]: http://en.wikipedia.org/wiki/File:Riemann_surface_cube_root.jpg
+[Facebook]: https://www.facebook.com/photo.php?fbid=10150696774312472&set=a.37909867471.47448.822532471&type=3&theater
+[diagramma]: https://www.facebook.com/photo.php?fbid=10150205810587472&set=a.37909867471.47448.822532471&type=3&theater
+
+[caschetto]: https://www.facebook.com/photo.php?fbid=10150552635497472&set=a.10150380261657472.383463.822532471&type=3&theater
+[da altri]: http://www.emotiv.com/store/
+[video]: http://www.youtube.com/watch?v=kpiICelE6dE
+[vari]: https://www.facebook.com/photo.php?fbid=10150850981097472&set=a.37909867471.47448.822532471&type=3
+[screenshot]: https://www.facebook.com/photo.php?fbid=10150741727427472&set=a.37909867471.47448.822532471&type=3
+[GUI]: https://www.facebook.com/photo.php?fbid=10150734546607472&set=a.37909867471.47448.822532471&type=3
+[render]: https://www.facebook.com/media/set/?set=a.10150771082592472.440000.822532471&type=3
+
+[Ermete]: http://www.facebook.com/groups/indigeni/240901845948412/
+[Dreamglove]: http://www.youtube.com/watch?v=iHs_UdvFwAs&feature=relmfu
+[Dreamcar]: https://www.facebook.com/groups/indigeni/239555272749736/
