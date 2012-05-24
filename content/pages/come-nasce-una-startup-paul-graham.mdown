@@ -1,4 +1,5 @@
 Date: 28 April 2012
+Summary: Hai bisogno di tre cose per fondare una startup di successo: devi iniziare con persone valide, devi fare qualcosa che gli utenti vogliano, devi spendere il meno possibile. La maggior parte delle startup fallisce perché non fa una di queste. Una startup che le fa tutte e tre probabilmente avrà successo.
 
 # Come nasce una Startup #
 

@@ -1,4 +1,5 @@
 Date: 06 February 2012
+Summary: Secondo alcuni giornalisti e blogger italiani l'algoritmo di Google sarebbe stato inventato dal matematico italiano Massimo Marchiori. Questo però non è vero.
 
 # Massimo Marchiori non ha inventato l'algoritmo di Google #
 

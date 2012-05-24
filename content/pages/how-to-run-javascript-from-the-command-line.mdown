@@ -1,4 +1,5 @@
 Date: 04 February 2012
+Summary: An easy but useful tip to quickly test some JavaScript code from the command line in Mac OS X.
 
 # How to run JavaScript from the command line
 

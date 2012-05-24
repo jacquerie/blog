@@ -1,4 +1,5 @@
 Date: 08 February 2012
+Summary: Dopo lunga attesa Massimo Marchiori ha lanciato Volunia, il proprio motore di ricerca. Il parere su Twitter è pressochè unanime: è un flop. In questo post vorrei spiegare perché io sia d'accordo con questa valutazione. 
 
 # Perché Volunia è un flop #
 

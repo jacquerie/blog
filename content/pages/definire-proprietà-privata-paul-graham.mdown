@@ -1,4 +1,5 @@
 Date: 09 April 2012
+Summary: Da bambino lessi un libro di aneddoti su Ooka Tadasuke, famoso giudice giapponese del diciottesimo secolo. Una delle controversie che dovette dirimere fu sollevata dal proprietario di un ristorante. Un povero studente, mangiando del riso bianco, unico piatto che si potesse permettere, godeva nel frattempo dei deliziosi profumi della cucina del ristorante. Il proprietario chiedeva che lo studente pagasse per tali odori: glieli stava rubando!
 
 # Definire la proprietà privata #
 
