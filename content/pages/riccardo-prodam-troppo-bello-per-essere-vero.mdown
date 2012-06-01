@@ -21,8 +21,8 @@ indifferente se dietro di essi non riesco a scorgere un ragionamento solido.
 Ad esempio dubito che una particolare superficie di Riemann presa da 
 [Wikipedia][] sia usata "per studiare le traiettorie del pensiero", come
 invece sostenuto da Prodam su [Facebook][]. Difficile anche sostenere che un
-[diagramma][] commutativo di applicazioni fra spazi iperbolici possa essere
-rilevante; se lo fosse, andrebbe motivato.
+[diagramma][] tratto da un famoso articolo di Milnor possa essere rilevante;
+se lo fosse, andrebbe motivato.
 
 Se dal punto di vista matematico non emerge niente di significativo, non
 c'è molto di positivo da dire per quanto riguarda i prototipi. Ad esempio lo
