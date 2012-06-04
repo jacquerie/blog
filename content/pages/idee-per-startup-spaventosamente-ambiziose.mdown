@@ -1,0 +1,372 @@
+Date: 05 Jun 2012
+Summary: Una delle cose più sorprendenti che ho notato da quando lavoro a Y Combinator è quanto spaventose siano le idee per startup più ambiziose. In questo post vorrei dimostrare questo fenomeno facendo qualche esempio.
+
+# Idee per startup spaventosamente ambiziose #
+
+_Questo post è una traduzione di ["Frighteningly Ambitious Startup Ideas"][] di Paul Graham._
+
+Una delle cose più sorprendenti che ho notato da quando lavoro a Y
+Combinator è quanto spaventose siano le idee per startup più ambiziose.
+In questo post vorrei dimostrare questo fenomeno facendo qualche esempio.
+Una qualunque di esse vi potrebbe far diventare miliardario. Questa potrebbe
+sembrare una prospettiva attraente, eppure quando descriverò queste idee vi
+sorprenderete a farvi piccoli piccoli pur di evitarle.
+
+Non preoccupatevi, questo non è un segnale di debolezza. Anzi, si potrebbe
+sostenere che sia un indicatore di sanità mentale. Le idee per startup più
+grandi sono terrificanti. E non solo perché comporterebbero un mucchio di
+lavoro: vi chiederete se abbiate abbastanza ambizione per portarle avanti.
+
+C'è una scena in _Essere John Malkovich_ in cui l'eroe un po' sfigato incontra
+una donna bellissima e raffinata. Lei gli dice:
+
+> "Ecco il problema: se anche tu mi avessi, non avresti idea di cosa fartene 
+di me."
+
+Questo è quello che sembrano dirci queste idee.
+
+Questo fenomeno è una delle cose più importanti che potete capire a proposito
+di startup. [1] Vi aspettereste che le idee grandiose di startup siano
+attraenti, ma in realtà tendono a respingervi. E questo ha un po' di
+conseguenze. Significa che queste idee sono invisibili alla maggior parte
+delle persone che prova a pensare a idee per startup, perché il loro
+subconscio le filtra via. Persino le persone più ambiziose farebbero meglio
+ad approcciarle obliquamente.
+
+## 1. Un nuovo motore di ricerca ##
+
+Le migliori idee sono appena a un soffio dall'impossibile. Non so se questa
+in particolare sia possibile, ma ci sono segni che lo potrebbe essere. Fare un
+nuovo motore di ricerca significa competere con Google, e ultimamente ho visto
+qualche crepa nella loro fortezza.
+
+Mi fu chiaro che Microsoft avesse smarrito la propria strada quando decisero
+di entrare nel mercato dei motori di ricerca. Questa non era una mossa
+naturale per Microsoft. Lo fecero perché avevano paura di Google, e Google
+era nel mercato dei motori di ricerca. Ma questo significava che a) Google
+stava decidendo le future mosse di Microsoft e b) Queste future mosse erano
+roba in cui Microsoft non aveva competenza.
+
+Microsoft sta a Google come Google sta a Facebook.
+
+Questo di per sè non significa che ci sia spazio per un nuovo motore di
+ricerca, eppure ultimamente usando la ricerca di Google mi sono mancati i
+bei tempi andati, quando Google era fedele alla propria immagine un po'
+autistica. Una volta Google mi forniva una pagina dei risultati giusti, 
+velocemente, senza confusione. Ora invece i risultati sembrano ispirati dal
+principio di Scientology per cui è vero quel che per te è vero. I risultati
+di Google un tempo sembravano l'output di un comando Unix. Ora, mettendo per
+sbaglio il cursore nel posto sbagliato, potrebbe accadere di tutto.
+
+La maniera per vincere qua è costruire un motore di ricerca che gli hacker
+usino. Un motore di ricerca usato dai diecimila migliori hacker e nessun
+altro sarebbe in una posizione davvero potente nonostante la piccola
+dimensione, così come lo era un tempo Google quando era quel motore di
+ricerca. E per la prima volta in più di dieci anni l'idea di abbandonare
+Google mi pare plausibile.
+
+Poiché chiunque sia in grado di farcela fa parte di quei diecimila hacker,
+perlomeno la strada è ovvia: crea il motore di ricerca che tu stesso vuoi.
+Sentiti libero di farlo eccessivamente da hacker. Rendilo particolarmente
+efficiente nel cercare codice, ad esempio. Vuoi che le tue query possano
+essere Turing complete? Qualunque cosa che ti frutti quei diecimila utenti
+è proprio per questo buona.
+
+Non preoccupatevi se qualcosa che vogliate fare vi sia d'impedimento nel
+lungo periodo, perché se non otterrete quel primo nucleo di utenza non ci
+sarà neanche un lungo periodo. Se siete in grado di costruire qualcosa che
+voi e i vostri amici preferiscono a Google, siete a un decimo dall'essere
+quotati in borsa, così come Facebook lo era (ma probabilmente non se ne
+rendevano conto) quando avevano conquistato tutti gli studenti di Harvard.
+
+## 2. Rimpiazzare le Email ##
+
+L'Email non è stata pensata nel modo in cui la usiamo oggi. L'Email non
+è più un metodo per scambiare messaggi, ma una lista di cose da fare. O
+meglio, la mia inbox è una lista di cose da fare, e le email sono il modo in
+cui vengono aggiunte. Ma è una lista di cose da fare disastrosamente cattiva.
+
+Sono aperto a differenti soluzioni per questo problema, ma sospetto che
+aggiustare la inbox non sia abbastanza, e che l'email debba essere 
+rimpiazzata da un nuovo protocollo. Questo nuovo protocollo dovrebbe essere
+un protocollo per liste di cose da fare, non di scambio messaggi, sebbene
+esista il caso degenere in cui quello che una persona vuole da te sia:
+leggi il seguente testo.
+
+Come protocollo di cose da fare, questo nuovo protocollo deve dare più potere
+a chi riceve rispetto alla email. Vorrei che ci fossero più restrizioni su
+quello che le persone possono mettere nella mia lista di cose da fare. E
+quando qualcuno mette qualcosa nella mia lista di cose da fare, vorrei che mi
+dicessero qualcosa in più su quello che desiderano da me. Vogliono che faccia
+qualcosa oltre a leggere un po' di testo? Quanto è importante? (Ci deve
+ovviamente essere il modo per evitare che le persone dicano che tutto è
+importante). Per quando deve essere fatto?
+
+Questa è una di quelle idee che appare come una forza irresistibile che si
+scontra con un oggetto inamovibile. Da un lato è impossibile rimpiazzare
+protocolli ben consolidati, dall'altro mi sembra improbabile che fra 100 anni
+le persone vivranno nello stesso TODO
+
+Se lo farete per bene, potreste essere in grado di evitare il tipico problema
+della gallina e dell'uovo di cui soffrono tutti i nuovi protocolli, perché
+alcune delle persone più potenti al mondo sarebbero i primi ad adottarlo. Oggi
+sono tutti alla mercè delle email.
+
+Qualunque cosa costruiate, rendetelo veloce. GMail è diventato penosamente
+lento. [2] Se faceste qualcosa di non migliore di GMail ma veloce, soltanto
+questo vi permetterebbe di sottrarre utenti a GMail.
+
+GMail è lento perché Google non si può permettere di spendere molti soldi su
+di esso. Ma le persone pagherebbero per un tale servizio. Io stesso non avrei
+problemi a spendere 50 dollari al mese. Considerato quanto tempo passo fra le
+email, fa un po' paura pensare a quanto avrebbe senso pagare. Forse anche
+mille dollari al mese. Se passassi svariate ore della giornata a leggere e
+scrivere email, questo sarebbe un modo conveniente per migliorare la mia vita.
+
+## 3. Rimpiazzare le università ##
+
+Ultimamente molte persone si stanno dedicando a questa idea, e penso che
+siano sulla strada giusta. Non mi spingo fino all'affermare che una
+istituzione in vita da un migliaio di anni sia finita a causa di alcuni
+errori negli ultimi decenni, ma proprio in questi ultimi decenni le università
+americane sembrano essersi dirette sul cammino sbagliato. Si può fare di
+meglio con molti meno soldi.
+
+Non penso che le università scompariranno. Non interamente, perlomeno.
+Esse perderanno soltanto il monopolio su certi tipi di apprendimento che
+un tempo avevano. Ci saranno molti modi diversi per imparare cose diverse,
+e alcuni potranno sembrare molto diversi dalle università. Si potrebbe
+sostenere che Y Combinator sia uno di essi.
+
+Imparare è un problema talmente importante che cambiare il modo in cui viene
+risolto avrà una serie di effetti secondari. Ad esempio, il nome
+dell'università a cui uno è andato è considerato da molte persone (giusto o
+sbagliato che sia) come una credenziale. Se l'apprendimento si rompe in tanti
+piccoli frammenti, magari TODO. Ci potrebbe essere bisogno di sostituti per la
+vita sociale universitaria (e, strano a dirsi, Y Combinator )
+
+A questo punto potreste rimpiazzare le scuole superiori, ma vi scontrereste
+con ostacoli burocratici che rallenteranno la startup. Le università sembrano
+il posto da cui partire.
+
+## 4. TODO ##
+
+Hollywood è stata lenta nell'accogliere Internet. Questo è stato un errore,
+perché penso che ormai possiamo individuare un vincitore nella corsa fra
+metodi di fruizione dei contenuti, e questo è Internet, non la tv via cavo.
+
+Principalmente questo è dovuto a quanto orribili siano i client di tale
+tecnologia, cioè le TV. La nostra famiglia non ha aspettato la Apple TV.
+Odiavamo la nostra TV al punto che qualche mese fa l'abbiamo rimpiazzata con
+un iMac fissato al muro. Scoccia un poco doverlo controllare con un mouse
+wireless, ma l'esperienza è molto migliore dell'interfaccia utente da incubo
+con cui prima dovevamo lottare. 
+
+Un po' dell'attenzione che oggi le persone usano per guardare film e TV
+potrebbe essere rubata da cose che sembrano completamente incorrelate, come i
+social network. Ancora più attenzione potrebbe essere rubata da cose più
+vicine come i giochi. Ma ci sarà sempre richiesta per TODO, in cui siedete
+passivamente e guardate lo svolgersi di una trama. TODO
+
+Ci sono due modi in cui fruizione e pagamento potranno evolvere. O una
+compagnia come Netflix o Apple diventerà l'app store dell'intrattenimento,
+e raggiungerai il pubblico attraverso esse. Oppure i candidati ad essere un
+tale app store saranno troppo generaliste o tecnicamente rigide, e si
+creeranno aziende che TODO
+
+## 5. Il prossimo Steve Jobs ##
+
+Ho parlato recentemente con una persona che conosceva da vicino la Apple,
+e gli ho chiesto se chi ora manda avanti l'azienda avrebbe potuto creare
+nuove cose come lo faceva la Apple sotto Steve Jobs. La sua risposta è stata
+semplicemente "No". Era proprio la risposta che temevo. Gli ho chiesto qualche
+motivazione più precisa, ma non me l'ha data. No, non ci sarà più bella roba
+oltre a quello che era già pianificato. I ricavi di Apple potranno aumentare
+ancora per un bel po', ma, come Microsoft mostra, i ricavi sono un indicatore
+tardivo negli affari di tecnologia.
+
+E quindi se non sarà la Apple a fare il nuovo iPad, chi sarà? Nessuno degli
+attuali concorrenti. Nessuno di essi è guidato da un visionario, ed esperienza
+insegna che non li puoi avere assumendoli. Per avere un visionario come CEO
+deve essere lui a fondare l'azienda e poi non deve essere licenziato. Perciò
+l'azienda che creerà le nuove forme di hardware dovrà probabilmente essere
+una startup.
+
+Capisco che suoni assurdamente ambizioso che una startup provi a diventare
+tanto grande quanto la Apple. Ma non più ambizioso di quanto lo fosse per
+la Apple, e loro ce l'hanno fatta. In più una startup che lo facesse oggi
+avrebbe un vantaggio che la Apple non aveva: l'esempio della Apple. Steve
+Jobs ci ha fatto vedere che cosa è possibile. Ciò aiuta gli aspiranti
+successori sia direttamente, come fece Roger Bannister, mostrando loro quanto
+meglio tu possa fare delle persone che ti hanno preceduto, sia indirettamente,
+facendo capire agli utenti che una sola persona possa disvelare loro il
+futuro.
+
+E ora che Steve ci ha lasciato tutti avvertiamo un vuoto. Se una nuova
+azienda ci guiderà coraggiosamente nel futuro del software, gli utenti la
+seguiranno. Il CEO di una tale azienda, il "prossimo Steve Jobs", potrebbe non
+essere comparabile con lui. Ma non dovrebbe esserlo. Dovrebbe soltanto fare un
+lavoro migliore di Samsung, Hewlett Packard e Nokia, e questa sembra piuttosto
+fattibile.
+
+## 6. Tornare a far valere la legge di Moore ##
+
+Gli ultimi 10 anni ci hanno ricordato il vero significato della legge di
+Moore. Fino al 2002 potevi tranquillamente sostenere che promettesse
+processori il doppio più veloci ogni sei mesi. Quello che in realtà diceva è
+che il numero di transistor sarebbe raddoppiato ogni 18 mesi. Un tempo far
+notare la differenza era una pignoleria. Ora non più. La Intel non è più
+in grado di darci processori più veloci, ma soltanto più processori.
+
+Questa legge di Moore è peggiore di quella vecchia. La legge di Moore un
+tempo significava che, se il tuo software era lento, dovevi soltanto aspettare
+che l'inesorabile progresso dell'hardware risolvesse i tuoi problemi. Ora
+se il tuo software è lento lo devi riscrivere in modo che faccia più cose
+in parallelo, il che è ben più difficile che aspettare.
+
+Sarebbe meraviglioso se una startup ci desse indietro un po' della vecchia
+legge di Moore, scrivendo software che faccia apparire allo sviluppatore più
+processori come se fossero uno solo, estremamente veloce. Ci sono molti modi
+per attaccare questo problema. Il più ambizioso è farlo automaticamente, cioè
+scrivere un compilatore che parallelizzi il codice per noi. C'è già un nome
+per un tale oggetto: _il compilatore sufficientemente furbo_, un sinonimo di
+impossibile. Ma lo è davvero? Non esiste proprio una configurazione di bit
+nella memoria di un attuale computer che rappresenti questo compilatore? Se
+davvero lo pensaste, dovreste provare a dimostrarlo, perché sarebbe un
+risultato davvero interessante. E se non fosse impossibile ma soltanto
+molto difficile, varrebbe la pena provare a scriverlo. Il valore atteso
+sarebbe alto anche se la possibilità di farcela sarebbe scarsa.
+
+La ragione per cui ciò varrebbe così tanto sono i servizi web. Se potessi
+scrivere software che dia ai programmatori il lusso di poter scrivere le
+cose come le scrivevano un tempo, glielo potresti offrire come servizio web.
+E a sua volta questo significherebbe che avresti conquistato praticamente
+tutti gli utenti.
+
+Immagina che esista un altro produttore di processori ancora in grado di
+trasformare più transistor in processori più veloci: sbaraglierrebero la
+Intel. E poiché l'avvento dei servizi web significa che nessuno vede più i
+propri processori, scrivendo un compilatore sufficientemente avanzato sareste
+in una situazione indistinguibile da quel produtorre di processori, perlomeno
+per il mercato dei server.
+
+La maniera meno ambiziosa per approcciare il problema è partire dall'altra
+estremità, offrendo ai programmatori dei blocchetti Lego più facilmente
+parallelizzabili con cui costruire programmi, come Hadoop o MapReduce. Ma
+il programmatore dovrebbe comunque fare la maggior parte del lavoro di
+ottimizzazione.
+
+Esiste una interessante via di mezzo nella quale costruite un'arma
+semi-automatica — c'è sempre un uomo di mezzo. Crei qualcosa che per
+l'utente appaia come un compilatore abbastanza intelligente, ma in realtà
+dentro abbia persone, le quali usino sofisticati strumenti di ottimizzazione
+per trovare ed eliminare i colli di bottiglia nei programmi degli utenti.
+Queste persone potrebbero essere i tuoi impiegati, o magari potrebbero essere
+reclutate in un mercato per ottimizzatori.
+
+TODO
+
+TODO
+
+## 7. Diagnosi continua ##
+
+Ma aspettate, ecco un'altra idea che potrebbe incontrare una resistenza
+persino maggiore: diagnosi medica automatica e continua.
+
+Uno dei miei trucchi per generare idee per startup è immaginare come
+appariremo alle future generazioni. E sono piuttosto sicuro che fra 50 o
+100 anni alle persone sembrerà barbarico che ai nostri giorni le persone
+dovessero aspettare l'apparire dei sintomi per poter diagnosticare malattie
+tanto gravi quanto quelle cardiache o il cancro.
+
+Ad esempio, nel 2004 Bill Clinton si accorse di sentirsi a corto di fiato.
+I dottori scoprirono che parecchio delle sue arterie erano bloccate al 90%
+e tre giorni dopo eseguirono un bypass quadruplo. Sembra ragionevole
+assumere che Bill Clinton abbia le migliori cure mediche possibili, eppure
+ebbe da aspettare che le sue arterie fossero bloccate al 90% per conoscere
+tale numero. Sicuramente in futuro sapremo tali numeri come oggi conosciamo
+il nostro peso. Allo stesso modo per il cancro. Alle future generazioni
+sembrerà assurdo che dovessimo aspettare che i pazienti avessero sintomi
+fisici perché venisse diagnosticato il cancro. Il cancro apparirà
+immediatamente su una qualche forma di radar.
+
+(Certamente potrebbe darsi che quello che apparrà su tali schermi sia diverso
+da quello che oggi pensiamo essere il cancro. Non sarei sorpreso se in ogni
+istante avessimo decine o centinaia di microcancri, tutti privi di
+conseguenze.)
+
+Molti degli ostacoli nel realizzare una diagnosi continua verrebbero dal fatto
+che si scontri con i fondamenti della professione medica. Ha sempre funzionato
+che i pazienti vanno dai dottori con i loro problemi, e i dottori dicono loro
+che cosa non va. A molti dottori non piacerebbe avventurarsi in quella che
+degli avvocati chiamerebbero TODO, in cui cercano problemi senza sapere cosa
+stanno cercando. Chiamano le scoperte così fatte TODO, e risultano essere
+grosse seccature.
+
+Ad esempio, una mio amica si fece analizzare il cervello come parte di uno
+studio. Si spaventò moltissimo quando i medici dissero di averle scoperto
+un grosso tumore. Ulteriori test dimostrarono che si trattasse di una cisti
+benigna, ma le costò qualche giorno di terrore. Molti dottori si preoccupano
+che se cominciassimo ad analizzare pazienti privi di sintomi replicheremmo
+questa situazione a una scala gigantesca: un numero enorme di falsi allarmi
+che manderanno nel panico i pazienti e che richiedono test costosi e magari
+pericolosi per essere fatti rientrare. Ma penso che sia un artefatto delle
+attuali limitazioni. Se le persone venissero analizzate continuamente e
+migliorasse la nostra capacità di decidere cosa sia grave e cosa non lo sia,
+la mia amica avrebbe saputo della propria cisti e della sua innocuità, come
+se fosse una voglia.
+
+C'è posto per molte startup in questo campo. In aggiunta ai problemi tecnici
+che tutte le startup devono affrontare, e tutti gli ostacoli burocratici che
+le startup in area medica devono superare, devono anche andare contro migliaia
+di anni di tradizione medica. Ma accadrà, e sarà una cosa meravigliosa — così
+tanto che le persone in futuro proveranno la stessa pena che oggi proviamo per
+le generazioni che sono vissute prima dell'anestesia o degli antibiotici.
+
+## Tattiche ##
+
+Lasciatemi concludere con qualche consiglio tattico. Se volete affrontare un
+problema tanto grande quanto quelli di cui ho parlato, non attaccatelo
+frontalmente. Non dite, ad esempio, che rimpiazzarete le email. Facendolo
+creereste troppa aspettativa. I vostri dipendenti e investitori vi
+chiederanno costantemente "Ce l'avete fatta?" e avrete armate di nemici
+i quali non aspetteranno altro che voi falliate. Dite soltanto che state
+creando del software per liste di cose da fare. Le persone noteranno che
+avete rimpiazzato le email quando ormai è cosa fatta.
+
+Empiricamente il modo per cominciare a fare grandi cose sembra essere
+cominciare facendone di apparentemente piccole. Vuoi arrivare a dominare il
+mercato del software per microprocessori? Comincia scrivendo un interprete di
+Basic per una macchina con qualche migliaio di utenti. Vuoi creare il sito web
+universale? Comincia creando un sito in cui gli studenti di Harvard si possano
+spiare l'uno con l'altro.
+
+Esperienza insegna che partire da piccole cose lo si fa non soltanto per gli
+altri, ma ne avrete bisogno per voi stessi. Nè Bill Gates nè Mark Zuckerberg
+sapevano sin dall'inizio quanto grandi sarebbero diventate le proprie aziende.
+Sapevano soltanto di essere sulla strada giusta. Forse è una cattiva idea
+avere inizialmente grandi ambizioni, perché più grande è l'ambizione più
+tempo ci metterete, perciò farete piani più a lungo termine, quindi più
+facilmente sbaglierete.
+
+Penso che il modo di usare queste grandi idee non sia provare a identificare
+un punto preciso nel futuro e poi chiedersi come arrivarci, come vorrebbe
+l'immagine del visionario. Sarebbe meglio agire come Colombo e andare più o
+meno verso ovest. Non provate a costruire il futuro come se fosse un edificio,
+perché il vostro piano è quasi certamente sbagliato. Cominciate con qualcosa
+che sapete funzioni e, quando vi espandete, andate verso ovest.
+
+In genere si pensa al visionario come qualcuno che abbia una visione chiara
+del futuro, ma empiricamente potrebbe essere preferibile averne una sfocata.
+
+## Note ##
+
+[1] Questa è anche una delle cose più importanti che i VC non capiscono a proposito di startup. La maggior parte si aspettano che i fondatori entrino nei loro uffici con un piano chiaro per il futuro, e di giudicarli sulla base di quello. Pochi capiscono che nei successi più grandi c'è la minor correlazione fra il piano iniziale e quello che la startup diventerà.
+
+[2] Originariamente questa frase era "GMail è penosamente lento". Ringrazio Paul Buchheit per la correzione.
+
+[3] Roger Bannister è famoso per essere la prima persona ad aver corso un miglio in meno di 4 minuti. Ma il suo record mondiale durò soltanto 46 giorni. Una volta che dimostrò che si poteva fare, molti altri lo seguirono. Dieci anni dopo Jim Ryun, studente delle superiori, corse un miglio in 3 minuti e 59 secondi.
+
+[4] Se volete diventare la prossima Apple, forse non dovreste neanche cominciare producendo elettronica di consumo. Magari all'inizio potreste cominciare con un prodotto che soltanto gli hacker usino. O magari potreste cominciare creando qualcosa di popolare ma apparentemente irrilevante, come una cuffia o un router. Tutto quello di cui avete bisogno è una testa di ponte.
+
+["Frighteningly Ambitious Startup Ideas"]: http://paulgraham.com/ambitious.html
