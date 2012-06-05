@@ -26,7 +26,7 @@ di me."
 Questo è quello che sembrano dirci queste idee.
 
 Questo fenomeno è una delle cose più importanti che potete capire a proposito
-di startup. [1] Vi aspettereste che le idee grandiose di startup siano
+di startup. <sup id="ref1-05062012"><a href="#fn1-05062012">1</a></sup> Vi aspettereste che le idee grandiose di startup siano
 attraenti, ma in realtà tendono a respingervi. E questo ha un po' di
 conseguenze. Significa che queste idee sono invisibili alla maggior parte
 delle persone che prova a pensare a idee per startup, perché il loro
@@ -105,7 +105,8 @@ importante). Per quando deve essere fatto?
 Questa è una di quelle idee che appare come una forza irresistibile che si
 scontra con un oggetto inamovibile. Da un lato è impossibile rimpiazzare
 protocolli ben consolidati, dall'altro mi sembra improbabile che fra 100 anni
-le persone vivranno nello stesso TODO
+le persone vivranno nello stesso inferno fatto di email in cui viviamo oggi.
+Se un giorno verrà rimpiazzata, perché non oggi?
 
 Se lo farete per bene, potreste essere in grado di evitare il tipico problema
 della gallina e dell'uovo di cui soffrono tutti i nuovi protocolli, perché
@@ -113,7 +114,7 @@ alcune delle persone più potenti al mondo sarebbero i primi ad adottarlo. Oggi
 sono tutti alla mercè delle email.
 
 Qualunque cosa costruiate, rendetelo veloce. GMail è diventato penosamente
-lento. [2] Se faceste qualcosa di non migliore di GMail ma veloce, soltanto
+lento. <sup id="ref2-05062012"><a href="#fn2-05062012">2</a></sup> Se faceste qualcosa di non migliore di GMail ma veloce, soltanto
 questo vi permetterebbe di sottrarre utenti a GMail.
 
 GMail è lento perché Google non si può permettere di spendere molti soldi su
@@ -142,8 +143,9 @@ Imparare è un problema talmente importante che cambiare il modo in cui viene
 risolto avrà una serie di effetti secondari. Ad esempio, il nome
 dell'università a cui uno è andato è considerato da molte persone (giusto o
 sbagliato che sia) come una credenziale. Se l'apprendimento si rompe in tanti
-piccoli frammenti, magari TODO. Ci potrebbe essere bisogno di sostituti per la
-vita sociale universitaria (e, strano a dirsi, Y Combinator )
+piccoli frammenti, magari si scinderà dalla generazione di credenziali. Ci
+potrebbe essere bisogno di sostituti per la vita sociale universitaria (e,
+strano a dirsi, Y Combinator potrebbe essere una di queste).
 
 A questo punto potreste rimpiazzare le scuole superiori, ma vi scontrereste
 con ostacoli burocratici che rallenteranno la startup. Le università sembrano
@@ -156,11 +158,11 @@ perché penso che ormai possiamo individuare un vincitore nella corsa fra
 metodi di fruizione dei contenuti, e questo è Internet, non la tv via cavo.
 
 Principalmente questo è dovuto a quanto orribili siano i client di tale
-tecnologia, cioè le TV. La nostra famiglia non ha aspettato la Apple TV.
-Odiavamo la nostra TV al punto che qualche mese fa l'abbiamo rimpiazzata con
-un iMac fissato al muro. Scoccia un poco doverlo controllare con un mouse
-wireless, ma l'esperienza è molto migliore dell'interfaccia utente da incubo
-con cui prima dovevamo lottare. 
+tecnologia, cioè le TV. La mia famiglia non ha aspettato la Apple TV. Odiavamo
+la nostra TV al punto che qualche mese fa l'abbiamo rimpiazzata con un iMac
+fissato al muro. Scoccia un poco doverlo controllare con un mouse wireless, ma
+l'esperienza è molto migliore dell'interfaccia utente da incubo con cui prima
+dovevamo lottare. 
 
 Un po' dell'attenzione che oggi le persone usano per guardare film e TV
 potrebbe essere rubata da cose che sembrano completamente incorrelate, come i
@@ -200,7 +202,7 @@ Jobs ci ha fatto vedere che cosa è possibile. Ciò aiuta gli aspiranti
 successori sia direttamente, come fece Roger Bannister, mostrando loro quanto
 meglio tu possa fare delle persone che ti hanno preceduto, sia indirettamente,
 facendo capire agli utenti che una sola persona possa disvelare loro il
-futuro.
+futuro. <sup id="ref3-05062012"><a href="#fn3-05062012">3</a></sup>
 
 E ora che Steve ci ha lasciato tutti avvertiamo un vuoto. Se una nuova
 azienda ci guiderà coraggiosamente nel futuro del software, gli utenti la
@@ -264,9 +266,24 @@ per trovare ed eliminare i colli di bottiglia nei programmi degli utenti.
 Queste persone potrebbero essere i tuoi impiegati, o magari potrebbero essere
 reclutate in un mercato per ottimizzatori.
 
-TODO
+Un mercato per ottimizzatori potrebbe essere un modo per generare un
+compilatore sufficientemente intelligente pezzo per pezzo, perché i
+partecipanti inizierebbero a creare immediatamente dei bot. Sarebbe davvero
+curioso se arrivassimo al punto in cui tutto è gestito da bot, perché allora
+avremmo un compilatore sufficientemente intelligente, ma nessuno ne avrebbe
+una copia intera.
 
-TODO
+Capisco quanto folle suoni tutto ciò. In effetti quello che mi piace in questa
+idea sono tutti i diversi modi in cui è sbagliata. L'intera idea di
+concentrarsi sulla ottimizzazione va contro il trend generale dello sviluppo
+software degli ultimi decenni. Provare a scrivere il compilatore
+sufficientemente intelligente è per definizione un errore. E anche se non lo
+fosse, i compilatori sono il tipo di software che dovrebbe essere sviluppato
+da progetti open source, non aziende. In più se questo funzionasse priverebbe
+tutti quei programmatori che adorano creare applicazione multithreaded di
+tutta la loro divertente complessità. Il troll da forum dentro di me non
+saprebbe neanche da dove partire nel sollevare obiezioni a questo progetto.
+Ecco una gran bella idea per startup.
 
 ## 7. Diagnosi continua ##
 
@@ -332,7 +349,7 @@ creereste troppa aspettativa. I vostri dipendenti e investitori vi
 chiederanno costantemente "Ce l'avete fatta?" e avrete armate di nemici
 i quali non aspetteranno altro che voi falliate. Dite soltanto che state
 creando del software per liste di cose da fare. Le persone noteranno che
-avete rimpiazzato le email quando ormai è cosa fatta.
+avete rimpiazzato le email quando ormai è cosa fatta. <sup id="ref4-05062012"><a href="#fn4-05062012">4</a></sup>
 
 Empiricamente il modo per cominciare a fare grandi cose sembra essere
 cominciare facendone di apparentemente piccole. Vuoi arrivare a dominare il
@@ -361,12 +378,14 @@ del futuro, ma empiricamente potrebbe essere preferibile averne una sfocata.
 
 ## Note ##
 
-[1] Questa è anche una delle cose più importanti che i VC non capiscono a proposito di startup. La maggior parte si aspettano che i fondatori entrino nei loro uffici con un piano chiaro per il futuro, e di giudicarli sulla base di quello. Pochi capiscono che nei successi più grandi c'è la minor correlazione fra il piano iniziale e quello che la startup diventerà.
+<ol>
+  <li id="fn1-05062012"><p>Questa è anche una delle cose più importanti che i VC non capiscono a proposito di startup. La maggior parte si aspettano che i fondatori entrino nei loro uffici con un piano chiaro per il futuro, e di giudicarli sulla base di quello. Pochi capiscono che nei successi più grandi c'è la minor correlazione fra il piano iniziale e quello che la startup diventerà. <a href="#ref1-05062012">&#8617;</a></p></li>
 
-[2] Originariamente questa frase era "GMail è penosamente lento". Ringrazio Paul Buchheit per la correzione.
+  <li id="fn2-05062012"><p>Originariamente questa frase era "GMail è penosamente lento". Ringrazio Paul Buchheit per la correzione. <a href="#ref2-05062012">&#8617;</a></p></li>
 
-[3] Roger Bannister è famoso per essere la prima persona ad aver corso un miglio in meno di 4 minuti. Ma il suo record mondiale durò soltanto 46 giorni. Una volta che dimostrò che si poteva fare, molti altri lo seguirono. Dieci anni dopo Jim Ryun, studente delle superiori, corse un miglio in 3 minuti e 59 secondi.
+  <li id="fn3-05062012"><p>Roger Bannister è famoso per essere la prima persona ad aver corso un miglio in meno di 4 minuti. Ma il suo record mondiale durò soltanto 46 giorni. Una volta che dimostrò che si poteva fare, molti altri lo seguirono. Dieci anni dopo Jim Ryun, studente delle superiori, corse un miglio in 3 minuti e 59 secondi. <a href="#ref3-05062012">&#8617;</a></p></li>
 
-[4] Se volete diventare la prossima Apple, forse non dovreste neanche cominciare producendo elettronica di consumo. Magari all'inizio potreste cominciare con un prodotto che soltanto gli hacker usino. O magari potreste cominciare creando qualcosa di popolare ma apparentemente irrilevante, come una cuffia o un router. Tutto quello di cui avete bisogno è una testa di ponte.
+  <li id="fn4-05062012"><p>Se volete diventare la prossima Apple, forse non dovreste neanche cominciare producendo elettronica di consumo. Magari all'inizio potreste cominciare con un prodotto che soltanto gli hacker usino. O magari potreste cominciare creando qualcosa di popolare ma apparentemente irrilevante, come una cuffia o un router. Tutto quello di cui avete bisogno è una testa di ponte. <a href="#ref4-05062012">&#8617;</a></p></li>
+</ol>
 
 ["Frighteningly Ambitious Startup Ideas"]: http://paulgraham.com/ambitious.html
