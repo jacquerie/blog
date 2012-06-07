@@ -8,8 +8,8 @@ _Questo post è una traduzione di ["Frighteningly Ambitious Startup Ideas"][] di
 Una delle cose più sorprendenti che ho notato da quando lavoro a Y
 Combinator è quanto spaventose siano le idee per startup più ambiziose.
 In questo post vorrei dimostrare questo fenomeno facendo qualche esempio.
-Una qualunque di esse vi potrebbe far diventare miliardario. Questa potrebbe
-sembrare una prospettiva attraente, eppure quando descriverò queste idee vi
+Una qualunque di queste idee vi potrebbe far diventare miliardario. Questa
+potrebbe sembrare una prospettiva attraente, eppure quando le descriverò vi
 sorprenderete a farvi piccoli piccoli pur di evitarle.
 
 Non preoccupatevi, questo non è un segnale di debolezza. Anzi, si potrebbe
@@ -28,10 +28,10 @@ Questo è quello che sembrano dirci queste idee.
 Questo fenomeno è una delle cose più importanti che potete capire a proposito
 di startup. <sup id="ref1-05062012"><a href="#fn1-05062012">1</a></sup> Vi aspettereste che le idee grandiose di startup siano
 attraenti, ma in realtà tendono a respingervi. E questo ha un po' di
-conseguenze. Significa che queste idee sono invisibili alla maggior parte
-delle persone che prova a pensare a idee per startup, perché il loro
-subconscio le filtra via. Persino le persone più ambiziose farebbero meglio
-ad approcciarle obliquamente.
+conseguenze. Significa che queste idee sfuggono alla maggior parte delle
+persone che prova a pensare a idee per startup, perché il loro subconscio le
+filtra via. Persino le persone più ambiziose farebbero meglio ad approcciarle
+obliquamente.
 
 ## 1. Un nuovo motore di ricerca ##
 
@@ -47,7 +47,7 @@ era nel mercato dei motori di ricerca. Ma questo significava che a) Google
 stava decidendo le future mosse di Microsoft e b) Queste future mosse erano
 roba in cui Microsoft non aveva competenza.
 
-Microsoft sta a Google come Google sta a Facebook.
+E oggi Microsoft sta a Google come Google sta a Facebook.
 
 Questo di per sè non significa che ci sia spazio per un nuovo motore di
 ricerca, eppure ultimamente usando la ricerca di Google mi sono mancati i
@@ -66,63 +66,64 @@ ricerca. E per la prima volta in più di dieci anni l'idea di abbandonare
 Google mi pare plausibile.
 
 Poiché chiunque sia in grado di farcela fa parte di quei diecimila hacker,
-perlomeno la strada è ovvia: crea il motore di ricerca che tu stesso vuoi.
-Sentiti libero di farlo eccessivamente da hacker. Rendilo particolarmente
-efficiente nel cercare codice, ad esempio. Vuoi che le tue query possano
-essere Turing complete? Qualunque cosa che ti frutti quei diecimila utenti
+perlomeno la strada è ovvia: create il motore di ricerca che voi stessi
+volete. Sentiti libero di farlo eccessivamente da hacker. Rendetelo
+particolarmente efficiente nel cercare codice, ad esempio. Volete che le query
+possano essere Turing complete? Qualunque cosa vi frutti quei diecimila utenti
 è proprio per questo buona.
 
 Non preoccupatevi se qualcosa che vogliate fare vi sia d'impedimento nel
 lungo periodo, perché se non otterrete quel primo nucleo di utenza non ci
 sarà neanche un lungo periodo. Se siete in grado di costruire qualcosa che
-voi e i vostri amici preferiscono a Google, siete a un decimo dall'essere
-quotati in borsa, così come Facebook lo era (ma probabilmente non se ne
-rendevano conto) quando avevano conquistato tutti gli studenti di Harvard.
+voi e i vostri amici preferiscono a Google siete a un decimo dall'essere
+quotati in borsa, così come i ragazzi di Facebook lo erano (ma probabilmente
+non se ne rendevano conto) una volta conquistati tutti gli studenti di 
+Harvard.
 
-## 2. Rimpiazzare le Email ##
+## 2. Rimpiazzare le email ##
 
-L'Email non è stata pensata nel modo in cui la usiamo oggi. L'Email non
+L'email non è stata pensata nel modo in cui la usiamo oggi. L'email non
 è più un metodo per scambiare messaggi, ma una lista di cose da fare. O
 meglio, la mia inbox è una lista di cose da fare, e le email sono il modo in
 cui vengono aggiunte. Ma è una lista di cose da fare disastrosamente cattiva.
 
-Sono aperto a differenti soluzioni per questo problema, ma sospetto che
-aggiustare la inbox non sia abbastanza, e che l'email debba essere 
-rimpiazzata da un nuovo protocollo. Questo nuovo protocollo dovrebbe essere
-un protocollo per liste di cose da fare, non di scambio messaggi, sebbene
-esista il caso degenere in cui quello che una persona vuole da te sia:
-leggi il seguente testo.
+Penso siano possibili differenti soluzioni per questo problema, ma sospetto
+che non basti aggiustare la inbox, e che l'email debba essere rimpiazzata da
+un nuovo protocollo. Questo nuovo protocollo dovrebbe essere pensato per le
+liste di cose da fare e non per lo scambio messaggi, sebbene esista il caso
+degenere in cui quello che una persona vuole sia: leggi il seguente testo.
 
-Come protocollo di cose da fare, questo nuovo protocollo deve dare più potere
-a chi riceve rispetto alla email. Vorrei che ci fossero più restrizioni su
-quello che le persone possono mettere nella mia lista di cose da fare. E
-quando qualcuno mette qualcosa nella mia lista di cose da fare, vorrei che mi
-dicessero qualcosa in più su quello che desiderano da me. Vogliono che faccia
-qualcosa oltre a leggere un po' di testo? Quanto è importante? (Ci deve
-ovviamente essere il modo per evitare che le persone dicano che tutto è
-importante). Per quando deve essere fatto?
+Come protocollo di cose da fare esso deve dare più potere a chi riceve
+rispetto alla email. Vorrei che ci fossero più restrizioni su quello che le
+persone possono mettere nella mia lista di cose da fare. E quando qualcuno
+mette qualcosa nella mia lista, vorrei che mi dicessero qualcosa in più su
+quello che desiderano da me. Vogliono che faccia qualcosa oltre a leggere un
+po' di testo? Quanto è importante? (Ci deve ovviamente essere il modo per
+evitare che le persone dicano che tutto è importante). Per quando deve essere
+fatto?
 
 Questa è una di quelle idee che appare come una forza irresistibile che si
 scontra con un oggetto inamovibile. Da un lato è impossibile rimpiazzare
-protocolli ben consolidati, dall'altro mi sembra improbabile che fra 100 anni
-le persone vivranno nello stesso inferno fatto di email in cui viviamo oggi.
-Se un giorno verrà rimpiazzata, perché non oggi?
+protocolli ben consolidati, dall'altro mi sembra improbabile che fra cento
+anni le persone vivranno nello stesso inferno fatto di email in cui viviamo
+oggi. E se un giorno verrà rimpiazzata, perché non oggi?
 
 Se lo farete per bene, potreste essere in grado di evitare il tipico problema
 della gallina e dell'uovo di cui soffrono tutti i nuovi protocolli, perché
 alcune delle persone più potenti al mondo sarebbero i primi ad adottarlo. Oggi
-sono tutti alla mercè delle email.
+sono tutti alla mercé delle email.
 
 Qualunque cosa costruiate, rendetelo veloce. GMail è diventato penosamente
 lento. <sup id="ref2-05062012"><a href="#fn2-05062012">2</a></sup> Se faceste qualcosa di non migliore di GMail ma veloce, soltanto
 questo vi permetterebbe di sottrarre utenti a GMail.
 
 GMail è lento perché Google non si può permettere di spendere molti soldi su
-di esso. Ma le persone pagherebbero per un tale servizio. Io stesso non avrei
-problemi a spendere 50 dollari al mese. Considerato quanto tempo passo fra le
-email, fa un po' paura pensare a quanto avrebbe senso pagare. Forse anche
-mille dollari al mese. Se passassi svariate ore della giornata a leggere e
-scrivere email, questo sarebbe un modo conveniente per migliorare la mia vita.
+di esso. Eppure le persone pagherebbero per un tale servizio: io stesso non
+avrei problemi a spendere 50 dollari al mese. Considerato quanto tempo passo
+fra le email, fa un po' paura pensare a quanto avrebbe senso pagare. Forse
+anche mille dollari al mese. Se passassi svariate ore della giornata a leggere
+e scrivere email, questo sarebbe un modo conveniente per migliorare la mia
+vita.
 
 ## 3. Rimpiazzare le università ##
 
@@ -134,24 +135,24 @@ americane sembrano essersi dirette sul cammino sbagliato. Si può fare di
 meglio con molti meno soldi.
 
 Non penso che le università scompariranno. Non interamente, perlomeno.
-Esse perderanno soltanto il monopolio su certi tipi di apprendimento che
-un tempo avevano. Ci saranno molti modi diversi per imparare cose diverse,
-e alcuni potranno sembrare molto diversi dalle università. Si potrebbe
-sostenere che Y Combinator sia uno di essi.
+Esse perderanno soltanto il monopolio su certi tipi di apprendimento: ci
+saranno molti modi diversi per imparare le cose più svariate, e alcuni
+potranno non assomigliare alle università. Si potrebbe sostenere che Y 
+Combinator sia uno di essi.
 
 Imparare è un problema talmente importante che cambiare il modo in cui viene
-risolto avrà una serie di effetti secondari. Ad esempio, il nome
+risolto avrà tutta una serie di effetti secondari. Ad esempio, il nome
 dell'università a cui uno è andato è considerato da molte persone (giusto o
 sbagliato che sia) come una credenziale. Se l'apprendimento si rompe in tanti
-piccoli frammenti, magari si scinderà dalla generazione di credenziali. Ci
-potrebbe essere bisogno di sostituti per la vita sociale universitaria (e,
-strano a dirsi, Y Combinator potrebbe essere una di queste).
+piccoli frammenti, magari verrà meno questa associazione. Ci potrebbe inoltre
+essere bisogno di sostituti per la vita sociale universitaria (e, strano a
+dirsi, Y Combinator potrebbe essere una di queste).
 
 A questo punto potreste rimpiazzare le scuole superiori, ma vi scontrereste
 con ostacoli burocratici che rallenteranno la startup. Le università sembrano
 il posto da cui partire.
 
-## 4. TODO ##
+## 4. Serie TV e Internet ##
 
 Hollywood è stata lenta nell'accogliere Internet. Questo è stato un errore,
 perché penso che ormai possiamo individuare un vincitore nella corsa fra
@@ -165,34 +166,40 @@ l'esperienza è molto migliore dell'interfaccia utente da incubo con cui prima
 dovevamo lottare. 
 
 Un po' dell'attenzione che oggi le persone usano per guardare film e TV
-potrebbe essere rubata da cose che sembrano completamente incorrelate, come i
-social network. Ancora più attenzione potrebbe essere rubata da cose più
-vicine come i giochi. Ma ci sarà sempre richiesta per TODO, in cui siedete
-passivamente e guardate lo svolgersi di una trama. TODO
+potrebbe essere sottratta da cose che sembrano completamente incorrelate, come
+i social network. Ancora più attenzione potrebbe essere rubata da cose più
+simili come i giochi. Ma ci sarà sempre richiesta per delle serie TV, in cui
+siedete passivamente e guardate lo svolgersi di una trama. E quindi come
+consentirete di fruirne via Internet? Qualunque cosa facciate dovrebbe essere
+su scala più larga di qualche filmato su Youtube. Quando le persone si siedono
+e guardano una serie, desiderano sapere se si tratti di una puntata fra molte
+con personaggi noti o un unico film di cui conoscano l'antefatto.
 
-Ci sono due modi in cui fruizione e pagamento potranno evolvere. O una
+Vedo due modi in cui fruizione e pagamento potranno evolvere. O una
 compagnia come Netflix o Apple diventerà l'app store dell'intrattenimento,
-e raggiungerai il pubblico attraverso esse. Oppure i candidati ad essere un
-tale app store saranno troppo generaliste o tecnicamente rigide, e si
-creeranno aziende che TODO
+e si dovrà raggiungere il pubblico attraverso esse. Oppure i candidati ad
+essere un tale app store saranno troppo generalisti o tecnicamente rigidi, e
+si creeranno aziende che forniranno pagamenti e streaming per i produttori di
+uno show. Se così andranno le cose, ci sarà inoltre bisogno di aziende che
+forniscano l'infrastruttura.
 
 ## 5. Il prossimo Steve Jobs ##
 
-Ho parlato recentemente con una persona che conosceva da vicino la Apple,
-e gli ho chiesto se chi ora manda avanti l'azienda avrebbe potuto creare
-nuove cose come lo faceva la Apple sotto Steve Jobs. La sua risposta è stata
-semplicemente "No". Era proprio la risposta che temevo. Gli ho chiesto qualche
-motivazione più precisa, ma non me l'ha data. No, non ci sarà più bella roba
-oltre a quello che era già pianificato. I ricavi di Apple potranno aumentare
-ancora per un bel po', ma, come Microsoft mostra, i ricavi sono un indicatore
+Ho parlato recentemente con una persona che conosceva da vicino la Apple.
+Gli ho chiesto se chi ora manda avanti l'azienda possa creare nuovi prodotti
+come faceva la Apple di Steve Jobs. La sua risposta è stata semplicemente
+"No". Era proprio la risposta che temevo. Gli ho chiesto qualche motivazione
+più precisa, ma non me l'ha data. No, una volta finiti i prodotti pianificati,
+non ci sarà altra bella roba. I ricavi di Apple potranno aumentare ancora per
+un bel po', ma, come Microsoft mostra, l'andamento dei ricavi è un indicatore
 tardivo negli affari di tecnologia.
 
 E quindi se non sarà la Apple a fare il nuovo iPad, chi sarà? Nessuno degli
 attuali concorrenti. Nessuno di essi è guidato da un visionario, ed esperienza
-insegna che non li puoi avere assumendoli. Per avere un visionario come CEO
-deve essere lui a fondare l'azienda e poi non deve essere licenziato. Perciò
-l'azienda che creerà le nuove forme di hardware dovrà probabilmente essere
-una startup.
+insegna che non si possono assumere. Per avere un visionario come CEO deve
+essere lui ad aver fondato l'azienda e poi non deve essere stato licenziato.
+Perciò l'azienda che creerà le nuove forme di hardware dovrà probabilmente
+essere una startup.
 
 Capisco che suoni assurdamente ambizioso che una startup provi a diventare
 tanto grande quanto la Apple. Ma non più ambizioso di quanto lo fosse per
@@ -201,14 +208,14 @@ avrebbe un vantaggio che la Apple non aveva: l'esempio della Apple. Steve
 Jobs ci ha fatto vedere che cosa è possibile. Ciò aiuta gli aspiranti
 successori sia direttamente, come fece Roger Bannister, mostrando loro quanto
 meglio tu possa fare delle persone che ti hanno preceduto, sia indirettamente,
-facendo capire agli utenti che una sola persona possa disvelare loro il
-futuro. <sup id="ref3-05062012"><a href="#fn3-05062012">3</a></sup>
+facendo capire agli utenti che è possibile che una sola persona possa
+disvelare loro il futuro. <sup id="ref3-05062012"><a href="#fn3-05062012">3</a></sup>
 
 E ora che Steve ci ha lasciato tutti avvertiamo un vuoto. Se una nuova
 azienda ci guiderà coraggiosamente nel futuro del software, gli utenti la
 seguiranno. Il CEO di una tale azienda, il "prossimo Steve Jobs", potrebbe non
 essere comparabile con lui. Ma non dovrebbe esserlo. Dovrebbe soltanto fare un
-lavoro migliore di Samsung, Hewlett Packard e Nokia, e questa sembra piuttosto
+lavoro migliore di Samsung, Hewlett Packard e Nokia, e questo sembra piuttosto
 fattibile.
 
 ## 6. Tornare a far valere la legge di Moore ##
@@ -217,40 +224,40 @@ Gli ultimi 10 anni ci hanno ricordato il vero significato della legge di
 Moore. Fino al 2002 potevi tranquillamente sostenere che promettesse
 processori il doppio più veloci ogni sei mesi. Quello che in realtà diceva è
 che il numero di transistor sarebbe raddoppiato ogni 18 mesi. Un tempo far
-notare la differenza era una pignoleria. Ora non più. La Intel non è più
+notare la differenza era una pignoleria, ma ora non più. La Intel non è più
 in grado di darci processori più veloci, ma soltanto più processori.
 
 Questa legge di Moore è peggiore di quella vecchia. La legge di Moore un
 tempo significava che, se il tuo software era lento, dovevi soltanto aspettare
 che l'inesorabile progresso dell'hardware risolvesse i tuoi problemi. Ora
 se il tuo software è lento lo devi riscrivere in modo che faccia più cose
-in parallelo, il che è ben più difficile che aspettare.
+in parallelo, il che è ben più difficile rispetto ad aspettare.
 
 Sarebbe meraviglioso se una startup ci desse indietro un po' della vecchia
 legge di Moore, scrivendo software che faccia apparire allo sviluppatore più
 processori come se fossero uno solo, estremamente veloce. Ci sono molti modi
 per attaccare questo problema. Il più ambizioso è farlo automaticamente, cioè
 scrivere un compilatore che parallelizzi il codice per noi. C'è già un nome
-per un tale oggetto: _il compilatore sufficientemente furbo_, un sinonimo di
+per un tale oggetto: il _compilatore sufficientemente furbo_, un sinonimo di
 impossibile. Ma lo è davvero? Non esiste proprio una configurazione di bit
 nella memoria di un attuale computer che rappresenti questo compilatore? Se
 davvero lo pensaste, dovreste provare a dimostrarlo, perché sarebbe un
-risultato davvero interessante. E se non fosse impossibile ma soltanto
-molto difficile, varrebbe la pena provare a scriverlo. Il valore atteso
-sarebbe alto anche se la possibilità di farcela sarebbe scarsa.
+risultato davvero interessante. E se non fosse impossibile ma soltanto molto
+difficile, varrebbe la pena provare a scriverlo. Il valore atteso è alto anche
+se la possibilità di farcela è scarsa.
 
 La ragione per cui ciò varrebbe così tanto sono i servizi web. Se potessi
 scrivere software che dia ai programmatori il lusso di poter scrivere le
 cose come le scrivevano un tempo, glielo potresti offrire come servizio web.
-E a sua volta questo significherebbe che avresti conquistato praticamente
+E a propria volta questo significherebbe che avresti conquistato praticamente
 tutti gli utenti.
 
 Immagina che esista un altro produttore di processori ancora in grado di
 trasformare più transistor in processori più veloci: sbaraglierrebero la
-Intel. E poiché l'avvento dei servizi web significa che nessuno vede più i
-propri processori, scrivendo un compilatore sufficientemente avanzato sareste
-in una situazione indistinguibile da quel produtorre di processori, perlomeno
-per il mercato dei server.
+Intel. E poiché l'avvento dei servizi web significa che nessuno tocca con mano
+i propri processori, scrivendo un compilatore sufficientemente avanzato
+sareste in una situazione indistinguibile da quel produtorre di processori,
+perlomeno per il mercato server.
 
 La maniera meno ambiziosa per approcciare il problema è partire dall'altra
 estremità, offrendo ai programmatori dei blocchetti Lego più facilmente
@@ -259,12 +266,12 @@ il programmatore dovrebbe comunque fare la maggior parte del lavoro di
 ottimizzazione.
 
 Esiste una interessante via di mezzo nella quale costruite un'arma
-semi-automatica — c'è sempre un uomo di mezzo. Crei qualcosa che per
+semi-automatica — c'è sempre un uomo di mezzo. Create qualcosa che per
 l'utente appaia come un compilatore abbastanza intelligente, ma in realtà
 dentro abbia persone, le quali usino sofisticati strumenti di ottimizzazione
 per trovare ed eliminare i colli di bottiglia nei programmi degli utenti.
-Queste persone potrebbero essere i tuoi impiegati, o magari potrebbero essere
-reclutate in un mercato per ottimizzatori.
+Queste persone potrebbero essere i vostri dipendenti, o magari potrebbero
+essere reclutate in un mercato per ottimizzatori.
 
 Un mercato per ottimizzatori potrebbe essere un modo per generare un
 compilatore sufficientemente intelligente pezzo per pezzo, perché i
@@ -282,8 +289,8 @@ fosse, i compilatori sono il tipo di software che dovrebbe essere sviluppato
 da progetti open source, non aziende. In più se questo funzionasse priverebbe
 tutti quei programmatori che adorano creare applicazione multithreaded di
 tutta la loro divertente complessità. Il troll da forum dentro di me non
-saprebbe neanche da dove partire nel sollevare obiezioni a questo progetto.
-Ecco una gran bella idea per startup.
+saprebbe neanche da dove partire nel sollevare obiezioni a questo progetto:
+ecco dunque una gran bella idea per startup.
 
 ## 7. Diagnosi continua ##
 
@@ -296,15 +303,15 @@ appariremo alle future generazioni. E sono piuttosto sicuro che fra 50 o
 dovessero aspettare l'apparire dei sintomi per poter diagnosticare malattie
 tanto gravi quanto quelle cardiache o il cancro.
 
-Ad esempio, nel 2004 Bill Clinton si accorse di sentirsi a corto di fiato.
+Ad esempio nel 2004 Bill Clinton si accorse di sentirsi a corto di fiato.
 I dottori scoprirono che parecchio delle sue arterie erano bloccate al 90%
 e tre giorni dopo eseguirono un bypass quadruplo. Sembra ragionevole
-assumere che Bill Clinton abbia le migliori cure mediche possibili, eppure
-ebbe da aspettare che le sue arterie fossero bloccate al 90% per conoscere
-tale numero. Sicuramente in futuro sapremo tali numeri come oggi conosciamo
-il nostro peso. Allo stesso modo per il cancro. Alle future generazioni
-sembrerà assurdo che dovessimo aspettare che i pazienti avessero sintomi
-fisici perché venisse diagnosticato il cancro. Il cancro apparirà
+assumere che Bill Clinton abbia a disposizione le migliori cure mediche
+possibili, eppure ebbe da aspettare che le sue arterie fossero bloccate al 90%
+per conoscere tale numero. Sono certo che in futuro sapremo tali numeri come
+oggi conosciamo il nostro peso. Allo stesso modo per il cancro. Alle future
+generazioni sembrerà assurdo che dovessimo aspettare che i pazienti avessero
+sintomi fisici perché venisse diagnosticato il cancro. Il cancro apparirà
 immediatamente su una qualche forma di radar.
 
 (Certamente potrebbe darsi che quello che apparrà su tali schermi sia diverso
@@ -316,22 +323,22 @@ Molti degli ostacoli nel realizzare una diagnosi continua verrebbero dal fatto
 che si scontri con i fondamenti della professione medica. Ha sempre funzionato
 che i pazienti vanno dai dottori con i loro problemi, e i dottori dicono loro
 che cosa non va. A molti dottori non piacerebbe avventurarsi in quella che
-degli avvocati chiamerebbero TODO, in cui cercano problemi senza sapere cosa
-stanno cercando. Chiamano le scoperte così fatte TODO, e risultano essere
-grosse seccature.
+degli avvocati chiamerebbero "fishing expedition", in cui cercano problemi
+senza sapere cosa stanno cercando. Chiamano le scoperte così fatte
+incidentalomi, e risultano essere grosse seccature.
 
-Ad esempio, una mio amica si fece analizzare il cervello come parte di uno
+Ad esempio una mio amica si fece analizzare il cervello come parte di uno
 studio. Si spaventò moltissimo quando i medici dissero di averle scoperto
 un grosso tumore. Ulteriori test dimostrarono che si trattasse di una cisti
 benigna, ma le costò qualche giorno di terrore. Molti dottori si preoccupano
 che se cominciassimo ad analizzare pazienti privi di sintomi replicheremmo
 questa situazione a una scala gigantesca: un numero enorme di falsi allarmi
-che manderanno nel panico i pazienti e che richiedono test costosi e magari
+che manderanno nel panico i pazienti e che richiederanno test costosi e magari
 pericolosi per essere fatti rientrare. Ma penso che sia un artefatto delle
 attuali limitazioni. Se le persone venissero analizzate continuamente e
 migliorasse la nostra capacità di decidere cosa sia grave e cosa non lo sia,
 la mia amica avrebbe saputo della propria cisti e della sua innocuità, come
-se fosse una voglia.
+se fosse stata una voglia sulla pelle.
 
 C'è posto per molte startup in questo campo. In aggiunta ai problemi tecnici
 che tutte le startup devono affrontare, e tutti gli ostacoli burocratici che
@@ -360,8 +367,8 @@ spiare l'uno con l'altro.
 
 Esperienza insegna che partire da piccole cose lo si fa non soltanto per gli
 altri, ma ne avrete bisogno per voi stessi. Nè Bill Gates nè Mark Zuckerberg
-sapevano sin dall'inizio quanto grandi sarebbero diventate le proprie aziende.
-Sapevano soltanto di essere sulla strada giusta. Forse è una cattiva idea
+sapevano sin dall'inizio quanto grandi sarebbero diventate le proprie aziende:
+sapevano soltanto di essere sulla strada giusta. Forse è una cattiva idea
 avere inizialmente grandi ambizioni, perché più grande è l'ambizione più
 tempo ci metterete, perciò farete piani più a lungo termine, quindi più
 facilmente sbaglierete.
@@ -383,7 +390,7 @@ del futuro, ma empiricamente potrebbe essere preferibile averne una sfocata.
 
   <li id="fn2-05062012"><p>Originariamente questa frase era "GMail è penosamente lento". Ringrazio Paul Buchheit per la correzione. <a href="#ref2-05062012">&#8617;</a></p></li>
 
-  <li id="fn3-05062012"><p>Roger Bannister è famoso per essere la prima persona ad aver corso un miglio in meno di 4 minuti. Ma il suo record mondiale durò soltanto 46 giorni. Una volta che dimostrò che si poteva fare, molti altri lo seguirono. Dieci anni dopo Jim Ryun, studente delle superiori, corse un miglio in 3 minuti e 59 secondi. <a href="#ref3-05062012">&#8617;</a></p></li>
+  <li id="fn3-05062012"><p>Roger Bannister è famoso per essere la prima persona ad aver corso un miglio in meno di 4 minuti, ma il suo record mondiale durò soltanto 46 giorni: una volta che dimostrò che si potesse fare, molti altri lo seguirono. Dieci anni dopo Jim Ryun, studente delle superiori, corse un miglio in 3 minuti e 59 secondi. <a href="#ref3-05062012">&#8617;</a></p></li>
 
   <li id="fn4-05062012"><p>Se volete diventare la prossima Apple, forse non dovreste neanche cominciare producendo elettronica di consumo. Magari all'inizio potreste cominciare con un prodotto che soltanto gli hacker usino. O magari potreste cominciare creando qualcosa di popolare ma apparentemente irrilevante, come una cuffia o un router. Tutto quello di cui avete bisogno è una testa di ponte. <a href="#ref4-05062012">&#8617;</a></p></li>
 </ol>
