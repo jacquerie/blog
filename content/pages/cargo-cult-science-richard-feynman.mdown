@@ -1,0 +1,44 @@
+Date: 17 Jun 2012
+Summary: Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che un pezzo del corno di un rinoceronte incrementasse la potenza sessuale. Poi fu scoperto un metodo per discriminare fra le idee, cioè provare a vedere se funzionassero e, se non lo facevano, scartarle. Questo metodo si è via via strutturato fino a diventare la scienza.
+
+# Cargo Cult Science #
+
+_Questo post è una traduzione di ["Cargo Cult Science"][] di Richard Feynman._
+
+Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che
+un pezzo del corno di un rinoceronte incrementasse la potenza sessuale [...].
+Poi fu scoperto un metodo per discriminare fra le idee, cioè provare a vedere
+se funzionassero e, se non lo facevano, scartarle. Questo metodo si è via via
+strutturato fino a diventare la scienza. E si è sviluppato talmente bene che
+oggi possiamo dirci nell'era della scienza, tanto che abbiamo difficoltà a
+capire come possano essere mai esistiti gli stregoni, visto che poco o nulla
+di quello che proponevano funzionava.
+
+Eppure persino oggi incontro persone che prima o poi mi coinvolgono in una
+conversazione sugli UFO, sull'astrologia, qualche forma di misticismo,
+coscienza espansa, nuovi tipi di consapevolezza, percezione extrasensoriale e
+così via. E ho capito che _non_ viviamo in un mondo scientifico.
+
+La maggior parte delle persone crede in così tante cose meravigliose che ho
+deciso di investigare perché lo facessero. E quella che alcuni chiamano la mia
+curiosità naturale mi ha portato nel difficile stato in cui ho trovato così
+tanta spazzatura di cui parlare da non poterlo fare in questo discorso. Ne
+sono sopraffatto. Prima ho cominciato studiando varie idee relative al
+misticismo e alle esperienze mistiche. Sono stato in vasche di deprivazione
+sensoriale [...] e ho avuto svariate ore di allucinazioni, perciò ne so
+qualcosa. Poi mi sono recato ad Elasen, focolaio di questo tipo di pensiero
+[...]. Fu allora che rimasi sopraffatto. Non sospettavo _quanto_ fosse esteso.
+
+Ad esempio sedevo in una sauna insieme ad un tizio e a una ragazza. Lui le
+disse: "Sto imparando a fare massaggi. Posso fare pratica su di te?", e lei
+acconsentì. Perciò la ragazza si sdraiò su un tavolo e lui cominciò dal piede,
+massaggiandole l'alluce TODO Perciò chiusi gli occhi e finsi di stare
+meditando.
+
+TODO
+
+TODO
+
+TODO
+
+["Cargo Cult Science"]: http://calteches.library.caltech.edu/3043/1/CargoCult.pdf
