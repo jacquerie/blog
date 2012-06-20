@@ -1,9 +1,11 @@
-Date: 17 Jun 2012
+Date: 20 Jun 2012
 Summary: Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che un pezzo del corno di un rinoceronte incrementasse la potenza sessuale. Poi fu scoperto un metodo per discriminare fra le idee, cioè provare a vedere se funzionassero e, se non lo facevano, scartarle. Questo metodo si è via via strutturato fino a diventare la scienza.
 
 # Cargo Cult Science #
 
-_Questo post è una traduzione di ["Cargo Cult Science"][] di Richard Feynman._
+_Questo post è una traduzione e un adattamento di ["Cargo Cult Science"][], 
+il discorso tenuto da Richard Feynman per l'inaugurazione dell'anno accademico
+del Caltech nel 1974._
 
 Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che
 un pezzo del corno di un rinoceronte incrementasse la potenza sessuale [...].
@@ -32,13 +34,137 @@ qualcosa. Poi mi sono recato ad Elasen, focolaio di questo tipo di pensiero
 Ad esempio sedevo in una sauna insieme ad un tizio e a una ragazza. Lui le
 disse: "Sto imparando a fare massaggi. Posso fare pratica su di te?", e lei
 acconsentì. Perciò la ragazza si sdraiò su un tavolo e lui cominciò dal piede,
-massaggiandole l'alluce TODO Perciò chiusi gli occhi e finsi di stare
+massaggiandole l'alluce. Poi si volse verso quella che probabilmente era la
+sua istruttrice e disse: "Sento una specie di incavo. È la ghiandola
+pituaria?" Lei rispose che no, non era così che risultava al tatto. Io allora
+sbottai: "Sei davvero molto lontano dalla pituaria, amico!" ed entrambi si
+girarono a guardarmi — mi ero tradito. Lei mi disse: "Si tratta di
+riflessologia plantare". Perciò chiusi gli occhi e finsi di stare
 meditando.
 
+Questo è solo un esempio delle cose che mi hanno sopraffatto. TODO
+
+TODO
+
+TODO
+
+---
+
+TODO
+
+Riassumendo: l'idea è provare a dare _tutta_ l'informazione per aiutare gli
+altri a giudicare il valore del vostro contributo, non soltanto l'informazione
+a supporto dell'una o dell'altra visione.
+
+La maniera più semplice per illustrare questa idea è contrastarla, ad esempio,
+con la pubblicità. L'altra sera ho sentito che l'olio Wesson non si infiltra
+nei cibi. Beh, è vero. [...] Il fatto che dovrebbe essere aggiunto alla 
+pubblicità è che _nessun_ olio si infiltra nei cibi, se adoperato ad una certa 
+temperatura. Ad una particolare temperatura _tutti_ lo faranno — incluso
+l'olio Wesson. TODO
+
+---
+
+TODO
+
+L'esperienza ci ha insegnato parecchio sui modi in cui ci inganniamo da soli.
+Un esempio su tutti: Millikan misurò la carica dell'elettrone in un
+esperimento in cui faceva cadere gocce di olio, ottenendo una risposta che
+oggi sappiamo essere non particolarmente esatta. Il risultato era sbagliato
+perché usò un valore errato per la viscosità dell'aria. È interessante
+osservare la storia delle misure della carica dell'elettrone dall'esperimento
+di Millikan. Disegnandole in funzione del tempo troverete una misura un po'
+più grande di quella di Millikan, poi una ancora un poco più grande e così
+via, fino a stabilizzarsi su un valore inequivocabilmente più grande.
+
+Come mai non scoprirono subito che il valore giusto era maggiore? Questa è
+una storia piuttosto imbarazzante per gli scienziati. È infatti chiaro che le
+cose siano andate così: chi otteneva un numero troppo alto rispetto a quello
+di Millikan pensava di aver sbagliato qualcosa, perciò a furia di cercare
+trovava qualcosa di sbagliato. Chi otteneva invece un numero più simile a
+quello di Millikan non si impegnava così tanto. In questo modo venivano
+eliminati i numeri troppo bizzarri [...]. Ai giorni nostri abbiamo imparato
+questo trucco, e non ci caschiamo più.
+
+TODO
+
+Il principio fondamentale è che non dovete trarvi in inganno da soli — eppure
+siete la persona più facile da ingannare. Prestateci attenzione. Fatto questo,
+è facile non trarre in inganno gli altri scienziati. Dovete soltanto essere
+normalmente onesti.
+
+Vorrei anche aggiungere qualcosa che non è essenziale per la scienza ma è
+qualcosa in cui credo: non dovete ingannare l'uomo della strada quando parlate
+come scienziato. Non vi sto dicendo cosa fare quando tradite vostra moglie,
+la vostra ragazza o qualcosa del genere TODO
+
+TODO
+
+TODO
+
+TODO
+
+Altri tipi di errori sono maggiormente tipici della cattiva scienza. Durante
+la mia permanenza a Cornell parlavo spesso con i colleghi del dipartimento di
+psicologia. Una studentessa mi disse di voler fare un esperimento del genere:
+[...] altri avevano osservato che, sotto certe circostanze X, i ratti facevano
+A. Lei desiderava sapere se, nelle circostanze Y, i ratti avrebbero comunque
+fatto A. Perciò lei propose di ripetere l'esperimento con le circostanze Y
+e vedere se si verificasse A.
+
+Le spiegai che era prima necessario ripetere l'esperimento dell'altra
+persona nel proprio laboratorio, cioè vedere se nelle circostanze X ottenesse
+A, e poi modificare le circostanze in Y e vedere se A cambiasse. Solo così
+avrebbe saputo che l'unica vera differenza era la cosa che pensava fosse sotto
+il proprio controllo.
+
+---
+
+Lei tornò tutta galvanizzata dal proprio professore con questa nuova idea.
+Egli però le rispose che non poteva farlo, perché quell'esperimento era già
+stato fatto e avrebbe soltanto perso del tempo. Era circa il 1935, ed allora 
+la prassi negli esperimenti di psicologia era cambiare le ipotesi e vedere 
+cosa succedesse.
+
+TODO
+
+Tuttavia non tutti gli esperimenti in psicologia sono di questo tipo. Ad
+esempio sono stati svolti un sacco di esperimenti in cui venivano fatti
+correre dei ratti attraverso ogni sorta di labirinti — con risultati assai
+poco chiari. Ma nel 1937 un certo Young ne eseguì uno particolarmente
+interessante. Il suo labirinto consisteva di un lungo corridoio con da un lato
+porte da cui venivano i ratti, dall'altro porte dietro cui c'era del cibo.
+Egli voleva sapere se fosse possibile insegnare ai ratti a recarsi nella terza
+porta rispetto a quella da cui venivano fatti uscire. No. I ratti andavano
+immediatamente alla porta dietro cui avevano trovato il cibo la volta
+precedente.
+
+Naturalmente la domanda era: come era possibile che i ratti si ricordassero
+della porta precedente, dato che il corridoio era così ben costruito e
+uniforme? Chiaramente qualcosa differenziava quella porta da tutte le altre.
+Perciò provò a ridipingere tutte le porte nel modo più uniforme possibile, di
+modo che fossero indistinguibili al tatto. Ma i ratti continuavano ad andare
+alla porta precedente. Allora pensò che forse i ratti sentissero l'odore del
+cibo, perciò cambiò chimicamente l'odore dopo ogni esperimento. Ma i ratti
+continuavano ad andare alla porta precedente. Allora sospettò che i ratti
+fossero in grado di riconoscere la propria posizione grazie alle luci del
+laboratorio [...]. Perciò coprì il labirinto, ma ancora una volta i ratti
+andavano alla porta precedente.
+
+Finalmente capì che riconoscessero il suono del pavimento colpito dalle
+proprie zampette. Perciò risolse questo problema ricoprendolo di sabbia. TODO
+
+TODO
+
 TODO
 
 TODO
 
 TODO
+
+E quindi vi auguro la buona fortuna di lavorare dove possiate mantenere
+l'integrità che ho sin qui descritto, e dove non vi troviate costretti a
+perderla pur di mantenere la vostra carica, i vostri finanziamenti e così via.
+Che possiate avere questa libertà. [...]
 
 ["Cargo Cult Science"]: http://calteches.library.caltech.edu/3043/1/CargoCult.pdf
