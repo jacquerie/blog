@@ -28,7 +28,7 @@ tanta spazzatura di cui parlare da non poterlo fare in questo discorso. Ne
 sono sopraffatto. Prima ho cominciato studiando varie idee relative al
 misticismo e alle esperienze mistiche. Sono stato in vasche di deprivazione
 sensoriale [...] e ho avuto svariate ore di allucinazioni, perciò ne so
-qualcosa. Poi mi sono recato ad Elasen, focolaio di questo tipo di pensiero
+qualcosa. Poi mi sono recato ad Esalen, focolaio di questo tipo di pensiero
 [...]. Fu allora che rimasi sopraffatto. Non sospettavo _quanto_ fosse esteso.
 
 Ad esempio sedevo in una sauna insieme ad un tizio e a una ragazza. Lui le
@@ -52,7 +52,7 @@ piegamento di chiavi. Non riuscì in alcun tentativo di lettura della mente
 niente. Allora ci disse che sarebbe funzionato meglio sott'acqua, perciò
 potete immaginarci tutti in piedi in un bagno con l'acqua che scorreva, la
 chiave sotto il getto e lui che strofinava la chiave con il dito. Non accadde
-niente. Dunque non fui in grado di indagare su quel particolare fenomeno.
+niente. Dunque non riuscii ad indagare su quel particolare fenomeno.
 
 Ma poi mi misi a pensare: in cosa altro crediamo? [...] Perciò ho trovato 
 credenze ancora _più_ diffuse, come il fatto che sappiamo qualcosa su come
@@ -189,8 +189,8 @@ spingersi fino a mostrare com'è che potreste sbagliarvi quando parlate in
 qualità di scienziato. E questa è una nostra responsabilità come scienziati
 sicuramente verso altri scienziati ma anche, penso, verso l'uomo comune.
 
-Ad esempio, rimasi un po' sorpreso parlando con un amico che avrebbe parlato
-in radio. Lui si occupa di astronomia e cosmologia, e si chiedeva cosa avrebbe
+Ad esempio rimasi un po' sorpreso parlando con un amico che avrebbe parlato
+in radio. Lui si occupava di astronomia e cosmologia, e si chiedeva cosa avrebbe
 detto se gli avessero chiesto le ricadute pratiche del proprio lavoro. Dissi:
 "Beh, nessuna". Lui rispose che allora non avrebbe saputo giustificare perché
 dovesse ottenere finanziamenti. Penso che questo sia in qualche modo
@@ -201,22 +201,23 @@ vogliono più supportarvi economicamente è loro diritto decidere.
 Un altro esempio è il seguente: se decidete di mettere alla prova una teoria,
 o volete illustrare una vostra idea, dovrete decidere di pubblicarla a
 a prescindere dal risultato. Pubblicando soltanto risultati di un certo tipo
-staremmo TODO. Dobbiamo pubblicare _entrambi_ i tipi di risultati. Un esempio,
-anche questo dal mondo della pubblicità: supponiamo che una certa marca di
-sigarette abbia una certa proprietà, come un basso contenuto di nicotina.
-La compagnia afferma ovunque come questa sia una buona notizia — ma omettono
-di dire, ad esempio, che il contenuto di catrame è maggiore o che ci sia 
-qualche altro problema con quelle sigarette. In altre parole, la probabilità 
-di essere pubblicati dipende dalla risposta che date. Questo non dovrebbe 
-accadere.
+staremmo mettendo in buona luce una certa teoria. Dobbiamo pubblicare _entrambi_
+i tipi di risultati. Un esempio, anche questo dal mondo della pubblicità: 
+supponiamo che una certa marca di sigarette abbia una certa proprietà, come un
+basso contenuto di nicotina. La compagnia afferma ovunque come questa sia una 
+buona notizia — ma omettono di dire, ad esempio, che il contenuto di catrame è
+maggiore o che ci sia qualche altro problema con quelle sigarette. In altre 
+parole, la probabilità di essere pubblicati dipende dalla risposta che date. 
+Questo non dovrebbe accadere.
 
-Sostengo che questo sia importante anche quando TODO. Supponiamo che un
-senatore vi chieda se scavare o meno un buco nel proprio stato, e voi
-decidiate che sia preferibile farlo in un altro stato. Non pubblicando un tale
-risultato mi pare che non stiate dando una consulenza scientifica. Vi stanno
-usando. Se la vostra risposta è allineata con quello che piace al politico di
-turno allora la useranno come argomentazione a proprio favore; altrimenti non
-ne parleranno proprio. Questa non è consulenza scientifica.
+Sostengo che questo sia importante anche quando date certi tipi di consulenza 
+ai politici. Supponiamo che un senatore vi chieda se scavare o meno un buco nel
+proprio stato, e voi decidiate che sia preferibile farlo in un altro stato. Non
+pubblicando un tale risultato mi pare che non stiate dando una consulenza 
+scientifica. Vi stanno usando. Se la vostra risposta è allineata con quello che
+piace al politico di turno allora la useranno come argomentazione a proprio 
+favore; altrimenti non ne parleranno proprio. Questa non è consulenza 
+scientifica.
 
 Altri tipi di errori sono più tipici della cattiva scienza. Durante la mia 
 permanenza a Cornell parlavo spesso con i colleghi del dipartimento di
@@ -240,7 +241,18 @@ stato fatto e avrebbe soltanto perso del tempo. Era circa il 1935, ed allora
 la prassi negli esperimenti di psicologia era cambiare le ipotesi e vedere 
 cosa succedesse.
 
-TODO
+Ai giorni nostri esiste sempre il pericolo che accade, anche nel celebre
+campo della fisica. Mi sconvolse sentire di un esperimento fatto nel grande
+acceleratore del National Accelerator Laboratory a base di deuterio. Per poter
+comparare i risultati con questo isotopo pesante dell'idrogeno con quelli del
+normale idrogeno si usarono i risultati dell'esperimento analogo effettuato su
+un diverso apparato. Quando chiesi spiegazioni mi venne risposto che non fu
+possibile ottenere l'uso dell'acceleratore perché non si sarebbe ottenuto
+alcun nuovo risultato. E dunque gli uomini a capo del NAL sono talmente ansiosi
+di ottenere nuovi risultati [...] che stanno (forse) distruggendo il valore
+degli esperimenti stessi, unica ragione per cui fu costruito l'acceleratore.
+Spesso gli scienziati del NAL hanno difficoltà a svolgere il proprio lavoro
+come integrità scientifica vorrebbe.
 
 Tuttavia non tutti gli esperimenti in psicologia sono di questo tipo. Ad
 esempio sono stati svolti un sacco di esperimenti in cui venivano fatti
