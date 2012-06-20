@@ -8,7 +8,7 @@ il discorso tenuto da Richard Feynman per l'inaugurazione dell'anno accademico
 del Caltech nel 1974._
 
 Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che
-un pezzo del corno di un rinoceronte incrementasse la potenza sessuale [...].
+un pezzo del corno di un rinoceronte aumentasse la potenza sessuale [...].
 Poi fu scoperto un metodo per discriminare fra le idee, cioè provare a vedere
 se funzionassero e, se non lo facevano, scartarle. Questo metodo si è via via
 strutturato fino a diventare la scienza. E si è sviluppato talmente bene che
@@ -42,13 +42,72 @@ girarono a guardarmi — mi ero tradito. Lei mi disse: "Si tratta di
 riflessologia plantare". Perciò chiusi gli occhi e finsi di stare
 meditando.
 
-Questo è solo un esempio delle cose che mi hanno sopraffatto. TODO
+Questo è solo un esempio delle cose che mi hanno sopraffatto. Ho indagato
+sulla percezione extrasensoriale, sui fenomeni paranormali e anche su Uri
+Geller, un uomo che sosteneva di essere in grado di piegare delle chiavi
+strofinandole con le dita. Perciò mi sono recato alla sua camera d'albergo
+sotto suo invito per vedere una dimostrazione di lettura delle mente e
+piegamento di chiavi. Non riuscì in alcun tentativo di lettura della mente
+[...]. Un mio assistente resse una chiave e Geller la strofinò, ma non accadde
+niente. Allora ci disse che sarebbe funzionato meglio sott'acqua, perciò
+potete immaginarci tutti in piedi in un bagno con l'acqua che scorreva, la
+chiave sotto il getto e lui che strofinava la chiave con il dito. Non accadde
+niente. Dunque non fui in grado di indagare su quel particolare fenomeno.
 
-TODO
+Ma poi mi misi a pensare: in cosa altro crediamo? [...] Perciò ho trovato 
+credenze ancora _più_ diffuse, come il fatto che sappiamo qualcosa su come
+educare. Esistono grandi scuole di pensiero su come insegnare la matematica
+o a leggere, ma, a ben vedere, i risultati dei test di comprensione continuano
+a calare [...] — sebbene usiamo proprio questi risultati per migliorare i
+metodi di insegnamento. _Ecco_ un rimedio da stregone che non funziona.
+Dovremmo analizzarlo con più attenzione: come fanno a sapere che il proprio
+metodo dovrebbe funzionare? Un altro esempio è il modo in cui gestiamo le
+carceri. È ovvio che non abbiamo fatto alcun progresso — tanta teoria, ma
+nessun progresso — verso il ridurre il crimine tramite il corretto trattamento
+dei carcerati.
 
-TODO
+Eppure tutto ciò è ritenuto scientifico. Viene studiato. E penso che le
+persone comuni con idee di buonsenso siano intimidite da tutta questa 
+pseudoscienza. Una maestra che abbia una buona idea su come insegnare a 
+leggere ai propri alunni è costretta dal sistema scolastico a farlo in un 
+altro modo — e magari è indotta a credere che il proprio metodo non sia 
+necessariamente buono. Un genitore di ragazzacci, dopo aver provato ad 
+inculcare loro un po' di disciplina, si sentirà in colpa per il resto della 
+vita poiché non ha fatto "la cosa giusta" secondo gli esperti.
 
 ---
+
+Dunque dovremmo analizzare con maggiore attenzione le teorie che non
+funzionano, e la scienza che in realtà non è scienza.
+
+Ho provato a pensare a come espormi il più possibile a questo tipo di pensiero.
+Ho trovato il seguente modo: quando, durante un evento sociale, vi trovate in
+una conversazione in cui desiderereste l'arrivo di vostra moglie o della
+padrona di casa [...] allora potrete essere sicuri di star parlando di
+qualcosa di cui nessuno sa niente.
+
+Con questo metodo ho scoperto qualche altro argomento di cui mi ero
+dimenticato — fra cui l'efficacia delle varie forme di psicoterapia. Perciò
+mi sono immerso fra i libri e tutto il resto, e dunque ho tanto da raccontare
+che non riesco proprio a farcela. Mi limiterò a solo qualche piccola cosa, e
+mi concentrerò sulle credenze maggiormente diffuse. Forse il prossimo anno
+tornerò a parlarne in una serie di conferenze. Ci vorrà molto tempo.
+
+Penso che gli studi educativi e psicologici di cui ho parlato siano esempio di
+quella che chiamo Cargo Cult Science. Nei mari del sud esiste il cosiddetto
+Culto del Cargo. Durante la guerra le popolazioni indigene osservavano
+atterrare aerei con ricchi carichi, e vorrebbero che lo stesso succedesse 
+oggi. Perciò si sono industriati nel costruire oggetti ad imitazione delle 
+piste di atterraggio con tanto di fuochi lungo i lati, ed anche una capanna di 
+legno in cui ci si sieda un uomo, il controllore, con due pezzi di legno sulla 
+testa come se fossero delle cuffie e canne di bamboo come antenne, e ora 
+aspettano che gli aerei atterrino. Stanno facendo tutto bene. La forma è 
+perfetta. Sembra proprio identico a prima. Eppure non funziona. Nessun aereo 
+atterra. E quindi chiamo questi studi Cargo Cult Science, perché 
+apparentemente seguono tutti i precetti e le forme dell'indagine scientifica, 
+tranne qualcosa di essenziale, perché gli aerei non atterrano.
+
+TODO
 
 TODO
 
@@ -62,6 +121,8 @@ nei cibi. Beh, è vero. [...] Il fatto che dovrebbe essere aggiunto alla
 pubblicità è che _nessun_ olio si infiltra nei cibi, se adoperato ad una certa 
 temperatura. Ad una particolare temperatura _tutti_ lo faranno — incluso
 l'olio Wesson. TODO
+
+TODO
 
 ---
 
