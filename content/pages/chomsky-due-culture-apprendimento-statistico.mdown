@@ -1,0 +1,236 @@
+Date: 28 June 2012
+
+# Su Chomsky e le due culture dell'apprendimento statistico #
+
+_Questo post è una traduzione di ["On Chomsky and the Two Cultures of Statistical Learning"][] di Peter Norvig._
+
+Technology Review [sostiene][] che al simposio dal titolo 
+["Brain, Minds, and Machines"][] tenuto in occasione dei 150 anni del MIT il
+professor Noam Chomsky
+
+> ha deriso i ricercatori in apprendimento automatico che usano metodi
+> puramente statistici per produrre comportamenti che imitino qualcosa di
+> esistente nel mondo, ma che non provano a comprendere il significato di tali
+> comportamenti.
+
+Ora è disponibile la [trascrizione][], perciò citiamo Chomsky stesso:
+
+> È vero che è stato fatto un sacco di lavoro nel provare ad applicare modelli
+> statistici a svariati problemi linguistici. Penso che ci sia stato qualche
+> successo, ma molti fallimenti. Esiste una nozione di successo ... che penso
+> si sia vista per la prima volta nella storia della scienza. Chiamano 
+> "successo" l'aver approssimato dati non ancora analizzati.
+
+Questo post discute le affermazioni di Chomsky, specula su quello che avrebbe
+potuto intendere e prova a determinarne fondatezza e importanza.
+
+Le osservazioni di Chomsky erano in risposta alla domanda di Steven Pinker sui
+successi ottenuti dai modelli probabilistici addestrati con metodi statistici.
+
+1. Cosa intendeva Chomsky? Ha ragione?
+2. Cosa è un modello statistico?
+3. Quanto successo hanno avuto i modelli statistici del linguaggio?
+4. Esiste una nozione comparabile di successo nella storia della scienza?
+5. Cosa non piace a Chomsky dei modelli statistici?
+
+## Cosa intendeva Chomsky? Ha ragione? ##
+
+Penso che gli argomenti di Chomsky siano i seguenti:
+
+1. I modelli statistici del linguaggio hanno avuto un successo in senso
+ingegneristico, ma questo è irrilevante per la scienza.
+
+2. Modellare accuratamente fatti linguistici è come collezionare farfalle;
+ciò che conta nella scienza (e in particolare nella linguistica) sono i
+principi sottostanti.
+
+3. I modelli statistici sono incomprensibili; non sono di aiuto
+all'intuizione.
+
+4. I modelli statistici possono simulare accuratamente certi fenomeni, ma la
+simulazione è fatta in modo totalmente sbagliato; le persone non decidono
+quale dovrebbe essere la terza parola di una frase consultando una tabella di
+probabilità TODO
+
+5. I modelli statistici si sono dimostrati incapaci di apprendere il
+linguaggio; dunque il linguaggio deve essere innato, perciò perché questi
+modellatori statistici stanno sprecando il proprio tempo in uno sforzo
+sbagliato?
+
+Ha ragione? Questo è un dibattito di lunga data. Di seguito le mie risposte:
+
+1. TODO
+
+2. TODO
+
+3. TODO
+
+4. TODO
+
+5. TODO
+
+Consentitemi ora di giustificare le mie risposte con uno sguardo più attento
+alle restanti domande.
+
+## Cosa è un modello statistico? ##
+
+Un **modello statistico** è un modello matematico modificato o addestrato 
+dall'aggiunta di dati. I modelli statistici sono spesso, ma non sempre,
+probabilistici. Dove è importante distinguere saremo attenti a non dire
+soltanto "statistico", ma useremo i seguenti lemmi:
+
+  + Un **modello matematico** specifica una relazione fra variabili, sia in 
+  una forma funzionale TODO
+  + Un **modello probabilistico** TODO
+  + Un **modello addestrato** TODO
+
+## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
+
+TODO
+
+  + **Motori di ricerca** TODO
+  + TODO
+  + **Traduzione automatica** TODO
+  + TODO
+
+TODO
+
+  + TODO
+  + TODO
+  + TODO
+  + TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+## Esiste una nozione comparabile di successo nella storia della scienza? ##
+
+## Cosa non piace a Chomsky dei modelli statistici? ##
+
+Ho detto che i modelli statistici vengono talvolta confusi con i modelli
+probabilistici; TODO
+
+> Ma deve essere riconosciuto che la nozione di "probabilità di una frase" sia
+> interamente inutile, sotto qualunque sua interpretazione.
+
+Il suo argomento principale era che TODO
+
+> Penso che siamo costretti a concludere che ... i metodi probabilistici TODO
+
+TODO
+
+1. TODO
+2. TODO
+3. TODO
+4. TODO
+
+TODO
+
+TODO
+
+TODO
+
+> Nè (a) 'colorless green ideas sleep furiosly' nè (b) 'furiosly sleep ideas
+> green colorless', o una qualunque delle loro parti, sono mai apparse nell'
+> esperienza linguistica di chi parla inglese. Ma (a) è grammaticalmente
+> corretta, (b) no.
+
+TODO
+
+  + TODO
+  + TODO
+  + "**Ideas sleep** in books." [Current Opinion: Volume 52][], (1912)
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+1. The earth quaked.
+2. ? It quaked her bowels
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+## Le due culture ##
+
+## Bibliografia annotata ##
+
+1. Abney, Steve (1996) [Statistical Methods and Linguistics][], in Klavans e Resnick (ed.) _The Balancing Act: Combining Symbolic and Statistical Approaches to Language_, MIT Press.
+   > TODO
+   
+2. TODO
+   > TODO
+   
+3. TODO
+   > TODO
+   
+4. TODO
+   > TODO
+   
+5. TODO
+   > TODO
+   
+6. TODO
+   > TODO
+   
+7. TODO
+   > TODO
+   
+8. TODO
+   > TODO
+     
+9. TODO
+   > TODO
+   
+10. TODO
+    > TODO
+
+11. TODO
+    > TODO
+
+12. TODO
+    > TODO
+
+13. TODO
+    > TODO
+
+14. TODO
+    > TODO
+
+15. TODO
+    > TODO
+
+16. Platone (c. 380AC) [La Repubblica][]
+    > Qui citato per il mito della caverna.
+
+17. TODO
+
+["On Chomsky and the Two Cultures of Statistical Learning"]: http://norvig.com/chomsky.html
+
+[sostiene]: http://www.technologyreview.com/computing/37525/?a=f
+["Brain, Minds, and Machines"]: http://mit150.mit.edu/symposia/brains-minds-machines
+[trascrizione]: http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html
+
+[Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
+
+[Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
+
+[La Repubblica]: http://en.wikipedia.org/wiki/Allegory_of_the_Cave
