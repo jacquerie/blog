@@ -1,0 +1,19 @@
+Date:
+Summary:
+
+# La parola "Hacker" #
+
+_Questo post è una traduzione di [The Word "Hacker"][] di Paul Graham._
+
+Per la stampa "hacker" è chi entra nei computer altrui. Fra programmatori
+significa buon programmatore. Ma i due significati sono collegati. Per i
+programmatori, "hacker" denota maestria nel senso più letterale del termine:
+qualcuno che sia in grado di far fare al computer quello che vuole — che il
+computer lo voglia o meno.
+
+TODO
+
+Credeteci o meno, i due significati di "hack" sono collegati. Soluzioni brutte
+TODO
+
+TODO
