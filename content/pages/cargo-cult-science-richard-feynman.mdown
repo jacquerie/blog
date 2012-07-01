@@ -1,4 +1,4 @@
-Date: 20 Jun 2012
+Date: 20 June 2012
 Summary: Durante il medioevo avevano ogni sorta di idee bislacche, come il fatto che un pezzo del corno di un rinoceronte incrementasse la potenza sessuale. Poi fu scoperto un metodo per discriminare fra le idee, cioè provare a vedere se funzionassero e, se non lo facevano, scartarle. Questo metodo si è via via strutturato fino a diventare la scienza.
 
 # Cargo Cult Science #

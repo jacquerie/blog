@@ -1,4 +1,5 @@
-Date: 01 July 2012
+Date: 01 Jul 2012
+Summary:
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
 
@@ -113,21 +114,52 @@ soltanto "statistico", ma useremo i seguenti lemmi:
   + Un **modello probabilistico** TODO
   + Un **modello addestrato** TODO
 
-## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
+Ad esempio, un decennio prima di Chomsky, Claude Shannon [propose modelli
+probabilistici della comunicazione][] basati su catene di Markov di parole. Se
+avete un vocabolario di $100000$ parole e un modello di Markov del secondo
+ordine (cioè in cui la probabilità di una parola dipende dalle precedenti
+due), avrete bisogno di specificare $10^ {15}$ probabilità per determinare il
+modello. L'unica maniera fattibile per imparare questi $10^ {15}$ parametri
+consiste nel raccogliere statistiche dai dati e usare un qualche metodo di
+approssimazione per i molti casi in cui non esistono dati. Perciò molti, ma
+non tutti, modelli probabilistici sono addestrati. Inoltre molti, ma non
+tutti, modelli addestrati sono probabilistici.
+
+Come ulteriore esempio, consideriamo il modello Newtoniano dell'attrazione
+gravitazionale, il quale afferma che la forza fra due oggetti di masse $m_1$ e
+$m_2$ a distanza $r$ sia data da
 
 TODO
+
+TODO
+
+TODO
+
+TODO
+
+## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
+
+Chomsky ha detto chi i modelli statistici hanno avuto un successo limitato in
+certe aree applicative. Andiamo a vedere come i computer approcciano il
+linguaggio, e definiamo "successo" come "fare previsioni accurate sul mondo"
+Prima ancora le maggiori aree applicative:
 
   + **Motori di ricerca** TODO
   + TODO
   + **Traduzione automatica** TODO
   + TODO
 
-TODO
+Ora invece volgiamo l'attenzione alle parti che sono d'interesse per il
+linguista computazionale e non l'utente tipico:
 
   + TODO
   + TODO
   + TODO
   + TODO
+
+Chiaramente non è accurato dire che i modelli statistici (e probabilistici)
+hanno ottenuto un successo _limitato_; piuttosto hanno raggiunto una posizione
+_dominante_ (ma non esclusiva).
 
 TODO
 
@@ -139,12 +171,48 @@ TODO
 
 ## Esiste una nozione comparabile di successo nella storia della scienza? ##
 
-TODO
+Quando Chomsky ha detto _"Questa è una nozione di successo scientifico che
+è totalmente nuova. Non conosco niente di simile nella storia della scienza"_
+intendeva che TODO
+
+Una [definizione da dizionario][] della scienza è "Lo studio sistematico della
+struttura e del comportamento del mondo fisico e naturale attraverso 
+osservazioni e esperimenti", il che enfatizza TODO
+
+> TODO
+
+Sembra proprio che questo articolo si concentri sul "modellare accuratamente
+la realtà" piuttosto che "aiutare l'intuizione". TODO
+
+Poi ho guardato a tutti i titoli e abstract del [numero corrente][1] di 
+_Science_:
+
+  + TODO
+  + TODO
+  + TODO
+
+e poi ho fatto lo stesso per il [numero corrente][2] di _Cell_:
+
+  + TODO
+  + TODO
+  + TODO
+  
+e infine per i [Premi Nobel 2010][] nelle scienze:
+
+  + Fisica: TODO
+  + Chimica: TODO
+  + Fisiologia o Medicina: TODO
+
+La mia conclusione è che il 100% di questi premi e articoli riguardano più che
+altro "modellare accuratamente il mondo" piuttosto che "aiutare l'intuizione",
+sebbene tutti TODO
 
 ## Cosa non piace a Chomsky dei modelli statistici? ##
 
 Ho detto che i modelli statistici vengono talvolta confusi con i modelli
-probabilistici; TODO
+probabilistici; consideriamo dunque in quale misura le obiezioni di Chomsky
+siano piuttosto rivolte verso i modelli probabilistici. È ben noto che nel 
+1969 [abbia scritto][]:
 
 > Ma deve essere riconosciuto che la nozione di "probabilità di una frase" sia
 > interamente inutile, sotto qualunque sua interpretazione.
@@ -261,7 +329,9 @@ TODO
 [sostiene]: http://www.technologyreview.com/computing/37525/?a=f
 ["Brain, Minds, and Machines"]: http://mit150.mit.edu/symposia/brains-minds-machines
 [trascrizione]: http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html
+[propose modelli probabilistici della comunicazione]: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
 
+[abbia scritto]: http://books.google.com/books?id=iaXVXYDQN1oC&pg=PA296&dq=%22probability+of+a+sentence%22+%22entirely+useless%22&hl=en&ei=_s7eTc_5DrTciALcsvnlCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDoQ6AEwAw#v=onepage&q=%22probability%20of%20a%20sentence%22%20%22entirely%20useless%22&f=false
 [Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
 
 [Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
