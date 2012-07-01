@@ -1,4 +1,4 @@
-Date: 30 June 2012
+Date: 01 July 2012
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
 
@@ -59,15 +59,44 @@ sbagliato?
 
 Ha ragione? Questo è un dibattito di lunga data. Di seguito le mie risposte:
 
-1. TODO
+1. Sono d'accordo che il successo ingegneristico non sia l'obiettivo o la
+misura di buona scienza. Osservo però che la scienza e l'ingegneria si 
+sviluppano insieme, e che il successo ingegnerestico indica che qualcosa
+sta andando per il verso giusto, perciò è un indizio (ma non una prova) di
+un modello scientifico di successo.
 
-2. TODO
+2. La scienza è una combinazione di raccolta di dati e formulazione di teorie;
+nessuna delle due attività può procedere da sola. Penso che Chomsky abbia 
+torto nel far pendere la bilancia a favore della teoria a discapito della
+raccolta di dati; nella storia della scienza, TODO
 
-3. TODO
+3. Sono d'accordo che sia difficile comprendere un modello contenente miliardi
+di parametri. Sicuramente un uomo non può capire un tale modello andando a
+indagare individualmente i valori di ogni parametro. Ma si può guadagnare in
+intuizione esaminando le _proprietà_ del modello — dove ha successo e dove fallisce, quanto bene impara in funzione dei dati, eccetera.
 
-4. TODO
+4. Sono d'accordo che un modello Markoviano di probabilità delle singole
+parole non può modellare l'intero linguaggio. È ugualmente vero che un conciso
+modello ad albero privo di probabilità non può modellare l'intero linguaggio.
+Serve un modello probabilistico che copra parole, alberi, semantica, contesti,
+discorsi, eccetera. Chomsky rigetta tutti i modelli probabilistici per via
+delle mancanze di particolari modelli di 50 anni fa. Capisco come Chomsky,
+partendo dalla studio della generazione del linguaggio, arrivi alla 
+conclusione che i modelli probabilistici non siano necessari. Ma la stragrande
+maggioranza delle persone che studiano compiti di _interpretazione_, come il
+riconoscimento della voce, TODO
 
-5. TODO
+5. Nel 1967 il teorema di Gold mostrò alcune limitazioni teoriche sulla
+deduzione logica di linguaggi formali. Ma questo risultato non ha niente a che 
+vedere con il compito affrontato da chi impara un linguaggio naturale. In ogni
+caso, nel 1969 sapevamo già, grazie a Horning, che l'inferenza probabilistica 
+di grammatiche libere da contesto non soffre di tale limitazione. Sono 
+d'accordo con Chomsky che sia innegabile che gli uomini possiedano una 
+capacità naturale di imparare il linguaggio naturale, ma non sappiamo 
+abbastanza di questa capacità per escluderne rappresentazioni probabilistiche 
+o apprendimento statistico. Penso che sia molto più probabile che 
+l'apprendimento del linguaggio umano comporti qualcosa simile all'inferenza 
+probabilistica o statistica, ma non lo sappiamo ancora.
 
 Consentitemi ora di giustificare le mie risposte con uno sguardo più attento
 alle restanti domande.
