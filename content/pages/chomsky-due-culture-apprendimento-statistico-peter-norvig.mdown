@@ -1,4 +1,4 @@
-Date: 01 Jul 2012
+Date: 03 Jul 2012
 Summary:
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
@@ -114,8 +114,7 @@ soltanto "statistico", ma useremo i seguenti lemmi:
   + Un **modello probabilistico** TODO
   + Un **modello addestrato** TODO
 
-Ad esempio, un decennio prima di Chomsky, Claude Shannon [propose modelli
-probabilistici della comunicazione][] basati su catene di Markov di parole. Se
+Ad esempio, un decennio prima di Chomsky, Claude Shannon [propose modelli probabilistici della comunicazione][] basati su catene di Markov di parole. Se
 avete un vocabolario di $100000$ parole e un modello di Markov del secondo
 ordine (cioè in cui la probabilità di una parola dipende dalle precedenti
 due), avrete bisogno di specificare $10^ {15}$ probabilità per determinare il
@@ -127,15 +126,90 @@ tutti, modelli addestrati sono probabilistici.
 
 Come ulteriore esempio, consideriamo il modello Newtoniano dell'attrazione
 gravitazionale, il quale afferma che la forza fra due oggetti di masse $m_1$ e
-$m_2$ a distanza $r$ sia data da
+$m_2$ a distanza $r$ sia data da 
 
-TODO
+$$F = G\frac{m_1 m_2}{r^ 2}$$
 
-TODO
+dove $G$ è la costante di gravitazione universale. Questo è un modello
+addestrato perché tale costante è stata determinata statisticamente per mezzo
+di batterie di esperimenti che soffrivano di errore sperimentale stocastico. È
+anche un modello deterministico (non probabilistico) perché stabilisce
+un'esatta relazione funzionale. Credo che Chomsky non abbia obiezioni verso
+questo tipo di modello statistico. Piuttosto, sembra rivolgere le proprie
+critiche a modelli statistici come quello di Shannon che hanno miliardi e
+miliardi di parametri, non soltanto uno o due.
 
-TODO
+(Questo esempio ci permette di introdurre un'ulteriore distinzione: il modello
+gravitazionale è **continuo** e **quantitativo**, mentre invece la tradizione
+linguistica ha favorito modelli che siano **discreti**, **categorici** e
+**qualitativi**: una parola è o meno un verbo, non ci chiediamo quanto lo sia.
+Per maggiori dettagli su questa distinzione, consultate l'articolo di Chris 
+Manning sulla [Sintassi Probabilistica][].)
 
-TODO
+Un modello probabilistico e statistico di interesse è la [legge dei gas perfetti], che descrive la pressione $P$ di un gas in termini del numero di
+molecole $N$, della temperatura $T$ e della costante di Boltzmann $k$:
+
+$$P = \frac{Nk\,T}{V}\text{.}$$
+
+Questa equazione può essere ricavata da principi primi con i mezzi della
+meccanica statistica. È un modello stocastico e non esatto; il _vero_ modello
+dovrebbe describere i moti di ogni singola particella di gas. Questo modello
+ignora tale complessità e _riassume_ TODO
+
+Ora invece consideriamo il modello non statistico dell'ortografia inglese
+espresso dalla regola _"I before E except after C."_ Confrontiamolo con il 
+seguente modello probabilistico, addestrato e statistico:
+
+$$
+\begin{align}
+  P(\text{IE})& =0.0177& P(\text{CIE})& =0.0014& P(\text{\*IE})& =0.163&\\\
+  P(\text{EI})& =0.0046& P(\text{CEI})& =0.0005& P(\text{\*EI})& =0.0041&
+\end{align}
+$$
+
+Questo modello deriva dall'analisi statistica di un [corpus di mille miliardi di parole][] inglesi. La notazione $P(\text{IE})$ indica la probabilità che 
+una parola di questo contenga le lettere consecutive $\text{IE}$. Allo stesso
+modo $P(\text{CIE})$ denota la probabilità che una parola contenga le lettere
+$\text{CIE}$, mentre $P(\text{\*IE})$ indica la probabilità di qualunque
+lettera diversa da $\text{C}$ seguita da $\text{IE}$. I dati confermano che
+$\text{IE}$ è effettivamente più comune di $\text{EI}$, e che il dominio di
+$\text{IE}$ si attenua quando preceduto da $\text{C}$, ma, contrariamente alla
+regola, $\text{CIE}$ è comunque più comune di $\text{CEI}$. Esempi di parole
+contenenti $\text{CIE}$ sono "science", "society", "ancient", "species". Lo
+svantaggio della regola _"I before E except after C"_ è che TODO
+
+$$
+\begin{align}
+  \text{TODO}
+\end{align}
+$$
+
+Un modello statistico più complesso (diciamo, uno che dia le probabilità di
+tutte le sequenze di 4 lettere e/o di tutte le parole conosciute) potrebbe
+essere TODO
+
+Come ultimo esempio (non di modelli statistici, ma per aiutare l'intuzione),
+consideriamo la Teoria delle Strette di Mano fra Giudici della Corte Suprema:
+quando si riuniscono, tutti i giudici stringono la mano con ogni altro 
+giudice. Il numero di partecipanti, $n$, deve essere un intero compreso fra 
+0 e 9; qual è il numero totale di strette di mano $h$ per un dato $n$?
+Ecco tre possibili spiegazioni:
+
+1. Ognuno degli $n$ giudici stringe la mano agli altri $n-1$ giudici, ma così
+stiamo contando le strette di mano fra Alito/Breyer e Breyer/Alito come due
+strette di mano distinte, perciò dobbiamo dividere il totale a metà, e quindi
+otteniamo $h = \frac{n(n-1)}{2}$.
+
+2. Per evitare di contare due volte ogni stretta ordiniamo i giudici per età e
+contiamo TODO
+
+3. Consultiamo questa tabella: TODO
+
+Alcune persone preferiranno la prima spiegazione, alcune la seconda, e chi è
+lento a fare addizioni e moltiplicazioni potrebbe preferire la terza. Perché?
+Tutte e tre le spiegazioni descrivono _esattamente la stessa teoria_ — la
+stessa funzione da $n$ a $h$, definita sullo stesso dominio di possibili
+valori di $n$. Quindi potremmo preferire 
 
 ## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
 
@@ -283,11 +357,12 @@ TODO
 3. TODO
    > TODO
    
-4. TODO
-   > TODO
+4. Chomsky, Noam (1967) [Syntactic Structures][], Mouton.
+   > 
    
-5. TODO
-   > TODO
+5. Chomsky, Noam (1969) [Some Empirical Assumptions in Modern Philosophy of Language][], in _Philosophy, Science and Method: Essays in Honor or Ernest Nagel_, St. Martin's Press.
+   > Viene sostenuto che la nozione di "probabilità di una frase" sia
+   > totalmente inutile.
    
 6. TODO
    > TODO
@@ -316,13 +391,29 @@ TODO
 14. TODO
     > TODO
 
-15. TODO
-    > TODO
+15. Pereira, Fernando (2002) [Formal grammar and information theory: together again?][], in Nevin and Johnson (ed.), _The Legacy of Zellig Harris_, Benjamins.
+    > Quando ho cominciato a scrivere il post che state leggendo in questo
+    > momento mi sono concentrato su eventi che accadevano a Cambridge,
+    > Massachusetts, a 4800 chilometri da casa. Dopo aver fatto un po' di
+    > ricerca mi ha sopreso scoprire che gli autori di due dei tre migliori         articoli su questo argomento sedevano a 10 metri dalla mia scrivania:
+    > Fernando Pereira e Chris Manning. (Il terzo, Steve Abney, sta a 3700
+    > chilometri di distanza.) Ma forse non mi sarei dovuto stupire. Ricordo
+    > una volta in cui tenni una conferenza all'Associazione dei Linguisti
+    > Computazionali sui modelli del linguaggio usati a Google basati su 
+    > corpus, e Fernando, allora professore all'università della Pennsylvania,
+    > commentò "Mi sento come se io fossi un fisico delle particelle e tu
+    > avessi l'unico acceleratore esistente". Qualche anno dopo arrivò a
+    > Google. Fernando è anche famoso per la frase "Più vecchio divento, più
+    > giù vado nella Gerarchia di Chomsky". Il suo articolo parla
+    > sostanzialmente delle stesse cose del presente post, ma si spinge più in
+    > profondità nello spiegare i vari modelli probabilistici disponibili e
+    > in che modo siano utili.
 
 16. Platone (c. 380AC) [La Repubblica][]
     > Qui citato per il mito della caverna.
 
-17. TODO
+17. Shannon, C.E. (1948) [A Mathematical Theory of Communication][], _The Bell System Technical Journal_, Vol. 27, pp. 379-423, 623-656.
+    > TODO
 
 ["On Chomsky and the Two Cultures of Statistical Learning"]: http://norvig.com/chomsky.html
 
@@ -330,6 +421,9 @@ TODO
 ["Brain, Minds, and Machines"]: http://mit150.mit.edu/symposia/brains-minds-machines
 [trascrizione]: http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html
 [propose modelli probabilistici della comunicazione]: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
+[Sintassi Probabilistica]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
+[legge dei gas perfetti]: http://it.wikipedia.org/wiki/Equazione_di_stato_dei_gas_perfetti
+[corpus di mille miliardi di parole]: http://norvig.com/ngrams/
 
 [abbia scritto]: http://books.google.com/books?id=iaXVXYDQN1oC&pg=PA296&dq=%22probability+of+a+sentence%22+%22entirely+useless%22&hl=en&ei=_s7eTc_5DrTciALcsvnlCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDoQ6AEwAw#v=onepage&q=%22probability%20of%20a%20sentence%22%20%22entirely%20useless%22&f=false
 [Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
