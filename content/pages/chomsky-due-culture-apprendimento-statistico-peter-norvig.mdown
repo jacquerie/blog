@@ -176,11 +176,14 @@ $\text{IE}$ è effettivamente più comune di $\text{EI}$, e che il dominio di
 $\text{IE}$ si attenua quando preceduto da $\text{C}$, ma, contrariamente alla
 regola, $\text{CIE}$ è comunque più comune di $\text{CEI}$. Esempi di parole
 contenenti $\text{CIE}$ sono "science", "society", "ancient", "species". Lo
-svantaggio della regola _"I before E except after C"_ è che TODO
+svantaggio della regola _"I before E except after C"_ è che soffre di scarsa
+accuratezza. Ad esempio:
 
 $$
 \begin{align}
-  \text{TODO}
+  & \text{Accuracy}("\text{I before E}") = \frac{0.0177}{0.0177+0.0046} = 0.793 \\\
+  & \text{Accuracy}("\text{I before E except after C}") = \\\ 
+  & = \frac{0.0005+0.0163}{0.0005+0.0163+0.0014+0.0041} = 0.753
 \end{align}
 $$
 
@@ -203,7 +206,7 @@ otteniamo $h = \frac{n(n-1)}{2}$.
 2. Per evitare di contare due volte ogni stretta ordiniamo i giudici per età e
 contiamo TODO
 
-3. Consultiamo questa tabella: TODO
+3. Consultiamo questa tabella: $$\begin{matrix} n: & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\ h: & 0 & 0 & 1 & 3 & 6 & 10 & 15 & 21 & 28 & 36\end{matrix}$$
 
 Alcune persone preferiranno la prima spiegazione, alcune la seconda, e chi è
 lento a fare addizioni e moltiplicazioni potrebbe preferire la terza. Perché?
@@ -338,58 +341,162 @@ TODO
 
 TODO
 
-TODO
+D'altro canto Ernest Rutherford (fisico, 1871-1937) disprezza la semplice
+descrizione, dicendo "La scienza è fisica oppure collezione di francobolli".
+Chomsky è con lui: "Puoi anche collezionare farfalle e fare tante
+osservazioni. Se ti piacciono le farfalle va tutto bene, ma questo non deve
+essere confuso con la ricerca, il cui scopo è la scoperta di principi
+unificanti".
 
 TODO
 
 ## Le due culture ##
+
+Dopo aver dato spazio a tutti questi importanti scienziati, penso che il
+contributo più rilevante a questa discussione sia stato dato nell'articolo
+del 2001 di Leo Breiman (statistico, 1928-2005) dal titolo [Statistical Modeling: The Two Cultures][]. In questo articolo Breiman, con allusione a
+C.P. Snow, descrive due culture:
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+Il problema è che la realtà è più complicata della sua teoria. Ecco dei
+pronomi mancanti in inglese:
+
+  + "Not gonna do it. Wouldn't be prudent." (Dana Carvey, TODO)
+  + TODO
+  + TODO
+  + TODO
+  + "Go for a walk?" (infiniti proprietari di cani)
+  + "Gotcha!" "Found it!" "Looks good to me!" (espressioni comuni)
+
+TODO
+
+TODO
+
+TODO
+
+> TODO
+
+TODO
+
+TODO
+
+> TODO
+
+TODO
 
 TODO
 
 ## Bibliografia annotata ##
 
 1. Abney, Steve (1996) [Statistical Methods and Linguistics][], in Klavans e Resnick (ed.) _The Balancing Act: Combining Symbolic and Statistical Approaches to Language_, MIT Press.
-   > TODO
+   > Un'introduzione eccellente e completa all'approccio statistico per la
+   > trattazione del linguaggio, che inoltre comprende alcuni argomenti non
+   > trattati spesso come l'evoluzione del linguaggio e le differenze
+   > individuali.
    
-2. TODO
-   > TODO
+2. Breiman, Leo (2001) [Statistical Modeling: The Two Cultures][], _Statistical Science_, Vol. 16, No. 3, 199-231.
+   > Breiman descrive magnificamente i due approcci, spiegando i benefici del
+   > proprio e difendendo i propri argomenti con le testimonianze di eminenti
+   > statistici: Cox, Efron, Hoadley e Parzen.
    
-3. TODO
-   > TODO
+3. Chomsky, Noam (1956) [Three Models for the Description of Language][], _IRE Transactions on Information theory_ (2), pp. 113-124.
+   > Vengono comparate le grammatiche a stati finiti, a struttura di frase e
+   > trasformazionali. Viene introdotta la frase "colorless green ideas sleep 
+   > furiosly".
    
 4. Chomsky, Noam (1967) [Syntactic Structures][], Mouton.
-   > 
+   > Un'esposizione in formato libro della teoria di Chomsky che fu la
+   > dottrina principale in linguistica per un decennio. Viene sostenuto che
+   > i modelli probabilistici non forniscono intuizione per la sintassi.
    
 5. Chomsky, Noam (1969) [Some Empirical Assumptions in Modern Philosophy of Language][], in _Philosophy, Science and Method: Essays in Honor or Ernest Nagel_, St. Martin's Press.
    > Viene sostenuto che la nozione di "probabilità di una frase" sia
    > totalmente inutile.
    
-6. TODO
-   > TODO
+6. Chomsky, Noam (1981) [Lectures on government and binding][], de Gruyer.
+   > Una revisione della teoria di Chomsky; viene introdotta la Grammatica
+   > Universale. La citiamo per l'inclusione di parametri come "pro-drop".
    
-7. TODO
-   > TODO
+7. Chomsky, Noam (1991) [Linguistics and adjacent fields: a personal view][], in Kasher (ed.), _A Chomskyan Turn_, Oxford.
+   > Ho trovato le citazioni su Platone in questo articolo pubblicato dal
+   > Partito Comunista della Gran Bretagna e scritto da una persona 
+   > apparentemente a digiuno di concetti di linguistica ma con una precisa 
+   > agenda politica.
    
-8. TODO
-   > TODO
+8. Gold, E. M. (1967) [Language Identification in the Limit][], _Information and Control_, Vol. 10, No. 5, pp. 447-474.
+   > Gold dimostrò un risultato nella teoria dei linguaggi formali che
+   > possiamo così enunciare (con qualche licenza): supponete di avere un
+   > gioco fra due giocatori, chi indovina e chi sceglie. Il secondo dice al
+   > primo "Ecco un numero infinito di linguaggi. Ne sceglierò uno e ti
+   > leggerò frasi da questo linguaggio. A un certo tuo compleanno ti darò un
+   > test del tipo Vero/Falso composto da 100 frasi che non hai ancora
+   > sentito e tu dovrai dire se quelle frasi appartengono al linguaggio
+   > oppure no." Ci sono certe condizioni su come sia fatto questo insieme 
+   > infinito e come possano essere scelte le frasi (può volontariamente 
+   > sviare, ma non può ad esempio ripetere la stessa frase per sempre). Il 
+   > risultato di Gold è che se l'insieme infinito è composto da linguaggi 
+   > liberi da contesto allora non esiste una strategia per cui chi indovina 
+   > sia in grado di dare la risposta giusta a tutte le 100 domande, non 
+   > importa quanto in là sia il giorno del test. Chomsky e altri hanno 
+   > interpretato questo risultato come affermante che è impossibile che un
+   > bambino impari il linguaggio umano senza possedere un innato "organo del 
+   > linguaggio". Ma, come [Johnson (2004)][] e altri dimostrano, questa è una 
+   > conclusione non valida; il compito di azzeccare tutte le domande del test 
+   > (definito da Gold "Identificazione del linguaggio") non ha in realtà 
+   > niente a che vedere con il compito di acquisizione del linguaggio svolto 
+   > dai bambini, quindi il teorema di Gold non si applica.
      
-9. TODO
-   > TODO
+9. Horning, J. J. (1969) [A study of grammatical inference][], Tesi di Dottorato, Stanford Univ.
+   > Se Gold trovò un risultato negativo — cioè che i linguaggi liberi da
+   > contesto non sono identificabili tramite esempi — Horning invece trovò
+   > un risultato positivo — cioè che i linguaggi probabilistici liberi da
+   > contesto invece lo sono (a meno di un errore arbitrariamente piccolo).
+   > Nessuno dubita che gli uomini posseggano una capacità unica e innata di
+   > comprendere il linguaggio (sebbene sia ignoto in quale misura queste
+   > capacità siano specifiche per il linguaggio o siano abilità cognitive
+   > generiche di produzione di astrazioni e ordinamento). Horning tuttavia 
+   > dimostrò nel 1969 che il teorema di Gold non possa essere usato come 
+   > argomento convincente per sostenere l'esistenza di un organo del 
+   > linguaggio innato, il quale specifichi l'intero linguaggio tranne qualche 
+   > parametro.
    
-10. TODO
-    > TODO
+10. Johnson, Kent (2004) [Gold's Theorem and cognitive science][], _Philosophy of Science_, Vol. 71, pp. 571-592.
+    > Il miglior articolo che abbia letto sul vero contenuto del teorema di
+    > Gold e su quello che è stato detto in proposito (correttamente e non).
+    > Si conclude che il teorema di Gold riguarda il linguaggi formali, ma non
+    > l'acquisizione del linguaggio.
 
-11. TODO
-    > TODO
+11. Lappin, Shalom and Shieber, Stuart M. (2007) [Machine learning theory and practice as a source of insight into universal grammar][], _Journal of Linguistics_, Vol. 43, No. 2, pp. 393-427.
+    > TODO. Propone alternative al modello della Grammatica Universale 
+    > consistente di un insieme fissato di parametri binari.
 
-12. TODO
-    > TODO
+12. Manning, Christopher (2002) [Probabilistic Syntax][], in Bod, Hay, e Jannedy (ed.), _Probabilistic Linguistics_, MIT Press.
+    > Un'introduzione affascinante alla sintassi probabilistica, e a come sia
+    > un modello migliore per fatti linguistici rispetto alla sintassi per
+    > categorie. Contiene inoltre "le gioie e i pericoli della linguistica su
+    > corpus".
 
-13. TODO
-    > TODO
+13. Norvig, Peter (2007) [How to Write a Spelling Corrector][], pagina web.
+    > Mostra del codice funzionante per implementare un algoritmo di 
+    > correzione ortografica probabilistico e statistico.
 
-14. TODO
-    > TODO
+14. Norvig, Peter (2009) [Natural Language Corpus Data][], in Seagran and Hammerbacher (ed.), _Beautiful Data_, O'Reilly.
+    > Una versione espansa del precedente articolo; mostra come implementare
+    > tre compiti: divisione del testo, decodifica crittografica e correzione
+    > ortografica (in modo leggermente più completo del precedente articolo).
 
 15. Pereira, Fernando (2002) [Formal grammar and information theory: together again?][], in Nevin and Johnson (ed.), _The Legacy of Zellig Harris_, Benjamins.
     > Quando ho cominciato a scrivere il post che state leggendo in questo
@@ -413,7 +520,11 @@ TODO
     > Qui citato per il mito della caverna.
 
 17. Shannon, C.E. (1948) [A Mathematical Theory of Communication][], _The Bell System Technical Journal_, Vol. 27, pp. 379-423, 623-656.
-    > TODO
+    > Un articolo enormemente influente che dette inizio al campo della Teoria
+    > dell'informazione, introdusse il termine "bit" e il modello di canale con rumore, dimostrò l'approssimazione dell'inglese per n-grammi,
+    > descrisse modelli Markoviani del linguaggio, definì l'entropia rispetto
+    > a questi modelli, e permise la crescita dell'industria delle
+    > telecomunicazioni.
 
 ["On Chomsky and the Two Cultures of Statistical Learning"]: http://norvig.com/chomsky.html
 
@@ -429,5 +540,20 @@ TODO
 [Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
 
 [Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
-
+[Statistical Modeling: The Two Cultures]: http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.ss/1009213726
+[Three Models for the Description of Language]: http://www.chomsky.info/articles/195609--.pdf
+[Syntactic Structures]: http://books.google.com/books?id=SNeHkMXHcd8C&printsec=frontcover&dq=syntactic+structures+chomsky&hl=en&src=bmrr&ei=1WvcTa3UDeLQiAK6-4zpDw&sa=X&oi=book_result&ct=book-thumbnail&resnum=1&ved=0CD4Q6wEwAA#v=onepage&q=probabilistic&f=false
+[Some Empirical Assumptions in Modern Philosophy of Language]: http://books.google.com/books?id=iaXVXYDQN1oC&pg=PA296&dq=%22probability+of+a+sentence%22+%22entirely+useless%22&hl=en&ei=_s7eTc_5DrTciALcsvnlCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDoQ6AEwAw#v=onepage&q=%22probability%20of%20a%20sentence%22%20%22entirely%20useless%22&f=false
+[Lectures on government and binding]: http://books.google.com/books?id=l08tpkOOdNQC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q=pro-drop&f=false
+[Linguistics and adjacent fields: a personal view]: http://www.cpgb.org.uk/article.php?article_id=1004261#23
+[Language Identification in the Limit]: http://en.wikipedia.org/wiki/Language_identification_in_the_limit
+[Johnson (2004)]: http://psyling.psy.cmu.edu/papers/years/2004/logical/gold-johnson.pdf
+[A study of grammatical inference]: http://portal.acm.org/citation.cfm?id=905718&coll=DL&dl=GUIDE&CFID=23829333&CFTOKEN=19917759
+[Gold's Theorem and cognitive science]: http://psyling.psy.cmu.edu/papers/years/2004/logical/gold-johnson.pdf
+[Machine learning theory and practice as a source of insight into universal grammar]: http://www.dcs.kcl.ac.uk/staff/lappin/papers/lappin-shieber_learning07.pdf
+[Probabilistic Syntax]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
+[How to Write a Spelling Corrector]: http://norvig.com/spell-correct.html
+[Natural Language Corpus Data]: http://norvig.com/ngrams/
+[Formal grammar and information theory: together again?]: http://www.cis.upenn.edu/~pereira/papers/rsoc.pdf
 [La Repubblica]: http://en.wikipedia.org/wiki/Allegory_of_the_Cave
+[A Mathematical Theory of Communication]: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
