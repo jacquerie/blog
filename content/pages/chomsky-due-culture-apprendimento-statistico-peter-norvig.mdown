@@ -1,5 +1,5 @@
-Date: 03 Jul 2012
-Summary:
+Date: 04 Jul 2012
+Summary: TODO
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
 
@@ -110,11 +110,19 @@ probabilistici. Dove è importante distinguere saremo attenti a non dire
 soltanto "statistico", ma useremo i seguenti lemmi:
 
   + Un **modello matematico** specifica una relazione fra variabili, sia in 
-  una forma funzionale TODO
-  + Un **modello probabilistico** TODO
-  + Un **modello addestrato** TODO
+  una forma funzionale da input a output (ad esempio, $y = mx + b$) o in forma
+  relazionale (ad esempio, le seguenti coppie $(x,y)$ sono parte di una certa
+  relazione).
+  + Un **modello probabilistico** specifica una distribuzione di probabilità
+  $P(x,y)$ su certi possibil valori di alcune variabili aleatorie,
+  diversamente da una relazione deterministica del tipo $y = f(x)$.
+  + Un **modello addestrato** usa un qualche algoritmo di
+  apprendimento/addestramento che prenda in input una collezione di possibili
+  modelli e una collezione di dati (ad esempio coppie $(x,y)$) e scelga il
+  modello migliore. Spesso questo comporta scegliere parametri (come $m$ e
+  $b$ nell'esempio precedente) per mezzo di inferenza statistica.
 
-Ad esempio, un decennio prima di Chomsky, Claude Shannon [propose modelli probabilistici della comunicazione][] basati su catene di Markov di parole. Se
+Per esempio, un decennio prima di Chomsky, Claude Shannon [propose modelli probabilistici della comunicazione][] basati su catene di Markov di parole. Se
 avete un vocabolario di $100000$ parole e un modello di Markov del secondo
 ordine (cioè in cui la probabilità di una parola dipende dalle precedenti
 due), avrete bisogno di specificare $10^ {15}$ probabilità per determinare il
@@ -124,7 +132,7 @@ approssimazione per i molti casi in cui non esistono dati. Perciò molti, ma
 non tutti, modelli probabilistici sono addestrati. Inoltre molti, ma non
 tutti, modelli addestrati sono probabilistici.
 
-Come ulteriore esempio, consideriamo il modello Newtoniano dell'attrazione
+Come ulteriore esempio consideriamo il modello Newtoniano dell'attrazione
 gravitazionale, il quale afferma che la forza fra due oggetti di masse $m_1$ e
 $m_2$ a distanza $r$ sia data da 
 
@@ -144,7 +152,7 @@ gravitazionale è **continuo** e **quantitativo**, mentre invece la tradizione
 linguistica ha favorito modelli che siano **discreti**, **categorici** e
 **qualitativi**: una parola è o meno un verbo, non ci chiediamo quanto lo sia.
 Per maggiori dettagli su questa distinzione, consultate l'articolo di Chris 
-Manning sulla [Sintassi Probabilistica][].)
+Manning sulla [sintassi probabilistica][].)
 
 Un modello probabilistico e statistico di interesse è la [legge dei gas perfetti], che descrive la pressione $P$ di un gas in termini del numero di
 molecole $N$, della temperatura $T$ e della costante di Boltzmann $k$:
@@ -189,7 +197,10 @@ $$
 
 Un modello statistico più complesso (diciamo, uno che dia le probabilità di
 tutte le sequenze di 4 lettere e/o di tutte le parole conosciute) potrebbe
-essere TODO
+essere [dieci volte più accurato] nel correggere ortografia, ma offre meno
+**intuizione** su quello che sta facendo. (L'intuizione vorrebbe un modello
+che conosca i fonemi, la sillabazione, l'origine del linguaggio. Un tale
+modello potrebbe essere addestrato (o no) e probabilistico (o no))
 
 Come ultimo esempio (non di modelli statistici, ma per aiutare l'intuzione),
 consideriamo la Teoria delle Strette di Mano fra Giudici della Corte Suprema:
@@ -206,13 +217,13 @@ otteniamo $h = \frac{n(n-1)}{2}$.
 2. Per evitare di contare due volte ogni stretta ordiniamo i giudici per età e
 contiamo TODO
 
-3. Consultiamo questa tabella: $$\begin{matrix} n: & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\ h: & 0 & 0 & 1 & 3 & 6 & 10 & 15 & 21 & 28 & 36\end{matrix}$$
+3. Consultiamo questa tabella: $$\begin{matrix} n & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\ \hline h & 0 & 0 & 1 & 3 & 6 & 10 & 15 & 21 & 28 & 36\end{matrix}$$
 
 Alcune persone preferiranno la prima spiegazione, alcune la seconda, e chi è
 lento a fare addizioni e moltiplicazioni potrebbe preferire la terza. Perché?
 Tutte e tre le spiegazioni descrivono _esattamente la stessa teoria_ — la
 stessa funzione da $n$ a $h$, definita sullo stesso dominio di possibili
-valori di $n$. Quindi potremmo preferire 
+valori di $n$. Quindi potremmo preferire TODO
 
 ## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
 
@@ -254,35 +265,63 @@ intendeva che TODO
 
 Una [definizione da dizionario][] della scienza è "Lo studio sistematico della
 struttura e del comportamento del mondo fisico e naturale attraverso 
-osservazioni e esperimenti", il che enfatizza TODO
+osservazioni e esperimenti", il che enfatizza un modello accurato a scapito
+dell'intuizione, ma mi pare che entrambe le nozioni siano sempre coesistite.
+Per verificarlo ho consultato la rivista per antonomasia, cioè [Science][]. Ho
+guardato il numero corrente e ho scelto a caso un titolo e un abstract:
 
+> [Chlorinated Indium Tin Oxide Electrodes with High Work Function for Organic Device Compatibility][]
 > TODO
 
 Sembra proprio che questo articolo si concentri sul "modellare accuratamente
 la realtà" piuttosto che "aiutare l'intuizione". TODO
 
-Poi ho guardato a tutti i titoli e abstract del [numero corrente][1] di 
+Poi ho guardato tutti i titoli e abstract del [numero corrente][1] di 
 _Science_:
 
-  + TODO
-  + TODO
-  + TODO
+  + Comparative Functional Genomics of the Fission Yeasts
+  + Dimensionality Control of Electronic Phase Transitions in Nickel-Oxide Superlattices
+  + Competition of Superconducting Phenomena and Kondo Screening at the Nanoscale
+  + Chlorinated Indium Tin Oxide Electrodes with High Work Function for Organic Device Compatibility
+  + Probing Asthenospheric Density, Temperature, and Elastic Moduli Below the Western United States
+  + Impact of Polar Ozone Depletion on Subtropical Precipitation
+  + Fossil Evidence on Origin of the Mammalian Brain
+  + Industrial Melanism in British Peppered Moths Has a Singular and Recent Mutational Origin
+  + The Selaginella Genome Identifies Genetic Changes Associated with the Evolution of Vascular Plants
+  + Chromatin "Prepattern" and Histone Modifiers in a Fate Choice for Liver and Pancreas
+  + Spatial Coupling of mTOR and Autophagy Augments Secretory Phenotypes
+  + Diet Drives Convergence in Gut Microbiome Functions Across Mammalian Phylogeny and Within Humans
+  + The Toll-Like Receptor 2 Pathway Establishes Colonization by a Commensal of the Human Microbiota
+  + A Packing Mechanism for Nucleosome Organization Reconstituted Across a Eukaryotic Genome
+  + Structures of the Bacterial Ribosome in Classical and Hybrid States of tRNA Binding
 
-e poi ho fatto lo stesso per il [numero corrente][2] di _Cell_:
+ho fatto lo stesso per il [numero corrente][2] di _Cell_:
 
-  + TODO
-  + TODO
-  + TODO
+  + Mapping the NPHP-JBTS-MKS Protein Network Reveals Ciliopathy Disease Genes and Pathways
+  + Double-Strand Break Repair-Independent Role for BRCA2 in Blocking Stalled Replication Fork Degradation by MRE11
+  + Establishment and Maintenance of Alternative Chromatin States at a Multicopy Gene Locus
+  + An Epigenetic Signature for Monoallelic Olfactory Receptor Expression
+  + Distinct p53 Transcriptional Programs Dictate Acute DNA-Damage Responses and Tumor Suppression
+  + An ADIOL-ERβ-CtBP Transrepression Pathway Negatively Regulates Microglia-Mediated Inflammation
+  + A Hormone-Dependent Module Regulating Energy Balance
+  + Class IIa Histone Deacetylases Are Hormone-Activated Regulators of FOXO and Mammalian Glucose Homeostasis
   
 e infine per i [Premi Nobel 2010][] nelle scienze:
 
-  + Fisica: TODO
-  + Chimica: TODO
-  + Fisiologia o Medicina: TODO
+  + Fisica: _Per gli eccezionali esperimenti sulle strutture 2D del Grafene_
+  + Chimica: _Per le reazioni di accoppiamento ossidativo nella sintesi
+  organica catalizzate mediante il palladio_
+  + Fisiologia o Medicina: _Per lo sviluppo della fertilizzazione in vitro_
 
 La mia conclusione è che il 100% di questi premi e articoli riguardano più che
 altro "modellare accuratamente il mondo" piuttosto che "aiutare l'intuizione",
-sebbene tutti TODO
+sebbene possegganno una componente teorica. Mi rendo conto che discriminare
+fra le due alternative sia un compito difficile e mal definito, e che non
+dovreste accettare il mio giudizio perché evidentemente di parte. (Ho pensato
+di fare un esperimento con Mechanical Turk per ottenere una risposta
+imparziale, ma chi è familiare con questo strumento mi ha detto che queste
+domande sarebbero state probabilmente troppo difficili. Perciò il lettore può
+fare il proprio esperimento e vedere se concorda).
 
 ## Cosa non piace a Chomsky dei modelli statistici? ##
 
@@ -292,37 +331,77 @@ siano piuttosto rivolte verso i modelli probabilistici. È ben noto che nel
 1969 [abbia scritto][]:
 
 > Ma deve essere riconosciuto che la nozione di "probabilità di una frase" sia
-> interamente inutile, sotto qualunque sua interpretazione.
+> interamente inutile, sotto qualunque interpretazione.
 
-Il suo argomento principale era che TODO
+Il suo argomento principale era che, per ogni interpretazione a lui nota, la
+probabilità di una frase mai vista deve essere zero, e, poiché frasi mai viste
+vengono continuamente generate, ci deve essere una contraddizione. La
+soluzione è ovviamente che non è necessario assegnare una probabilità nulla a
+una frase mai vista; in effetti è ben noto come assegnare loro una
+probabilità non nulla con i metodi probabilistici odierni, quindi questa
+critica non è valida, ma è stata molto influente per decenni. Prima di ciò in
+[Syntactic Structures][] (1957) Chomsky scrisse:
 
-> Penso che siamo costretti a concludere che ... i metodi probabilistici TODO
+> Penso che siamo costretti a concludere che ... i metodi probabilistici non
+> aiutino in alcun modo l'intuizione a risolvere semplici problemi di
+> struttura sintattica.
 
-TODO
+Nella nota a questa conclusione Chomsky ipotizza la possibilità di un modello
+statistico/probabilistico utile, dicendo "Non vorrei certo suggerire che sia 
+impensabile, ma non conosco alcuna proposta priva di ovvie mancanze". Ecco la 
+principale "ovvia mancanza". [Considerate:][]
 
-1. TODO
-2. TODO
-3. TODO
-4. TODO
+1. **I** never, ever, ever, ever, ... **fiddle** around in any way with electrical equipment.
+2. **She** never, ever, ever, ever, ... **fiddles** around in any way with electrical equipment.
+3. **I** never, ever, ever, ever, ... **fiddles** around in any way with electrical equipment.
+4. **She** never, ever, ever, ever, ... **fiddle** around in any way with electrical equipment.
 
-TODO
+Non importa quante ripetizioni di "ever" uno inserisca, le prime due frasi
+sono grammaticalmente corrette, le ultime due no. Un modello probabilistico
+Markoviano con $n$ stati non potrà mai fare la distinzione necessaria quando
+ci sono più di $n$ copie di "ever". Dunque, un modello probabilistico
+Markoviano non descrive l'intera lingua inglese.
 
-TODO
+Questa argomento è corretto, ma è una critica dei modelli Markoviani — non ha
+niente a che vedere con i modelli probabilistici (o addestrati). Per di più
+dal 1957 sono noti molti modelli probabilistici oltre a quelli Markoviani. Gli
+esempi precedenti possono essere fra loro distinti con un modello a stati
+finiti che non sia una catena, ma altri esempi richiedono modelli più
+sofisticati. I più studiati sono le grammatiche probabilistiche libere da 
+contesto (PCFG), le quali operano su alberi, categorie di parole, singoli
+elementi lessicali, e nessuna possiede le restrizioni dei modelli a stati
+finiti. Scopriamo che le PCFG sono lo stato dell'arte per la velocità di
+parsing e sono più semplici da imparare dai dati delle grammatiche libere da
+contesto. Altri tipi di modelli probabilistici coprono la semantica e le
+strutture del discorso. Ogni modello probabilistico contiene un modello
+deterministico (perché questo può essere pensato come un modello 
+probabilistico con le sole probabilità 0 e 1), quindi ogni critica valida dei 
+modelli probabilistici dovrebbe riguardare il fatto che siano troppo 
+espressivi, non il contrario.
 
-TODO
+In _Syntactic Structures_ Chomsky introdusse un esempio oggi famoso di critica
+ai modelli probabilistici a stati finiti:
 
 > Nè (a) 'colorless green ideas sleep furiosly' nè (b) 'furiosly sleep ideas
 > green colorless', o una qualunque delle loro parti, sono mai apparse nell'
 > esperienza linguistica di chi parla inglese. Ma (a) è grammaticalmente
 > corretta, (b) no.
 
-TODO
+Sembra che Chomsky avesse ragione a sostenere che tali frasi non fossero mai
+state pubblicate prima del 1955. Non sono sicuro che cosa intendesse con "una
+qualunque delle loro parti", ma ogni coppia di parole contigue è apparsa, per
+esempio:
 
-  + TODO
-  + TODO
-  + "**Ideas sleep** in books." [Current Opinion: Volume 52][], (1912)
+  + "It is neutral green, **colorless green**, like the glacous water lying
+  in a cellar." [The Paris we remember][], Elisabeth Finley Thomas (1942).
+  + "To specify those **green ideas** is hardly necessary, but you may observe
+  Mr. [D.H.] Lawrence in the role of the satiated aesthete." [The New Republic: Volume 29][] p. 184, William White (1922).
+  + "**Ideas sleep** in books." [Current Opinion: Volume 52][], (1912).
 
-TODO
+Ma a prescindere da cosa si intendesse con "parte", un modello a stati 
+finiti statisticamente addestrato _può_ distinguere fra le due frasi. Pereira
+(2001) [mostrò][] che un tale modello, arricchito con categorie di parole e
+addestrato TODO
 
 TODO
 
@@ -361,11 +440,18 @@ TODO
 
 TODO
 
-TODO
+Sembra che Chomsky sollevi critiche principalmente contro la cultura della
+modellazione algoritmica. Non è solo perché i modelli sono statistici (o
+probabilistici), è anche perché il loro prodotto modella accuratamente la
+realtà ma non è interpretabile facilmente dagli uomini, e non vuole
+corrispondere al processo verificatosi in natura. In altre parole, la
+modellazione algoritmica descrive _cosa_ accade, ma non spiega _perché_.
 
 TODO
 
-TODO
+Nel gennaio 2011 il personaggio televisivo Bill O'Reilly è intervenuto in più
+di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Non sei in grado di spiegarlo"][], a suo dire un argomento 
+per l'esistenza di Dio. TODO
 
 TODO
 
@@ -374,10 +460,10 @@ TODO
 Il problema è che la realtà è più complicata della sua teoria. Ecco dei
 pronomi mancanti in inglese:
 
-  + "Not gonna do it. Wouldn't be prudent." (Dana Carvey, TODO)
-  + TODO
-  + TODO
-  + TODO
+  + "Not gonna do it. Wouldn't be prudent." (Dana Carvey, [impersonating George H. W. Bush][])
+  + "Thinks he can outsmart us, does he?" (Evelyn Waugh, [The Loved One][])
+  + "Like to fight, does he?" (S.M. Stirling, [The Sunrise Lands][])
+  + "Thinks he's all that." (Kate Brian, [Lucky T][])
   + "Go for a walk?" (infiniti proprietari di cani)
   + "Gotcha!" "Found it!" "Looks good to me!" (espressioni comuni)
 
@@ -532,11 +618,19 @@ TODO
 ["Brain, Minds, and Machines"]: http://mit150.mit.edu/symposia/brains-minds-machines
 [trascrizione]: http://languagelog.ldc.upenn.edu/myl/PinkerChomskyMIT.html
 [propose modelli probabilistici della comunicazione]: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
-[Sintassi Probabilistica]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
+[sintassi probabilistica]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
 [legge dei gas perfetti]: http://it.wikipedia.org/wiki/Equazione_di_stato_dei_gas_perfetti
 [corpus di mille miliardi di parole]: http://norvig.com/ngrams/
 
+[definizione da dizionario]: http://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&nord=1#sclient=psy&hl=en&tbo=1&nord=1&tbs=dfn:1&source=hp&q=science&aq=f&aqi=p-p2g-e2g-c2g2g-c1g1&aql=&oq=&pbx=1&tbo=1&bav=on.2,or.r_gc.r_pw.&fp=18c4c2d0f0f5fea9&biw=1186&bih=634
+[Science]: http://www.sciencemag.org/
+[Chlorinated Indium Tin Oxide Electrodes with High Work Function for Organic Device Compatibility]: http://www.sciencemag.org/content/332/6032/944.abstract
+[1]: http://www.sciencemag.org/content/332/6032.toc
+[2]: http://www.cell.com/issue?pii=S0092-8674(11)X0010-7
+[Premi Nobel 2010]: http://nobelprize.org/nobel_prizes/lists/year/
+
 [abbia scritto]: http://books.google.com/books?id=iaXVXYDQN1oC&pg=PA296&dq=%22probability+of+a+sentence%22+%22entirely+useless%22&hl=en&ei=_s7eTc_5DrTciALcsvnlCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDoQ6AEwAw#v=onepage&q=%22probability%20of%20a%20sentence%22%20%22entirely%20useless%22&f=false
+[Considerate:]: http://books.google.com/books?id=BANsZLg1uy4C&lpg=PP1&dq=unfortunate%20events%20reptile&pg=PA135#v=onepage&q=ever%20ever%20ever&f=false
 [Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
 
 [Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
