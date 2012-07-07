@@ -1,4 +1,4 @@
-Date: 04 Jul 2012
+Date: 07 Jul 2012
 Summary: TODO
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
@@ -185,7 +185,7 @@ $\text{IE}$ si attenua quando preceduto da $\text{C}$, ma, contrariamente alla
 regola, $\text{CIE}$ è comunque più comune di $\text{CEI}$. Esempi di parole
 contenenti $\text{CIE}$ sono "science", "society", "ancient", "species". Lo
 svantaggio della regola _"I before E except after C"_ è che soffre di scarsa
-accuratezza. Ad esempio:
+accuratezza. Per esempio:
 
 $$
 \begin{align}
@@ -197,7 +197,7 @@ $$
 
 Un modello statistico più complesso (diciamo, uno che dia le probabilità di
 tutte le sequenze di 4 lettere e/o di tutte le parole conosciute) potrebbe
-essere [dieci volte più accurato] nel correggere ortografia, ma offre meno
+essere [dieci volte più accurato][] nel correggere ortografia, ma offre meno
 **intuizione** su quello che sta facendo. (L'intuizione vorrebbe un modello
 che conosca i fonemi, la sillabazione, l'origine del linguaggio. Un tale
 modello potrebbe essere addestrato (o no) e probabilistico (o no))
@@ -227,35 +227,47 @@ valori di $n$. Quindi potremmo preferire TODO
 
 ## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
 
-Chomsky ha detto chi i modelli statistici hanno avuto un successo limitato in
+Chomsky ha detto che i modelli statistici hanno avuto un successo limitato in
 certe aree applicative. Andiamo a vedere come i computer approcciano il
 linguaggio, e definiamo "successo" come "fare previsioni accurate sul mondo"
 Prima ancora le maggiori aree applicative:
 
   + **Motori di ricerca** TODO
-  + TODO
+  + **TODO** TODO
   + **Traduzione automatica** TODO
-  + TODO
+  + **TODO** TODO
 
 Ora invece volgiamo l'attenzione alle parti che sono d'interesse per il
 linguista computazionale e non l'utente tipico:
 
-  + TODO
-  + TODO
-  + TODO
-  + TODO
+  + **TODO** TODO
+  + **TODO** TODO
+  + **TODO** TODO
+  + **TODO** TODO
 
 Chiaramente non è accurato dire che i modelli statistici (e probabilistici)
 hanno ottenuto un successo _limitato_; piuttosto hanno raggiunto una posizione
 _dominante_ (ma non esclusiva).
 
-TODO
+Un'altra misura del successo è quanto un'idea conquisti una comunità di
+ricercatori. Come [scrisse][] Steve Abney nel 1996, "In dieci anni i modelli
+statistici sono passati dall'essere virtualmente ignoti nella linguistica
+computazionale a essere un dato di fatto ... chiunque non sia in grado di
+usarne la terminologia in modo convincente corre il rischio di essere
+scambiato per lo sguattero di cucina a un banchetto dell'Associazione dei
+linguisti computazionali (ACL)".
 
 TODO
 
 TODO
 
-TODO
+Questa sezione ha mostrato che una ragione per cui la maggior parte dei
+ricercatori in linguistica computazionale usa modelli statistici è
+_ingegneristica_: possiedono prestazioni allo stato dell'arte, in molti casi
+gli altri tipi di modelli sono peggiori. Per il resto di questo post ci
+concentreremo sulle ragioni _scientifiche_: sosterremo che i modelli
+probabilistici rappresentino meglio i fatti linguistici, e che le tecniche
+statistiche ci consentono di comprendere meglio tali fatti.
 
 ## Esiste una nozione comparabile di successo nella storia della scienza? ##
 
@@ -450,7 +462,7 @@ modellazione algoritmica descrive _cosa_ accade, ma non spiega _perché_.
 TODO
 
 Nel gennaio 2011 il personaggio televisivo Bill O'Reilly è intervenuto in più
-di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Non sei in grado di spiegarlo"][], a suo dire un argomento 
+di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Nessuno è in grado di spiegarlo"][], a suo dire un argomento 
 per l'esistenza di Dio. TODO
 
 TODO
@@ -467,11 +479,20 @@ pronomi mancanti in inglese:
   + "Go for a walk?" (infiniti proprietari di cani)
   + "Gotcha!" "Found it!" "Looks good to me!" (espressioni comuni)
 
-TODO
+I linguisti possono discutere sull'interpretazione di questi fatti per ore, ma
+la diversità dei linguaggi sembrano molto più complesse di un singolo valore
+booleano di un parametro pro-drop. Non dovremmo accettare una struttura
+teorica che prioritizzi un modello semplice a uno che rifletta accuratamente
+la realtà.
 
 TODO
 
-TODO
+Infine, un'ulteriore ragione per cui a Chomsky non piacciono i modelli
+statistici è che tendono a rendere la linguistica una scienza empirica (una
+scienza su come le persone usano davvero il linguaggio) piuttosto che una
+scienza matematica (uno studio delle proprietà matematiche dei modelli del
+linguaggio formale). Chomsky preferisce la seconda, come evidente da questa
+frase in [Aspects of the Theory of Syntax][] (1965):
 
 > TODO
 
@@ -479,9 +500,16 @@ TODO
 
 TODO
 
-> TODO
+> La risposta di Platone era che la conoscenza è "ricordata" da un'esistenza
+> precedente. La risposta richiede un meccanismo: magari un'anima immortale
+> ... 
 
-TODO
+Era ragionevole che Platone pensasse che l'ideale di, diciamo, un cavallo 
+fosse più importante di ciascun cavallo che possa essere percepito. Nel 400 
+a.C. le specie erano ritenuto eterne e fisse. Oggi sappiamo che non è vero; i 
+cavalli di un altro muro di caverna — quelli di Lascaux — sono oggi estinti, e 
+che i cavalli odierni continuano a evolvere nel tempo. Quindi non esiste 
+qualcosa come una singola, eterna, forma ideale di "cavallo". 
 
 TODO
 
@@ -621,6 +649,9 @@ TODO
 [sintassi probabilistica]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
 [legge dei gas perfetti]: http://it.wikipedia.org/wiki/Equazione_di_stato_dei_gas_perfetti
 [corpus di mille miliardi di parole]: http://norvig.com/ngrams/
+[dieci volte più accurato]: http://norvig.com/spell-correct.html
+
+[scrisse]: http://www.vinartus.net/spa/95c.pdf
 
 [definizione da dizionario]: http://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&nord=1#sclient=psy&hl=en&tbo=1&nord=1&tbs=dfn:1&source=hp&q=science&aq=f&aqi=p-p2g-e2g-c2g2g-c1g1&aql=&oq=&pbx=1&tbo=1&bav=on.2,or.r_gc.r_pw.&fp=18c4c2d0f0f5fea9&biw=1186&bih=634
 [Science]: http://www.sciencemag.org/

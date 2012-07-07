@@ -1,4 +1,4 @@
-Date: 08 July 2012
+Date: 14 July 2012
 Summary:
 
 # La parola "Hacker" #
@@ -16,4 +16,44 @@ TODO
 Credeteci o meno, i due significati di "hack" sono collegati. Soluzioni brutte
 TODO
 
+Si faceva hacking prima dell'invenzione dei computer. Quando lavorava al
+progetto Manhattan, Richard Feynman si divertiva a scassinare cassaforti
+contenenti documenti segreti. Questa tradizione continua anche oggi. Al tempo
+del dottorato, un mio amico hacker che passava fin troppo tempo a spasso per
+il MIT possedeva il proprio kit da scassinatore. (Oggi dirige un fondo ad alto
+rischio, un'attività non dissimile).
+
 TODO
+
+TODO
+
+TODO
+
+TODO
+
+Nel 1977 all'interno dell'IBM c'era senza dubbio un gruppo che sviluppava
+quello che si aspettavano fosse la futura generazione di computer. Si
+sbagliavano. La prossima generazione di computer stava venendo sviluppata su
+principi totalmente diversi da due ragazzi dai capelli lunghi di nome Steve in
+un [garage][] di Los Altos. TODO
+
+TODO
+
+TODO
+
+Per un po' ho vissuto a Firenze. Ma dopo essere stato là per qualche mese ho
+capito che quello che stavo inconsciamente cercando era dove ero partito. La
+ragione per cui Firenze è famosa è che, nel 1450, era New York. Nel 1450
+brulicava di quelle persone turbulenti e ambiziose che oggi trovate in
+America. (E quindi sono tornato in America).
+
+TODO
+
+TODO
+
+Coloro che possono imporre regole vogliono naturalmente che siano rispettate.
+Ma state attenti a quel che chiedete. Lo potreste ottenere.
+
+
+[garage]: http://paulgraham.com/garage.html
+http://paulgraham.com/say.html
