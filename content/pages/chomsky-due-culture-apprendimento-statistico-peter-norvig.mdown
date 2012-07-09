@@ -281,8 +281,8 @@ ricercatori. Come [scrisse][] Steve Abney nel 1996, "In dieci anni i modelli
 statistici sono passati dall'essere virtualmente ignoti nella linguistica
 computazionale a essere un dato di fatto ... chiunque non sia in grado di
 usarne la terminologia in modo convincente corre il rischio di essere
-scambiato per lo sguattero di cucina a un banchetto dell'Associazione dei
-linguisti computazionali (ACL)".
+scambiato per lo sguattero a un banchetto dell'Associazione dei linguisti 
+computazionali (ACL)".
 
 TODO
 
@@ -461,9 +461,27 @@ proporre che un bambino impari i valori di $10 ^9$ parametri in un'infanzia
 che dura $10^ 8$ secondi". (Si osservi come i modelli moderni possiedono molti
 più parametri dei $10^ 9$ postulati negli anni '60). Ma ovviamente nessuno
 propone che questi parametri vengano imparati uno per uno; la maniera giusta
-per imparare è TODO
+per imparare è impostare larghe manciate di parametri vicini a zero con una
+qualche procedura di smoothing o di regolarizzazione, e aggiornare
+continuamente i parametri ad alta probabilità con le nuove osservazioni.
+Inoltre nessuno suggerisce che i soli modelli markoviani siano un serio
+modello del linguaggio. Ma io (e altri) suggeriamo che i modelli addestrati e
+probabilistici siano un modello migliore dei modelli basati su categorie e
+non addestrati. E sì, sembra chiaro che un adulto parlante inglese sappia
+miliardi di fatti sulla lingua (per esempio che si dica "big game" invece di
+"large game" per descrivere un'importante partita di football). Questi fatti
+devono essere in qualche modo codificati nel cervello.
 
-TODO
+Sembra chiaro che i modelli probabilistici siano migliori per giudicare la
+plausibilità di una frase o l'emotività in essa contenuta. E anche se non
+foste interessati a questi fattori ma soltanto all'essere grammaticalmente
+corretta, sembra comunque che i modelli probabilistici svolgano meglio il
+compito di descrivere i fatti linguistici. La teoria _matematica_ dei
+[linguaggi formali][] definisce il linguaggio come un insieme di frasi. Cioè,
+ogni frase è grammaticalmente corretta oppure no; non c'è l'esigenza di 
+probabilità in questo modello. Ma i linguaggi naturali non sono così. Una
+teoria _scientifica_ dei linguaggi naturali deve tenere conto di tutte quelle
+frasi che lascino TODO
 
 1. The earth quaked.
 2. ? It quaked her bowels
@@ -542,7 +560,27 @@ TODO
 
 Nel gennaio 2011 il personaggio televisivo Bill O'Reilly è intervenuto in più
 di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Nessuno è in grado di spiegarlo"][], a suo dire un argomento 
-per l'esistenza di Dio. TODO
+per l'esistenza di Dio. O'Reilly è stato ridicolizzato dai propri detrattori
+per non sapere che le maree sono facilmente spiegate da un sistema di
+equazioni alle derivate parziali che descrivono la mutua interazione fra sole,
+terra e luna (un fatto [scoperto][] da Laplace nel 1776 e da allora
+notevolmente raffinato; quando Napoleone gli chiese perché non avesse usato
+un creatore nei suoi calcoli Laplace rispose "Non ebbi bisogno di tale 
+ipotesi"). (O'Reilly sembra anche non conoscere Deimos e Phobos (due delle
+mie lune preferite nel sistema solare, insieme con Europa, Io e Titano), o
+che Marte e Venere orbitino intorno al sole, o neanche che Venere non
+possiede lune perché, essendo talmente vicino al sole, c'è poco spazio per
+delle orbite lunari stabili). Ma O'Reilly sa che non importa che cosa i
+propri detrattori pensino della propria ignoranza astronomica, poiché sa che
+i propri sostenitori invece pensano che sia arrivato esattamente al punto
+chiave: _perché_? A lui non interessa _come_ funzionino le maree, ditegli
+_perché_ funzionano. _Perché_ la luna è alla distanza giusta per determinare
+maree non catastrofiche, e perché esercita un effetto stabilizzante sull'asse
+di rotazione terrestre, proteggendone la vita? _Perché_ la gravita funziona
+nel modo in cui funziona? _Perché_ esiste qualcosa invece di non esistere
+niente? O'Reilly ha ragione nel sostenere che queste domande possono trovare
+risposta solo nella creazione di miti, nella religione o nella filosofia, ma
+non nella scienza.
 
 La visione filosofica di Chomsky si basa sull'idea che dovremmo concentrarci
 sui profondi _perché_ e che le semplici spiegazioni della realtà non contano.
@@ -628,7 +666,19 @@ qualcosa come una singola, eterna, forma ideale di "cavallo".
 
 Oggi sappiamo che anche i linguaggi sono così: sono processi complessi,
 casuali, contingenti e biologici, soggetti ai capricci dell'evoluzione e della
-cultura. TODO
+cultura. Un linguaggio non è una forma eterna e ideale rappresentabile da un
+piccolo insieme di parametri, anzi è il risultato di processi complicati.
+Poiché è contingente, sembra che possa essere analizzato soltanto con modelli
+probabilistici. Poiché inoltre le persone devono continuamente capire il
+linguaggio ambiguo e incerto degli altri, sembra che debba essere usato
+del ragionamento probabilistico. Chomksy per qualche ragione vuole evitarlo,
+e quindi deve dichiarare che certi fatti dell'uso del linguaggio sono non
+grammaticali, e che la vera linguistica esiste soltanto nell'astrazione
+matematica, dove può imporre il formalismo che preferisce. Poi per trasferire
+il linguaggio da questo mondo eterno, astratto e matematico alle teste delle
+persone deve inventarsi un meccanismo mistico pensato apposta per questo
+mondo eterno. Questo può essere molto interessante da un punto di vista
+matematico, ma non chiarisce che cosa sia un linguaggio e come funzioni.
 
 ## Bibliografia annotata ##
 
@@ -711,7 +761,10 @@ cultura. TODO
     > l'acquisizione del linguaggio.
 
 11. Lappin, Shalom and Shieber, Stuart M. (2007) [Machine learning theory and practice as a source of insight into universal grammar][], _Journal of Linguistics_, Vol. 43, No. 2, pp. 393-427.
-    > TODO. Propone alternative al modello della Grammatica Universale 
+    > Un articolo eccellente che discute la povertà dello stimolo, il fatto 
+    > che tutti i modelli non siano imparziali, la differenza fra 
+    > apprendimento supervisionato e non, le teorie moderne di apprendimento 
+    > (PAC e VC). Propone alternative al modello della Grammatica Universale 
     > consistente di un insieme fissato di parametri binari.
 
 12. Manning, Christopher (2002) [Probabilistic Syntax][], in Bod, Hay, e Jannedy (ed.), _Probabilistic Linguistics_, MIT Press.
