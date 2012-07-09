@@ -1,5 +1,5 @@
-Date: 07 Jul 2012
-Summary: TODO
+Date: 09  Jul 2012
+Summary: Technology Review sostiene che il professor Noam Chomsky abbia deriso i ricercatori in apprendimento automatico che usano metodi puramente statistici per produrre comportamenti che imitino qualcosa di esistente nel mondo, ma che non provano a comprendere il significato di tali comportamenti. Questo post discute le affermazioni di Chomsky, specula su quello che avrebbe potuto intendere e prova a determinarne fondatezza e importanza.
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
 
@@ -51,7 +51,9 @@ all'intuizione.
 4. I modelli statistici possono simulare accuratamente certi fenomeni, ma la
 simulazione è fatta in modo totalmente sbagliato; le persone non decidono
 quale dovrebbe essere la terza parola di una frase consultando una tabella di
-probabilità TODO
+probabilità alla riga corrispondente alle due parole precedenti e poi
+pronunciando la parola seguente. Questo compito viene svolto senza avvalersi
+di probabilità o statistica.
 
 5. I modelli statistici si sono dimostrati incapaci di apprendere il
 linguaggio; dunque il linguaggio deve essere innato, perciò perché questi
@@ -69,7 +71,9 @@ un modello scientifico di successo.
 2. La scienza è una combinazione di raccolta di dati e formulazione di teorie;
 nessuna delle due attività può procedere da sola. Penso che Chomsky abbia 
 torto nel far pendere la bilancia a favore della teoria a discapito della
-raccolta di dati; nella storia della scienza, TODO
+raccolta di dati; nella storia della scienza, la faticosa raccolta dei dati è 
+l'attività prevalente, non una novità. La scienza della comprensione del 
+linguaggio non è diversa dalle altre scienze in questo.
 
 3. Sono d'accordo che sia difficile comprendere un modello contenente miliardi
 di parametri. Sicuramente un uomo non può capire un tale modello andando a
@@ -85,7 +89,14 @@ delle mancanze di particolari modelli di 50 anni fa. Capisco come Chomsky,
 partendo dalla studio della generazione del linguaggio, arrivi alla 
 conclusione che i modelli probabilistici non siano necessari. Ma la stragrande
 maggioranza delle persone che studiano compiti di _interpretazione_, come il
-riconoscimento della voce, TODO
+riconoscimento della voce, concludono rapidamente che l'interpretazione è un
+problema inerentemente probabilistico: dato un flusso di input disturbato da
+rumore, cosa è più probabile che sia stato detto? Einsten disse di rendere
+tutto il più semplice possibile, ma non più semplice. Molti fenomeni nelle
+scienze sono stocastici, e il modello più semplice per essi è probabilistico;
+io credo che il linguaggio sia uno di essi, perciò i modelli probabilistici
+sono il modo migliore per rappresentare il linguaggio, per operare su di esso
+algoritmicamente, per capire come gli uomini lo comprendano a propria volta.
 
 5. Nel 1967 il teorema di Gold mostrò alcune limitazioni teoriche sulla
 deduzione logica di linguaggi formali. Ma questo risultato non ha niente a che 
@@ -113,9 +124,11 @@ soltanto "statistico", ma useremo i seguenti lemmi:
   una forma funzionale da input a output (ad esempio, $y = mx + b$) o in forma
   relazionale (ad esempio, le seguenti coppie $(x,y)$ sono parte di una certa
   relazione).
+  
   + Un **modello probabilistico** specifica una distribuzione di probabilità
   $P(x,y)$ su certi possibil valori di alcune variabili aleatorie,
   diversamente da una relazione deterministica del tipo $y = f(x)$.
+  
   + Un **modello addestrato** usa un qualche algoritmo di
   apprendimento/addestramento che prenda in input una collezione di possibili
   modelli e una collezione di dati (ad esempio coppie $(x,y)$) e scelga il
@@ -162,7 +175,11 @@ $$P = \frac{Nk\,T}{V}\text{.}$$
 Questa equazione può essere ricavata da principi primi con i mezzi della
 meccanica statistica. È un modello stocastico e non esatto; il _vero_ modello
 dovrebbe describere i moti di ogni singola particella di gas. Questo modello
-ignora tale complessità e _riassume_ TODO
+ignora tale complessità e _riassume_ la nostra incertezza sulla posizione di
+ogni singola molecola. Perciò, sebbene sia statistico e probabilistico, 
+sebbene non modelli completamente la realtà, è un buon modello sia dal punto
+di vista delle previsioni sia dell'intuizione — intuizione che non otterremmo
+se provassimo a capire i _veri_ movimenti di ogni singola molecola. 
 
 Ora invece consideriamo il modello non statistico dell'ortografia inglese
 espresso dalla regola _"I before E except after C."_ Confrontiamolo con il 
@@ -215,7 +232,9 @@ strette di mano distinte, perciò dobbiamo dividere il totale a metà, e quindi
 otteniamo $h = \frac{n(n-1)}{2}$.
 
 2. Per evitare di contare due volte ogni stretta ordiniamo i giudici per età e
-contiamo TODO
+contiamo soltanto le strette di mano del tipo membro più anziano/membro più
+giovane. Quindi contiamo per ogni giudice le strette di mano con i giudici
+più giovani, e otteniamo $h=\sum_ {i=1}^ n {(i-1)}$.
 
 3. Consultiamo questa tabella: $$\begin{matrix} n & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\\ \hline h & 0 & 0 & 1 & 3 & 6 & 10 & 15 & 21 & 28 & 36\end{matrix}$$
 
@@ -223,7 +242,15 @@ Alcune persone preferiranno la prima spiegazione, alcune la seconda, e chi è
 lento a fare addizioni e moltiplicazioni potrebbe preferire la terza. Perché?
 Tutte e tre le spiegazioni descrivono _esattamente la stessa teoria_ — la
 stessa funzione da $n$ a $h$, definita sullo stesso dominio di possibili
-valori di $n$. Quindi potremmo preferire TODO
+valori di $n$. Quindi potremmo preferire la 1 (o la 2) rispetto alla 3 solo
+per ragioni esterne alla teoria stessa. Potremmo trovare che le prime due ci
+aiutano a comprendere meglio il problema. Sicuramente queste ultime sono più
+utili della 3 nel capire cosa succederebbe se il Congresso decidesse di
+aggiungere un nuovo giudice alla Corte Suprema. La teoria 1 sarebbe la più
+utile se volessimo sviluppare una teoria delle strette di mano fra giocatori
+alla fine di una partita di Hockey (quando ogni giocatore stringe la mano con
+i membri della squadra opposta), oppure per dimostrare che è pari il numero di
+persone che hanno stretto un numero dispari di mani al MIT Symposium.
 
 ## Quanto successo hanno avuto i modelli statistici del linguaggio? ##
 
@@ -233,17 +260,17 @@ linguaggio, e definiamo "successo" come "fare previsioni accurate sul mondo"
 Prima ancora le maggiori aree applicative:
 
   + **Motori di ricerca** TODO
-  + **TODO** TODO
+  + **Riconoscimento della voce** TODO
   + **Traduzione automatica** TODO
   + **TODO** TODO
 
 Ora invece volgiamo l'attenzione alle parti che sono d'interesse per il
 linguista computazionale e non l'utente tipico:
 
+  + **Disambiguazione del significato** TODO
   + **TODO** TODO
   + **TODO** TODO
-  + **TODO** TODO
-  + **TODO** TODO
+  + **Parsing** TODO
 
 Chiaramente non è accurato dire che i modelli statistici (e probabilistici)
 hanno ottenuto un successo _limitato_; piuttosto hanno raggiunto una posizione
@@ -327,7 +354,7 @@ e infine per i [Premi Nobel 2010][] nelle scienze:
 
 La mia conclusione è che il 100% di questi premi e articoli riguardano più che
 altro "modellare accuratamente il mondo" piuttosto che "aiutare l'intuizione",
-sebbene possegganno una componente teorica. Mi rendo conto che discriminare
+sebbene posseggano una componente teorica. Mi rendo conto che discriminare
 fra le due alternative sia un compito difficile e mal definito, e che non
 dovreste accettare il mio giudizio perché evidentemente di parte. (Ho pensato
 di fare un esperimento con Mechanical Turk per ottenere una risposta
@@ -413,26 +440,64 @@ esempio:
 Ma a prescindere da cosa si intendesse con "parte", un modello a stati 
 finiti statisticamente addestrato _può_ distinguere fra le due frasi. Pereira
 (2001) [mostrò][] che un tale modello, arricchito con categorie di parole e
-addestrato TODO
+addestrato con l'algoritmo di massimizzazione della speranza su articoli di
+giornale, calcola che la frase (a) è 200.000 volte più probabile della (b).
+Per dimostrare che questo non derivasse dall'essere apparsa in qualche
+giornale, ho ripetuto l'esperimento con un modello più grezzo basato sul
+Laplacian Smoothing e nessuna categoria, addestrato sul 
+[corpus di Google books][] dal 1800 al 1954, e ho ottenuto che (a) è circa
+10.000 volte più probabile. Se avessimo un modello probabilistico su alberi
+invece che su sequenze di parole, potremmo svolgere anche meglio il compito di
+calcolare quanto una frase sia grammaticalmente corretta.
 
-TODO
+Inoltre i modelli statistici sono in grado di affermare che entrambe le frasi
+sono _estremamente_ improbabili rispetto a, per esempio, "Effective green
+products sell well". La teoria di Chomsky, essendo fondata su categorie, non
+può fare queste distinzioni; tutto ciò che può distinguere è grammaticalmente
+corretta o no.
 
-TODO
+Un'altra parte dell'obiezione di Chomsky è che "non possiamo seriamente
+proporre che un bambino impari i valori di $10 ^9$ parametri in un'infanzia 
+che dura $10^ 8$ secondi". (Si osservi come i modelli moderni possiedono molti
+più parametri dei $10^ 9$ postulati negli anni '60). Ma ovviamente nessuno
+propone che questi parametri vengano imparati uno per uno; la maniera giusta
+per imparare è TODO
 
 TODO
 
 1. The earth quaked.
 2. ? It quaked her bowels
 
-TODO
+Eppure la (2) [appare][] [davvero][] come frase in inglese. Questo pone un
+problema per le teorie fondate sulle categorie. Quando osserviamo la (2)
+dobbiamo o scartarla come errore al di fuori del nostro modello (senza
+argomentazioni teoriche per poterlo sostenere), o cambiare la teoria in modo
+da ammetterla, il che spesso comporta accettare una serie di frasi che
+avremmo preferito classificare come grammaticalmente scorrette. Come [disse][]
+Edward Sapir nel 1921, "Tutte le grammatiche hanno perdite". Invece un modello
+probabilistico non soffre di questo problema; possiamo dire che _quake_ ha una
+probabilità alta di essere usato intransitivamente, e una bassa probabilità di
+essere usato transitivamente (e, se ci interessa, possiamo descrivere questi
+usi ulteriormente tramite sottocategorie).
+
+Steve Abney [osserva][] che i modelli probabilistici sono più adatti a
+modellare l'evoluzione del linguaggio. Cita l'esempio di un inglese del
+quindicesimo secolo che si reca nel pub ogni giorno e ordina "ale!" [NdT: 
+birra]. Seguendo un modello per categorie ci dovremmo ragionevolmente 
+aspettare che un giorno gli vengano servite "eel" [NdT: anguille], perché il
+[grande spostamento vocalico][] ha cambiato un parametro nella propria mente
+il giorno prima che lo abbia cambiato in quella dell'oste. In un modello
+probabilistico esisteranno più parametri, magari con valori continui, ed è
+facile capire come uno spostamento possa accadere gradualmente in due secoli.
 
 TODO
 
-TODO
+Consideriamo ora quello che penso essere il maggior punto di disaccordo fra
+Chomsky e i modelli statistici: la tensione fra "descrizione accurata" e
+"intuizione". Questa è una vecchia distinzione. Charles Darwin (biologo,
+1809-1882) è maggiormente noto per TODO
 
-TODO
-
-D'altro canto Ernest Rutherford (fisico, 1871-1937) disprezza la semplice
+D'altro canto Ernest Rutherford (fisico, 1871-1937) disprezzava la semplice
 descrizione, dicendo "La scienza è fisica oppure collezione di francobolli".
 Chomsky è con lui: "Puoi anche collezionare farfalle e fare tante
 osservazioni. Se ti piacciono le farfalle va tutto bene, ma questo non deve
@@ -448,9 +513,23 @@ contributo più rilevante a questa discussione sia stato dato nell'articolo
 del 2001 di Leo Breiman (statistico, 1928-2005) dal titolo [Statistical Modeling: The Two Cultures][]. In questo articolo Breiman, con allusione a
 C.P. Snow, descrive due culture:
 
-TODO
+Per prima la **cultura della modellazione con dati**, (a cui, stima Breiman,
+appartiene il 98% degli statistici) la quale sostiene che la natura possa
+essere descritta come una scatola nera con dentro un modello relativamente
+semplice, che associ valori di input a valori di output (con magari un poco
+di rumore aggiunto). Lo statistico ha il compito di scegliere accuratamente il
+modello che rifletta la forma della realtà, e poi usare i dati statistici per
+stimare i parametri del modello.
 
-TODO
+Seconda, la **cultura della modellazione algoritmica** (a cui appartengono
+il 2% degli statistici e molti ricercatori in biologia, intelligenza
+artificiale e altri campi che riguardino fenomeni complessi), la quale
+sostiene che la scatola nera della natura non possa essere necessariamente
+spiegata con modelli semplici. Metodi algoritmici complessi (come le Support
+Vector Machines, Boosted Decision Trees, Deep Belief Networks) vengono usati
+per stimare la funzione che mappi le variabili di input a quelle di output,
+senza pensare che la _forma_ della funzione risultante rifletta la natura
+sottostante.
 
 Sembra che Chomsky sollevi critiche principalmente contro la cultura della
 modellazione algoritmica. Non è solo perché i modelli sono statistici (o
@@ -465,14 +544,29 @@ Nel gennaio 2011 il personaggio televisivo Bill O'Reilly è intervenuto in più
 di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Nessuno è in grado di spiegarlo"][], a suo dire un argomento 
 per l'esistenza di Dio. TODO
 
-TODO
+La visione filosofica di Chomsky si basa sull'idea che dovremmo concentrarci
+sui profondi _perché_ e che le semplici spiegazioni della realtà non contano.
+In questo Chomsky è totalmente d'accordo con O'Reilly. (Mi rendo conto che la
+precedente frase possieda una probabilità estremamente bassa in un modello
+probabilistico addestrato su frasi provenienti da giornali o TV). Chomsky
+crede che una teoria del linguaggio debba essere semplice e comprensibile,
+come un modello di regressione lineare in cui la relazione da individuare è
+una linea retta, e tutto quello che dobbiamo fare è stimare il coefficiente
+angolare e l'intercetta.
 
-TODO
+Per esempio consideriamo la nozione di [linguaggio pro-drop][] esposta in
+[Lectures on Government and Binding][] (1981) di Chomsky. In inglese diciamo
+"I'm hungry", esprimendo il pronome "I". In spagnolo invece lo stesso pensiero
+si traduce "Tengo hambre" (letteralmente "ho fame"), facendo cadere il pronome
+"Yo". La teoria di Chomsky è che esista un "parametro pro-drop" che sia "vero"
+per lo spagnolo e "falso" per l'inglese, e che, una volta scoperto un piccolo
+insieme di parametri che descrivano tutti i linguaggi, e i valori per ciascuno
+di essi, avremo ottenuto la vera comprensione.
 
 Il problema è che la realtà è più complicata della sua teoria. Ecco dei
 pronomi mancanti in inglese:
 
-  + "Not gonna do it. Wouldn't be prudent." (Dana Carvey, [impersonating George H. W. Bush][])
+  + "Not gonna do it. Wouldn't be prudent." (Dana Carvey, [imitando George H. W. Bush][])
   + "Thinks he can outsmart us, does he?" (Evelyn Waugh, [The Loved One][])
   + "Like to fight, does he?" (S.M. Stirling, [The Sunrise Lands][])
   + "Thinks he's all that." (Kate Brian, [Lucky T][])
@@ -485,7 +579,8 @@ booleano di un parametro pro-drop. Non dovremmo accettare una struttura
 teorica che prioritizzi un modello semplice a uno che rifletta accuratamente
 la realtà.
 
-TODO
+Sin dall'inizio, Chomsky si è concentrato sugli aspetti _generativi_ del
+linguaggio. Da questo punto di vista è ragionevole TODO
 
 Infine, un'ulteriore ragione per cui a Chomsky non piacciono i modelli
 statistici è che tendono a rendere la linguistica una scienza empirica (una
@@ -494,15 +589,35 @@ scienza matematica (uno studio delle proprietà matematiche dei modelli del
 linguaggio formale). Chomsky preferisce la seconda, come evidente da questa
 frase in [Aspects of the Theory of Syntax][] (1965):
 
-> TODO
+> La teoria linguistica è mentalista, poiché si preoccupa di scoprire una
+> realtà mentale sottesa al comportamento osservato. L'osservazione dell'uso
+> del linguaggio ... può fornire dati ... ma sicuramente non può essere il
+> contenuto della linguistica, affinché possa essere una disciplina
+> rispettabile.
 
-TODO
+Non riesco a immaginare Laplace che affermi che l'osservazione dei pianeti non
+sia l'argomento della meccanica orbitale, o Maxwell che dica che le
+osservazioni delle cariche non lo siano per l'elettromagnetismo. È vero che la
+fisica si occupa di casi ideali che sono astrazioni del complicato mondo
+reale. Per esempio, certi problemi di meccanica ignorano l'attrito. Ma questo
+non significa che l'attrito non possa essere considerato parte della fisica.
 
-TODO
+E quindi come può Chomsky affermare che l'osservazione del linguaggio non
+possa essere l'argomento della linguistica? Sembra che venga dal proprio punto
+di vista di [platonista][] e [razionalista][] e forse anche un po'
+[mistico][]. Chomsky pensa, come nel mito della caverna di Platone, che ci
+dovremmo concentrare sulle forme astratte e ideali sottese al linguaggio, non
+sulle manifestazioni esteriori di esso percepibili nel mondo reale. Ecco
+perché non è interessato all'uso del linguaggio. Ma Chomsky, così come
+Platone, deve saper spiegare l'origine di queste forme ideali. Chomksy (1991)
+dimostra di accontentarsi della spiegazione mistica, sebbene non parli di
+"anima" ma di "dote biologica".
 
 > La risposta di Platone era che la conoscenza è "ricordata" da un'esistenza
 > precedente. La risposta richiede un meccanismo: magari un'anima immortale
-> ... 
+> ... riformulando la risposta di Platone in termini più congeniali a quelli
+> moderni, diremo che le proprietà basilari dei sistemi cognitivi sono innate
+> nella mente, parte della dote biologica umana.
 
 Era ragionevole che Platone pensasse che l'ideale di, diciamo, un cavallo 
 fosse più importante di ciascun cavallo che possa essere percepito. Nel 400 
@@ -511,7 +626,9 @@ cavalli di un altro muro di caverna — quelli di Lascaux — sono oggi estinti,
 che i cavalli odierni continuano a evolvere nel tempo. Quindi non esiste 
 qualcosa come una singola, eterna, forma ideale di "cavallo". 
 
-TODO
+Oggi sappiamo che anche i linguaggi sono così: sono processi complessi,
+casuali, contingenti e biologici, soggetti ai capricci dell'evoluzione e della
+cultura. TODO
 
 ## Bibliografia annotata ##
 
