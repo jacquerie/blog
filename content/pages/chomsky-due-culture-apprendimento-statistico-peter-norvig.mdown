@@ -1,4 +1,4 @@
-Date: 09  Jul 2012
+Date: 10  Jul 2012
 Summary: Technology Review sostiene che il professor Noam Chomsky abbia deriso i ricercatori in apprendimento automatico che usano metodi puramente statistici per produrre comportamenti che imitino qualcosa di esistente nel mondo, ma che non provano a comprendere il significato di tali comportamenti. Questo post discute le affermazioni di Chomsky, specula su quello che avrebbe potuto intendere e prova a determinarne fondatezza e importanza.
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
@@ -262,8 +262,10 @@ Prima ancora le maggiori aree applicative:
   + **Motori di ricerca** Tutti i più importanti sono addestrati e
   probabilistici. Il loro operato non può essere descritto da alcuna funzione
   semplice.
+  
   + **Riconoscimento della voce** Tutti i maggiori sono addestrati e
   probabilistici, per di più basati su modelli di Markov nascosti.
+  
   + **Traduzione automatica** Tutti i partecipanti più agguerriti a
   competizioni come il [NIST][] usano metodi statistici. Alcuni sistemi
   commerciali usano un ibrido fra metodi addestrati e tecniche basate su
@@ -271,6 +273,7 @@ Prima ancora le maggiori aree applicative:
   di traduzione automatica, i metodi statistici risultano essere i migliori
   per tutte tranne Giapponese/Inglese, per la quale i metodi statistici e
   ibridi hanno più o meno le stesse prestazioni.
+  
   + **Question answering** Questo tipo di applicazione è meno sviluppato, e
   molti sistemi prendono le mosse dall'approccio statistico e probabilistico
   usato dai motori di ricerca. Il sistema [IBM Watson][], che ha recentemente
@@ -284,14 +287,17 @@ linguista computazionale e non l'utente tipico:
   [SemEval-2][] hanno usato tecniche statistiche; la maggior parte sono
   probabilistici; alcuni usano un approccio ibrido basato su regole
   estratte da Wordnet.
+  
   + **Risoluzione di riferimenti comuni** La maggior parte dei sistemi
   correntemente utilizzati sono statistici, sebbene dobbiamo menzionare quello
   di [Haghighi e Klein][], che può essere descritto come un sistema ibrido
   principalmente basato su regole di riscrittura piuttosto che addestrato, il
   quale è tanto efficace quanto i migliori sistemi statistici.
+  
   + **Analisi grammaticale** La maggior parte dei sistemi sono statistici.
   Fa eccezione il [Brill Tagger][], un algoritmo ibrido molto efficace:
   impara un insieme di regole deterministiche a partire da dati statistici.
+  
   + **Parsing** Ci sono più sistemi che fanno parsing, e usano tecniche
   differenti. Quasi tutti i [più efficaci][] sono statistici, la maggior parte
   sono [probabilistici][] (con una minoranza consistente di parser 
@@ -334,7 +340,10 @@ statistiche ci consentono di comprendere meglio tali fatti.
 
 Quando Chomsky ha detto _"Questa è una nozione di successo scientifico che
 è totalmente nuova. Non conosco niente di simile nella storia della scienza"_
-intendeva che TODO
+sembrava intendere che "modellare accuratamente il mondo" sia una novità, e
+che l'unica vera misura del successo nella storia della scienza sia "aiutare
+l'intuizione" — cioè rispondere _perché_ le cose sono come sono, non solo
+descrivere _come_ sono.
 
 Una [definizione da dizionario][] della scienza è "Lo studio sistematico della
 struttura e del comportamento del mondo fisico e naturale attraverso 
@@ -347,7 +356,10 @@ guardato il numero corrente e ho scelto a caso un titolo e un abstract:
 > TODO
 
 Sembra proprio che questo articolo si concentri sul "modellare accuratamente
-la realtà" piuttosto che "aiutare l'intuizione". TODO
+la realtà" piuttosto che "aiutare l'intuizione". Sicuramente questo articolo
+c'entra con tutta una serie di lavoro teorici, ma sta sostanzialmente
+riportando specifici esperimenti e i risultati ottenuti da essi (per esempio,
+efficienza del 54%).
 
 Poi ho guardato tutti i titoli e abstract del [numero corrente][1] di 
 _Science_:
@@ -515,7 +527,15 @@ compito di descrivere i fatti linguistici. La teoria _matematica_ dei
 ogni frase è grammaticalmente corretta oppure no; non c'è l'esigenza di 
 probabilità in questo modello. Ma i linguaggi naturali non sono così. Una
 teoria _scientifica_ dei linguaggi naturali deve tenere conto di tutte quelle
-frasi che lascino TODO
+frasi per cui un madrelingua adulto avrebbe difficoltà a determinarne la
+correttezza grammaticale (vedi [l'articolo][] di Chris Manning e la sua
+discussione della frase ["as least as"][]), e di quelle frasi che alcuni
+trovano grammaticalmente corrette, altri scorrette, e altri ancora cambiano
+idea da un'occorrenza all'altra. Infine esistono usi rari che non possono
+essere trascurati se si è interessati ai dati reali. Per esempio, il verbo
+_quake_ è catalogato come intransitivo nei dizionari, il che significa che
+la frase (1) qui sotto è grammaticalmente corretta, mentre la (2) no, almeno
+secondo la teoria categoriale della grammatica.
 
 1. The earth quaked.
 2. ? It quaked her bowels
@@ -542,12 +562,25 @@ il giorno prima che lo abbia cambiato in quella dell'oste. In un modello
 probabilistico esisteranno più parametri, magari con valori continui, ed è
 facile capire come uno spostamento possa accadere gradualmente in due secoli.
 
-TODO
+Perciò sembra che l'essere grammaticalmente corretto non sia un giudizio
+di categoria e deterministico, piuttosto sia inerentemente probabilistico.
+Questo appare evidente a chi passi del tempo facendo _osservazioni_ di un
+corpus di frasi del linguaggio, ma può rimanere ignoto a chi pensi che
+l'oggetto del proprio studio siano le proprie _intuizioni_ sulla correttezza
+grammaticale. Sia l'osservazione sia l'intuzione sono state usate nella storia
+della scienza, perciò nessuna di esse è una "novità", ma è l'osservazione, e
+non l'intuizione, a essere dominante nella scienza.
 
 Consideriamo ora quello che penso essere il maggior punto di disaccordo fra
 Chomsky e i modelli statistici: la tensione fra "descrizione accurata" e
 "intuizione". Questa è una vecchia distinzione. Charles Darwin (biologo,
-1809-1882) è maggiormente noto per TODO
+1809-1882) è più noto per le proprie perspicaci teorie, ma sottolineava
+l'importanza di una descrizione accurata dicendo "I fatti falsi sono
+altamente dannosi al progresso della scienza, poiché durano a lungo; ma le
+opinioni false, se corroborate da qualche dato, non sono particolarmente
+dannose, perché chiunque prova salutare piacere nel dimostrarne la falsità".
+Più recentemente Richard Feynman (fisico, 1918-1988) scrisse "La fisica può
+progredire senza dimostrazioni, ma non possiamo andare avanti senza fatti".
 
 D'altro canto Ernest Rutherford (fisico, 1871-1937) disprezzava la semplice
 descrizione, dicendo "La scienza è fisica oppure collezione di francobolli".
@@ -556,7 +589,11 @@ osservazioni. Se ti piacciono le farfalle va tutto bene, ma questo non deve
 essere confuso con la ricerca, il cui scopo è la scoperta di principi
 unificanti".
 
-TODO
+Robert Millikan (fisico, 1868-1953) riconosceva la validità di entrambe le
+opinioni, dicendo nel proprio discorso di accettazione del premio Nobel "La
+scienza va avanti su due piedi, e cioè la teoria e l'esperimento ... Qualche
+volta un piede viene messo più avanti dell'altro, qualche volta l'altro, ma
+il progresso viene fatto soltanto usando entrambi".
 
 ## Le due culture ##
 
@@ -590,7 +627,31 @@ realtà ma non è interpretabile facilmente dagli uomini, e non vuole
 corrispondere al processo verificatosi in natura. In altre parole, la
 modellazione algoritmica descrive _cosa_ accade, ma non spiega _perché_.
 
-TODO
+L'articolo di Breiman spiega le proprie obiezioni alla prima cultura, quella
+della modellazione con dati. Sostanzialmente, le conclusioni fatte
+riguardano il modello, non la natura. (Mi ricordo che nel 2000 sentii
+[James Martin][], a capo delle missioni Viking su Marte, dire che il suo
+lavoro di ingegnere aerospaziale non era atterrare su Marte, ma atterrare sul
+modello di Marte elaborato dai geologi). Il problema è che, se il modello non
+simula correttamente la natura, le conclusioni potrebbero essere sbagliate.
+Per esempio, la regressione lineare è uno degli strumenti più importanti
+a disposizione dello statistico. Perciò molte analisi cominciano con
+"Supponiamo che i dati siano generati da un modello lineare ..." e mancano di
+sufficiente analisi di quel che accade se i dati non sono in effetti generati
+in questo modo. In più, per problemi complicati, esistono molti buoni modelli
+alternativi, ognuno con simili misure di adeguatezza. Come fa chi modella a
+scegliere fra questi? Dobbiamo rinunciare a qualcosa. Breiman ci invita a
+rinunciare all'idea che possiamo modellare in modo unico la vera _forma_
+sottesa alla natura che trasformi certi input in certi output. Invece ci
+chiede di accontentarci di una funzione che spieghi bene i dati osservati,
+che si generalizzi a nuovi dati, ma che possa essere espressa in una forma
+matematica talmente complessa da non avere più alcuna relazione con la "vera"
+funzione (ammesso che una tale funzione esista). Chomsky è del parere opposto:
+preferisce avere un modello semplice ed elegante, e abbandonare l'idea che il
+modello sia una fedele rappresentazione dei dati. Invece dichiara che i dati
+dell'_uso_ del linguaggio — quello che le persone fanno — non è oggetto di
+studio della linguistica; quello che davvero conta è la _conoscenza_ — quello
+che immagina dovrebbero fare.
 
 Nel gennaio 2011 il personaggio televisivo Bill O'Reilly è intervenuto in più
 di una guerra culturale con la propria frase ["La marea sale, la mare scende. Mai un malinteso. Nessuno è in grado di spiegarlo"][], a suo dire un argomento 
@@ -652,7 +713,12 @@ teorica che prioritizzi un modello semplice a uno che rifletta accuratamente
 la realtà.
 
 Sin dall'inizio, Chomsky si è concentrato sugli aspetti _generativi_ del
-linguaggio. Da questo punto di vista è ragionevole TODO
+linguaggio. Da questo punto di vista è ragionevole raccontare una storia non
+probabilista: Io _conosco_ l'idea che voglio esprimere — comincio da una
+singola forma semantica — quindi tutto quello che devo fare è scegliere le
+parole per dirla; come è possibile che questo non sia un processo
+determistico e per categorie? Se Chomsky si fosse concentrato sull'altro lato,
+l'_interpretazione_, come fece Claude Shannon, avrebbe cambiato musica. TODO
 
 Infine, un'ulteriore ragione per cui a Chomsky non piacciono i modelli
 statistici è che tendono a rendere la linguistica una scienza empirica (una
