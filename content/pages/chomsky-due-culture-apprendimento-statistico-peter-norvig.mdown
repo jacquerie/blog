@@ -353,7 +353,18 @@ Per verificarlo ho consultato la rivista per antonomasia, cioè [Science][]. Ho
 guardato il numero corrente e ho scelto a caso un titolo e un abstract:
 
 > [Chlorinated Indium Tin Oxide Electrodes with High Work Function for Organic Device Compatibility][]
-> TODO
+> Nei LED organici (OLED) più strati di materiale organico consentono il
+> trasferimento di cariche dall'elettrodo trasparente (ossido di Indio
+> drogato allo stagno, ITO) a basso lavoro di estrazione (circa 4.7 eV) ai
+> livelli di energia più alti (circa 6 eV) dei materiali organici attivi
+> emittenti luce. Dimostriamo un elettrodo trasparente in ITO trattato al
+> cloro con lavoro di estrazione maggiore di 6.1 eV paragonabile ai livelli
+> di energia nei materiali emittenti luce degli OLED allo stato dell'arte.
+> Viene dimostrato un OLED verde altamente semplificato con massima efficienza 
+> quantistica esterna (EQE) del 54% e efficienza in potenza di 230 lumen per 
+> watt migliorato per sovraccoppiamento, e inoltre una EQE del 50% e
+> efficienza in potenza di 110 lumen per watt a 10.000 candele per metro
+> quadro.
 
 Sembra proprio che questo articolo si concentri sul "modellare accuratamente
 la realtà" piuttosto che "aiutare l'intuizione". Sicuramente questo articolo
@@ -712,13 +723,23 @@ booleano di un parametro pro-drop. Non dovremmo accettare una struttura
 teorica che prioritizzi un modello semplice a uno che rifletta accuratamente
 la realtà.
 
-Sin dall'inizio, Chomsky si è concentrato sugli aspetti _generativi_ del
+Sin dall'inizio Chomsky si è concentrato sugli aspetti _generativi_ del
 linguaggio. Da questo punto di vista è ragionevole raccontare una storia non
-probabilista: Io _conosco_ l'idea che voglio esprimere — comincio da una
+probabilista: io _conosco_ l'idea che voglio esprimere — comincio da una
 singola forma semantica — quindi tutto quello che devo fare è scegliere le
 parole per dirla; come è possibile che questo non sia un processo
 determistico e per categorie? Se Chomsky si fosse concentrato sull'altro lato,
-l'_interpretazione_, come fece Claude Shannon, avrebbe cambiato musica. TODO
+l'_interpretazione_ (come fece Claude Shannon) avrebbe cambiato musica.
+Nell'atto dell'interpretazione (come per esempio nel riconoscimento della 
+voce) chi ascolta riceve un signale ambiguo e disturbato da rumore, e deve 
+decidere quale dei vari possibili messaggi sia il più probabile. È quindi 
+ovvio che si tratti di un problema inerentemente probabilistico, come 
+osservato sin dall'inizio da tutti i ricercatori in riconoscimento della voce 
+e da scienziati in altri campi che risolvono problemi di interpretazione:
+l'astronomo Laplace disse nel 1819 "La teoria della probabilità non è altro
+che senso comune ridotto a calcoli", e il fisico James Maxwell disse nel 1850
+"La vera logica di questo mondo è il calcolo delle probabilità, il quale
+presta attenzione alle grandezze delle probabilità che sono, o dovrebbero essere, nella mente dell'uomo assennato".
 
 Infine, un'ulteriore ragione per cui a Chomsky non piacciono i modelli
 statistici è che tendono a rendere la linguistica una scienza empirica (una
