@@ -28,12 +28,6 @@ potuto intendere e prova a determinarne fondatezza e importanza.
 Le osservazioni di Chomsky erano in risposta alla domanda di Steven Pinker sui
 successi ottenuti dai modelli probabilistici addestrati con metodi statistici.
 
-1. Cosa intendeva Chomsky? Ha ragione?
-2. Cosa è un modello statistico?
-3. Quanto successo hanno avuto i modelli statistici del linguaggio?
-4. Esiste una nozione comparabile di successo nella storia della scienza?
-5. Cosa non piace a Chomsky dei modelli statistici?
-
 ## Cosa intendeva Chomsky? Ha ragione? ##
 
 Penso che gli argomenti di Chomsky siano i seguenti:
@@ -500,12 +494,12 @@ Ma a prescindere da cosa si intendesse con "parte", un modello a stati
 finiti statisticamente addestrato _può_ distinguere fra le due frasi. Pereira
 (2001) [mostrò][] che un tale modello, arricchito con categorie di parole e
 addestrato con l'algoritmo di massimizzazione della speranza su articoli di
-giornale, calcola che la frase (a) è 200.000 volte più probabile della (b).
+giornale, calcola che la frase (a) è 200000 volte più probabile della (b).
 Per dimostrare che questo non derivasse dall'essere apparsa in qualche
 giornale, ho ripetuto l'esperimento con un modello più grezzo basato sul
 Laplacian Smoothing e nessuna categoria, addestrato sul 
 [corpus di Google Books][] dal 1800 al 1954, e ho ottenuto che (a) è circa
-10.000 volte più probabile. Se avessimo un modello probabilistico su alberi
+10000 volte più probabile. Se avessimo un modello probabilistico su alberi
 invece che su sequenze di parole, potremmo svolgere anche meglio il compito di
 calcolare quanto una frase sia grammaticalmente corretta.
 
