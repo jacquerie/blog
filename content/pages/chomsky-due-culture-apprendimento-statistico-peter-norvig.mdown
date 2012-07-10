@@ -1,4 +1,4 @@
-Date: 10  Jul 2012
+Date: 11  Jul 2012
 Summary: Technology Review sostiene che il professor Noam Chomsky abbia deriso i ricercatori in apprendimento automatico che usano metodi puramente statistici per produrre comportamenti che imitino qualcosa di esistente nel mondo, ma che non provano a comprendere il significato di tali comportamenti. Questo post discute le affermazioni di Chomsky, specula su quello che avrebbe potuto intendere e prova a determinarne fondatezza e importanza.
 
 # Su Chomsky e le due culture dell'apprendimento statistico #
