@@ -259,18 +259,43 @@ certe aree applicative. Andiamo a vedere come i computer approcciano il
 linguaggio, e definiamo "successo" come "fare previsioni accurate sul mondo"
 Prima ancora le maggiori aree applicative:
 
-  + **Motori di ricerca** TODO
-  + **Riconoscimento della voce** TODO
-  + **Traduzione automatica** TODO
-  + **TODO** TODO
+  + **Motori di ricerca** Tutti i più importanti sono addestrati e
+  probabilistici. Il loro operato non può essere descritto da alcuna funzione
+  semplice.
+  + **Riconoscimento della voce** Tutti i maggiori sono addestrati e
+  probabilistici, per di più basati su modelli di Markov nascosti.
+  + **Traduzione automatica** Tutti i partecipanti più agguerriti a
+  competizioni come il [NIST][] usano metodi statistici. Alcuni sistemi
+  commerciali usano un ibrido fra metodi addestrati e tecniche basate su
+  regole di riscrittura. Delle 4000 coppie di linguaggi gestite da sistemi
+  di traduzione automatica, i metodi statistici risultano essere i migliori
+  per tutte tranne Giapponese/Inglese, per la quale i metodi statistici e
+  ibridi hanno più o meno le stesse prestazioni.
+  + **Question answering** Questo tipo di applicazione è meno sviluppato, e
+  molti sistemi prendono le mosse dall'approccio statistico e probabilistico
+  usato dai motori di ricerca. Il sistema [IBM Watson][], che ha recentemente
+  vinto a Jeopardy è interamente probabilistico e addestrato, invece [START][]
+  di Boris Katz è un ibrido. Tutti comunque usano delle tecniche statistiche.
 
 Ora invece volgiamo l'attenzione alle parti che sono d'interesse per il
 linguista computazionale e non l'utente tipico:
 
-  + **Disambiguazione del significato** TODO
-  + **TODO** TODO
-  + **TODO** TODO
-  + **Parsing** TODO
+  + **Disambiguazione del significato** Tutti i migliori partecipanti a
+  [SemEval-2][] hanno usato tecniche statistiche; la maggior parte sono
+  probabilistici; alcuni usano un approccio ibrido basato su regole
+  estratte da Wordnet.
+  + **Risoluzione di riferimenti comuni** La maggior parte dei sistemi
+  correntemente utilizzati sono statistici, sebbene dobbiamo menzionare quello
+  di [Haghighi e Klein][], che può essere descritto come un sistema ibrido
+  principalmente basato su regole di riscrittura piuttosto che addestrato, il
+  quale è tanto efficace quanto i migliori sistemi statistici.
+  + **Analisi grammaticale** La maggior parte dei sistemi sono statistici.
+  Fa eccezione il [Brill Tagger][], un algoritmo ibrido molto efficace:
+  impara un insieme di regole deterministiche a partire da dati statistici.
+  + **Parsing** Ci sono più sistemi che fanno parsing, e usano tecniche
+  differenti. Quasi tutti i [più efficaci][] sono statistici, la maggior parte
+  sono [probabilistici][] (con una minoranza consistente di parser 
+  deterministici)
 
 Chiaramente non è accurato dire che i modelli statistici (e probabilistici)
 hanno ottenuto un successo _limitato_; piuttosto hanno raggiunto una posizione
@@ -284,9 +309,18 @@ usarne la terminologia in modo convincente corre il rischio di essere
 scambiato per lo sguattero a un banchetto dell'Associazione dei linguisti 
 computazionali (ACL)".
 
-TODO
+Ora, ovviamente la maggioranza non regna — solo perché tutti stanno saltando
+su un certo carrozzone, questo non lo rende quello del vincitore. Ma io stesso
+ho cambiato idea: dopo circa 14 anni in cui ho tentato di far funzionare
+modelli del linguaggio basati su regole logiche, ho cominciato ad adottare
+approcci probabilistici (grazie a pionieri come Gene Charniak (e Judea Pearl
+per la teoria della probabilità) e ai miei colleghi che cominciarono prima di
+molti, come Dekai wu). In quel momento ho visto tutti intorno a me fare la
+stessa cosa (e non ho visto nessuno fare il passaggio opposto). Abbiamo visto
+tutti le limitazioni delle tecniche vecchie e i benefici di quelle nuove.
 
-TODO
+E, sebbene usare una misura finanziaria del successo possa sembrare cafone e 
+anti intellettuale, vale la pena menzionare che la [creatura][] intellettuale 
 
 Questa sezione ha mostrato che una ragione per cui la maggior parte dei
 ricercatori in linguistica computazionale usa modelli statistici è
