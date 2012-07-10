@@ -321,12 +321,14 @@ ho cambiato idea: dopo circa 14 anni in cui ho tentato di far funzionare
 modelli del linguaggio basati su regole logiche, ho cominciato ad adottare
 approcci probabilistici (grazie a pionieri come Gene Charniak (e Judea Pearl
 per la teoria della probabilità) e ai miei colleghi che cominciarono prima di
-molti, come Dekai wu). In quel momento ho visto tutti intorno a me fare la
+molti, come Dekai Wu). In quel momento ho visto tutti intorno a me fare la
 stessa cosa (e non ho visto nessuno fare il passaggio opposto). Abbiamo visto
 tutti le limitazioni delle tecniche vecchie e i benefici di quelle nuove.
 
 E, sebbene usare una misura finanziaria del successo possa sembrare cafone e 
-anti intellettuale, vale la pena menzionare che la [creatura][] intellettuale 
+anti intellettuale, vale la pena menzionare che la [creatura][] intellettuale
+di Shannon genera migliaia di miliardi di ricavi ogni anno, mentre la
+[creazione][] di Chomsky ne genera ben sotto il miliardo.
 
 Questa sezione ha mostrato che una ragione per cui la maggior parte dei
 ricercatori in linguistica computazionale usa modelli statistici è
@@ -502,7 +504,7 @@ giornale, calcola che la frase (a) è 200.000 volte più probabile della (b).
 Per dimostrare che questo non derivasse dall'essere apparsa in qualche
 giornale, ho ripetuto l'esperimento con un modello più grezzo basato sul
 Laplacian Smoothing e nessuna categoria, addestrato sul 
-[corpus di Google books][] dal 1800 al 1954, e ho ottenuto che (a) è circa
+[corpus di Google Books][] dal 1800 al 1954, e ho ottenuto che (a) è circa
 10.000 volte più probabile. Se avessimo un modello probabilistico su alberi
 invece che su sequenze di parole, potremmo svolgere anche meglio il compito di
 calcolare quanto una frase sia grammaticalmente corretta.
@@ -941,8 +943,17 @@ matematico, ma non chiarisce che cosa sia un linguaggio e come funzioni.
 [legge dei gas perfetti]: http://it.wikipedia.org/wiki/Equazione_di_stato_dei_gas_perfetti
 [corpus di mille miliardi di parole]: http://norvig.com/ngrams/
 [dieci volte più accurato]: http://norvig.com/spell-correct.html
-
+[NIST]: http://www.itl.nist.gov/iad/mig/tests/mt/2009/ResultsRelease/currentArabic.html
+[IBM Watson]: http://www-03.ibm.com/innovation/us/watson/index.html
+[START]: http://groups.csail.mit.edu/infolab/publications/Katz-etal-TREC2003.pdf
+[SemEval-2]: http://semeval2.fbk.eu/semeval2.php?location=SemEval2010-Program
+[Haghighi e Klein]: http://www.aclweb.org/anthology/D/D09/D09-1120.pdf
+[Brill Tagger]: http://en.wikipedia.org/wiki/Brill_tagger
+[più efficaci]: http://csep.psyc.memphis.edu/pdf/Evaluating_treebank_Parsers_Coh-Metrix.pdf
+[probabilistici]: http://www.cs.berkeley.edu/~pliang/papers/hdppcfg-haba.pdf
 [scrisse]: http://www.vinartus.net/spa/95c.pdf
+[creatura]: http://en.wikipedia.org/wiki/Telecommunication
+[creazione]: http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=chomsky&x=0&y=0
 
 [definizione da dizionario]: http://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&nord=1#sclient=psy&hl=en&tbo=1&nord=1&tbs=dfn:1&source=hp&q=science&aq=f&aqi=p-p2g-e2g-c2g2g-c1g1&aql=&oq=&pbx=1&tbo=1&bav=on.2,or.r_gc.r_pw.&fp=18c4c2d0f0f5fea9&biw=1186&bih=634
 [Science]: http://www.sciencemag.org/
@@ -953,7 +964,19 @@ matematico, ma non chiarisce che cosa sia un linguaggio e come funzioni.
 
 [abbia scritto]: http://books.google.com/books?id=iaXVXYDQN1oC&pg=PA296&dq=%22probability+of+a+sentence%22+%22entirely+useless%22&hl=en&ei=_s7eTc_5DrTciALcsvnlCg&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDoQ6AEwAw#v=onepage&q=%22probability%20of%20a%20sentence%22%20%22entirely%20useless%22&f=false
 [Considerate:]: http://books.google.com/books?id=BANsZLg1uy4C&lpg=PP1&dq=unfortunate%20events%20reptile&pg=PA135#v=onepage&q=ever%20ever%20ever&f=false
+[The Paris we remember]: http://books.google.com/books?id=QLUaAAAAMAAJ&q=%22colorless+green%22&dq=%22colorless+green%22&hl=en&ei=iZjcTZj1FMHhiAL9yqUF&sa=X&oi=book_result&ct=result&resnum=7&ved=0CE0Q6AEwBg
+[The New Republic: Volume 29]: http://books.google.com/books?id=FodMAAAAYAAJ&pg=PA184&dq=%22green+ideas%22&hl=en&ei=vZncTYaLHsbYiAKz2vDoDw&sa=X&oi=book_result&ct=result&resnum=3&ved=0CEIQ6AEwAjgK
 [Current Opinion: Volume 52]: http://books.google.com/books?id=fTciAQAAIAAJ&pg=PA96&dq=%22ideas+sleep%22&hl=en&ei=bZrcTePRBeHmiAKp2fHoDw&sa=X&oi=book_result&ct=result&resnum=3&sqi=2&ved=0CDoQ6AEwAg#v=onepage&q=%22ideas%20sleep%22&f=false
+[mostrò]: http://www.cis.upenn.edu/~pereira/papers/rsoc.pdf
+[corpus di Google Books]: http://ngrams.googlelabs.com/graph?content=colorless+green&year_start=1800&year_end=1954&corpus=0&smoothing=3
+[linguaggi formali]: http://en.wikipedia.org/wiki/Formal_language
+[l'articolo]: http://nlp.stanford.edu/~manning/papers/probsyntax.pdf
+["as least as"]: http://ngrams.googlelabs.com/graph?content=as+least+as&year_start=1800&year_end=2000&corpus=0&smoothing=3
+[appare]: http://books.google.com/books?id=nwmgdvN_akAC&pg=PA107&lpg=PA107&dq=%22quaked+her%22&source=bl&ots=9M4UljFMWl&sig=2BHbXzUY8dmZXEDXkoflNmrf_Zg&hl=en&ei=ItXeTYC0Js3SiAKnmon3Cg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB4Q6AEwADgK#v=onepage&q=%22quaked%20her%22&f=false
+[davvero]: http://www.lexchecker.org/showhygramexample.php?lemmapos_id=1108&hygram_len=3&target_position=0&max_ignore_rate=50&hygram_id=149
+[disse]: http://books.google.com/books?id=ofgrAAAAYAAJ&pg=PA39&dq=%22all+grammars+leak%22+sapir+1921&hl=en&ei=wefeTaXhKMTPiALfw6jWCg&sa=X&oi=book_result&ct=book-thumbnail&resnum=10&ved=0CFsQ6wEwCQ#v=onepage&q=all%20grammars%20leak&f=false
+[osserva]: http://www.vinartus.net/spa/95c.pdf
+[grande spostamento vocalico]: http://en.wikipedia.org/wiki/Great_Vowel_Shift
 
 [Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
 [Statistical Modeling: The Two Cultures]: http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.ss/1009213726
