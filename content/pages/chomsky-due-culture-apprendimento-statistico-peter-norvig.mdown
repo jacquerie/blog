@@ -978,6 +978,20 @@ matematico, ma non chiarisce che cosa sia un linguaggio e come funzioni.
 [osserva]: http://www.vinartus.net/spa/95c.pdf
 [grande spostamento vocalico]: http://en.wikipedia.org/wiki/Great_Vowel_Shift
 
+[James Martin]: http://www.nasa.gov/home/hqnews/2002/02-072.txt
+["La marea sale, la mare scende. Mai un malinteso. Nessuno è in grado di spiegarlo"]: http://www.youtube.com/watch?v=UyHzhtARf8M
+[scoperto]: http://en.wikipedia.org/wiki/Laplace%27s_tidal_equations#Laplace.27s_tidal_equations
+[linguaggio pro-drop]: http://en.wikipedia.org/wiki/Pro-drop_language
+[imitando George H. W. Bush]: http://snltranscripts.jt.org/94/94dmono.phtml
+[The Loved One]: http://brothersjudd.com/index.cfm/fuseaction/reviews.detail/book_id/891
+[The Sunrise Lands]: http://books.google.it/books?id=zOLTi9LRG78C&printsec=frontcover&dq=the+sunrise+lands&hl=en&ei=PlDbTfTPBpL0swOR_4W_Dg&sa=X&oi=book_result&ct=result&redir_esc=y#v=onepage&q=likes%20to%20fight%20does%20he&f=false
+[Lucky T]: http://books.google.it/books?id=ERoDoSk7FN4C&pg=PT190&dq=%22thinks+he%27s+all+that%22&hl=en&ei=djzWTaKDK4zGsAPLxYWxBw&sa=X&oi=book_result&ct=result&redir_esc=y#v=onepage&q=%22thinks%20he's%20all%20that%22&f=false
+[Aspects of the Theory of Syntax]: http://books.google.com/books?id=u0ksbFqagU8C&lpg=PP1&dq=aspects%20of%20the%20theory%20of%20syntax&pg=PA4#v=snippet&q=%22observed%20use%20of%20language%22&f=false
+[platonista]: http://it.wikipedia.org/wiki/Platonismo
+[razionalista]: http://it.wikipedia.org/wiki/Razionalismo
+[mistico]: http://it.wikipedia.org/wiki/Mistica
+[mito della caverna]: http://it.wikipedia.org/wiki/Mito_della_caverna
+
 [Statistical Methods and Linguistics]: http://www.vinartus.net/spa/95c.pdf
 [Statistical Modeling: The Two Cultures]: http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.ss/1009213726
 [Three Models for the Description of Language]: http://www.chomsky.info/articles/195609--.pdf
