@@ -1,6 +1,3 @@
-Date: TODO
-Summary: TODO
-
 # Entropia di grafo #
 
 Il concetto di entropia di una sorgente fu introdotto da Claude E. Shannon nel

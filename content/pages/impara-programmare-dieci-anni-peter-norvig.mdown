@@ -1,6 +1,3 @@
-Date: TODO
-Summary: TODO
-
 # Impara a programmare in dieci anni #
 
 _Questo post è una traduzione di ["Teach Yourself Programming in Ten Years"][] di Peter Norvig._
