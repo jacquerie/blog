@@ -1,4 +1,4 @@
-Date: 20 Jul 2012
+Date: TODO
 Summary: TODO
 
 # Entropia di grafo #
