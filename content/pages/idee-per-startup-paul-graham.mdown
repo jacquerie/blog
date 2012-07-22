@@ -1,0 +1,90 @@
+# Idee per Startup #
+
+_Questo post è una traduzione di ["Ideas for Startups"][] di Paul Graham._
+
+Come si hanno delle buone idee per una startup? Questa è probabilmente la
+domanda che mi viene posta più spesso.
+
+Vorrei rispondere con un'altra domanda: perché le persone pensano che sia
+difficile avere idee per una startup?
+
+Potrebbe sembrare una domanda stupida. Perché _pensano_ che sia difficile?
+Se non lo sanno fare allora vuol dire che _è_ difficile, perlomeno per loro.
+No?
+
+Beh, forse no. TODO
+
+TODO
+
+TODO
+
+TODO
+
+## Domande ##
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+## Controvento ##
+
+TODO
+
+## Scarabocchiare ##
+
+TODO
+
+## Problemi ##
+
+TODO
+
+## Ricchezza ##
+
+Finora la maggior parte di quel che ho detto si applica alle idee in generale.
+Cosa c'è di speciale nelle idee per startup? Le idee per startup sono idee
+per fondare aziende, e le aziende devono fare soldi. E il modo per fare soldi
+è fare qualcosa che le persone vogliano.
+
+TODO
+
+La semplicità richiede impegno — talvolta anche del genio. TODO
+
+Sembra che, per l'ingegnere medio, più opzioni significhino soltanto più corda
+con cui impiccarsi. Perciò se vuoi fondare una startup puoi prendere qualunque
+tecnologia esistente prodotta da una grossa compagnia e TODO
+
+## TODO ##
+
+Il successo per una startup più o meno coincide con l'essere acquisiti. Avrete
+bisogno di una qualche strategia di uscita, perché non riuscirete a convincere
+le persone più intelligenti a lavorare per voi TODO
+
+## La strada di Woz ##
+
+La maniera più produttiva per generare idee per startup è anche la più
+improbabile: per caso. Se andate a vedere come sono nate alcune famose startup
+scoprirete che alcune di esse all'inizio non erano startup. Lotus cominciò con
+un programma che Mitch Kapor scrisse per un amico. Apple nacque perché Steve
+Wozniak voleva costruire microprocessori, e il suo datore di lavoro,
+Hewlett-Packard, non gli consentiva di farlo. Yahoo originariamente era la 
+collezione personale di link di David Filo.
+
+TODO
+
+TODO
+
+## Note ##
+
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
