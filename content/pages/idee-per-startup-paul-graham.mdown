@@ -52,13 +52,30 @@ fare un foglio di calcolo collaborativo accessibile via web? Qualche minimo
 cambiamento grammaticale e un'idea tremendamente incompleta diventa una
 promettente domanda da esplorare.
 
-TODO
+C'è davvero differenza, perché un'affermazione suscita obiezioni in modo
+diverso da una domanda. Se dite: "Costruirò un foglio di calcolo accessibile 
+via web" allora i critici — i più pericolosi dei quali stanno nella vostra
+testa — risponderanno immediatamente che sareste in competizione con
+Microsoft, che non potrete dare alle persone l'interfaccia che si aspettano,
+che gli utenti non vorrano avere i dati sui vostri server, e così via.
 
-TODO
+Una domanda non sembra così impegnativa. Diventa: vediamo cosa succede se
+facciamo un foglio di calcolo accessibile via web e vediamo dove arriviamo.
+E tutti sanno che provando a farlo sarete in grado di creare _qualcosa_ di
+utile. Magari alla fine non avrete ottenuto un foglio di calcolo. Magari
+avrete ottenuto una specie di TODO
 
-TODO
+Considerare un'idea per startup come una domanda cambia il vostro obiettivo.
+Se un'idea fosse un piano, allora deve essere corretta. Se è una domanda
+allora può essere sbagliata, purché sia sbagliata in modo da produrre
+ulteriori idee.
 
-TODO
+Un modo prolifico perché un'idea sia sbagliata è l'essere una soluzione
+parziale. Quando qualcuno lavora a un problema che mi sembra troppo grande
+gli chiedo sempre: "C'è modo di fare a meno di parte del problema, e poi
+espanderti pian piano da là?" Questo funzionerà a meno che non restiate
+intrappolati in un massimo locale, come l'Intelligenza Artificiale degli anni
+'80 o il C.
 
 ## Controvento ##
 
@@ -70,6 +87,9 @@ TODO
 ## Scarabocchiare ##
 
 TODO
+
+Certi tipi di lavoro sono fonti migliori di abitudine mentali rispetto ad
+altre? 
 
 ## Problemi ##
 
@@ -121,3 +141,5 @@ TODO
   <li><p></p></li>
   <li><p>Bill Yerazunis ha risolto questo problema, ma ci è arrivato da un'altra strada. Ha costruito TODO</p></li>
 </ol>
+
+["Ideas for Startups"]: http://paulgraham.com/ideas.html
