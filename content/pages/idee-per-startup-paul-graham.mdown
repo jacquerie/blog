@@ -12,19 +12,45 @@ Potrebbe sembrare una domanda stupida. Perché _pensano_ che sia difficile?
 Se non lo sanno fare allora vuol dire che _è_ difficile, perlomeno per loro.
 No?
 
-Beh, forse no. TODO
+Beh, forse no. Le persone tipicamente non dicono di non riuscire a pensare a
+delle idee, ma dicono di non averne. Non è esattamente la stessa cosa.
+Potrebbe essere che la ragione per cui non ne hanno è che non hanno provato ad
+averne.
 
-TODO
+Penso che sia spesso così. Penso che le persone credano che avere idee per
+startup sia molto difficile — _deve_ essere molto difficile — e quindi non
+provano a farlo. Credono che le idee siano come miracoli: o ti saltano in
+testa o niente.
 
-TODO
+Ho una teoria sul perché pensino così. Sopravvalutano le idee. Ritengono che
+creare una startup sia soltanto questione di implementare una magnifica idea
+iniziale. E poiché una startup di successo vale milioni di dollari, una buona
+idea vale milioni di dollari.
 
-TODO
+Se avere un'idea per una startup equivale ad avere un'idea da milioni di
+dollari, allora è chiaro che sembrerà difficile. Troppo difficile per
+prendersi il disturbo di provare. Il nostro istinto ci dice che qualcosa di
+tale valore non sarebbe là ad aspettare di essere scoperto.
+
+In realtà le idee per startup non valgono milioni di dollari, ed ecco un
+esperimento per provarlo: provate a venderne una. Niente si evolve più
+velocemente dei mercati. Il fatto che non ci sia mercato per idee per startup
+suggerisce che non esiste domanda. Il che significa, in un senso ristretto del
+termine, che le idee per startup non valgono niente.
 
 ## Domande ##
 
-TODO
+Il fatto è che la maggior parte delle startup finiscono per non assomigliare
+neanche all'idea originale. Sarebbe più vicino alla verità affermare che il
+valore principale dell'idea iniziale sta nel, mentre dimostri quanto non
+funzioni, ti salterà in mente l'idea giusta.
 
-TODO
+L'idea iniziale è soltanto un punto di partenza — non un piano d'azione, ma
+una domanda. Potrebbe aiutare esprimerla in questo modo. Invece di dire che la
+tua idea è un foglio di calcolo collaborativo accessibile via web dite: si può
+fare un foglio di calcolo collaborativo accessibile via web? Qualche minimo
+cambiamento grammaticale e un'idea tremendamente incompleta diventa una
+promettente domanda da esplorare.
 
 TODO
 
@@ -35,6 +61,9 @@ TODO
 TODO
 
 ## Controvento ##
+
+Fino a ora abbiamo ridotto il problema dall'avere un'idea da un milione di
+dollari a pensare a una domanda sbagliata. Non sembra così difficile, no?
 
 TODO
 
@@ -65,7 +94,11 @@ tecnologia esistente prodotta da una grossa compagnia e TODO
 
 Il successo per una startup più o meno coincide con l'essere acquisiti. Avrete
 bisogno di una qualche strategia di uscita, perché non riuscirete a convincere
-le persone più intelligenti a lavorare per voi TODO
+le persone più intelligenti a lavorare per voi senza dare loro opzioni che
+valgano qualcosa. Il che significa che dovrete essere acquisiti o quotarvi in
+borsa, e sono poche le startup che riescono a quotarsi in borsa.
+
+TODO
 
 ## La strada di Woz ##
 
@@ -84,7 +117,7 @@ TODO
 ## Note ##
 
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><p></p></li>
+  <li><p></p></li>
+  <li><p>Bill Yerazunis ha risolto questo problema, ma ci è arrivato da un'altra strada. Ha costruito TODO</p></li>
 </ol>
