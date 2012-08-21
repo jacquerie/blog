@@ -1,0 +1,32 @@
+# Entropia di Shannon ed entropia di grafo #
+
+Il concetto di entropia di una sorgente fu introdotto da Claude E. Shannon nel
+fondamentale articolo ["A mathematical Theory of Communication"][].
+ 
+**Definizione.** Sia $X$ una sorgente che a ogni istante discreto emette un
+simbolo $v_i $ nell'alfabeto finito $\{v_1 ,\dots ,v_n \}$ con probabilità
+$p_i$ per $1\le i\le n$. Chiamiamo _entropia di $X$_ la quantità $$H(X)=\sum_ {i=1}^ {n}{p_i\log{\frac{1}{p_i}}}\text{.}$$
+
+Possiamo interpretare l'entropia come la quantita' di informazione emessa in 
+media dalla sorgente, misurata in bit. Facciamo un paio di esempi.
+
+Supponiamo che la sorgente $X_1$ emetta una stringa binaria casuale di lunghezza
+$k$ con probabilita' uniforme. Allora l'entropia di $X_1$ risulta: 
+$$H(X_1)=\sum_ {i=1}^ {2^ k}{\frac{1}{2^ k}\log{2^ k}} = k\text{.}$$
+
+TODO
+
+Supponiamo invece che la sorgente $X_2$ emetta una certa stringa con probabilita'
+
+TODO
+
+## Entropia di grafo ##
+
+Abbiamo finora supposto che la comunicazione non fosse affetta da errori, cioe'
+che la stringa emessa dalla sorgente e quella ricevuta coincidessero.
+
+TODO
+
+## Bibliografia ##
+
+TODO
