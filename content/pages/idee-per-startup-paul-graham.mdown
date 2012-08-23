@@ -43,11 +43,11 @@ termine, che le idee per startup non valgono niente.
 Il fatto è che la maggior parte delle startup finiscono per non assomigliare
 neanche all'idea originale. Sarebbe più vicino alla verità affermare che il
 valore principale dell'idea iniziale sta nel, mentre dimostri quanto non
-funzioni, ti salterà in mente l'idea giusta.
+funzioni, farti saltare in mente l'idea giusta.
 
 L'idea iniziale è soltanto un punto di partenza — non un piano d'azione, ma
 una domanda. Potrebbe aiutare esprimerla in questo modo. Invece di dire che la
-tua idea è un foglio di calcolo collaborativo accessibile via web dite: si può
+vostra idea è un foglio di calcolo collaborativo accessibile via web dite: si può
 fare un foglio di calcolo collaborativo accessibile via web? Qualche minimo
 cambiamento grammaticale e un'idea tremendamente incompleta diventa una
 promettente domanda da esplorare.
@@ -59,11 +59,13 @@ testa — risponderanno immediatamente che sareste in competizione con
 Microsoft, che non potrete dare alle persone l'interfaccia che si aspettano,
 che gli utenti non vorrano avere i dati sui vostri server, e così via.
 
-Una domanda non sembra così impegnativa. Diventa: vediamo cosa succede se
+Una domanda non sembra così impegnativa. Diventa: guardiamo cosa succede se
 facciamo un foglio di calcolo accessibile via web e vediamo dove arriviamo.
 E tutti sanno che provando a farlo sarete in grado di creare _qualcosa_ di
 utile. Magari alla fine non avrete ottenuto un foglio di calcolo. Magari
-avrete ottenuto una specie di TODO
+avrete ottenuto una specie di tool di collaborazione che assomiglia a un
+foglio di calcolo ma per il quale non esiste ancora un nome. Eppure non ci
+avreste mai pensato se non provando a implementarlo passo passo.
 
 Considerare un'idea per startup come una domanda cambia il vostro obiettivo.
 Se un'idea fosse un piano, allora deve essere corretta. Se è una domanda
@@ -74,8 +76,8 @@ Un modo prolifico perché un'idea sia sbagliata è l'essere una soluzione
 parziale. Quando qualcuno lavora a un problema che mi sembra troppo grande
 gli chiedo sempre: "C'è modo di fare a meno di parte del problema, e poi
 espanderti pian piano da là?" Questo funzionerà a meno che non restiate
-intrappolati in un massimo locale, come l'Intelligenza Artificiale degli anni
-'80 o il C.
+intrappolati in un massimo locale, come accadde per l'Intelligenza Artificiale
+degli anni '80 o per il C.
 
 ## Controvento ##
 
