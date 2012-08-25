@@ -84,8 +84,8 @@ degli anni '80 o per il C.
 Fino a ora abbiamo ridotto il problema dall'avere un'idea da un milione di
 dollari a pensare a una domanda sbagliata. Non sembra così difficile, no?
 
-Per generare queste domande hai biosgno di due cose: devi conoscere nuove
-tecnologie promettenti e devi avere il tipo giusto di amici. Le nuove
+Per generare queste domande avete bisogno di due cose: dovete conoscere nuove
+tecnologie promettenti e dovete avere il tipo giusto di amici. Le nuove
 tecnologie sono l'ingrediente principale delle idee per startup, e le
 conversazioni con amici sono la cucina in cui vengono cotte.
 
@@ -93,21 +93,58 @@ Le universita' possiedono entrambe, ed e' per questo che cosi' tante startup
 nascono proprio la'. Sono piene di nuove tecnlogie, perche' stanno provando
 a produrre ricerca, e solo le cose nuove contano come ricerca. E sono piene
 di esattamente il tipo di persone con cui avere idee: gli altri studenti,
-i quali non solo sarannos intelligenti ma TODO
+i quali non solo saranno intelligenti ma TODO
 
 L'estremo opposto sarebbe un lavoro ben pagato ma noioso in una grande azienda.
 Nelle grosse aziende si nutrono pregiudizi nei confronti delle nuove 
-tecnologie, e incontreresti il tipo di persone sbagliato.
+tecnologie, e incontrereste il tipo di persone sbagliato.
 
 In un articolo destinato agli studenti delle superiori scrissi che un buon
 criterio e' stare controvento -- cioe' lavorare a cose che massimizzino e
 vostre future opportunita'. Penso che questo principio valga anche per gli
-adulti, ma forse dovrebbe essere modificato in: stai controvento finche' puoi,
-poi fai fruttare l'energia potenziale accumulata quando dovrai spendere soldi
-per i tuoi figli.
+adulti, ma forse dovrebbe essere modificato in: state controvento finche' potete,
+poi fate fruttare l'energia potenziale accumulata quando dovrete spendere soldi
+per i vostri figli.
 
-Non credo che molti realizzino
+Non credo che molti realizzino coscientemente che il motivo per cui lavori
+sottovento (come sfornare Java per conto di una banca) siano cosi' ben pagati 
+sia proprio il fatto che sono sottovento. Il prezzo di mercato per quel tipo di
+lavoro e' piu' alto perche' ti da' meno opportunita' per il futuro. Un lavoro
+che ti consenta di sperimentare roba nuova ed esaltante sara' probabilmente
+meno pagato, perche' parte dello stipendio sta nelle abilita' che acquisite.
 
+Un dottorato e' l'esatto opposto di un lavoro in una grossa azienda: la paga e'
+bassa ma passate la maggior parte del tempo a lavorare su roba nuova. E
+naturalmente si chiamano _scuole_ di dottorato, il che rende questo fatto
+palese, sebbene tutti i lavori siano in qualche misura scuole.
+
+L'ambiente giusto per avere idee per startup non e' per forza di cose
+un'universita'. Deve soltanto essere una situazione con un'alta percentuale di
+scuola.
+
+E' ovvio che tu desideri essere a contatto con nuova tecnologia, ma perche'
+avete bisogno di altre persone? Non potete pensare a nuove idee da soli?
+Esperienza insegna di no. Persino Einstein aveva bisogno di discutere le
+proprie idee. Le idee si sviluppano nel momento in cui vengono esposte al tipo
+giusto di persone. Hai bisogno di trovare quella resistenza, come un
+intagliatore ha bisono di sentire la resistenza del legno.
+
+Questa e' una delle ragioni per cui Y Combinator ha come regola di non
+investire in compagnia con un unico fondatore. Praticamente ogni azienda di
+successo ne ha avuti almeno due. E poiche' i cofondatori lavorano in condizioni
+di grande stress, e' essenziale che siano amici.
+
+Non me ne ero mai reso conto prima di scrivere questo articolo, ma questo
+potrebbe aiutare a spiegare perche' ci siano cosi' pochi donne cofondatrici.
+Ho letto su internet (quindi deve essere vero) che solo l'1.7% delle startup
+finanziate da VC sono state fondate da sole donne. La percentuale di donne fra
+gli hacker e' bassa, ma non cosi' bassa. Quindi perche' tutta questa
+disparita'?
+
+Quando TODO  che le startup di successo hanno tendenzialmente piu' cofondatori
+che erano gia' amici, ecco una possibile spiegazione. I migliori amici tendono
+a essere dello stesso sesso, e se un gruppo e' gia' la minoranza allora le
+coppie saranno una minoranza al quadrato. 
 
 ## Scarabocchiare ##
 
