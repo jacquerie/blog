@@ -127,7 +127,7 @@ avete bisogno di altre persone? Non potete pensare a nuove idee da soli?
 Esperienza insegna di no. Persino Einstein aveva bisogno di discutere le
 proprie idee. Le idee si sviluppano nel momento in cui vengono esposte al tipo
 giusto di persone. Hai bisogno di trovare quella resistenza, come un
-intagliatore ha bisono di sentire la resistenza del legno.
+intagliatore ha bisogno di sentire la resistenza del legno.
 
 Questa e' una delle ragioni per cui Y Combinator ha come regola di non
 investire in compagnia con un unico fondatore. Praticamente ogni azienda di
@@ -141,7 +141,7 @@ finanziate da VC sono state fondate da sole donne. La percentuale di donne fra
 gli hacker e' bassa, ma non cosi' bassa. Quindi perche' tutta questa
 disparita'?
 
-Una volta resomi conto che le startup di successo hanno tendenzialmente piu'
+Una volta compreso che le startup di successo hanno tendenzialmente piu'
 cofondatori che erano gia' amici, ecco una possibile spiegazione. I migliori
 amici tendono a essere dello stesso sesso, e se un gruppo e' gia' la minoranza
 allora le coppie saranno una minoranza al quadrato. 
@@ -176,7 +176,27 @@ altre?
 
 ## Problemi ##
 
-TODO
+In teoria potreste accostare idee casualmente e vedere cosa viene fuori. E se
+creaste un sito di incontri peer to peer? Sarebbe utile avere un libro
+automatico? Potreste trasformare i teoremi in un bene da consumo? Cosi'
+facendo si ottengono idee non soltanto stupide ma prive di significato. Cosa
+dovrebbe mai significare "trasformare i teoremi in un bene da consumo"? Mi
+avete beccato. Non ho pensato a quell'idea, ho pensato soltanto al suo nome.
+
+Potreste arrivare a qualcosa di utile in questo modo, ma a me non e' mai
+riuscito. E' come sapere che un blocco di marmo nasconde una fantastica
+scultura, e tutto quello che dovete fare e' rimuovere il marmo che non ne fa
+parte. E' un pensiero incoraggiante, perche' rammenta l'esistenza di una
+soluzione, ma non e' particolarmene utile nella pratica perche' lo spazio di
+ricerca e' troppo grande.
+
+E' necessario che io stia lavorando a un qualche problema perche' io abbia
+buone idee. Non potete cominciare provando casualmente. Dovete cominciare con
+un problema e far vagare la mente quanto basta perche' si formino nuove idee.
+
+In un certo senso e' piu' difficile scoprire problemi che le loro soluzioni.
+La maggior parte delle persone preferisce negare che esista un problema. Il
+perche' e' ovvio: i problemi sono irritanti. Sono problemi!
 
 ## Ricchezza ##
 
@@ -195,13 +215,38 @@ tecnologia esistente prodotta da una grossa compagnia e TODO
 
 ## TODO ##
 
-Il successo per una startup più o meno coincide con l'essere acquisiti. Avrete
+Il successo per una startup coincide piu' o meno con l'essere acquisiti. Avrete
 bisogno di una qualche strategia di uscita, perché non riuscirete a convincere
-le persone più intelligenti a lavorare per voi senza dare loro opzioni che
+le persone più intelligenti a lavorare per voi senza dare loro quote che
 valgano qualcosa. Il che significa che dovrete essere acquisiti o quotarvi in
 borsa, e sono poche le startup che riescono a quotarsi in borsa.
 
-TODO
+Se il successo significa con ogni probabilita'  essere acquisiti, dovreste tenerlo
+a mente come obiettivo? La vecchia risposta era no: ci si aspettava che voi
+voleste creare una colossale azienda quotata in borsa, e che foste sorpresi di
+aver ricevuto un'offerta. Davvero, vorreste comprarci? Beh, immagino che ci
+penseremo, purche' il prezzo sia giusto.
+
+Penso che le cose stiano cambiando. Se il 98% delle volte successo significa
+essere acquisiti, perche' non dirlo apertamente? Se nel 98% del tempo state
+sviluppando un prodotto mirato a una certa grossa azienda, perche' non pensare
+che sia questo il vostro scopo? Un vantaggio di questo approccio e' che vi
+fornisce un'ulteriore fonte di idee: osservate le grandi aziende, pensate a 
+quello che dovrebbero fare, fatelo per conto vostro. Anche se lo sanno gia',
+voi lo farete piu' velocemente.
+
+Assicuratevi soltanto di creare qualcosa che interessi piu' aziende. Non
+sistemate Windows, perche' l'unico potenziale acquirente sarebbe Microsoft, e
+quando c'e' un solo potenziale compratore non si deve sbrigare. Possono
+prendersi il proprio tempo e copiarvi invece di comprarvi. Se volete ottenere
+il prezzo di mercato lavorate in un ambito con competizione.
+
+Se un numero sempre maggiore di startup venisse creato per sviluppare prodotti
+destinati alle grande aziende cio' creerebbe un naturale contrappeso ai
+monopoli. Appena una particolare tecnologia rimane invischiata in un monopolio
+evolvera' al passo delle grandi aziende e non delle startup, mentre le
+alternative si muoveranno a grande velocita'. Il libero mercato interpreta il
+monopolio come un danno e lo aggira.
 
 ## La strada di Woz ##
 
@@ -213,9 +258,18 @@ Wozniak voleva costruire microprocessori, e il suo datore di lavoro,
 Hewlett-Packard, non gli consentiva di farlo. Yahoo originariamente era la 
 collezione personale di link di David Filo.
 
-TODO
+Questo non e' l'unico modo per fondare una startup. Potreste sedervi e pensare
+coscientemente a TODO. Ma, dal punto di vista del valore sul mercato, il
+modello del fai-cose-che-servano-a-te potrebbe portare migliori frutti.
+Sicuramente e' il modo piu' divertente per generare idee per startup. E poiche'
+una startup deve avere piu' cofondatori fra di loro gia' amici prima di
+cominciare, la conclusione piuttosto sorprendente e' che il miglior modo per
+generare idee per startup e' fare quello che gli hacker fanno per divertimento:
+preparare hack divertenti con i propri amici.
 
-TODO
+Sembra quasi violare una qualche legge di conservazione, ma ecco qua: il
+miglior modo per avere "l'idea da un milione di dollari" e' soltanto fare
+quello che agli hacker piacerebbe comunque fare.
 
 ## Note ##
 
