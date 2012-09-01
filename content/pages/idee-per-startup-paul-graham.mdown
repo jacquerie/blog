@@ -2,7 +2,7 @@
 
 _Questo post è una traduzione di ["Ideas for Startups"][] di Paul Graham._
 
-Come si hanno delle buone idee per una startup? Questa è probabilmente la
+Come si hanno delle buone idee per una [startup][]? Questa è probabilmente la
 domanda che mi viene posta più spesso.
 
 Vorrei rispondere con un'altra domanda: perché le persone pensano che sia
@@ -99,7 +99,7 @@ L'estremo opposto sarebbe un lavoro ben pagato ma noioso in una grande azienda.
 Nelle grosse aziende si nutrono pregiudizi nei confronti delle nuove 
 tecnologie, e incontrereste il tipo di persone sbagliato.
 
-In un articolo destinato agli studenti delle superiori scrissi che un buon
+In un [articolo][] destinato agli studenti delle superiori scrissi che un buon
 criterio è stare controvento — cioè lavorare su cose che massimizzino le
 vostre future opportunità. Penso che questo principio valga anche per gli
 adulti, ma forse dovrebbe essere modificato in: state controvento finchè potete,
@@ -144,7 +144,7 @@ disparità?
 Una volta compreso che le startup di successo hanno tendenzialmente più
 cofondatori che erano già amici, ecco una possibile spiegazione. I migliori
 amici tendono a essere dello stesso sesso, e se un gruppo è già la minoranza
-allora le coppie saranno una minoranza al quadrato.<sup id="fn1-31082012">1</sup> 
+allora le coppie saranno una minoranza al quadrato. <sup id="ref1-01092012"><a href="#fn1-01092012">1</a></sup>
 
 ## Scarabocchiare ##
 
@@ -158,8 +158,8 @@ a dirlo agli altri e insieme lavorate per sistemare i dettagli.
 Cosa succede durante quella doccia? A me pare quasi che le idee saltino in
 testa da sole. Ma possiamo dire di più?
 
-Fare una doccia è un po' come meditare. Sei cosciente, ma non c'è niente a
-distrarti. È in una situazione del genere, quando la tua mente è libera di
+Fare una doccia è un po' come meditare. Siete coscienti, ma non c'è niente a
+distrarvi. È in una situazione del genere, quando la vostra mente è libera di
 spaziare, che incappa nelle nuove idee.
 
 Cosa succede quando la mente è libera? È un po' come scarabocchiare. La
@@ -167,11 +167,11 @@ maggior parte delle persone scarabocchia in un modo preciso. Questa
 abitudine è inconscia, ma non casuale: i miei scarabocchi sono cambiati da
 quando ho cominciato a studiare pittura. Ho cominciato a fare quei gesti che
 avrei fatto se stessi disegnando per davvero. Erano atomi di quadri, ma
-arrangiati casualmente.
+arrangiati casualmente. <sup id="ref2-01092012"><a href="#fn2-01092012">2</a></sup>
 
 Forse far vagare la propria mente è un po' come scarabocchiare con le idee.
-Hai certi gesti mentali che hai imparato nel tuo lavoro, e quando non fai
-attenzione continui a fare gli stessi gesti ma in modo un po' casuale. In
+Avete certi gesti mentali che avete imparato nel vostro lavoro, e quando non fate
+attenzione continuate a fare gli stessi gesti ma in modo un po' casuale. In
 effetti, è un po' come chiamare la stessa funzione con argomenti casuali.
 Questa in fondo è una metafora: una funzione applicata ad argomenti di
 tipo sbagliato.
@@ -185,18 +185,18 @@ cosa sarebbe utile in un linguaggio di programmazione?" è stata appena
 invocata.
 
 Se le nuove idee nascessero come gli scarabocchi questo spiegherebbe perché
-devi lavorare a qualcosa per un po' prima di averne una. Non è soltanto che
-non puoi giudicare il valore delle idee finchè non sei un esperto del campo.
-Non genererai neanche idee, perché non avrai abitudini mentali da invocare.
+dovete lavorare a qualcosa per un po' prima di averne una. Non è soltanto che
+non potete giudicare il valore delle idee finchè non siete esperti del campo.
+Non genererete neanche idee, perché non avrete abitudini mentali da invocare.
 
 Naturalmente le abitudini della mente da invocare in un particolare ambito
 non devono per forza derivare da quello stesso. Anzi, è spesso preferibile
-che non lo siano. Non stai soltanto cercando buone idee ma buone idee _nuove_,
-e hai possibilità migliori di ottenerle se combini cose da ambiti disparati. In
+che non lo siano. Non state soltanto cercando buone idee ma buone idee _nuove_,
+e avete possibilità migliori di ottenerle se combinate cose da ambiti disparati. In
 quanto hacker abbiamo l'abitudine di chiedere: "La tal cosa potrebbe diventare
 open source?". Ad esempio, e se creassimo un sistema operativo open source? Una
-buona idea, ma non particolarmente originale. Se d'altro canto chiedessi: "È
-possibile fare una commedia open source?" allora potresti star avendo una buona
+buona idea, ma non particolarmente originale. Se d'altro canto chiedeste: "È
+possibile fare una commedia open source?" allora potreste star avendo una buona
 idea.
 
 Certi tipi di lavoro sono fonti migliori di abitudini mentali rispetto ad
@@ -239,7 +239,7 @@ troverebbero insopportabili. Questo rifiuto è una forza talmente forte che,
 anche quando vengono loro presentate possibili soluzioni, le persone spesso
 preferiscono credere che non funzionerebbero.
 
-Ho notato questo fenomeno quando ho lavorato su dei filtri antispam. Nel 2002
+Ho notato questo fenomeno quando ho lavorato sui filtri antispam. Nel 2002
 la maggior parte delle persone preferiva ignorare lo spam, e la maggior parte
 delle persone che non lo ignorava preferiva credere che i filtri euristici
 allora disponibili fossero il massimo che si potesse fare.
@@ -248,7 +248,7 @@ Trovavo lo spam insopportabile, e sentivo che fosse possibile riconoscerlo
 statisticamente. Venne fuori che questo fosse tutto il necessario per
 risolvere il problema. L'algoritmo che utilizzai era ridicolmente semplice.
 Chiunque avesse provato sul serio a risolvere il problema lo avrebbe trovato.
-Ma nessuno lo aveva mai fatto. [3]
+Ma nessuno lo aveva mai fatto. <sup id="ref3-01092012"><a href="#fn3-01092012">3</a></sup>
 
 Fatemi ripetere questa ricetta: trovare insopportabile un problema e sentire
 che debba esistere una soluzione. Per quanto semplice sembri, questa è la
@@ -283,12 +283,12 @@ inversa.
 Un modo per fare qualcosa che la gente vuole è osservare la roba difettosa che
 la gente usa ora. I siti di incontri sono il massimo esempio. Hanno milioni di
 utenti, perciò devono promettere qualcosa che la gente vuole. Eppure
-funzionano malissimo. Chiedi a qualunque utente. È come se tutti avessero
+funzionano malissimo. Chiedete a qualunque utente. È come se tutti avessero
 usato l'approccio peggio-è-meglio, si fossero fermati al primo passo e
 avessero dato il prodotto a chi lo doveva vendere.
 
 Certo, l'aspetto più difettoso per l'utente di computer medio è Windows stesso.
-Ma questo fa eccezione: non puoi abbattere un monopolio con un attacco
+Ma questo fa eccezione: non potete abbattere un monopolio con un attacco
 frontale. Windows può e deve essere soppiantato, ma non dando alla gente un
 miglior sistema operativo. La maniera per farcela è ridefinire il problema in
 modo più generale. Il problema non è "quale sistema operativo la gente
@@ -312,13 +312,13 @@ Henry Ford. I mulini trasformarono la potenza meccanica da lusso a merce, e
 furono usati durante l'impero Romano. Si potrebbe sostenere che la pastorizia
 abbia fatto lo stesso.
 
-Quando rendi qualcosa più economico ne puoi vendere di più. Ma se lo rendi
-drammaticamente più economico spesso ottieni cambiamenti qualitativi, perché le
+Quando rendete qualcosa più economico ne potete vendere di più. Ma se lo rendete
+drammaticamente più economico spesso ottenete cambiamenti qualitativi, perché le
 persone cominceranno a usarlo in modi diversi. Per esempio, una volta che i
 computer diventano talmente economici che la maggior parte delle persone ne
-possiede uno, puoi usarli come mezzo di comunicazione.
+possiede uno, potete usarli come mezzo di comunicazione.
 
-Spesso per rendere qualcosa drammaticamente più economico devi ridefinire il
+Spesso per rendere qualcosa drammaticamente più economico dovete ridefinire il
 problema. Il modello T non aveva tutte le caratteristiche delle precedenti
 macchine. Era disponibile solo nel colore nero, per esempio. Ma risolveva
 il problema che alle persone interessava maggiormente, cioè andare da un
@@ -327,12 +327,12 @@ posto all'altro.
 Una delle abitudini mentali più utili che conosco l'ho imparata da Michael
 Rabin: il miglior modo per risolvere un problema è ridefinirlo. Molte persone
 usano questa tecnica senza esserne coscienti, mentre Rabin è spettacolarmente
-esplicito. Hai bisogno di un grosso numero primo? Costano un bel po'. Che ne
-dici di un grosso numero che ha solo una probabilità di 10 alla meno 100 di
-non essere primo? Ti andrebbe bene? Beh, probabilmente sì; In fin dei conti è
-una probabilità più piccola di quanto mi possa immaginare.
+esplicito. Avete bisogno di un grosso numero primo? Costano un bel po'. Che ne
+dite di un grosso numero che ha solo una probabilità di 10 alla meno 100 di
+non essere primo? Vi andrebbe bene? Beh, probabilmente sì; In fin dei conti è
+una probabilità più piccola di quanto possa immaginare.
 
-Ridefinire il problema è particolarmente fruttuoso quando hai della concorrenza,
+Ridefinire il problema è particolarmente fruttuoso quando avete della concorrenza,
 perché é difficile che le persone ottuse vi seguano. Potete lavorare in bella
 vista e loro non capiscono il pericolo. Non preoccupatevi di noi. Stiamo
 lavorando sulla ricerca. Fare una cosa e farla bene, ecco il nostro motto.
@@ -343,7 +343,7 @@ la stessa cosa, ma gli oggetti che produciamo sono talmente complicati che è
 nato un caso particolare ulteriore: fare cose _più facili da usare_.`
 
 Questa è un'area in cui c'è molto spazio per migliorare. Quello che vorresti
-poter dire sulla tecnologia è: funziona e basta. Quanto spesso lo dici oggi?
+poter dire sulla tecnologia è: funziona e basta. Quanto spesso lo dite oggi?
 
 La semplicità richiede impegno — talvolta anche del genio. Il programmatore
 medio sembra produrre interfacce utente talmente cattive da sembrare fatte
@@ -358,7 +358,7 @@ Girate una manopola per impostare la temperatura e un'altra per la durata. Cosa
 c'è di sbagliato? Funzionava e basta.
 
 Sembra che, per l'ingegnere medio, più opzioni comportino soltanto più corda
-con cui impiccarsi. Perciò se vuoi fondare una startup potete prendere qualunque
+con cui impiccarsi. Perciò se volete fondare una startup potete prendere qualunque
 tecnologia esistente prodotta da una grossa compagnia e proporvi di costruire
 qualcosa di molto più facile da usare.
 
@@ -373,8 +373,8 @@ borsa, e sono poche le startup che riescono a quotarsi in borsa.
 Se il successo significa con ogni probabilità essere acquisiti, dovreste tenerlo
 a mente come obiettivo? La vecchia risposta era no: ci si aspettava che voi
 voleste creare una colossale azienda quotata in borsa, e che foste sorpresi di
-aver ricevuto un'offerta. Davvero, vorreste comprarci? Beh, immagino che ci
-penseremo, purché il prezzo sia giusto.
+aver ricevuto un'offerta: "Davvero, vorreste comprarci? Beh, immagino che ci
+penseremo, purché il prezzo sia giusto.".
 
 Penso che le cose stiano cambiando. Se il 98% delle volte successo significa
 essere acquisiti, perché non dirlo apertamente? Se nel 98% del tempo state
@@ -424,9 +424,13 @@ quello che agli hacker piace comunque fare.
 ## Note ##
 
 <ol>
-  <li><p>Questo stesso fenomeno potrebbe spiegare diverse discrepanze tipicamente attribuite a vari proibiti -ismi. Mai attribuire alla malizia quello che può essere spiegato dalla matematica.</p></li>
-  <li><p>Gran parte del classico espressionismo astratto consiste in scarabocchi di questo genere: artisti che hanno imparato a disegnare dal vivo usano gli stessi gesti senza rappresentare alcunchè. Questo spiega perché tali quadri siano (poco) più interessanti di un po' di segni casuali.</p></li>
-  <li><p>Bill Yerazunis ha risolto questo problema, ma ci è arrivato da un'altra strada. Ha costruito un classificatore generale di file talmente buono da funzionare anche per lo spam.</p></li>
+  <li id="fn1-01092012"><p>Questo stesso fenomeno potrebbe spiegare diverse discrepanze tipicamente attribuite a vari proibiti -ismi. Mai attribuire alla malizia quello che può essere spiegato dalla matematica. <a href="#ref1-01092012">↩</a></p></li>
+  <li id="fn2-01092012"><p>Gran parte del classico espressionismo astratto consiste in scarabocchi di questo genere: artisti che hanno imparato a disegnare dal vivo usano gli stessi gesti senza rappresentare alcunchè. Questo spiega perché tali quadri siano (poco) più interessanti di un po' di segni casuali. <a href="#ref2-01092012">↩</a></p></li>
+  <li id="fn3-01092012"><p>Bill Yerazunis ha risolto questo problema, ma ci è arrivato da un'altra strada. Ha costruito un classificatore generale di file talmente buono da funzionare anche per lo spam. <a href="#ref3-01092012">↩</a></p></li>
 </ol>
 
 ["Ideas for Startups"]: http://paulgraham.com/ideas.html
+[startup]: http://jacquerie.it/come-nasce-una-startup-paul-graham
+[articolo]: http://paulgraham.com/hs.html
+[pittura]: http://paulgraham.com/hp.html
+[maker]: http://paulgraham.com/taste.html
