@@ -176,17 +176,40 @@ effetti, è un po' come chiamare la stessa funzione con argomenti casuali.
 Questa in fondo è una metafora: una funzione applicata ad argomenti di
 tipo sbagliato.
 
-TODO
+Opportunamente, mentre scrivevo questo post, mi sono chiesto: "Sarebbe utile
+avere le metafore in un linguaggio di programmazione?". Non lo so; non ho
+neanche tempo di pensarci. Ma dico opportunamente perché è un esempio di
+quanto affermi sulle abitudini mentali. Passo un sacco di tempo a riflettere
+sulla creazione di linguaggi, e la mia abitudine di chiedere sempre "La tal
+cosa sarebbe utile in un linguaggio di programmazione?" è stata appena
+invocata.
 
-TODO
+Se le nuove idee nascessero come gli scarabocchi questo spiegherebbe perché
+devi lavorare a qualcosa per un po' prima di averne una. Non è soltanto che
+non puoi giudicare il valore delle idee finchè non sei un esperto del campo.
+Non genererai neanche idee, perché non avrai abitudini mentali da invocare.
 
-TODO
+Naturalmente le abitudini della mente da invocare in un particolare ambito
+non devono per forza derivare da quello stesso. Anzi, è spesso preferibile
+che non lo siano. Non stai soltanto cercando buone idee ma buone idee _nuove_,
+e hai possibilità migliori di ottenerle se combini cose da ambiti disparati. In
+quanto hacker abbiamo l'abitudine di chiedere: "La tal cosa potrebbe diventare
+open source?". Ad esempio, e se creassimo un sistema operativo open source? Una
+buona idea, ma non particolarmente originale. Se d'altro canto chiedessi: "È
+possibile fare una commedia open source?" allora potresti star avendo una buona
+idea.
 
 Certi tipi di lavoro sono fonti migliori di abitudini mentali rispetto ad
-altre? Ho il sospetto che ambiti di lavoro più difficili siano fonti migliori,
+altri? Ho il sospetto che ambiti di lavoro più difficili siano fonti migliori,
 perché per attaccare i problemi più duri servono solventi più potenti. Penso
 che la matematica sia una buona fonte di metafore — abbastanza buona da
-valere la pena studiarla soltanto per quello. TODO
+valere la pena studiarla soltanto per quello. Campi affini sono buone fonti,
+specialmente quando il collegamento emerge in maniera inattesa. Tutti sanno
+che l'ingegneria elettronica e l'informatica sono affini, ma, esattamente perché
+tutti lo sanno, portare idee da un campo all'altro non produce grandi profitti,
+un po' come importare merci dal Wisconsin al Michigan. Invece (sostengo) anche
+hacking e [pittura][] sono affini, nel senso che sia hacker sia pittori sono
+[maker][], e questa fonte di nuove idee è praticamente terreno vergine.
 
 ## Problemi ##
 
@@ -279,8 +302,9 @@ soluzione sbagliata. Penso sia più probabile che l'assassino di Windows —
 più precisamente, il suo superamento — venga prodotto da una piccola startup.
 
 Un altro modo classico di fare qualcosa che la gente vuole è prendere un bene
-di lusso e trasformarlo in un bene di consumo. Le persone devono volere
-qualcosa se pagano un sacco per averlo. TODO
+di lusso e trasformarlo in un bene di consumo. Le persone devono davvero volere
+qualcosa se pagano un sacco per averlo. E magari si tratta di un prodotto molto
+raro che non può essere reso drammaticamente più economico.
 
 Questo era il piano di Henry Ford. Egli trasformò le macchine, fino ad allora
 un bene di lusso, in un bene di consumo. Ma l'idea è molto più vecchia di
@@ -305,7 +329,8 @@ Rabin: il miglior modo per risolvere un problema è ridefinirlo. Molte persone
 usano questa tecnica senza esserne coscienti, mentre Rabin è spettacolarmente
 esplicito. Hai bisogno di un grosso numero primo? Costano un bel po'. Che ne
 dici di un grosso numero che ha solo una probabilità di 10 alla meno 100 di
-non essere primo? Ti andrebbe bene? Beh, probabilmente sì; TODO
+non essere primo? Ti andrebbe bene? Beh, probabilmente sì; In fin dei conti è
+una probabilità più piccola di quanto mi possa immaginare.
 
 Ridefinire il problema è particolarmente fruttuoso quando hai della concorrenza,
 perché é difficile che le persone ottuse vi seguano. Potete lavorare in bella
@@ -313,7 +338,9 @@ vista e loro non capiscono il pericolo. Non preoccupatevi di noi. Stiamo
 lavorando sulla ricerca. Fare una cosa e farla bene, ecco il nostro motto.
 
 Fare le cose in modo più economico è un caso particolare di una tecnica più
-generale: fare le cose in modo più semplice. TODO
+generale: fare le cose più facilmente. Per molto tempo hanno significato quasi
+la stessa cosa, ma gli oggetti che produciamo sono talmente complicati che è
+nato un caso particolare ulteriore: fare cose _più facili da usare_.`
 
 Questa è un'area in cui c'è molto spazio per migliorare. Quello che vorresti
 poter dire sulla tecnologia è: funziona e basta. Quanto spesso lo dici oggi?
