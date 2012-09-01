@@ -1,3 +1,6 @@
+Date: 01 Sep 2012
+Summary: Come si hanno delle buone idee per una startup? Questa è probabilmente la domanda che mi viene posta più spesso. Vorrei rispondere con un'altra domanda: perché le persone pensano che sia difficile avere idee per una startup? Potrebbe sembrare una domanda stupida. Perché _pensano_ che sia difficile? Se non lo sanno fare allora vuol dire che _è_ difficile, perlomeno per loro. No? Beh, forse no.
+
 # Idee per Startup #
 
 _Questo post è una traduzione di ["Ideas for Startups"][] di Paul Graham._
