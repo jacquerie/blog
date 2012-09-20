@@ -1,0 +1,27 @@
+# Analisi dell'algoritmo di Marco Camisani Calzolari #
+
+Poco più di un mese fa fece assai scalpore la notizia secondo cui più della
+metà dei follower su Twitter di Beppe Grillo fosse falso. A sostenerlo era
+una ricerca di Marco Camisani Calzolari, professore a contratto presso lo IULM.
+
+Molti su internet 
+
+## La questione dei favorites ##
+
+Twitter consente a ogni utente di salvare fra i preferiti quei tweet che
+desidera poter rileggere in futuro. La webapp di Twitter consente inoltre di
+visualizzare il numero di volte che un dato Tweet è stato messo nei preferiti
+da qualche utente.
+
+[Non è però possibile][] ottenere questo secondo dato tramite la API di Twitter.
+Questa offre invece per ogni utente un campo favorites_count, il quale
+rappresenta il numero di Tweet messi nei preferiti **da quell'utente**.
+
+[Non è però possibile]: https://dev.twitter.com/docs/faq#6898
+
+D'altro canto 
+
+## Conclusioni ##
+
+
+
