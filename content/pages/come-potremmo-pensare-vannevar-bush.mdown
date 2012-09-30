@@ -1,0 +1,306 @@
+Date: 31 Sep 2012
+Summary: TODO
+
+# Come potremmo pensare #
+
+_Questo post è una traduzione di ["As we may think"][] di Vannevar Bush._
+
+Questa non è stata una guerra fra scienziati; a questa guerra hanno preso parte
+tutti. Gli scienziati, mettendo da parte la vecchia competizione professionale
+per una causa maggiore, hanno condiviso e imparato molto. Lavorare in efficaci
+associazioni è stato stimolante. Ora, per molti, questo sembra volgere al
+termine. Cosa dovranno fare gli scienziati in futuro?
+
+Per i biologi, e in particolare per i medici, c'è poco da discutere, dato che lo
+sforzo bellico ha raramente richiesto che si occupassero d'altro. In effetti
+molti sono stati in grado di continuare le proprie ricerche nei loro familiari
+laboratori del tempo di pace. I loro obiettivi rimangono pressapoco gli stessi.
+
+Ad essere più violentemente deviati dal proprio cammino sono stati i fisici, i
+quali hanno abbandonato i propri scopi accademici per costruire strani
+dispositivi distruttivi e hanno dovuto ideare nuovi metodi per compiti non
+previsti. Hanno svolto la propria parte su quei congegni che hanno permesso di
+respingere il nemico. Hanno collaborato con i fisici dei paesi alleati. Hanno
+sentito dentro di loro l'agitazione del successo. Sono stati parte di un grande
+squadra. E ora che si parla di pace, ci chiediamo se saranno in grado di
+trovare obiettivi degni delle proprie capacità.
+
+## 1 ##
+
+Quali benefici duraturi hanno apportato il ricorso dell'uomo alla scienza e agli
+strumenti creati in seguito alla propria ricerca? Per prima cosa ha aumentato
+il controllo del proprio ambiente materiale. Ha migliorato il proprio cibo,
+vestiario, rifugio dagli agenti atmosferici; lo ha reso più sicuro e
+parzialmente libero dalla schiavitù della sussistenza. Gli ha dato maggiore
+conoscenza dei propri processi biologici in modo tale da godere di sempre
+maggiore libertà dalla malattia e più lunga durata di vita. Stanno gettando luce
+sull'interazione fra le funzioni psicologiche e fisiologiche, base di una
+promessa di migliore benessere della mente.
+
+La scienza ci ha dato la più veloce forma di comunicazione fra individui; TODO
+
+TODO
+
+TODO
+ 
+TODO
+
+Ma, con l'affermarsi di nuovi mezzi, ci sono segni di un cambiamento imminente.
+Fotocellule capaci di vedere oggetti fisici, tecniche avanzate di fotografia
+che consentono di registrare la luce visibile e non, valvole termoioniche
+capaci di controllare forze immani con meno potenza di quella che serve ad una
+zanzara per muovere le proprie ali, tubi a raggi catodici in grado di rendere
+visibili eventi talmente rapidi che un microsecondo a confronto è un tempo
+lungo, combinazioni di relè che eseguono complicate sequenze di movimenti con
+maggiore accuratezza di qualunque uomo e migliaia di volte più velocemente -
+esiste una moltitudine di aiuti meccanici con cui causare una trasformazione 
+
+Due secoli fa Leibniz inventò una macchina calcolatrice che incarnava la maggior
+parte delle caratteristiche salienti di un moderno calcolatore a tastiera, ma
+non entrò nell'uso comune. Gli aspetti economici erano contrari: lo sforzo
+necessario a costruirla, prima dell'avvento della produzione di massa, era
+maggiore del guadagno di tempo conseguente al proprio uso, dato che tutto
+quello che poteva fare era possibile con abbastanza carta e penna. Per di più
+sarebbe stata oggetto di frequenti guasti, tanto da non potervi fare
+affidamento; poiché a quel tempo e per molto tempo ancora complessità e
+inaffidabilità erano sinonimi.
+
+Babbage, seppur con finanziamenti assai generosi per il proprio tempo, non fu
+in grado di produrre la propria macchina aritmetica. La sua idea era abbastanza
+solida, ma i costi di costruzione e manutenzione erano troppo alti. Se a un
+Faraone fossero stati dati gli schemi completi in ogni dettaglio di
+un'automobile, anche supposto fosse stato in grado di capirli fino in fondo,
+costruire una singola macchina avrebbe prosciugato le risorse dell'intero
+regno, e quella macchina si sarebbe rotta nel primo viaggio verso Gaza.
+
+Oggi costruiamo con poco sforzo macchine composte di parti facilmente
+sostituibili. Nonostante la loro complessità, sono inoltre affidabili. Chiamo 
+come testimoni l'umile macchina da scrivere, la cinepresa e l'automobile. TODO
+
+## 2 ##
+
+Perché un documento sia utile alla scienza è necessario che sia continuamente
+aggiornato, che sia conservato e soprattutto che venga consultato. Oggi
+tipicamente lo creiamo tramite scrittura e fotografia, seguite dalla stampa;
+inoltre mettiamo documenti su pellicola, dischi di cera e nastri magnetizzati.
+Anche supponendo che non appaiano metodi radicalmente nuovi per la creazione di
+documenti, quelli attualmente esistenti sono in corso di modifica e
+miglioramento.
+
+Sicuramente non si fermerà il progresso nel campo della fotografia. Pellicole e
+lenti più veloci, macchine sempre più automatiche, composti chimici ancora più
+sensibili TODO
+
+Il cavo che faccia scattare il proprio otturatore potrebbe scorrere lungo la
+manica, per essere facilmente accessibile alle dita. Una rapida pressione, e
+viene scattata la fotografia. TODO
+
+Esisterà la fotografia a secco? Esiste già oggi in due modi. Quando Brady
+scattò le proprie foto della Guerra Civile, la lastra doveva essere bagnata
+al momento dello scatto. Ora lo deve essere soltanto durante lo sviluppo. Forse
+in futuro non lo dovrà mai essere. Abbiamo da tempo
+
+Un altro processo oggi in uso è analogamente lento, e più o meno altrettanto
+maldestro. TODO
+
+Questo metodo è oggi usato nella trasmissione di facsmile. TODO
+
+TODO
+
+Sarebbe coraggioso sostenere che questo processo rimarrà per sempre maldestro,
+lento e poco dettagliato. Oggi la televisione è in grado di trasmettere 16
+immagini ragionevolmente buone per secondo, e comporta solo un paio di
+differenze fondamentali con la tecnica appena descritta. TODO
+
+TODO
+
+Così come la fotografia a secco, la microfotografia deve ancora evolvere molto.
+Il semplice metodo di ridurre la dimensione del documento e consultarlo
+proiettato apre possibilità troppo grandi per essere ignorate. La combinazione
+di proiezione ottica e riduzione fotografica sta già producendo risultati
+nell'uso della pellicola a fini scientifici, e sono interessanti le
+potenzialità. Oggi, con la tecnologia del microfilm, possiamo ottenere un
+fattore 20 di compressione e mantenere la perfetta leggibilità del documento
+quando viene ingrandito per la consultazione. I limiti sono dati dalla grana
+della pellicola, la qualità delle lenti e l'efficienza delle luci utilizzate.
+Tutte queste stanno rapidamente migliorando.
+
+TODO
+
+La compressione è tuttavia importante dal punto di vista del costo. Supponiamo
+che il materiale per l'edizione su pellicola dell'enciclopedia Britannica venga
+a costare cinque centesimi, e che possa essere spedito ovunque ad un centesimo.
+Quanto costerebbe stampare e spedire un milione di copie? Stampare un foglio di
+giornale in grande formato oggi costa una piccola frazione di un centesimo.
+L'intero contenuto dell'enciclopedia Britannica verrebbe riversato su un foglio
+di pellicola di dimensioni 8.5 pollici per 11. Una volta disponibile, grazie ai
+metodi di riproduzione del futuro, potremmo produrne copie al prezzo dei
+materiali più un centesimo. Come preparare l'originale? Questo introduce un
+nuovo aspetto del nostro argomento.
+
+## 3 ##
+
+TODO
+
+A una recente Esposizione Universale è stata presentata una macchina chiamata
+Voder. Una ragazza ne batteva i tasti e la macchina emetteva parole
+comprensibili. Le corde vocali umane non avevano niente a che vedere con questa
+macchina; i tasti semplicemente combinavano vibrazioni prodotte elettronicamente
+e le mandavano a un altoparlante. Nei laboratori Bell c'è il contrario di questa
+macchina, chiamata Vocoder. L'altoparlante è rimpiazzato da un microfono, che
+cattura suoni. Parlandoci dentro, si muovono i corrispondenti tasti. Questo
+potrebbe essere un elemento del sistema ipotizzato.
+
+TODO
+
+È vero che le nostre attuali lingue non sono particolarmente adatte a questa 
+sorta di meccanizzazione. È strano che gli inventori dei linguaggi universali
+non abbiano colto l'opportunità per produrne uno più adatto alla trasmissione
+e ricezione. L'ulteriore meccanizzazione potrebbe renderlo necessario,
+specialmente in ambito scientifico; di conseguenza il gergo scientifico
+diventerebbe ancora meno comprensibile all'uomo della strada.
+
+TODO
+
+TODO. Per il secondo ci sono, e ci potranno essere, potenti aiuti meccanici.
+
+TODO
+
+TODO
+
+L'addizione è solo una delle operazioni. Per effettuare calcoli aritmetici
+servono anche sottrazione, moltiplicazione e divisione, e per fare
+addizioni serve un meccanismo di lettura e scrittura da una memoria temporanea,
+e infine un modo per stampare il risultato finale. Macchine per questo scopo
+sono oggi di due tipi: macchine a tastierino numerico per contabilità e simili,
+controllate manualmente per l'inserimento dei dati e automaticamente per quanto
+riguarda l'algoritmo da svolgere su di essi; e macchine a schede forate, in cui
+distinte operazioni sono tipicamente delegate a più macchine, e le schede
+vengono trasferite fisicamente da una macchina all'altra. Entrambi i tipi
+risultano molto utili; ma, dal punto di vista delle computazioni complesse,
+entrambe sono in stato embrionale.
+
+TODO
+
+Per di più saranno molto più versatili delle attuali macchine commerciali,
+così che possano essere più facilmente adattate a una gran varietà di
+compiti. Saranno controllate da una qualche forma di rullino o circuito di
+controllo, selezioneranno i propri dati da sole ed eseguiranno complesse
+operazioni aritmetiche sempre più velocemente, rendendo disponibili i propri
+risultati per distribuirli o ulteriori manipolazioni. Tali macchine saranno
+dotate di un vorace appetito. Una sola di esse prenderà istruzioni da un'intera
+stanza di ragazze armate di un tastierino numerico, e restituirà risultati ogni
+pochi minuti. Ci saranno sempre molte cose da calcolare fra le dettagliate
+faccende di milioni di persone che fanno cose complicate.
+
+## 4 ##
+
+I processi ripetitivi della mente non si limitano tuttavia ad aritmetica e
+statistica. In effetti, ogni volta che vengono registrati e combinati fatti
+rispettando consolidati processi logici, l'aspetto creativo del pensiero si
+limita soltanto alla selezione dei dati e del processo da adottare, e la
+manipolazione conseguente è di natura ripetitiva e quindi adatta ad essere
+svolta dalle macchine. TODO
+
+TODO
+
+Se il pensiero scientifico si limitasse ai soli processi logici dell'aritmetica,
+non dovremmo arrivare lontani nella nostra comprensione del mondo fisico. Si
+potrebbe allo stesso modo tentare di comprendere il gioco del poker puramente 
+in termini di probabilità. L'abaco, con le proprie palline su fili paralleli,
+porto gli Arabi alla scoperta dello zero molti secoli prima del resto del mondo;
+e si trattava comunque di uno strumento utile - così utile da esistere tuttora.
+
+Corre molta distanza fra l'abaco e la moderna macchina per contabilità con
+tastierino numerico. Altrettanta separa quest'ultima dalla macchina
+aritmetica del futuro. TODO
+
+TODO
+
+## 5 ##
+
+TODO
+
+Un nuovo modello simbolico, probabilmente posizionale, sembra dover precedere
+la riduzione di trasformazioni matematiche a processi di macchina. Poi, oltre
+la stretta logica del matematico, sta l'applicazione della logica agli affari
+comuni. TODO
+
+TODO
+
+TODO
+
+TODO
+
+Consideriamo il prosaico problema del grande magazzino. Ogni volta che viene
+effettuata una vendita ci sono un po' di cose da fare. L'inventario deve
+essere aggiornato, al commesso deve essere accreditata la commissione,
+l'ufficio contabilità deve venirlo a sapere e, cosa più importante di tutte,
+al cliente deve essere addebitata la transazione. TODO
+
+TODO
+
+TODO
+
+TODO
+
+## 6 ##
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+Un bottone speciale lo porta direttamente alla prima pagina dell'indice. Ogni
+dato libro della propria libreria può essere richiamato e consultato con molto
+meno dello sforzo richiesto nel reperirlo su uno scaffale. Poiché 
+
+## 7 ##
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+## 8 ##
+
+Appariranno forme totalmente nuove di enciclopedie, TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+La scienza applicata ha donato all'uomo una casa ben attrezzata, e gli
+insegna di vivere in modo sano da quel momento in poi. Ma gli hanno anche
+permesso di scatenare masse di persone una contro l'altra armate di arnesi
+crudeli. TODO
+
+["As we may think"]: http://www.w3.org/History/1945/vbush/
