@@ -1,4 +1,4 @@
-Date: 31 Sep 2012
+Date: 31 Oct 2012
 Summary: TODO
 
 # Come potremmo pensare #
@@ -14,9 +14,9 @@ termine. Cosa dovranno fare gli scienziati in futuro?
 Per i biologi, e in particolare per i medici, c'è poco da discutere, dato che lo
 sforzo bellico ha raramente richiesto che si occupassero d'altro. In effetti
 molti sono stati in grado di continuare le proprie ricerche nei loro familiari
-laboratori del tempo di pace. I loro obiettivi rimangono pressapoco gli stessi.
+laboratori del tempo di pace. I loro obiettivi rimangono pressappoco gli stessi.
 
-Ad essere più violentemente deviati dal proprio cammino sono stati i fisici, i
+A essere più violentemente deviati dal proprio cammino sono stati i fisici, i
 quali hanno abbandonato i propri scopi accademici per costruire strani
 dispositivi distruttivi e hanno dovuto ideare nuovi metodi per compiti non
 previsti. Hanno svolto la propria parte su quei congegni che hanno permesso di
@@ -37,13 +37,38 @@ maggiore libertà dalla malattia e più lunga durata di vita. Stanno gettando lu
 sull'interazione fra le funzioni psicologiche e fisiologiche, base di una
 promessa di migliore benessere della mente.
 
-La scienza ci ha dato la più veloce forma di comunicazione fra individui; TODO
+La scienza ci ha dato la più veloce forma di comunicazione fra individui; ha 
+consentito di trasformare le idee in documenti, permettendo agli uomini di
+manipolare ed estrapolare da questi affinché la conoscenza sopravviva e si
+evolva non più nell'arco delle vite degli individui ma in quello della specie.
 
-TODO
+Esiste una montagna di ricerca sempre in crescita. Ma esistono sempre più prove
+che ci stiamo impantanando con lo specializzarsi della conoscenza. Il
+ricercatore esita di fronte ai risultati di migliaia di altri prima di lui —
+risultati che non ha il tempo di capire e tanto meno ricordare via via che
+appaiono. Eppure la specializzazione diventa sempre più necessaria per il
+progresso, mentre l'impegno interdisciplinare scema man mano.
 
-TODO
- 
-TODO
+I nostri metodi di trasmettere e valutare i risultati della ricerca sono vecchi
+di generazioni, e ormai del tutto inadatti allo scopo. Se potessimo misurare il
+tempo totale speso per scrivere nuova ricerca e consultare precedenti lavori,
+il rapporto fra questi risulterebbe allarmante. Chi coscienziosamente prova a
+tenersi al passo delle ultime idee leggendo attentamente e continuamente,
+persino in campi non molto estesi, avrebbe probabilmente paura di un esame
+studiato per determinare quanto del materiale letto nel precedente mese sia
+stato memorizzato. Le leggi di Mendel della genetica andarono perse per una
+generazione perché quegli articoli non raggiunsero i pochi capaci di capirli
+e ampliarli; questa catastrofe si ripete senza dubbio ancora oggi, quando
+risultati davvero significativi vanno persi nella mare di risultati
+irrilevanti.
+
+Il problema non è tanto che pubblichiamo indebitamente, data la vastità e
+varietà degli interessi odierni, quanto il fatto che il ricorso alla
+pubblicazione ha raggiunto dimensioni tali da non poter usare efficacemente
+il mezzo. La somma delle esperienze umane cresce a una velocità prodigiosa, ma 
+gli strumenti che usiamo per farci strada nel risultante labirinto alla ricerca
+dell'obiettivo del momento sono gli stessi usati nei giorni della navigazione a
+vele quadre.
 
 Ma, con l'affermarsi di nuovi mezzi, ci sono segni di un cambiamento imminente.
 Fotocellule capaci di vedere oggetti fisici, tecniche avanzate di fotografia
@@ -69,13 +94,25 @@ Babbage, seppur con finanziamenti assai generosi per il proprio tempo, non fu
 in grado di produrre la propria macchina aritmetica. La sua idea era abbastanza
 solida, ma i costi di costruzione e manutenzione erano troppo alti. Se a un
 Faraone fossero stati dati gli schemi completi in ogni dettaglio di
-un'automobile, anche supposto fosse stato in grado di capirli fino in fondo,
-costruire una singola macchina avrebbe prosciugato le risorse dell'intero
-regno, e quella macchina si sarebbe rotta nel primo viaggio verso Gaza.
+un'automobile, anche supposto che fosse in grado di capirli fino in ogni
+dettaglio, costruire una singola macchina avrebbe prosciugato le risorse
+dell'intero regno, e quella macchina si sarebbe rotta nel primo viaggio verso
+Gaza.
 
 Oggi costruiamo con poco sforzo macchine composte di parti facilmente
 sostituibili. Nonostante la loro complessità, sono inoltre affidabili. Chiamo 
-come testimoni l'umile macchina da scrivere, la cinepresa e l'automobile. TODO
+come testimoni l'umile macchina da scrivere, la cinepresa e l'automobile. I
+contatti elettrici hanno smesso di malfunzionare una volta capito il fino in
+fondo il loro funzionamento. Considerate ad esempio il commutatore telefonico,
+il quale contiene centinaia di migliaia di contatti, eppure è affidabile. Una
+rete di ragno di metallo, sigillata in una sottile campana di vetro, un filo
+riscaldato fino a emettere luce; in breve, la valvola termoionica delle radio,
+è prodotta sulla scala delle centinaia di milioni, impacchettata in involucri
+e attaccata alla corrente — e funziona! Le sue parti più fini, il preciso
+posizionamento e allineamento delle sue parti, avrebbero impegnato un mastro
+artigiano di una corporazione per mesi; ora viene prodotta al costo di una
+trentina di centesimi. Il mondo è giunto nell'era degli strumenti complessi,
+economici e di alta affidabilità; qualcosa ne dovrà venir fuori.
 
 ## 2 ##
 
@@ -89,7 +126,20 @@ miglioramento.
 
 Sicuramente non si fermerà il progresso nel campo della fotografia. Pellicole e
 lenti più veloci, macchine sempre più automatiche, composti chimici ancora più
-sensibili TODO
+sensibili permetteranno in breve di perfezionare l'idea della minicamera.
+Saltiamo quindi alle logiche, se non inevitabili, conclusioni. L'appassionato
+di fotografia del futuro porta sulla propria fronte una protuberanza non più
+grossa di una noce. Scatta foto quadrate di lato tre millimetri che verranno
+successivamente proiettate e ingrandite, il che è soltanto un fattore 10 oltre
+le presenti capacità. La lente è in grado di mettere a fuoco a qualunque
+distanza, fino alle distanze possibili ad occhio nudo, grazie alla cortissima
+lunghezza focale. Sulla macchina c'è una fotocellula per regolare
+automaticamente l'esposizione in un ampio raggio di condizioni di
+illuminazione, come già disponibile oggi su qualche modello. La noce contiene
+abbastanza pellicola per un centinaio di foto, e la molla che apre
+l'otturatore e fa avanzare la pellicola è caricata una volta per tutte quando
+viene cambiato il rullino. Le foto sono a colori. Potrebbe anche essere
+stereoscopica, poiché sono imminenti grandi miglioramenti in questa tecnica.
 
 Il cavo che faccia scattare il proprio otturatore potrebbe scorrere lungo la
 manica, per essere facilmente accessibile alle dita. Una rapida pressione, e
@@ -199,10 +249,17 @@ I processi ripetitivi della mente non si limitano tuttavia ad aritmetica e
 statistica. In effetti, ogni volta che vengono registrati e combinati fatti
 rispettando consolidati processi logici, l'aspetto creativo del pensiero si
 limita soltanto alla selezione dei dati e del processo da adottare, e la
-manipolazione conseguente è di natura ripetitiva e quindi adatta ad essere
+manipolazione conseguente è di natura ripetitiva e quindi adatta a essere
 svolta dalle macchine. TODO
 
-TODO
+Non si è verificato invece lo stesso per le macchine di analisi avanzata, per
+le quali non esisteva e non esiste tuttora un ampio mercato; gli utenti di
+macchine per la manipolazione avanzata di dati sono una porzione molto
+ristretta della popolazione. Tuttavia esistono macchine per la soluzione di
+equazioni differenziali, integrali e funzionali. Esistono inoltre molte
+macchine speciali, come ad esempio i sintetizzatori armonici per la predizione
+delle maree. E ne verrano create molte altre ancora, inizialmente in mano a un
+manipolo di scienziati.
 
 Se il pensiero scientifico si limitasse ai soli processi logici dell'aritmetica,
 non dovremmo arrivare lontani nella nostra comprensione del mondo fisico. Si
@@ -212,19 +269,35 @@ porto gli Arabi alla scoperta dello zero molti secoli prima del resto del mondo;
 e si trattava comunque di uno strumento utile - così utile da esistere tuttora.
 
 Corre molta distanza fra l'abaco e la moderna macchina per contabilità con
-tastierino numerico. Altrettanta separa quest'ultima dalla macchina
-aritmetica del futuro. TODO
+tastierino numerico. Altrettanta separa questa dalla macchina aritmetica del
+futuro. Ma persino quest'ultima non basterà allo scienziato. TODO. Un matematico
+non è un uomo estremamente abile nel manipolare cifre; anzi spesso non ne è
+proprio in grado. TODO
 
 TODO
 
 ## 5 ##
 
+Lo scienziato, tuttavia, non è l'unica persona che manipoli dati ed esamini
+il mondo per mezzo di processi logici, sebbene talvolta preservi questa
+apparenza chiamando scienziato chiunque faccia uso della logica, un po' come
+accade ai sindacalisti inglesi che vengono nominati Cavalieri. Ogni volta che
+si fa uso dei metodi formali della logica — cioé ogni volta che il pensiero
+scorre per un po' lungo dei binari riconosciuti — è possibile usare una 
+macchina. La logica formale un tempo era un pungolo nelle mani degli insegnanti
+con cui mettere alla prova gli intelletti degli studenti. Nel prossimo futuro
+sarà possibile costruire una macchina che manipoli premesse in modo logicamente
+corretto soltanto tramite l'uso astuto di relé. Metteremo all'interno alcune
+premesse e gireremo la leva, ed essa produrrà conclusioni su conclusioni, tutte
+giustificate logicamente, con al più tanti errori quanti quelli che ci possiamo
+aspettare da una calcolatrice.
+
 TODO
 
-Un nuovo modello simbolico, probabilmente posizionale, sembra dover precedere
-la riduzione di trasformazioni matematiche a processi di macchina. Poi, oltre
-la stretta logica del matematico, sta l'applicazione della logica agli affari
-comuni. TODO
+Mi sembra che un nuovo modello logico, probabilmente posizionale, debba
+precedere la riduzione di trasformazioni matematiche a processi di macchina.
+Poi, oltre la stretta logica del matematico, sta l'applicazione della logica
+agli affari comuni. TODO
 
 TODO
 
@@ -234,13 +307,16 @@ TODO
 
 Consideriamo il prosaico problema del grande magazzino. Ogni volta che viene
 effettuata una vendita ci sono un po' di cose da fare. L'inventario deve
-essere aggiornato, al commesso deve essere accreditata la commissione,
-l'ufficio contabilità deve venirlo a sapere e, cosa più importante di tutte,
-al cliente deve essere addebitata la transazione. TODO
+essere aggiornato, all'impiegato deve essere accreditata la commissione,
+l'ufficio contabilità deve aggiornare i propri registri e, cosa più importante
+di tutte, al cliente deve essere addebitata la transazione. TODO
 
 TODO
 
-TODO
+Queste carte dovranno essere miniaturizzate, per occupare poco spazio. Si
+devono muovere velocemente. Non devono essere spostate di molto, soltanto
+quel che basta perché la fotocellula e l'archivista possano operare su di
+esse.
 
 TODO
 
@@ -264,7 +340,7 @@ TODO
 
 Un bottone speciale lo porta direttamente alla prima pagina dell'indice. Ogni
 dato libro della propria libreria può essere richiamato e consultato con molto
-meno dello sforzo richiesto nel reperirlo su uno scaffale. Poiché 
+meno dello sforzo richiesto per reperirlo su uno scaffale. Poiché TODO
 
 ## 7 ##
 
@@ -274,9 +350,34 @@ TODO
 
 TODO
 
-TODO
+Supponiamo che il proprietario di un Memex sia interessato all'origine e alle
+caratteristiche salienti di arco e frecce. In particolare sta studiando come
+mai, nel periodo delle crociate, l'arco corto turco fosse apparentemente
+superiore all'arco lungo inglese. Il proprio Memex contiene dozzine di libri e
+articoli pertinenti. Per prima cosa consulta un'enciclopedia, dove trova un
+articolo interessante ma privo di dettagli, che lascia proiettato. Poi, in un
+saggio storico, trova un altro spunto interessante, che collega al precedente.
+E così continua, costruendo via via un lungo cammino. Talvolta inserisce un
+proprio commento, sia aggiungendolo al cammino principale, sia come deviazione.
+Quando risulta chiaro che le proprietà elastiche dei materiali a disposizione
+abbiano molto a che vedere con le proprietà dell'arco, parte per un nuovo ramo
+che lo porta a consultare libri di testo sull'elasticità dei materiali e tavole
+di costanti fisiche. A questo punto aggiunge una pagina di appunti scritti a
+mano. In questo modo ha costruito un cammino guidato dal proprio interesse nel
+labirinto di materiali a lui disponibili.
 
-TODO
+Inoltre i propri cammini non sono destinati a sbiadire. Svariati anni dopo la
+conversazione con un amico riguarda gli strani modi in cui un popolo oppone
+resistenza all'innovazione, persino in situazioni di interesse vitale. Egli ha
+a disposizione un esempio, cioé il fatto che gli europei insistettero nel non
+adottare l'arco turco seppure battuti in gittata. In effetti ha a disposizione
+un intero cammino. Un tocco e ha richiamato l'intero elenco dei comandi.
+Pigia qualche tasto e ha proiettato i primi passi di quel cammino. Una levetta
+permette di scorrerlo a volontà, fermandosi sui passi salienti e seguendo le
+deviazioni. È un cammino interessante, pertinente alla discussione. Perciò
+attiva un lettore, fotografa l'intero cammino e lo spedisce al proprio amico
+affinché lo aggiunga al proprio Memex, all'interno di un cammino di argomento
+più generale.
 
 ## 8 ##
 
