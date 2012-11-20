@@ -1,4 +1,9 @@
+Date: 25 Nov 2012
+Summary:
+
 #Come avere idee per startup#
+
+_Questo post è una traduzione di ["How to Get Startup Ideas"][] di Paul Graham._
 
 Il modo per avere idee per startup è non provare a pensare a idee per 
 startup. È cercare problemi, preferibilmente problemi che avete
@@ -173,7 +178,30 @@ TODO
 
 Questo è quello di suggerisco di fare ai ragazzi dell'università, piuttosto
 che provare a imparare "l'imprenditorialità". "L'imprenditorialità" è
-qualcosa che si impara meglio facendola. TODO
+qualcosa che si impara meglio facendola. Gli esempi degli imprenditori più
+famosi rendono questo fatto palese. TODO
+
+Lo scontro fra domini è una fonte di idee particolarmente fertile. Se vi
+intendete di programmazione e vi avvicinate a un altro campo, vedrete
+probabilmente problemi che potrebbero essere risolti con del software. In
+effetti, è molto più probabile trovare buoni problemi in un campo diverso:
+(a) TODO (b) dato che arrivate nel nuovo dominio totalmente ignoranti, non
+saprete nemmeno quale sia lo status quo da prendere per buono.
+
+E quindi se siete uno studente di Informatica e volete fondare una startup,
+invece di seguire un corso di imprenditorialità sarebbe meglio seguirne uno,
+diciamo, di genetica. O, ancora meglio, andate a lavorare per un'azienda di
+biotecnologie. I laureandi in informatica tipicamente svolgono lavori estivi 
+presso aziende di software o di hardware. Ma, se voleste trovare idee per
+startup, fareste meglio a trovare un lavoro in un campo totalmente diverso.
+[8]
+
+Oppure non fate altri corsi, e semplicemente costruite cose. Non è un caso
+che sia Microsoft sia Facebook sono iniziate in gennaio. Ad Harward quello è
+(o era) il Tempo dello Studio, in cui gli studenti non dovevano seguire corsi
+perché ci si aspettava studiassero per gli esami. [9]
+
+TODO
 
 ## La competizione ##
 
@@ -247,7 +275,7 @@ intraprendono nelle proprie vite, e questi muri diventano più alti con l'età.
 programmatori lo capirono nel 1995, ma i programmatori avevano già visto che
 cosa avevano fatto le GUI ai computer.
 
-[6]:
+[6]: 
 
 [7]: Sam Altman osserva che prendersi un po' di tempo per avere un'idea non
 è solo una strategia migliore in senso assoluto, ma anche una strategia
@@ -257,7 +285,11 @@ C'è relativamente poca competizione per le migliori idee, perché pochi
 fondatori sono disposti a metterci abbastanza tempo per fare loro caso.
 Invece c'è grande competizione per le idee mediocri TODO
 
-[8]:
+[8]: Per le aziende di hardware e software, i lavori estivi sono la prima
+fase del processo di reclutamento. Ma, se siete davvero bravi, potete saltare
+questa prima fase. Se siete bravi non avrete problemi a essere assunti da
+una di queste aziende dopo la laurea, a prescindere da cosa abbiate fatto
+durante le vostre estati.
 
 [9]: Evidenze empiriche dimostrano che, se le università desiderano aiutare
 i propri studenti a fondare startup, la migliore cosa da fare è lasciarli
@@ -307,3 +339,5 @@ Non ho davvero idea se questo possa funzionare.
 [17]: E la ragione per cui usavano una TV come monitor era perché Steve
 Wozniak cominciò risolvendo i propri problemi. Egli, come la maggior parte
 dei propri pari, non si poteva permettere un monitor.
+
+["How to Get Startup Ideas"]: http://paulgraham.com/startupideas.html
