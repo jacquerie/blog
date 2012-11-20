@@ -128,9 +128,44 @@ l'espansione di questa idea; si fece strada con la forza gradualmente. Tutto
 quello che sapevano è che fossero sulla buona strada. Questo è tutto quello
 che probabilmente sapevano Bill Gates o Mark Zuckerberg all'inizio.
 
+In certi casi è ovvio sin dall'inizio che esista un cammino che porti fuori
+dalla nicchia. E talvolta vedo un cammino che non è immediatamente ovvio;
+questa è una delle specialità di YCombinator. Ma ci sono limiti a quanto 
+questo possa essere fatto bene, non importa quanta esperienza abbiate. La
+cosa più importante da capire a proposito di questi cammini è il fatto che
+siano difficili da vedere.
+
 TODO
 
-## TODO ##
+Nello _Zen e l'arte della manutenzione della motocicletta_, Robert Pirsig
+dice:
+
+    _Volete dipingere il quadro perfetto? È facile. Diventate perfetti e poi
+    dipingete naturalmente._
+
+Mi sono interrogato su questo passaggio da quando lo lessi alle superiori.
+Non so quanto utile sia questo consiglio per la pittura in particolare, ma
+si adatta bene alla situazione. Esperienza insegna che il modo per avere
+buone idee per startup sia diventare il tipo di persona che le ha.
+
+Essere ai confini estremi di un campo non significa che dobbiate essere fra
+quelli che lo sorpasseranno. Potreste essere ai confini come utenti. TODO
+
+Paul Buchheit dice che le persone ai confini estremi di campo in rapida
+evoluzione "vivono nel futuro". Mettetelo insieme a quello che dice Pirsig e
+ottenete:
+
+    _Vivete nel futuro, poi costruite cosa manca._
+
+TODO
+
+TODO
+
+L'espressione che volete usare per descrivere le idee per una startup non è
+"pensare", ma "farci caso". A YCombinator chiamiamo "organiche" le idee che 
+crescono naturalmente dalle esperienze stesse dei fondatori.
+
+## Farci caso ##
 
 TODO
 
@@ -214,7 +249,13 @@ cosa avevano fatto le GUI ai computer.
 
 [6]:
 
-[7]:
+[7]: Sam Altman osserva che prendersi un po' di tempo per avere un'idea non
+è solo una strategia migliore in senso assoluto, ma anche una strategia
+quotata a meno dell'effettivo valore, dato che così pochi fondatori lo fanno.
+
+C'è relativamente poca competizione per le migliori idee, perché pochi
+fondatori sono disposti a metterci abbastanza tempo per fare loro caso.
+Invece c'è grande competizione per le idee mediocri TODO
 
 [8]:
 
