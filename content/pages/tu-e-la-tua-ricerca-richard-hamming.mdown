@@ -1,6 +1,5 @@
 # Tu e la tua ricerca #
 
-_Questo post è una traduzione di "You and Your Research" di Richard Hamming._
+_Questo post Ã¨ una traduzione di "You and Your Research" di Richard Hamming._
 
 ["You and Your Research"]: http://www.cs.virginia.edu/~robins/YouAndYourResearch.html
-

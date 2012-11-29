@@ -1,6 +1,5 @@
 # Sette buone abitudini nell'uso di un editor di testo #
 
-_Questo post è una traduzione di "Seven habits of effective text editing" di Bram Moolenaar._
+_Questo post Ã¨ una traduzione di "Seven habits of effective text editing" di Bram Moolenaar._
 
 ["Seven habits of effective text editing"]: http://www.moolenaar.net/habits.html
-
