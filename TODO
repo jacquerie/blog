@@ -3,3 +3,5 @@ Google results are now quite bland. I might use the tecniques described in
 http://support.google.com/webmasters/bin/answer.py?hl=en&answer=1408986 to
 spice 'em up.
 
+I've added support for this with a rather ugly hack in the layout.haml file.
+I need to study where instance variables in views come from in Nesta.

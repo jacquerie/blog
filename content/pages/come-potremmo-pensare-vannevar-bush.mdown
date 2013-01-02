@@ -1,6 +1,3 @@
-Date: 31 Oct 2012
-Summary: TODO
-
 # Come potremmo pensare #
 
 _Questo post è una traduzione di ["As we may think"][] di Vannevar Bush._
