@@ -12,10 +12,16 @@ per i dati.
 
 Vale la pena capire ciò che scoprì McCarthy non solo in quanto pietra miliare
 della storia dell'Informatica, ma come modello di quello che la
-programmazione diventerà piano piano. Mi sembra infatti che siano
-esistiti due modelli di programmazione realmente chiari e consistenti: quello
-del C e quello del Lisp. Questi paiono quasi come due alture inframezzate da
-bassopiani acquitrinosi. TODO
+programmazione diventerà pian piano. Mi sembra infatti che siano esistiti 
+due modelli di programmazione realmente chiari e consistenti: quello del C e 
+quello del Lisp. Questi paiono quasi come due alture inframezzate da
+bassopiani acquitrinosi. Via via che i computer sono diventati sempre più 
+potenti, i linguaggi che vengono sviluppati tendono sempre più verso il 
+modello del Lisp. Una ricetta in voga negli ultimi 20 anni per produrre 
+nuovi linguaggi di programmazione consiste nel partire dal modello del C e 
+aggiungervi pezzo a pezzo caratteristiche di quello del Lisp, come per 
+esempio la risoluzione dei tipi a tempo di esecuzione o il garbage 
+collection. 
 
 In questo post proverò a spiegare nel modo più semplice possibile che cosa
 scoprì McCarthy. Il punto non è soltanto imparare un risultato teorico
@@ -41,7 +47,11 @@ parentesi. Ecco alcune espressioni:
 L'ultima espressione è una lista di quattro elementi, il terzo dei quali è a
 propria volta una lista di un elemento.
 
-TODO
+In aritmetica l'espressione 1 + 1 ha il valore 2. Allo stesso modo, le 
+espressioni valide del Lisp hanno valori. Se un'espressione `e` produce il
+valore `v` diciamo che `e` _ritorna_ `v`. Il nostro successivo passo è
+definire che tipi di espressioni possono esistere, e che valori ciascun tipo
+ritorna.
 
 Se un'espressione è una lista chiamiamo il primo elemento _operatore_ e i
 restanti _argomenti_. Definiamo ora sette operatori primitivi (nel senso di
@@ -59,23 +69,141 @@ assiomi): `quote`, `atom`, `eq`, `car`, `cdr`, `cons` e `cond`.
     
 2.  `(atom x)` ritorna l'atomo `t` se il valore di `x` è un atomo o la lista
     vuota. Altrimenti ritorna `()`. In Lisp conveniamo di usare l'atomo `t`
-    per rappresentare un valore
+    per rappresentare un valore di verità, la lista vuota per un valore di
+    falsità.
+    
+        > (atom 'a)
+        t
+        > (atom '(a b c))
+        ()
+        > (atom '())
+        t
     
 TODO
 
-<ol start="3">
-  <li><p><code>(eq x y)</code></p></li>
-  <li><p><code>(car x)</code></p></li>
-  <li><p><code>(cdr x)</code></p></li>
-  <li><p><code>(cons x y)</code></p></li>
-  <li><p><code>(cond (p_1 e_1) ... (p_n, e_n))</code></p></li>
-</ol>
+    > (atom (atom 'a))
+    t
 
 TODO
 
+    > (atom '(atom 'a))
+    ()
+
+Questo corrisponde al modo in cui usiamo le virgolette nella prosa scritta.
+Cambridge è una città nel Massachusetts di circa 90,000 abitanti. "Cambridge"
+è una parola di nove lettere.
+
+TODO
+
+<ol start="3">
+  <li>
+    <p><code>(eq x y)</code> ritorna <code>t</code> se i valori di 
+    <code>x</code> e <code>y</code> sono lo stesso atomo o entrambi la 
+    lista vuota, <code>()</code> altrimenti.</p>
+<pre>> (eq 'a 'a)
+t
+> (eq 'a 'b)
+()
+> (eq '() '())
+t</pre>
+  </li>
+  <li>
+    <p><code>(car x)</code> richiede che il valore di <code>x</code> sia
+    una lista, e ne ritorna il primo elemento.</p>
+<pre>> (car '(a b c))
+a</pre>
+  </li>
+  <li>
+    <p><code>(cdr x)</code> richiede che il valore di <code>x</code> sia
+    una lista, e ritorna tutto tranne il primo elemento.</p>
+<pre>> (cdr '(a b c))
+(b c)</pre>
+  </li>
+  <li>
+    <p><code>(cons x y)</code> richiede che il valore di <code>y</code> 
+    sia una lista, e ritorna una lista contenente il valore di <code>x</code>
+    seguito dagli elementi del valore di <code>y</code>.</p>
+<pre>> (cons 'a '(b c))
+(a b c)
+> (cons 'a (cons 'b (cons 'c '())))
+(a b c)
+> (car (cons 'a '(b c)))
+a
+> (cdr (cons 'a '(b c)))
+(b c)</pre>
+  </li>
+  <li>
+    <p><code>(cond (p_1 e_1) … (p_n, e_n))</code> TODO</p>
+<pre>> (cond ((eq 'a 'b) 'first)
+        ((atom 'a)  'second))
+second
+</pre>
+  </li>
+</ol>
+
+In cinque dei nostri sette operatori primitivi, gli argomenti vengono
+calcolati quando viene calcolata un'espressione che cominci con
+quell'operatore. Chiameremo _funzione_ un operatore di questo tipo.
+
 ## Denotare le funzioni ##
 
-Definiamo poi una notazione per descrivere le funzioni. TODO
+Definiamo poi una notazione per descrivere le funzioni. Una funzione si
+esprime come `(lambda (p_1 … p_n) e)`, dove `p_1 … p_n` sono atomi (detti
+_parametri_) ed `e` è un'espressione. Un'espressione il cui primo elemento
+sia in tale forma, come
+
+    ((lambda (p_1 … p_n) e) a_1 … a_n)
+
+è detta _invocazione di funzione_ e il suo valore è calcolato come segue. Si 
+calcola il valore di ogni espressione `a_i`. Poi si calcola `e`. Nel calcolo
+di `e` il valore di ciascuna occorrenza di uno dei `p_i` è il valore del
+corrispondente `a_i` nella chiamata di funzione più recente. Per esempio:
+
+    > ((lambda (x) (cons x '(b))) 'a)
+    (a b)
+    > ((lambda x y) (cons x (cdr y)) 'z '(a b c))
+    (z b c)
+
+Se un'espressione ha come primo elemento un atomo `f` che non sia uno degli
+operatori primitivi, come
+
+    (f a_1 … a_n)
+    
+e il valore di `f` è una funzione `(lambda (p_1 … p_n) e)`, allora il valore
+dell'espressione è il valore di
+
+    ((lambda (p_1 … p_n) e) a_1 … a_n)
+
+In altre parole i parametri possono essere usati sia come operatori nelle
+espressioni sia come parametri:
+
+    > ((lambda (f) (f '(b c)))
+       '(lambda (x) (cons 'a x)))
+    (a b c)
+
+TODO
+
+    (label f (lambda (p_1 … p_n) e))
+
+TODO
+
+TODO
+
+    > (subst 'm 'b '(a b (a b c) d))
+    (a m (a m c) d)
+    
+TODO
+
+    (label subst (lambda x y z)
+                   (cond ((atom z)
+                          (cond ((eq z y) x)
+                                ('t z)))
+                         ('t (cons (subst x y (car z))
+                                   (subst x y (cdr z))))))
+
+TODO
+
+
 
 ## Alcune funzioni ##
 
@@ -163,7 +291,12 @@ in termini di esse, e inoltre TODO
 
 ## La sorpresa ##
 
-TODO
+Insomma possiamo definire funzioni che concatenano liste, sostituiscono un'
+espressione al posto dell'altra e così via. Una notazione elegante, forse, ma
+quindi? Ora arriva la sorpresa. Salta fuori che possiamo scrivere una
+funzione che agisca come un interprete del nostro linguaggio: una funzione
+cioè che prenda come argomento qualunque espressione del Lisp e ritorni il
+suo valore. Eccola qua:
 
     (defun eval. (e a)
       (cond
@@ -179,22 +312,25 @@ TODO
              (eval. (cadar c) a))
             ('t (evcon. (cdr c) a))))
     
-    TODO
+    (defun evlis. (m a)
+      (cond ((null. m) '())
+            ('t (cons (eval.  (car m) a)
+                      (evlis. (cdr m) a)))))
 
 La definizione di `eval.` è più lunga di tutte quelle finora viste. Andiamo
-ad esaminare come funziona ogni parte.
+a esaminare in dettaglio come funziona ogni sua parte.
 
 La funzione prende due argomenti: `e`, l'espressione da valutare, e `a`, una
 lista che rappresenti i valori TODO
 
 ## Conseguenze ##
 
-Ora che capiamo come funzioni `eval` facciamo un passo indietro e riflettiamo
-su cosa significhi. Quello che abbiamo è un modello di calcolo notevolmente
-elegante. Usando soltanto `quote`, `atom`, `eq`, `car`, `cdr`, `cons` e 
-`cond` possiamo definire una funzione, `eval.`, la quale in effetti
-implementa il nostro linguaggio, e poi usando questa possiamo definire tutte
-le funzioni che desideriamo.
+Ora che abbiamo capito come funzioni `eval.` facciamo un passo indietro e 
+riflettiamo su che cosa significhi. Quello che abbiamo è un modello di 
+calcolo notevolmente elegante. Usando soltanto `quote`, `atom`, `eq`, `car`, 
+`cdr`, `cons` e `cond` possiamo definire una funzione, `eval.`, la quale in 
+effetti implementa il nostro linguaggio, e poi usando questa possiamo 
+definire tutte le funzioni che desideriamo.
 
 TODO
 
