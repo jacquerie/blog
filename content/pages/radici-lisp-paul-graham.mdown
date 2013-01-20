@@ -79,12 +79,17 @@ assiomi): `quote`, `atom`, `eq`, `car`, `cdr`, `cons` e `cond`.
         > (atom '())
         t
     
-TODO
+Ora che abbiamo un operatore che calcoli il valore del proprio argomento
+possiamo mostrare a che cosa serva `quote`. Di una lista a cui viene 
+applicato questo operatore non viene calcolato il valore. Altrimenti una 
+lista passata come parametro a un operatore come `atom` viene trattata come 
+del codice:
 
     > (atom (atom 'a))
     t
 
-TODO
+Invece una lista a cui viene applicato `quote` è trattata come una semplice
+lista, in questo caso una lista di due elementi:
 
     > (atom '(atom 'a))
     ()
@@ -93,7 +98,11 @@ Questo corrisponde al modo in cui usiamo le virgolette nella prosa scritta.
 Cambridge è una città nel Massachusetts di circa 90,000 abitanti. "Cambridge"
 è una parola di nove lettere.
 
-TODO
+L'operatore `quote` può sembrare un concetto esotico, perché pochi altri 
+linguaggi possiedono qualcosa del genere. Ciò è strettamente legato a una 
+delle caratteristiche salienti del Lisp: codice e dati sono fatti della 
+stessa struttura dati, e l'operatore `quote` è il modo in cui distinguamo 
+l'uno dall'altro.
 
 <ol start="3">
   <li>
@@ -133,7 +142,11 @@ a
 (b c)</pre>
   </li>
   <li>
-    <p><code>(cond (p_1 e_1) … (p_n, e_n))</code> TODO</p>
+    <p><code>(cond (p_1 e_1) … (p_n, e_n))</code> viene calcolato come 
+    segue. Le espressioni <code>p</code> vengono calcolate in ordine finché 
+    una di esse ritorna <code>t</code>. Quando questa viene trovata, il 
+    valore della corrispondente espressione <code>e</code> viene ritornata 
+    come valore dell'intera espressione <code>cond</code>.</p>
 <pre>> (cond ((eq 'a 'b) 'first)
         ((atom 'a)  'second))
 second
