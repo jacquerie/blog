@@ -169,7 +169,7 @@ sia in tale forma, come
 
 è detta _invocazione di funzione_ e il suo valore è calcolato come segue. Si 
 calcola il valore di ogni espressione `a_i`. Poi si calcola `e`. Nel calcolo
-di `e` il valore di ciascuna occorrenza di uno dei `p_i` è il valore del
+di `e` il valore di ciascuna occorrenza dei `p_i` è il valore del 
 corrispondente `a_i` nella chiamata di funzione più recente. Per esempio:
 
     > ((lambda (x) (cons x '(b))) 'a)
@@ -194,18 +194,25 @@ espressioni sia come parametri:
        '(lambda (x) (cons 'a x)))
     (a b c)
 
-TODO
+Esiste un'ulteriore notazione per denotare funzioni che permette alla 
+funzione di fare riferimento a se stessa, dandoci con ciò un comodo metodo
+per definire le funzioni ricorsive. La notazione
 
     (label f (lambda (p_1 … p_n) e))
 
-TODO
+denota una funzione che si comporta come `(lambda (p_1 … p_n) e)`, con la
+proprietà aggiuntiva che ciascuna occorrenza di `f` in `e` verrà calcolata
+con l'espressione `label`, come se `f` fosse un parametro della funzione.
 
-TODO
+Supponiamo di voler definire una funzione `(subst x y z)` che prenda in 
+ingresso un'espressione `x`, un atomo `y` e una lista `z`, e ritorni una 
+lista simile a `z` in cui ogni occorrenza di `y` (a qualunque livello di 
+annidamento) in `z` viene sostituita da `x`.
 
     > (subst 'm 'b '(a b (a b c) d))
     (a m (a m c) d)
     
-TODO
+Possiamo denotare questa funzione come
 
     (label subst (lambda x y z)
                    (cond ((atom z)
@@ -214,9 +221,26 @@ TODO
                          ('t (cons (subst x y (car z))
                                    (subst x y (cdr z))))))
 
-TODO
+Abbrevieremo `f = (label f (lambda (p_1 … p_n) e))` con `(defun f (p_1 … 
+p_n) e)`, perciò possiamo scrivere
 
+    (defun subst (x y z)
+      (cond ((atom z)
+             (cond ((eq z y) x)
+                   ('t z)))
+             ('t (cons (subst x y (car z))
+                       (subst x y (cdr z))))))
 
+Per inciso, vediamo qui come ottenere un comportamento di default in
+un'espressione di tipo `cond`. Un ramo il cui primo argomento sia `'t`
+verrà certamente eseguito. Quindi
+
+    (cond (x y) ('t z))
+
+è equivalente a quello che potremmo scrivere in un linguaggio con sintassi 
+del tipo
+
+    if x then y else z
 
 ## Alcune funzioni ##
 
@@ -255,16 +279,21 @@ in termini di esse, e inoltre TODO
 2. `(and. x y)` ritorna `t` se entrambi gli argomenti ritornano `t`, `()` 
     altrimenti.
 
-        TODO
+        (defun and. (x y)
+          (cond (x (cond (y 't) ('t '())))
+                ('t '())))
 
         > (and. (atom 'a) (eq 'a 'a))
         t
         > (and. (atom 'a) (eq 'a 'b))
         ()
 
-3. `(not. x)` TODO
+3. `(not. x)` ritorna `t` se il proprio argomento ritorna `()`, `()` se
+    ritorna `t`.
 
-        TODO
+        (defun not. (x)
+          (cond (x '())
+                ('t 't)))
 
         > (not (eq 'a 'a))
         ()
