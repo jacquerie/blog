@@ -3,7 +3,7 @@
 _Questo post è una traduzione di ["The Roots of Lisp"][] di Paul Graham._
 
 Nel 1960 John McCarthy pubblicò un eccezionale articolo in cui fece per la
-programmazione qualcosa di simile a quello che Euclide fece per la geometria.
+programmazione qualcosa di simile a quello che Euclide fece per la geometria. <sup id="ref1-210113"><a href="#fn1-210113">1</a></sup>
 Egli mostrò come costruire, data una manciata di semplici operatori e una 
 notazione per le funzioni, un intero linguaggio di programmazione. Chiamò
 questo linguaggio Lisp da "List Processing", poiché una delle idee chiave fu
@@ -156,7 +156,7 @@ second
 
 In cinque dei nostri sette operatori primitivi, gli argomenti vengono
 calcolati quando viene calcolata un'espressione che cominci con
-quell'operatore. Chiameremo _funzione_ un operatore di questo tipo.
+quell'operatore. <sup id="ref2-210113"><a href="#fn2-210113">2</a></sup> Chiameremo _funzione_ un operatore di questo tipo.
 
 ## Denotare le funzioni ##
 
@@ -196,7 +196,7 @@ espressioni sia come parametri:
 
 Esiste un'ulteriore notazione per denotare funzioni che permette alla 
 funzione di fare riferimento a se stessa, dandoci con ciò un comodo metodo
-per definire le funzioni ricorsive. La notazione
+per definire le funzioni ricorsive. <sup id="ref3-210113"><a href="#fn3-210113">3</a></sup> La notazione
 
     (label f (lambda (p_1 … p_n) e))
 
@@ -500,9 +500,22 @@ da leggere. Se voleste un linguaggio per descrivere algoritmi, potreste
 preferire qualcosa di più astratto, e questo era uno degli scopi di McCarthy
 quando definì il Lisp.
 
-TODO
+Mancavano molte cose al linguaggio definito nel 1960. Non aveva side effect,
+esecuzione sequenziale (che comunque è utile soltanto avendo i side effect),
+nessun modo pratico per definire numeri <sup id="ref4-210113"><a href="#fn4-210113">4</a></sup>, scope dinamico. Ma questi limiti
+possono essere aggirati con sorprendentemente poco codice. Steele e Sussman
+mostrano come farlo in un famoso articolo dal titolo "The Art of the 
+Interpreter". <sup id="ref5-210113"><a href="#fn5-210113">5</a></sup>
 
-TODO
+Una volta capita la funzione `eval` di McCarthy avete capito qualcosa di più
+di uno stadio nell'evoluzione dei linguaggi. Queste idee sono ancora il
+nucleo semantico del Lisp odierno. Quindi studiare l'articolo originale di
+McCarthy ci mostra, in un certo senso, quello che è il Lisp è in realtà. Non
+è qualcosa che McCarthy abbia progettato, è più qualcosa che ha scoperto. Non
+è intrinsecamente un linguaggio per l'Intelligenza Artificiale, per
+costruire rapidamente prototipi o per qualunque altro compito di quel tipo.
+È quello che ottenete (o una delle cose che ottenete) quando provate ad
+assiomatizzare il calcolo.
 
 Nel corso del tempo il linguaggio medio, cioè il linguaggio usato dal
 programmatore medio, si è via via avvicinato al Lisp. Perciò capendo `eval.`
@@ -544,12 +557,17 @@ TODO
              (cond ((null x) '())
                    ('t (cons (f x) (maplist (cdr x f)))))))
 
-TODO
+TODO <sup id="ref6-210113"><a href="#fn6-210113">6</a></sup>
 
 TODO
 
 <ol>
-  <li><p></p></li>
+  <li id="fn1-210113"><p>TODO <a href="ref1-210113">↩</a></p></li>
+  <li id="fn2-210113"><p>TODO <a href="ref2-210113">↩</a></p></li>
+  <li id="fn3-210113"><p>TODO <a href="ref3-210113">↩</a></p></li>
+  <li id="fn4-210113"><p>TODO <a href="ref4-210113">↩</a></p></li>
+  <li id="fn5-210113"><p>TODO <a href="ref5-210113">↩</a></p></li>
+  <li id="fn6-210113"><p>TODO <a href="ref6-210113">↩</a></p></li>
 </ol>
 
 ["The Roots of Lisp"]: http://lib.store.yahoo.net/lib/paulgraham/jmc.ps
