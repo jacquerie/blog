@@ -309,7 +309,7 @@ esistenti funzioni del Common Lisp.
 
         (defun append. (x y)
           (cond ((null. x) y)
-            ('t (cons (car x) (append. (cdr x) y)))))
+                ('t (cons (car x) (append. (cdr x) y)))))
             
         > (append. '(a b) '(c d))
         (a b c d)
@@ -334,7 +334,7 @@ esistenti funzioni del Common Lisp.
 
         (defun assoc. (x y)
           (cond ((eq (caar y) x) (cadar y))
-          ('t (assoc. x (cdr y)))))
+                ('t (assoc. x (cdr y)))))
         
         > (assoc. 'x '((x a) (y b)))
         a
@@ -374,6 +374,64 @@ a esaminare in dettaglio come funziona ogni sua parte.
 
 La funzione prende due argomenti: `e`, l'espressione da valutare, e `a`, una
 lista che rappresenti i valori TODO
+
+TODO
+
+    > (eval. 'x '((x a) (y b)))
+    a
+    
+TODO
+
+    > (eval. '(eq 'a 'a) '())
+    t
+    > (eval. '(cons x '(b c))
+             '((x a) (y b)))
+    (a b c)
+
+Tutte queste (ad eccezione di `quote`) invocano `eval.` per trovare il valore
+dei propri argomenti.
+
+TODO
+
+    > (eval. '(cond ((atom x) 'atom)
+              ('t 'list))
+             '((x '(a b))))
+    list
+    
+TODO
+
+    > (eval. '(f '(b c))
+             '((f (lambda (x) (cons 'a x)))))
+
+diventa
+
+    > TODO
+    
+che ritorna `(a b c)`.
+
+TODO
+
+    (eval. '((label firstatom (lambda (x)
+                                (cond ((atom x) x)
+                                      ('t (firstatom (car x))))))
+             y)
+           '((y ((a b) (c d)))))
+
+diventa
+
+    TODO
+    
+TODO
+
+TODO
+
+    TODO
+    
+diventa
+
+    TODO
+    
+TODO
 
 ## Conseguenze ##
 
