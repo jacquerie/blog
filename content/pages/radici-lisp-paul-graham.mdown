@@ -320,7 +320,7 @@ esistenti funzioni del Common Lisp.
     delle successive coppie di elementi prese da ciascuna.
 
         (defun pair. (x y)
-          (cond ((and. (null. x ) (null. y)) '())
+          (cond ((and. (null. x) (null. y)) '())
                 ((and. (not. (atom x)) (not. (atom y)))
                   (cons (list (car x) (car y))
                         (pair. (cdr x) (cdr y))))))
@@ -356,8 +356,24 @@ suo valore. Eccola qua:
         ((atom (car e))
           (cond
             ((eq (car e) 'quote) (cadr e))
-            TODO
-            ))))
+            ((eq (car e) 'atom)  (atom   (eval. (cadr e) a)))
+            ((eq (car e) 'eq)    (eq     (eval. (cadr e) a)
+                                         (eval. (caddr e) a)))
+            ((eq (car e) 'car)   (car    (eval. (cadr e) a)))
+            ((eq (car e) 'cdr)   (cdr    (eval. (cadr e) a)))
+            ((eq (car e) 'cons)  (cons   (eval. (cadr e) a)
+                                         (eval. (caddr e) a)))
+            ((eq (car e) 'cond)  (evcon. (cdr e) a))
+            ('t (eval. (cons (assoc. (car e) a)
+                             (cdr e))
+                       a))))
+        ((eq (caar e) 'label)
+         (eval. (cons (caddar e) (cdr e))
+                (cons (list (cadar e) (car e)) a)))
+        ((eq (caar e) 'lambda)
+         (eval. (caddar e)
+                (append. (pair. (cadar e) (evlis. (cdr e) a))
+                         a)))))
     
     (defun evcon. (c a)
       (cond ((eval. (caar c) a)
@@ -373,14 +389,22 @@ La definizione di `eval.` è più lunga di tutte quelle finora viste. Andiamo
 a esaminare in dettaglio come funziona ogni sua parte.
 
 La funzione prende due argomenti: `e`, l'espressione da valutare, e `a`, una
-lista che rappresenti i valori TODO
+lista che rappresenti i valori assegnati ai corrispondenti atomi come 
+parametri di invocazione di funzioni. Questa lista è detta un _ambiente_, ed 
+è della forma ritornata da `pair.`. In effetti abbiamo definito `pair.` e 
+`assoc.` in modo da poter costruire e cercare all'interno di queste liste.
 
-TODO
+La spina dorsale di `eval.` è un'espressione `cond` composta di quattro casi.
+Il modo in cui calcoliamo il valore di un'espressione dipende dal suo tipo.
+Il primo caso gestisce gli atomi. Se `e` è un atomo andiamo a vedere il suo
+valore nell'ambiente:
 
     > (eval. 'x '((x a) (y b)))
     a
     
-TODO
+Il secondo caso di `eval.` è un'altra `cond` per gestire espressioni del tipo
+`(a …)`, dove `a` è un atomo. Queste includono tutti gli usi degli operatori
+primitivi, e abbiamo un caso per ciascuno di essi.
 
     > (eval. '(eq 'a 'a) '())
     t
@@ -388,28 +412,41 @@ TODO
              '((x a) (y b)))
     (a b c)
 
-Tutte queste (ad eccezione di `quote`) invocano `eval.` per trovare il valore
-dei propri argomenti.
+Tutte queste (ad eccezione di `quote`) invocano `eval.` per trovare il 
+valore dei propri argomenti.
 
-TODO
+Gli ultimi due casi sono più complicati. Per calcolare il valore di
+un'espressione di tipo `cond` invochiamo una funzione ausiliaria chiamata
+`evcon.`, la quale attraversa ricorsivamente i vari casi finché non trova
+la prima che ritorni `t`. Quando la trova ritorna il valore del secondo
+elemento.
 
     > (eval. '(cond ((atom x) 'atom)
               ('t 'list))
              '((x '(a b))))
     list
     
-TODO
+L'ultima parte del secondo caso di `eval.` gestisce le invocazioni di
+funzioni passate come parametro. Funziona rimpiazzando l'atomo con il suo
+valore (che dovrà essere un'espressione `lambda` o `label`) e calcolando il
+valore della risultante espressione. Quindi
 
-    > (eval. '(f '(b c))
-             '((f (lambda (x) (cons 'a x)))))
+    (eval. '(f '(b c))
+           '((f (lambda (x) (cons 'a x)))))
 
 diventa
 
-    > TODO
+    (eval. '((lambda (x) (cons 'a x)) '(b c))
+           '((f (lambda (x) (cons 'a x)))))
     
 che ritorna `(a b c)`.
 
-TODO
+Gli ultimi due casi di `eval.` gestiscono le invocazioni di funzioni in cui
+il primo elemento è un'espressione di tipo `lambda` o `label`. Un'espressione
+`label` è calcolata aggiungendo prima la coppia formata dal nome della
+funzione e dalla funzione stessa all'inizio dell'ambiente, e poi chiamando
+`eval.` su un'espressione in cui l'espressione di tipo `lambda` è sostituita
+al posto dell'espressione `label`. Cioè
 
     (eval. '((label firstatom (lambda (x)
                                 (cond ((atom x) x)
@@ -419,19 +456,34 @@ TODO
 
 diventa
 
-    TODO
+    (eval. '((lambda (x)
+               (cond ((atom x) x)
+                     ('t (firstatom (car x)))))
+             y)
+           '((firstatom
+             (label firstatom (lambda (x)
+                                (cond ((atom x) x)
+                                      ('t (firstatom (car x)))))))
+           (y ((a b) (c d)))))
+
+che alla fine ritorna `a`.
     
-TODO
+Infine, per calcolare il valore di un'espressione del tipo `((lambda (p_1 … 
+p_n) e) a_1 … a_n)`, si invoca `evlis` per ottenere la lista `(v_1 … v_n)`
+dei valori degli argomenti `a_1 … a_n`, per poi calcolare `e` con `(p_1 v_1) 
+… (p_n v_n)` come prime coppie dell'ambiente. Quindi
 
-TODO
-
-    TODO
+    (eval. '((lambda (x y) (cons x (cdr y)))
+              'a
+              '(b c d))
+           '())
     
 diventa
 
-    TODO
+    (eval. '(cons x (cdr y))
+           '((x a) (y (b c d))))
     
-TODO
+che alla fine ritorna `(a c d)`.
 
 ## Conseguenze ##
 
@@ -442,16 +494,62 @@ calcolo notevolmente elegante. Usando soltanto `quote`, `atom`, `eq`, `car`,
 effetti implementa il nostro linguaggio, e poi usando questa possiamo 
 definire tutte le funzioni che desideriamo.
 
-TODO
+Ovviamente esistevano già modelli di calcolo — il più noto dei quali è la
+Macchina di Turing. Ma i suoi programmi non sono particolarmente edificanti
+da leggere. Se voleste un linguaggio per descrivere algoritmi, potreste
+preferire qualcosa di più astratto, e questo era uno degli scopi di McCarthy
+quando definì il Lisp.
 
 TODO
 
 TODO
 
-TODO 
+Nel corso del tempo il linguaggio medio, cioè il linguaggio usato dal
+programmatore medio, si è via via avvicinato al Lisp. Perciò capendo `eval.`
+avrete capito quello che sarà probabilmente il modello di calcolo principale
+nel futuro.
 
 ## Note ##
 
 TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+TODO
+
+    (assoc. (car e) a)
+
+avrebbe potuto essere scritta come
+
+    (eval. '((label assoc.
+                    (lambda (x y)
+                      (cond ((eq (caar y) x) (cadar y))
+                            ('t (assoc. x (cdr y))))))
+            (car e)
+            a)
+            (cons (list 'e e) (cons (list 'a a) a)))
+
+TODO
+
+TODO
+
+    (label maplist
+           (lambda (x f)
+             (cond ((null x) '())
+                   ('t (cons (f x) (maplist (cdr x f)))))))
+
+TODO
+
+TODO
+
+<ol>
+  <li><p></p></li>
+</ol>
 
 ["The Roots of Lisp"]: http://lib.store.yahoo.net/lib/paulgraham/jmc.ps
