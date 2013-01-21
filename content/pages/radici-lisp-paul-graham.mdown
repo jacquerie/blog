@@ -246,7 +246,10 @@ del tipo
 
 Ora che abbiamo un modo di esprimere funzioni, ne definiamo di nuove in
 termini dei nostri sette operatori primitivi. Converrà prima introdurre 
-alcune abbreviazioni per dei pattern comuni. TODO
+alcune abbreviazioni per dei pattern comuni. Useremo `cxr`, dove `x` è una
+sequenza di `a` o `d`, come abbreviazione della corrispondente composizione
+di `car` e `cdr`. Quindi per esempio `(cadr e)` è un'abbreviazione di
+`(car (cdr e))`, la quale ritorna il secondo elemento di `e`.
 
     > (cadr '((a b) (c d) e))
     (c d)
@@ -255,7 +258,8 @@ alcune abbreviazioni per dei pattern comuni. TODO
     > (cdar '((a b) (c d) e))
     (b)
 
-TODO
+Useremo inoltre `(list e_1 … e_n)` al posto di `(cons e_1 … (cons e_n '()) 
+…)`.
 
     > (cons 'a (cons 'b ( cons 'c '())))
     (a b c)
@@ -264,7 +268,8 @@ TODO
 
 Definiamo ora alcune nuove funzioni. Ne ho cambiato i nomi aggiungendo un
 punto alla fine. Questo distingue le funzioni primitive da quelle definite
-in termini di esse, e inoltre TODO
+in termini di esse, ed evita inoltre che entrino in conflitto con le
+esistenti funzioni del Common Lisp.
 
 1. `(null. x)` verifica se il proprio argomento è la lista vuota.
 
@@ -311,7 +316,8 @@ in termini di esse, e inoltre TODO
         > (append. '() '(c d))
         (c d)
 
-5. `(pair. x y)` TODO
+5. `(pair. x y)` prende due liste della stessa lunghezza e ritorna una lista
+    delle successive coppie di elementi prese da ciascuna.
 
         (defun pair. (x y)
           (cond ((and. (null. x ) (null. y)) '())
@@ -322,9 +328,13 @@ in termini di esse, e inoltre TODO
         > (pair. '(x y z) '(a b c))
         ((x a) (y b) (z c))
 
-6. `(assoc. x y)` TODO
+6. `(assoc. x y)` prende un atomo `x` e una lista `y` del tipo creato da 
+    `pair.` e ritorna il secondo elemento della prima lista in `y` il cui
+    primo elemento sia `x`.
 
-        TODO
+        (defun assoc. (x y)
+          (cond ((eq (caar y) x) (cadar y))
+          ('t (assoc. x (cdr y)))))
         
         > (assoc. 'x '((x a) (y b)))
         a
