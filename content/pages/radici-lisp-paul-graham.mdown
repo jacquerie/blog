@@ -1,3 +1,6 @@
+Date: 21 January 2013
+Summary: Nel 1960 John McCarthy pubblicò un eccezionale articolo in cui fece per la programmazione qualcosa di simile a quello che Euclide fece per la geometria. Egli mostrò come costruire, data una manciata di semplici operatori e una notazione per le funzioni, un intero linguaggio di programmazione. Chiamò questo linguaggio Lisp da "List Processing", poiché una delle idee chiave fu di usare una semplice struttura dati chiamata _lista_ sia per il codice sia per i dati.
+
 # Le radici del Lisp #
 
 _Questo post è una traduzione di ["The Roots of Lisp"][] di Paul Graham._
@@ -524,21 +527,43 @@ nel futuro.
 
 ## Note ##
 
-TODO
+Nel tradurre la notazione di McCarthy in codice ho provato a cambiare il 
+minimo possibile. Sono stato tentato dal rendere il codice più leggibile, ma 
+ho voluto mantenere il gusto originale.
 
-TODO
+Nell'articolo di McCarthy la falsità è rappresentato da `f`, non dalla lista
+vuota. Ho usato `()` per rappresentare la falsità in modo che gli esempi 
+funzionassero in Common Lisp. Il codice non dipende in nessuna parte dal 
+fatto che l'essere falso sia anche la lista vuota; niente viene mai 
+concatenato al risultato di un predicato.
 
-TODO
+Ho saltato la costruzione delle liste come dotted pairs perché non serve
+per capire `eval`. Ho evitato inoltre di menzionare `apply`, sebbene nel 1960
+McCarthy chiamò `apply` (una forma piuttosto primitiva, il cui scopo 
+principale era applicare `quote` agli argomenti) la funzione universale; 
+`eval` era soltanto una subroutine invocata da `apply` per fare tutto il 
+lavoro.
 
-TODO
+Ho definito le abbreviazioni `list` e `cxr` perché così fece McCarthy. In 
+effetti le `cxr` potevano essere definite come normali funzioni. Allo stesso
+modo avremmo potuto definire `list` se avessimo facilmente modificato `eval`
+in modo da permettere che le funzioni potessero avere un numero arbitrario 
+di argomenti.
 
-TODO
+L'articolo di McCarthy aveva soltanto cinque operatori primitivi. Egli 
+faceva uso di `cond` e `quote`, ma è possibile che li pensasse come parte del
+suo metalinguaggio. Allo stesso modo non definì gli operatori logici `and` e
+`not`, ma questo è un problema minore poiché è facile definirne versioni
+adeguate come funzioni.
 
-TODO
+Nella definizione di `eval.` abbiamo invocato altre funzioni come `pair.` e
+`assoc.`, ma ogni invocazione di queste funzioni che abbiamo definito in
+termini degli operatori primitivi potrebbe essere rimpiazzata da 
+un'invocazione di `eval.`. Cioè
 
     (assoc. (car e) a)
 
-avrebbe potuto essere scritta come
+potrebbe essere scritta come
 
     (eval. '((label assoc.
                     (lambda (x y)
@@ -548,26 +573,46 @@ avrebbe potuto essere scritta come
             a)
             (cons (list 'e e) (cons (list 'a a) a)))
 
-TODO
+La funzione `eval` di McCarthy aveva un piccolo bug. La riga 16 era 
+(equivalente a) `(evlis. (cdr e) a)` invece di soltanto `(cdr e)`, il che 
+calcolava due volte gli argomenti di una funzione con nome. Questo 
+suggerisce che questa descrizione di `eval` non fosse stata ancora 
+implementata nel linguaggio macchina dell'IBM 704 quando l'articolo fu 
+inviato alla rivista. Inoltre mostra quanto sia difficile essere sicuri 
+della correttezza di programmi di qualunque lunghezza senza aver provato a 
+eseguirli.
 
-TODO
+Ho trovato un altro problema nel codice di McCarthy. Dopo aver dato la
+definizione di `eval`, continua dando qualche esempio di funzioni di ordine 
+superiore — cioè funzioni che prendono come argomenti altre funzioni.
+Definisce `maplist` come:
 
     (label maplist
            (lambda (x f)
              (cond ((null x) '())
                    ('t (cons (f x) (maplist (cdr x f)))))))
 
-TODO <sup id="ref6-210113"><a href="#fn6-210113">6</a></sup>
+poi la usa per scrivere una semplice funzione `diff` che calcoli 
+simbolicamente la derivata. Ma `diff` passa a `maplist` una funzione che usa 
+`x` come parametro, e il riferimento a questo è catturato dalla `x` che 
+compare in `maplist`. <sup id="ref6-210113"><a href="#fn6-210113">6</a></sup>
 
-TODO
+Il fatto che il primo esempio in assoluto di funzioni di ordine superiore in 
+Lisp soffrisse di questo bug testimonia in modo eloquente i pericoli dello 
+scoping dinamico. Potrebbe essere che McCarthy non fosse del tutto
+consapevole delle sue conseguenze nel 1960. Esso rimase nelle 
+implementazioni del Lisp per un periodo sorprendentemente lungo — finchè
+Sussman e Steele svilupparono Scheme nel 1975. Lo scoping lessicale non
+complica granchè la definizione di `eval`, ma potrebbe rendere un
+compilatore più difficile da scrivere. 
 
 <ol>
-  <li id="fn1-210113"><p>TODO <a href="ref1-210113">↩</a></p></li>
-  <li id="fn2-210113"><p>TODO <a href="ref2-210113">↩</a></p></li>
-  <li id="fn3-210113"><p>TODO <a href="ref3-210113">↩</a></p></li>
-  <li id="fn4-210113"><p>TODO <a href="ref4-210113">↩</a></p></li>
-  <li id="fn5-210113"><p>TODO <a href="ref5-210113">↩</a></p></li>
-  <li id="fn6-210113"><p>TODO <a href="ref6-210113">↩</a></p></li>
+  <li id="fn1-210113"><p>&ldquo;Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I.&rdquo; <em>Communications of the ACM 3:4</em>, April 1960, pp. 184-195 <a href="ref1-210113">↩</a></p></li>
+  <li id="fn2-210113"><p>Le espressioni che cominciano per gli altri due operatori, <code>quote</code> e <code>cond</code>, sono calcolate in modo diverso. Quando viene calcolato il valore di un'espressione di tipo <code>quote</code> il suo argomento non viene calcolato, ma viene semplicemente ritornato come valore dell'intera espressione. Invece in una valida espressione di tipo <code>cond</code> viene calcolato il valore di un solo cammino a forma di L. <a href="ref2-210113">↩</a></p></li>
+  <li id="fn3-210113"><p>Logicamente non avremmo bisogno di definire nuova notazione per questo. Potremmo definire funzioni ricorsive nella notazione che già abbiamo utilizzando una funzione di funzioni chiamata Y Combinator. Potrebbe darsi che McCarthy non lo conoscesse quando scrisse il proprio articolo; a ogni modo la notazione che fa uso di <code>label</code> risulta più leggibile. <a href="ref3-210113">↩</a></p></li>
+  <li id="fn4-210113"><p>Si può fare aritmetica nel Lisp di McCarthy del 1960 usando per esempio una lista di <em>n</em> atomi per rappresentare il numero <em>n</em>. <a href="ref4-210113">↩</a></p></li>
+  <li id="fn5-210113"><p>Guy Lewis Steele, Jr. e Gerald Jay Sussman, &ldquo;The Art of the Interpreter, or the Modularity Complex (Parts Zero, One, and Two)&rdquo;, MIT AI Lab Memo 453, May 1978 <a href="ref5-210113">↩</a></p></li>
+  <li id="fn6-210113"><p>Al giorno d'oggi i programmatori Lisp qui userebbero <code>mapcar</code> al posto di <code>maplist</code>. Questo esempio chiarisce un mistero: come mai <code>maplist</code> appaia in Common Lisp. Fu la prima funzione <code>map</code>, e <code>mapcar</code> venne aggiunta in seguito. <a href="ref6-210113">↩</a></p></li>
 </ol>
 
 ["The Roots of Lisp"]: http://lib.store.yahoo.net/lib/paulgraham/jmc.ps
