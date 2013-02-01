@@ -1,5 +1,5 @@
 Date: 01 Feb 2013
-Summary: Il Duca di Densmore è stato ucciso nel proprio castello da una delle ex mogli. Sherlock Holmes risolve il mistero usando la teoria dei grafi. Come ha fatto?
+Summary: Un giorno Sherlock Holmes ricevette una visita del proprio amico Watson, il quale era stato incaricato di indagare su un omicidio avvolto nel mistero da più di dieci anni. All'epoca il Duca di Densmore fu ucciso da una bomba talmente potente da aver distrutto l'intero castello in cui viveva da quando andò in pensione.
 
 # Chi ha ucciso il Duca di Densmore? #
 
