@@ -13,8 +13,8 @@ più di dieci anni.
 All'epoca il Duca di Densmore fu ucciso da una bomba talmente potente da aver
 distrutto l'intero castello in cui viveva da quando andò in pensione. I
 giornali di allora riferirono che il suo testamento, anch'esso distrutto
-nell'esplosione, avrebbe lasciato tutti i suoi averi a una sola delle sette ex
-mogli. Poco prima di morire il Duca le aveva invitate tutte a passare qualche
+nell'esplosione, avrebbe dato grossi dispiaceri a una delle sette ex mogli. 
+Poco prima di morire il Duca le aveva invitate tutte a passare qualche
 giorno nel proprio castello scozzese.
 
 > Holmes:  Mi ricordo la faccenda. Quel che è strano è che la bomba fu
@@ -39,12 +39,12 @@ giorno nel proprio castello scozzese.
     Felicia ha incontrato Ann, Betty, Edith ed Helen.
     Georgia ha incontrato Ann ed Helen.
     Helen ha incontrato Betty, Felicia e Georgia.
-    
+
 > Watson:  Come vedete, caro Holmes, le loro risposte combaciano!
 
 Fu allora che Holmes prese una matita e disegnò questa strana figura:
 
-<img src="/attachments/graph.png" alt="Il grafo rappresentante gli incontri nel castello di Densmore"/>
+<img src="/attachments/densmore_graph.png" alt="Il grafo rappresentante gli incontri nel castello di Densmore"/>
 
 Poi, dopo neanche trenta secondi, esclamò:
 
