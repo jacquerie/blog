@@ -1,0 +1,55 @@
+# Fare meglio della media #
+
+Nell'estate del 1995 io e il mio amico Robert Morris fondammo una startup
+chiamata [Viaweb][]. Il nostro piano era scrivere software che consentisse a
+utenti finali di costruire negozi online. La novità di questo software,
+all'epoca, consisteva nel fatto che funzionasse sul nostro server, con normali
+pagine Web come interfaccia.
+
+TODO
+
+TODO
+
+## L'arma segreta ##
+
+TODO
+
+> Vale la pena imparare il Lisp per la sensazione di profonda illuminazione
+> che proverete una volta che lo avrete imparato; questa sensazione vi
+> renderà un programmatore migliore per il resto delle vostre vite, anche se
+> non userete spesso il Lisp.
+
+TODO
+
+...
+
+## Il paradosso del Blub ##
+
+TODO
+
+TODO
+
+TODO
+
+...
+
+## Aikido per startup ##
+
+TODO
+
+TODO
+
+TODO
+
+...
+
+## Note ##
+
+<ol>
+  <li><p></p></li>
+  <li><p></p></li>
+  <li><p></p></li>
+  <li><p></p></li>
+  <li><p></p></li>
+  <li><p></p></li>
+</ol>
