@@ -2,188 +2,224 @@
 
 _Questo post è una traduzione di ["As we may think"][] di Vannevar Bush._
 
-Questa non è stata una guerra fra scienziati; a questa guerra hanno preso parte
-tutti. Gli scienziati, mettendo da parte la vecchia competizione professionale
-per una causa maggiore, hanno condiviso e imparato molto. Lavorare in efficaci
-associazioni è stato stimolante. Ora, per molti, questo sembra volgere al
-termine. Cosa dovranno fare gli scienziati in futuro?
+Questa non è stata una guerra fra scienziati; a questa guerra hanno preso
+parte tutti. Gli scienziati, mettendo da parte la vecchia competizione
+professionale per una causa maggiore, hanno condiviso e imparato molto. 
+Lavorare in efficaci associazioni è stato stimolante. Ora, per molti, questo 
+sembra volgere al termine. Cosa dovranno fare gli scienziati in futuro?
 
-Per i biologi, e in particolare per i medici, c'è poco da discutere, dato che lo
-sforzo bellico ha raramente richiesto che si occupassero d'altro. In effetti
-molti sono stati in grado di continuare le proprie ricerche nei loro familiari
-laboratori del tempo di pace. I loro obiettivi rimangono pressappoco gli stessi.
+Per i biologi, e in particolare per i medici, c'è poco da discutere, dato
+che lo sforzo bellico ha raramente richiesto che si occupassero d'altro. In
+effetti molti sono stati in grado di continuare le proprie ricerche nei loro
+familiari laboratori del tempo di pace. I loro obiettivi rimangono
+pressappoco gli stessi.
 
 A essere più violentemente deviati dal proprio cammino sono stati i fisici, i
 quali hanno abbandonato i propri scopi accademici per costruire strani
 dispositivi distruttivi e hanno dovuto ideare nuovi metodi per compiti non
-previsti. Hanno svolto la propria parte su quei congegni che hanno permesso di
-respingere il nemico. Hanno collaborato con i fisici dei paesi alleati. Hanno
-sentito dentro di loro l'agitazione del successo. Sono stati parte di un grande
-squadra. E ora che si parla di pace, ci chiediamo se saranno in grado di
-trovare obiettivi degni delle proprie capacità.
+previsti. Hanno svolto la propria parte su quei congegni che hanno permesso
+di respingere il nemico. Hanno collaborato con i fisici dei paesi alleati.
+Hanno sentito dentro di loro l'agitazione del successo. Sono stati parte di
+un grande squadra. E ora che si parla di pace, ci chiediamo se saranno in
+grado di trovare obiettivi degni delle proprie capacità.
 
 ## 1 ##
 
-Quali benefici duraturi hanno apportato il ricorso dell'uomo alla scienza e agli
-strumenti creati in seguito alla propria ricerca? Per prima cosa ha aumentato
-il controllo del proprio ambiente materiale. Ha migliorato il proprio cibo,
-vestiario, rifugio dagli agenti atmosferici; lo ha reso più sicuro e
-parzialmente libero dalla schiavitù della sussistenza. Gli ha dato maggiore
-conoscenza dei propri processi biologici in modo tale da godere di sempre
-maggiore libertà dalla malattia e più lunga durata di vita. Stanno gettando luce
-sull'interazione fra le funzioni psicologiche e fisiologiche, base di una
-promessa di migliore benessere della mente.
+Quali benefici duraturi sono derivati dal ricorso dell'uomo alla scienza e
+agli strumenti creati in seguito alla propria ricerca? Per prima cosa è
+aumentato il controllo del proprio ambiente materiale. Ha migliorato il
+proprio cibo, vestiario, rifugio dagli agenti atmosferici; lo ha reso più
+sicuro e parzialmente libero dalla schiavitù della sussistenza. Gli ha dato
+maggiore conoscenza dei propri processi biologici in modo tale da godere di
+sempre maggiore libertà dalla malattia e più lunga durata di vita. Stanno
+gettando luce sull'interazione fra le funzioni psicologiche e fisiologiche,
+base di una promessa di migliore benessere della mente.
 
-La scienza ci ha dato la più veloce forma di comunicazione fra individui; ha 
+La scienza ci ha dato la più veloce forma di comunicazione fra individui; ha
 consentito di trasformare le idee in documenti, permettendo agli uomini di
 manipolare ed estrapolare da questi affinché la conoscenza sopravviva e si
-evolva non più nell'arco delle vite degli individui ma in quello della specie.
+evolva non più nell'arco delle vite degli individui ma in quello della
+specie.
 
-Esiste una montagna di ricerca sempre in crescita. Ma esistono sempre più prove
-che ci stiamo impantanando con lo specializzarsi della conoscenza. Il
+Esiste una montagna di ricerca sempre in crescita. Ma esistono sempre più 
+prove che ci stiamo impantanando con lo specializzarsi della conoscenza. Il
 ricercatore esita di fronte ai risultati di migliaia di altri prima di lui —
 risultati che non ha il tempo di capire e tanto meno ricordare via via che
 appaiono. Eppure la specializzazione diventa sempre più necessaria per il
 progresso, mentre l'impegno interdisciplinare scema man mano.
 
-I nostri metodi di trasmettere e valutare i risultati della ricerca sono vecchi
-di generazioni, e ormai del tutto inadatti allo scopo. Se potessimo misurare il
-tempo totale speso per scrivere nuova ricerca e consultare precedenti lavori,
-il rapporto fra questi risulterebbe allarmante. Chi coscienziosamente prova a
-tenersi al passo delle ultime idee leggendo attentamente e continuamente,
-persino in campi non molto estesi, avrebbe probabilmente paura di un esame
-studiato per determinare quanto del materiale letto nel precedente mese sia
-stato memorizzato. Le leggi di Mendel della genetica andarono perse per una
-generazione perché quegli articoli non raggiunsero i pochi capaci di capirli
-e ampliarli; questa catastrofe si ripete senza dubbio ancora oggi, quando
-risultati davvero significativi vanno persi nella mare di risultati
-irrilevanti.
+I nostri metodi di trasmettere e valutare i risultati della ricerca sono
+vecchi di generazioni, e ormai del tutto inadatti allo scopo. Se potessimo
+misurare il tempo totale speso per scrivere nuova ricerca e consultare
+precedenti lavori, il rapporto fra questi risulterebbe allarmante. Chi
+coscienziosamente prova a tenersi al passo delle ultime idee leggendo
+attentamente e continuamente, persino in campi non molto estesi, avrebbe
+probabilmente paura di un esame studiato per determinare quanto del
+materiale letto nel precedente mese sia stato memorizzato. Le leggi di
+Mendel della genetica andarono perse per una generazione perché quegli
+articoli non raggiunsero i pochi capaci di capirli e ampliarli; questa
+catastrofe si ripete senza dubbio ancora oggi, quando risultati davvero
+significativi vanno persi nella marea di risultati irrilevanti.
 
 Il problema non è tanto che pubblichiamo indebitamente, data la vastità e
 varietà degli interessi odierni, quanto il fatto che il ricorso alla
 pubblicazione ha raggiunto dimensioni tali da non poter usare efficacemente
-il mezzo. La somma delle esperienze umane cresce a una velocità prodigiosa, ma 
-gli strumenti che usiamo per farci strada nel risultante labirinto alla ricerca
-dell'obiettivo del momento sono gli stessi usati nei giorni della navigazione a
-vele quadre.
+il mezzo. La somma delle esperienze umane cresce a una velocità prodigiosa,
+ma gli strumenti che usiamo per farci strada nel risultante labirinto alla
+ricerca dell'obiettivo del momento sono gli stessi usati nei giorni della
+navigazione a vele quadre.
 
-Ma, con l'affermarsi di nuovi mezzi, ci sono segni di un cambiamento imminente.
-Fotocellule capaci di vedere oggetti fisici, tecniche avanzate di fotografia
-che consentono di registrare la luce visibile e non, valvole termoioniche
-capaci di controllare forze immani con meno potenza di quella che serve ad una
-zanzara per muovere le proprie ali, tubi a raggi catodici in grado di rendere
-visibili eventi talmente rapidi che un microsecondo a confronto è un tempo
-lungo, combinazioni di relè che eseguono complicate sequenze di movimenti con
-maggiore accuratezza di qualunque uomo e migliaia di volte più velocemente -
-esiste una moltitudine di aiuti meccanici con cui causare una trasformazione 
+Ma, con l'affermarsi di nuovi mezzi, ci sono segni di un cambiamento
+imminente. Fotocellule capaci di vedere oggetti fisici, tecniche avanzate di
+fotografia che consentono di registrare la luce visibile e non, valvole
+termoioniche capaci di controllare forze immani con meno potenza di quella
+che serve ad una zanzara per muovere le proprie ali, tubi a raggi catodici
+in grado di rendere visibili eventi talmente rapidi che un microsecondo a
+confronto è un tempo lungo, combinazioni di relè che eseguono complicate
+sequenze di movimenti con maggiore accuratezza di qualunque uomo e migliaia
+di volte più velocemente — esiste una moltitudine di aiuti meccanici con cui
+causare una trasformazione
 
-Due secoli fa Leibniz inventò una macchina calcolatrice che incarnava la maggior
-parte delle caratteristiche salienti di un moderno calcolatore a tastiera, ma
-non entrò nell'uso comune. Gli aspetti economici erano contrari: lo sforzo
-necessario a costruirla, prima dell'avvento della produzione di massa, era
-maggiore del guadagno di tempo conseguente al proprio uso, dato che tutto
-quello che poteva fare era possibile con abbastanza carta e penna. Per di più
-sarebbe stata oggetto di frequenti guasti, tanto da non potervi fare
-affidamento; poiché a quel tempo e per molto tempo ancora complessità e
-inaffidabilità erano sinonimi.
+Due secoli fa Leibniz inventò una macchina calcolatrice che incarnava la
+maggior parte delle caratteristiche salienti di un moderno calcolatore a
+tastiera, ma non entrò nell'uso comune. Gli aspetti economici erano
+contrari: lo sforzo necessario a costruirla, prima dell'avvento della
+produzione di massa, era maggiore del guadagno di tempo conseguente al
+proprio uso, dato che tutto quello che poteva fare era possibile con
+abbastanza carta e penna. Per di più sarebbe stata oggetto di frequenti
+guasti, tanto da non potervi fare affidamento; poiché a quel tempo e per
+molto tempo ancora complessità e inaffidabilità erano sinonimi.
 
 Babbage, seppur con finanziamenti assai generosi per il proprio tempo, non fu
-in grado di produrre la propria macchina aritmetica. La sua idea era abbastanza
-solida, ma i costi di costruzione e manutenzione erano troppo alti. Se a un
-Faraone fossero stati dati gli schemi completi in ogni dettaglio di
-un'automobile, anche supposto che fosse in grado di capirli fino in ogni
-dettaglio, costruire una singola macchina avrebbe prosciugato le risorse
-dell'intero regno, e quella macchina si sarebbe rotta nel primo viaggio verso
-Gaza.
+in grado di produrre la propria macchina aritmetica. La sua idea era
+abbastanza solida, ma i costi di costruzione e manutenzione erano troppo
+alti. Se a un Faraone fossero stati dati gli schemi completi in ogni
+dettaglio di un'automobile, anche supposto che fosse in grado di capirli
+fino in ogni dettaglio, costruire una singola macchina avrebbe prosciugato
+le risorse dell'intero regno, e quella macchina si sarebbe rotta nel primo
+viaggio verso Gaza.
 
 Oggi costruiamo con poco sforzo macchine composte di parti facilmente
-sostituibili. Nonostante la loro complessità, sono inoltre affidabili. Chiamo 
-come testimoni l'umile macchina da scrivere, la cinepresa e l'automobile. I
-contatti elettrici hanno smesso di malfunzionare una volta capito il fino in
-fondo il loro funzionamento. Considerate ad esempio il commutatore telefonico,
-il quale contiene centinaia di migliaia di contatti, eppure è affidabile. Una
-rete di ragno di metallo, sigillata in una sottile campana di vetro, un filo
-riscaldato fino a emettere luce; in breve, la valvola termoionica delle radio,
-è prodotta sulla scala delle centinaia di milioni, impacchettata in involucri
-e attaccata alla corrente — e funziona! Le sue parti più fini, il preciso
-posizionamento e allineamento delle sue parti, avrebbero impegnato un mastro
-artigiano di una corporazione per mesi; ora viene prodotta al costo di una
-trentina di centesimi. Il mondo è giunto nell'era degli strumenti complessi,
-economici e di alta affidabilità; qualcosa ne dovrà venir fuori.
+sostituibili. Nonostante la loro complessità, sono inoltre affidabili.
+Chiamo come testimoni l'umile macchina da scrivere, la cinepresa e
+l'automobile. I contatti elettrici hanno smesso di malfunzionare una volta
+capito fino in fondo il loro funzionamento. Considerate ad esempio il
+commutatore telefonico, il quale contiene centinaia di migliaia di contatti,
+eppure è affidabile. Una rete di ragno di metallo, sigillata in una sottile
+campana di vetro, un filo riscaldato fino a emettere luce; in breve, la
+valvola termoionica delle radio, è prodotta sulla scala delle centinaia di
+milioni, impacchettata in involucri e attaccata alla corrente — e funziona!
+Le sue parti più fini, il preciso posizionamento e allineamento delle sue
+parti, avrebbero impegnato un mastro artigiano di una corporazione per mesi;
+ora viene prodotta al costo di una trentina di centesimi. Il mondo è giunto
+nell'era degli strumenti complessi, economici e di alta affidabilità;
+qualcosa ne dovrà venir fuori.
 
 ## 2 ##
 
 Perché un documento sia utile alla scienza è necessario che sia continuamente
 aggiornato, che sia conservato e soprattutto che venga consultato. Oggi
 tipicamente lo creiamo tramite scrittura e fotografia, seguite dalla stampa;
-inoltre mettiamo documenti su pellicola, dischi di cera e nastri magnetizzati.
-Anche supponendo che non appaiano metodi radicalmente nuovi per la creazione di
-documenti, quelli attualmente esistenti sono in corso di modifica e
-miglioramento.
+inoltre mettiamo documenti su pellicola, dischi di cera e nastri
+magnetizzati. Anche supponendo che non appaiano metodi radicalmente nuovi
+per la creazione di documenti, quelli attualmente esistenti sono in corso di
+modifica e miglioramento.
 
-Sicuramente non si fermerà il progresso nel campo della fotografia. Pellicole e
-lenti più veloci, macchine sempre più automatiche, composti chimici ancora più
-sensibili permetteranno in breve di perfezionare l'idea della minicamera.
-Saltiamo quindi alle logiche, se non inevitabili, conclusioni. L'appassionato
-di fotografia del futuro porta sulla propria fronte una protuberanza non più
-grossa di una noce. Scatta foto quadrate di lato tre millimetri che verranno
-successivamente proiettate e ingrandite, il che è soltanto un fattore 10 oltre
-le presenti capacità. La lente è in grado di mettere a fuoco a qualunque
-distanza, fino alle distanze possibili ad occhio nudo, grazie alla cortissima
-lunghezza focale. Sulla macchina c'è una fotocellula per regolare
-automaticamente l'esposizione in un ampio raggio di condizioni di
-illuminazione, come già disponibile oggi su qualche modello. La noce contiene
-abbastanza pellicola per un centinaio di foto, e la molla che apre
-l'otturatore e fa avanzare la pellicola è caricata una volta per tutte quando
-viene cambiato il rullino. Le foto sono a colori. Potrebbe anche essere
-stereoscopica, poiché sono imminenti grandi miglioramenti in questa tecnica.
+Sicuramente non si fermerà il progresso nel campo della fotografia.
+Pellicole e obiettivi più veloci, macchine sempre più automatiche, composti
+chimici ancora più sensibili permetteranno in breve di perfezionare l'idea
+della minicamera. Saltiamo quindi alle logiche, se non inevitabili,
+conclusioni. L'appassionato di fotografia del futuro porta sulla propria
+fronte una protuberanza non più grossa di una noce. Scatta foto quadrate di
+lato tre millimetri che verranno successivamente proiettate e ingrandite, il
+che è soltanto un fattore 10 oltre le presenti capacità. La lente è in grado
+di mettere a fuoco a qualunque distanza, fino alle distanze possibili ad
+occhio nudo, grazie alla cortissima lunghezza focale. Sulla macchina c'è una
+fotocellula per regolare automaticamente l'esposizione in un ampio raggio di
+condizioni di illuminazione, come già disponibile oggi su qualche modello.
+La noce contiene abbastanza pellicola per un centinaio di foto, e la molla
+che apre l'otturatore e fa avanzare la pellicola è caricata una volta per
+tutte quando viene cambiato il rullino. Le foto sono a colori. Potrebbe
+anche essere stereoscopica, poiché sono imminenti grandi miglioramenti in
+questa tecnica.
 
-Il cavo che faccia scattare il proprio otturatore potrebbe scorrere lungo la
-manica, per essere facilmente accessibile alle dita. Una rapida pressione, e
-viene scattata la fotografia. TODO
+Il cavo che fa scattare l'otturatore potrebbe scorrere lungo la manica, per
+essere facilmente accessibile alle dita. Una rapida pressione, e viene
+scattata la fotografia. Su un paio di normali occhiali troviamo un quadrato
+di linee sottili tracciate nella parte superiore di una lente, fuori dal
+normale campo visivo. Quando un oggetto appare nel quadrato, è pronto per
+essere fotografato. Mentre lo scienziato del futuro si muove nel proprio
+laboratorio o sul campo, ogni volta che vede qualcosa che valga la pena di
+essere documentato, fa scattare l'otturatore e ha fatto, senza neanche un
+click. Tutto ciò è pura fantasia? L'unica cosa fantastica è l'idea di
+scattare tante fotografie quante questa tecnologia permette.
 
 Esisterà la fotografia a secco? Esiste già oggi in due modi. Quando Brady
 scattò le proprie foto della Guerra Civile, la lastra doveva essere bagnata
-al momento dello scatto. Ora lo deve essere soltanto durante lo sviluppo. Forse
-in futuro non lo dovrà mai essere. Abbiamo da tempo
+al momento dello scatto. Ora lo deve essere soltanto durante lo sviluppo.
+Forse in futuro non lo dovrà mai essere. TODO
 
 Un altro processo oggi in uso è analogamente lento, e più o meno altrettanto
-maldestro. TODO
+maldestro. Per cinquanta anni abbiamo usato carta trattata in modo da
+diventare scura in ogni punto in cui è stata applicata una corrente
+elettrica, grazie a una reazione chimica dovuta a un composto a base di iodio
+contenuto nella carta. Questo può essere usato per creare documenti, in
+quanto un puntatore che si muova sulla carta produce una scia. Al variare del
+potenziale elettrico varia inoltre lo spessore della linea tracciata.
 
-Questo metodo è oggi usato nella trasmissione di facsmile. TODO
+Questo principio è oggi usato nella trasmissione di facsmile. Un puntatore
+traccia una serie di linee ravvicinate una dopo l'altra. Mentre si muove, il
+suo potenziale viene variato dalla corrente prodotta da una fotocellula che,
+in un luogo lontano, sta scandendo l'immagine in modo simile. In ogni istante
+lo spessore della linea disegnata è pari a quella che viene osservata dalla
+fotocellula. In questo modo, una volta ricoperta tutta l'immagine, questa è
+stata replicata presso il destinatario.
+
+Allo stesso modo una fotocellula potrebbe scandire un ambiente così come è in
+grado di farlo per una sua fotografia. Avremmo quindi una macchina
+fotografica con la capacità opzionale di produrre la propria immagine a
+distanza. Sarebbe lenta, e l'immagine risultante povera di dettagli. D'altro
+canto costituisce un diverso modo per ottenere la fotografia a secco, in cui
+l'immagine è pronta appena scattata.
+
+Sarebbe coraggioso sostenere che questo processo rimarrà per sempre
+maldestro, lento e poco dettagliato. Oggi la televisione è in grado di
+trasmettere 16 immagini ragionevolmente buone per secondo, e comporta solo
+un paio di differenze fondamentali con la tecnica appena descritta. Per prima
+cosa come puntatore viene usato un raggio di elettroni, in quanto questo si
+può muovere assai velocemente. L'altra differenza consiste nell'uso di uno
+schermo che si illumina per un istante quando viene colpito da un elettrone,
+invece di carta trattata chimicamente, permanentemente modificata. Questa
+velocità è necessaria per la televisione, in quanto riguarda le immagini in
+movimento e non le pose fisse.
 
 TODO
 
-Sarebbe coraggioso sostenere che questo processo rimarrà per sempre maldestro,
-lento e poco dettagliato. Oggi la televisione è in grado di trasmettere 16
-immagini ragionevolmente buone per secondo, e comporta solo un paio di
-differenze fondamentali con la tecnica appena descritta. TODO
+Così come la fotografia a secco, la microfotografia deve ancora evolvere
+molto. Il semplice metodo di ridurre la dimensione del documento e
+consultarlo proiettato apre possibilità troppo grandi per essere ignorate.
+La combinazione di proiezione ottica e riduzione fotografica sta già
+producendo risultati nell'uso della pellicola a fini scientifici, e sono
+interessanti le potenzialità. Oggi, con la tecnologia del microfilm,
+possiamo ottenere un fattore 20 di compressione e mantenere la perfetta
+leggibilità del documento quando viene ingrandito per la consultazione. I
+limiti sono dati dalla grana della pellicola, la qualità delle lenti e
+l'efficienza delle luci utilizzate. Tutte queste stanno rapidamente
+migliorando.
 
 TODO
 
-Così come la fotografia a secco, la microfotografia deve ancora evolvere molto.
-Il semplice metodo di ridurre la dimensione del documento e consultarlo
-proiettato apre possibilità troppo grandi per essere ignorate. La combinazione
-di proiezione ottica e riduzione fotografica sta già producendo risultati
-nell'uso della pellicola a fini scientifici, e sono interessanti le
-potenzialità. Oggi, con la tecnologia del microfilm, possiamo ottenere un
-fattore 20 di compressione e mantenere la perfetta leggibilità del documento
-quando viene ingrandito per la consultazione. I limiti sono dati dalla grana
-della pellicola, la qualità delle lenti e l'efficienza delle luci utilizzate.
-Tutte queste stanno rapidamente migliorando.
-
-TODO
-
-La compressione è tuttavia importante dal punto di vista del costo. Supponiamo
-che il materiale per l'edizione su pellicola dell'enciclopedia Britannica venga
-a costare cinque centesimi, e che possa essere spedito ovunque ad un centesimo.
-Quanto costerebbe stampare e spedire un milione di copie? Stampare un foglio di
-giornale in grande formato oggi costa una piccola frazione di un centesimo.
-L'intero contenuto dell'enciclopedia Britannica verrebbe riversato su un foglio
-di pellicola di dimensioni 8.5 pollici per 11. Una volta disponibile, grazie ai
-metodi di riproduzione del futuro, potremmo produrne copie al prezzo dei
-materiali più un centesimo. Come preparare l'originale? Questo introduce un
-nuovo aspetto del nostro argomento.
+La compressione è tuttavia importante dal punto di vista del costo.
+Supponiamo che il materiale per l'edizione su pellicola dell'enciclopedia
+Britannica venga a costare cinque centesimi, e che possa essere spedito
+ovunque ad un centesimo. Quanto costerebbe stampare e spedire un milione di
+copie? Stampare un foglio di giornale in grande formato oggi costa una
+piccola frazione di un centesimo. L'intero contenuto dell'enciclopedia
+Britannica verrebbe riversato su un foglio di pellicola di dimensioni 8.5
+pollici per 11. Una volta disponibile, grazie ai metodi di riproduzione del
+futuro, potremmo produrne copie al prezzo dei materiali più un centesimo.
+Come preparare l'originale? Questo introduce un nuovo aspetto del nostro
+argomento.
 
 ## 3 ##
 
@@ -254,16 +290,17 @@ le quali non esisteva e non esiste tuttora un ampio mercato; gli utenti di
 macchine per la manipolazione avanzata di dati sono una porzione molto
 ristretta della popolazione. Tuttavia esistono macchine per la soluzione di
 equazioni differenziali, integrali e funzionali. Esistono inoltre molte
-macchine speciali, come ad esempio i sintetizzatori armonici per la predizione
-delle maree. E ne verrano create molte altre ancora, inizialmente in mano a un
-manipolo di scienziati.
+macchine speciali, come ad esempio i sintetizzatori armonici per la
+predizione delle maree. E ne verrano create molte altre ancora, inizialmente
+in mano a un manipolo di scienziati.
 
-Se il pensiero scientifico si limitasse ai soli processi logici dell'aritmetica,
-non dovremmo arrivare lontani nella nostra comprensione del mondo fisico. Si
-potrebbe allo stesso modo tentare di comprendere il gioco del poker puramente 
-in termini di probabilità. L'abaco, con le proprie palline su fili paralleli,
-porto gli Arabi alla scoperta dello zero molti secoli prima del resto del mondo;
-e si trattava comunque di uno strumento utile - così utile da esistere tuttora.
+Se il pensiero scientifico si limitasse ai soli processi logici
+dell'aritmetica, non dovremmo arrivare lontani nella nostra comprensione del
+mondo fisico. Si potrebbe allo stesso modo tentare di comprendere il gioco 
+del poker puramente in termini di probabilità. L'abaco, con le proprie
+palline su fili paralleli, portò gli Arabi alla scoperta dello zero molti
+secoli prima del resto del mondo; e si trattava comunque di uno strumento 
+utile — così utile da esistere tuttora.
 
 Corre molta distanza fra l'abaco e la moderna macchina per contabilità con
 tastierino numerico. Altrettanta separa questa dalla macchina aritmetica del
@@ -280,16 +317,24 @@ il mondo per mezzo di processi logici, sebbene talvolta preservi questa
 apparenza chiamando scienziato chiunque faccia uso della logica, un po' come
 accade ai sindacalisti inglesi che vengono nominati Cavalieri. Ogni volta che
 si fa uso dei metodi formali della logica — cioé ogni volta che il pensiero
-scorre per un po' lungo dei binari riconosciuti — è possibile usare una 
-macchina. La logica formale un tempo era un pungolo nelle mani degli insegnanti
-con cui mettere alla prova gli intelletti degli studenti. Nel prossimo futuro
-sarà possibile costruire una macchina che manipoli premesse in modo logicamente
-corretto soltanto tramite l'uso astuto di relé. Metteremo all'interno alcune
-premesse e gireremo la leva, ed essa produrrà conclusioni su conclusioni, tutte
-giustificate logicamente, con al più tanti errori quanti quelli che ci possiamo
-aspettare da una calcolatrice.
+scorre per un po' lungo dei binari riconosciuti — è possibile usare una
+macchina. La logica formale un tempo era un pungolo nelle mani degli
+insegnanti con cui mettere alla prova gli intelletti degli studenti. Nel
+prossimo futuro sarà possibile costruire una macchina che manipoli premesse
+in modo logicamente corretto soltanto tramite l'uso astuto di relé.
+Metteremo all'interno alcune premesse e gireremo la leva, ed essa produrrà
+conclusioni su conclusioni, tutte giustificate logicamente, con al più tanti
+errori quanti quelli che ci possiamo aspettare da una calcolatrice.
 
-TODO
+La logica può risultare un problema davvero difficile, e sarebbe senza dubbio
+cosa buona avere macchine che ne garantiscano l'uso corretto. Le macchine di
+analisi superiore sono tipicamente usate per la soluzione di equazioni.
+Cominciano a fare capolino idee per manipolatori di equazioni, le quali
+riordino le relazioni espresse dalle equazioni secondo regole ferree e
+piuttosto avanzate. Il progresso è ostacolato dal modo grossolano con cui i
+matematici esprimono queste relazioni. Tendono a usare un insieme di simboli
+cresciuto oltre ogni proporzione e privo di ogni consistenza; un fatto strano
+nel campo più logico delle scienze.
 
 Mi sembra che un nuovo modello logico, probabilmente posizionale, debba
 precedere la riduzione di trasformazioni matematiche a processi di macchina.
