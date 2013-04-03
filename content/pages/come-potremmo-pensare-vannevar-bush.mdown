@@ -227,12 +227,13 @@ TODO
 
 A una recente Esposizione Universale è stata presentata una macchina chiamata
 Voder. Una ragazza ne batteva i tasti e la macchina emetteva parole
-comprensibili. Le corde vocali umane non avevano niente a che vedere con questa
-macchina; i tasti semplicemente combinavano vibrazioni prodotte elettronicamente
-e le mandavano a un altoparlante. Nei laboratori Bell c'è il contrario di questa
-macchina, chiamata Vocoder. L'altoparlante è rimpiazzato da un microfono, che
-cattura suoni. Parlandoci dentro, si muovono i corrispondenti tasti. Questo
-potrebbe essere un elemento del sistema ipotizzato.
+comprensibili. Le corde vocali umane non avevano niente a che vedere con
+questa macchina; i tasti semplicemente combinavano vibrazioni prodotte
+elettronicamente e le mandavano a un altoparlante. Nei laboratori Bell c'è
+il contrario di questa macchina, chiamata Vocoder. L'altoparlante è
+rimpiazzato da un microfono, che cattura suoni. Parlandoci dentro, si
+muovono i corrispondenti tasti. Questo potrebbe essere un elemento del
+sistema ipotizzato.
 
 TODO
 
@@ -253,15 +254,15 @@ TODO
 
 L'addizione è solo una delle operazioni. Per effettuare calcoli aritmetici
 servono anche sottrazione, moltiplicazione e divisione, e per fare
-addizioni serve un meccanismo di lettura e scrittura da una memoria temporanea,
-e infine un modo per stampare il risultato finale. Macchine per questo scopo
-sono oggi di due tipi: macchine a tastierino numerico per contabilità e simili,
-controllate manualmente per l'inserimento dei dati e automaticamente per quanto
-riguarda l'algoritmo da svolgere su di essi; e macchine a schede forate, in cui
-distinte operazioni sono tipicamente delegate a più macchine, e le schede
-vengono trasferite fisicamente da una macchina all'altra. Entrambi i tipi
-risultano molto utili; ma, dal punto di vista delle computazioni complesse,
-entrambe sono in stato embrionale.
+addizioni serve un meccanismo di lettura e scrittura da una memoria
+temporanea, e infine un modo per stampare il risultato finale. Macchine per
+questo scopo sono oggi di due tipi: macchine a tastierino numerico per
+contabilità e simili, controllate manualmente per l'inserimento dei dati e
+automaticamente per quanto riguarda l'algoritmo da svolgere su di essi; e
+macchine a schede forate, in cui distinte operazioni sono tipicamente
+delegate a più macchine, e le schede vengono trasferite fisicamente da una
+macchina all'altra. Entrambi i tipi risultano molto utili; ma, dal punto di
+vista delle computazioni complesse, entrambe sono in stato embrionale.
 
 TODO
 
@@ -271,10 +272,10 @@ compiti. Saranno controllate da una qualche forma di rullino o circuito di
 controllo, selezioneranno i propri dati da sole ed eseguiranno complesse
 operazioni aritmetiche sempre più velocemente, rendendo disponibili i propri
 risultati per distribuirli o ulteriori manipolazioni. Tali macchine saranno
-dotate di un vorace appetito. Una sola di esse prenderà istruzioni da un'intera
-stanza di ragazze armate di un tastierino numerico, e restituirà risultati ogni
-pochi minuti. Ci saranno sempre molte cose da calcolare fra le dettagliate
-faccende di milioni di persone che fanno cose complicate.
+dotate di un vorace appetito. Una sola di esse prenderà istruzioni da
+un'intera stanza di ragazze armate di un tastierino numerico, e restituirà
+risultati ogni pochi minuti. Ci saranno sempre molte cose da calcolare fra
+le dettagliate faccende di milioni di persone che fanno cose complicate.
 
 ## 4 ##
 
@@ -304,9 +305,9 @@ utile — così utile da esistere tuttora.
 
 Corre molta distanza fra l'abaco e la moderna macchina per contabilità con
 tastierino numerico. Altrettanta separa questa dalla macchina aritmetica del
-futuro. Ma persino quest'ultima non basterà allo scienziato. TODO. Un matematico
-non è un uomo estremamente abile nel manipolare cifre; anzi spesso non ne è
-proprio in grado. TODO
+futuro. Ma persino quest'ultima non basterà allo scienziato. TODO. Un
+matematico non è un uomo estremamente abile nel manipolare cifre; anzi
+spesso non ne è proprio in grado. TODO
 
 TODO
 
@@ -350,8 +351,8 @@ TODO
 Consideriamo il prosaico problema del grande magazzino. Ogni volta che viene
 effettuata una vendita ci sono un po' di cose da fare. L'inventario deve
 essere aggiornato, all'impiegato deve essere accreditata la commissione,
-l'ufficio contabilità deve aggiornare i propri registri e, cosa più importante
-di tutte, al cliente deve essere addebitata la transazione. TODO
+l'ufficio contabilità deve aggiornare i propri registri e, cosa più
+importante di tutte, al cliente deve essere addebitata la transazione. TODO
 
 TODO
 
@@ -372,7 +373,11 @@ TODO
 
 TODO
 
-TODO
+Consiste di una scrivania e, sebbene possa essere usata a distanza, il suo
+uso tipico è di fronte a essa. Su di essa troviamo schermi traslucidi
+inclinati, su cui può essere proiettato del materiale in modo che sia facile
+da leggere. C'è una tastiera e una serie di bottoni e leve. In tutto il resto
+ricorda una normale scrivania.
 
 TODO
 
@@ -381,8 +386,14 @@ TODO
 TODO
 
 Un bottone speciale lo porta direttamente alla prima pagina dell'indice. Ogni
-dato libro della propria libreria può essere richiamato e consultato con molto
-meno dello sforzo richiesto per reperirlo su uno scaffale. Poiché TODO
+dato libro della propria libreria può essere richiamato e consultato con
+molto meno dello sforzo richiesto per reperirlo su uno scaffale. Poiché ha a
+disposizione più schermi di proiezione, può lasciare un oggetto su uno di
+essi mentre ne richiama un altro. Può aggiungere note a margine e commenti,
+grazie a un opportuno tipo di fotografia a secco, e potrebbe addirittura
+farlo per mezzo di una penna, come oggi utilizzata dai teleautografi che
+vediamo nelle sale d'attesa delle stazioni, proprio come se avesse la pagina
+fisica di fronte a lui.
 
 ## 7 ##
 
@@ -395,45 +406,55 @@ TODO
 Supponiamo che il proprietario di un Memex sia interessato all'origine e alle
 caratteristiche salienti di arco e frecce. In particolare sta studiando come
 mai, nel periodo delle crociate, l'arco corto turco fosse apparentemente
-superiore all'arco lungo inglese. Il proprio Memex contiene dozzine di libri e
-articoli pertinenti. Per prima cosa consulta un'enciclopedia, dove trova un
+superiore all'arco lungo inglese. Il proprio Memex contiene dozzine di libri
+e articoli pertinenti. Per prima cosa consulta un'enciclopedia, dove trova un
 articolo interessante ma privo di dettagli, che lascia proiettato. Poi, in un
-saggio storico, trova un altro spunto interessante, che collega al precedente.
-E così continua, costruendo via via un lungo cammino. Talvolta inserisce un
-proprio commento, sia aggiungendolo al cammino principale, sia come deviazione.
-Quando risulta chiaro che le proprietà elastiche dei materiali a disposizione
-abbiano molto a che vedere con le proprietà dell'arco, parte per un nuovo ramo
-che lo porta a consultare libri di testo sull'elasticità dei materiali e tavole
-di costanti fisiche. A questo punto aggiunge una pagina di appunti scritti a
-mano. In questo modo ha costruito un cammino guidato dal proprio interesse nel
-labirinto di materiali a lui disponibili.
+saggio storico, trova un altro spunto interessante, che collega al 
+precedente. E così continua, costruendo via via un lungo cammino. Talvolta
+inserisce un proprio commento, sia aggiungendolo al cammino principale, sia
+come deviazione. Quando risulta chiaro che le proprietà elastiche dei
+materiali a disposizione abbiano molto a che vedere con le proprietà
+dell'arco, parte per un nuovo ramo che lo porta a consultare libri di testo
+sull'elasticità dei materiali e tavole di costanti fisiche. A questo punto
+aggiunge una pagina di appunti scritti a mano. In questo modo ha costruito
+un cammino guidato dal proprio interesse nel labirinto di materiali a lui
+disponibili.
 
 Inoltre i propri cammini non sono destinati a sbiadire. Svariati anni dopo la
 conversazione con un amico riguarda gli strani modi in cui un popolo oppone
-resistenza all'innovazione, persino in situazioni di interesse vitale. Egli ha
-a disposizione un esempio, cioé il fatto che gli europei insistettero nel non
-adottare l'arco turco seppure battuti in gittata. In effetti ha a disposizione
-un intero cammino. Un tocco e ha richiamato l'intero elenco dei comandi.
-Pigia qualche tasto e ha proiettato i primi passi di quel cammino. Una levetta
-permette di scorrerlo a volontà, fermandosi sui passi salienti e seguendo le
-deviazioni. È un cammino interessante, pertinente alla discussione. Perciò
-attiva un lettore, fotografa l'intero cammino e lo spedisce al proprio amico
-affinché lo aggiunga al proprio Memex, all'interno di un cammino di argomento
-più generale.
+resistenza all'innovazione, persino in situazioni di interesse vitale. Egli
+ha a disposizione un esempio, cioé il fatto che gli europei insistettero nel
+non adottare l'arco turco seppure battuti in gittata. In effetti ha a
+disposizione un intero cammino. Un tocco e ha richiamato l'intero elenco dei
+comandi. Pigia qualche tasto e ha proiettato i primi passi di quel cammino.
+Una levetta permette di scorrerlo a volontà, fermandosi sui passi salienti e
+seguendo le deviazioni. È un cammino interessante, pertinente alla
+discussione. Perciò attiva un lettore, fotografa l'intero cammino e lo
+spedisce al proprio amico affinché lo aggiunga al proprio Memex, all'interno
+di un cammino di argomento più generale.
 
 ## 8 ##
 
 Appariranno forme totalmente nuove di enciclopedie, TODO
 
-TODO
+Lo storico, dotato di un vasto corpus di cronologie personali, le confronta
+con TODO
 
 TODO
 
-TODO
+Ogni nostro metodo per creare o consultare documenti passa per uno dei nostri
+sensi — quello del tatto quando premiamo tasti, l'udito per ascoltare, la
+vista per leggere. Non sarà possibile, un giorno, stabilire un cammino più
+diretto?
 
 TODO
 
-TODO
+Gli impulsi che scorrono nei nervi delle braccia di una dattilografa
+comunicano alle sue dita l'informazione, opportunamente tradotta, che ha
+raggiunto i suoi occhi o le sue orecchie, di modo che le sue dita premano i
+tasti giusti. Non potremmo intercettare queste correnti, sia nella forma
+originale in cui arrivano al cervello, sia nella forma meravigliosamente
+trasformata con cui arrivano alle dita?
 
 TODO
 
@@ -444,6 +465,6 @@ TODO
 La scienza applicata ha donato all'uomo una casa ben attrezzata, e gli
 insegna di vivere in modo sano da quel momento in poi. Ma gli hanno anche
 permesso di scatenare masse di persone una contro l'altra armate di arnesi
-crudeli. TODO
+crudeli. Potrebbe tuttavia dargli l'opportunità di comprendere TODO
 
 ["As we may think"]: http://www.w3.org/History/1945/vbush/
