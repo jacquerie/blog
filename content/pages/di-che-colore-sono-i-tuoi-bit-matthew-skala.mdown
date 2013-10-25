@@ -47,11 +47,38 @@ copia di 433.mp3 avessero un Colore diverso da quelli nella copia di 433.mp3 che
 potrei ottenere tramite `/dev/zero`, sebbene i due file contengano esattamente
 gli stessi bit.
 
-Now, the preceding paragraph is basically nonsense to computer scientists or anyone with a mathematical background.  (My friend is one; he'd done this as a sort of elaborate joke.) Numbers are numbers, right?  If I add 39 plus 3 and get 42, and you do the same thing, there is no way that "my" 42 can be said to be different from "your" 42.  Given two bit-for-bit identical MP3 files, there is no meaningful (to a computer scientist) way to say that one is a recording of the Cage composition and the other one isn't.  There would be no way to test one of the files and see which one it was, because they are actually the same file.  Having identical bits means by definition that there can be no difference.  Bits don't have Colour; computer scientists, like computers, are Colour-blind.  That is not a mistake or deficiency on our part:  rather, we have worked hard to become so.  Colour-blindness on the part of computer scientists helps us understand the fact that computers are also Colour-blind, and we need to be intimately familiar with that fact in order to do our jobs.
+Ora, il paragrafo precedente è sostanzialmente privo di senso per un informatico
+o per chi possegga un background matematico (come il mio amico; la sua era una
+sorta di complicata presa in giro). I numeri sono numeri, no? Se io sommo 39 e 3
+ottenendo 42, e tu fai lo stesso, non ha alcun senso affermare che il "mio" 42
+sia diverso dal "tuo" 42. Dati due file MP3 identici bit a bit, non esiste un
+modo sensato (per un informatico) di dire che uno è una registrazione dell'opera
+di Cage e l'altro no. Non esisterebbe modo di sondare uno dei file e capire
+quale fosse in origine, perché in realtà sono lo stesso file. Avere gli stessi
+bit significa per definizione essere identici. I Bit non hanno Colore; gli
+informatici, così come i computer, sono Daltonici. Questo non è un nostro errore
+o una nostra mancanza: anzi, ci siamo impegnati per diventarlo. Il Daltonismo
+degli informatici ci aiuta a capire che anche i computer sono Daltonici, e
+dobbiamo esserne ben coscienti di ciò per svolgere il nostro lavoro.
+
+Il problema è che gli esseri umani in generale non sono Daltonici. La legge non
+è Daltonica. È importante non solo quali bit tu possegga, ma anche da dove
+provengano. Sul sito internet dell'Osservatorio della Marina degli Stati Uniti
+troviamo un esempio di bit Colorati. Su quel sito danno informazioni sull'ora
+dell'alba, del tramonto e cose del genere… ma le danno TODO
 
 The trouble is, human beings are not in general Colour-blind.  The law is not Colour-blind.  It makes a difference not only what bits you have, but where they came from.  There's a very interesting Web page illustrating the Coloured nature of bits in law on the US Naval Observatory Web site.  They provide information on that site about when the Sun rises and sets and so on...  but they also provide it under a disclaimer saying that this information is not suitable for use in court.  If you need to know when the Sun rose or set for use in a court case, then you need an expert witness - because you don't actually just need the bits that say when the Sun rose.  You need those bits to be Coloured with the Colour that allows them to be admissible in court, and the USNO doesn't provide that.  It's not just a question of accuracy - we all know perfectly well that the USNO's numbers are good.  It's a question of where the numbers came from.  It makes perfect sense to a lawyer that where the information came from is important, in fact maybe more important than the information itself.  The law sees Colour.
 
-Suppose you publish an article that happens to contain a sentence identical to one from this article, like "The law sees Colour." That's just four words, all of them common, and it might well occur by random chance.  Maybe you were thinking about similar ideas to mine and happened to put the words together in a similar way.  If so, fine.  But maybe you wrote "your" article by cutting and pasting from "mine" - in that case, the words have the Colour that obligates you to follow quotation procedures and worry about "derivative work" status under copyright law and so on.  Exactly the same words - represented on a computer by the same bits - can vary in Colour and have differing consequences.  When you use those words without quotation marks, either you're an author or a plagiarist depending on where you got them, even though they are the same words.  It matters where the bits came from.
+Supponiamo che pubblichiate un articolo che per caso contenga una frase identica
+a una di questa articolo, ad esempio "La legge vede i Colori". Sono soltanto
+quattro parole, tutte comuni, e la frase potrebbe essere benissimo prodotta
+casualmente. Magari avevate idee simili alle mie e avete messo insieme le parole
+in modo simile. Se è così, bene. Ma magari avete scritto il "vostro" articolo
+copiando e incollando dal "mio" — in tal caso, le parole possiedono quel Colore
+che obbliga ad attribuire le citazioni, a preoccuparsi dello stato di "lavoro
+derivato" secondo la legge sul copyright e così via. TODO
+
+Suppose you publish an article that happens to contain a sentence identical to one from this article, like "The law sees Colour." That's just four words, all of them common, and it might well occur by random chance.  Maybe you were thinking about similar ideas to mine and happened to put the words together in a similar way.  If so, fine.  But maybe you wrote "your" article by cutting and pasting from "mine" - in that case, the words have the Colour that obligates you to follow quotation procedures and worry about "deri vative work" status under copyright law and so on.  Exactly the same words - represented on a computer by the same bits - can vary in Colour and have differing consequences.  When you use those words without quotation marks, either you're an author or a plagiarist depending on where you got them, even though they are the same words.  It matters where the bits came from.
 
 I think Colour is what the designers of Monolith are trying to challenge, although I'm afraid I think their understanding of the issues is superficial on both the legal and computer-science sides.  The idea of Monolith is that it will mathematically combine two files with the exclusive-or operation.  You take a file to which someone claims copyright, mix it up with a public file, and then the result, which is mixed-up garbage supposedly containing no information, is supposedly free of copyright claims even though someone else can later undo the mixing operation and produce a copy of the copyright-encumbered file you started with.  Oh, happy day!  The lawyers will just have to all go away now, because we've demonstrated the absurdity of intellectual property!
 
@@ -93,7 +120,13 @@ There are statistical tests you can do; for instance, if you look at the file an
 
 Note my terminology - I spoke of "randomly generated" numbers.  Conscientious cryptographers refuse to use the term "random numbers".  They'll persistently and annoyingly correct you to say "randomly generated numbers" instead, because it's not the numbers that are or are not random, it's the source of the numbers that is or is not random.  If you have numbers that are supposed to come from a random source and you start testing them to make sure they're really "random", and you throw out the ones that seem not to be, then you end up reducing the Shannon entropy of the source, violating the constraints of the one-time pad if that's relevant to your application, and generally harming security.  I just threw a bunch of math terms at you in that sentence and I don't plan to explain them here, but all cryptographers understand that it's not the numbers that matter when you're talking about randomness.  What matters is where the numbers came from - that is, exactly, their Colour.
 
-So if we think we understand cryptography, we ought to be able to understand that Colour is something real even though it is also true that bits by themselves do not have Colour.  I think it's time for computer people to take Colour more seriously - if only so that we can better explain to the lawyers why they must give up their dream of enforcing Colour inside Friend Computer, where Colour does not and cannot exist.  Maybe then they'd stop trying to shoot us as Commie Mutant Traitors.
+Perciò se pensiamo di capire la crittografia, dovremmo essere in grado di
+capire che il Colore è qualcosa di reale sebbene i bit non posseggano Colore.
+Penso sia ora che gli informatici prendano sul serio il Colore — se non altro
+per spiegare meglio agli avvocati perché debbano abbandonare il proprio sogno
+di pretendere l'esistenza del Colore all'interno dell'Amico Computer, in cui il
+colore non c'è e non può esistere. Magari allora smetteranno di provare a
+spararci in quanto Mutanti Traditori Comunisti.
 
 ["What Colour are your bits?"]: http://ansuz.sooke.bc.ca/entry/23
 [Paranoia]: http://www.mongoosepublishing.com/rpgs/paranoia.html
