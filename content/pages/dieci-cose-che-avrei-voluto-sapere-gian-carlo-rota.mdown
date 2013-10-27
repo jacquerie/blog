@@ -140,9 +140,10 @@ Once more let me begin with Hilbert. When the Germans were planning to publish H
 Now let us shift to the other end of the spectrum, and allow me to relate another personal anecdote. In the summer of 1979, while attending a philosophy meeting in Pittsburgh, I was struck with a case of detached retinas. Thanks to Joni's prompt intervention, I managed to be operated on in the nick of time and my eyesight was saved.
 
 La mattina dopo l'operazione, stando su un letto d'ospedale con gli occhi
-bendati, Joni TODO.
-
-On the morning after the operation, while I was lying on a hospital bed with my eyes bandaged, Joni dropped in to visit. Since I was to remain in that Pittsburgh hospital for at least a week, we decided to write a paper. Joni fished a manuscript out of my suitcase, and I mentioned to her that the text had a few mistakes which she could help me fix.
+bendati, Joni venne a farmi visita. Poiché avrei dovuto restare in quell'
+ospedale di Pittsburgh per almeno una settimana, decidemmo di scrivere un
+articolo. Joni pescò un manoscritto dalla mia valigia, e io le dissi che il
+testo conteneva qualche errore che lei mi avrebbe potuto aiutare a sistemare.
 
 Seguirono venti minuti di silenzio in cui lei lesse la bozza. "Ma è tutto
 sbagliato!" esclamò finalmente nella propria voce giovanile. Aveva ragione.
@@ -169,13 +170,21 @@ Come ha fatto? Deve essere un genio!".
 
 I have always felt miffed after reading a paper in which I felt I was not being given proper credit, and it is safe to conjecture that the same happens to everyone else. One day, I tried an experiment. After writing a rather long paper, I began to draft a thorough bibliography. On the spur of the moment, I decided to cite a few papers which had nothing whatsoever to do with the content of my paper, to see what might happen.
 
-Somewhat to my surprise, I received letters from two of the authors whose papers I believed were irrelevant to my article. Both letters were written in an emotionally charged tone. Each of the authors warmly congratulated me for being the first to acknowledge their contribution to the field.
+Con mia grande sorpresa, ho ricevuto lettere dai due autori i cui articoli
+ritenevo irrilevanti per il mio. Entrambe le lettere erano scritte in un tono
+assai caloroso, e ciascun autore si congratulava con me per essere stato il
+primo a riconoscere il loro contributo al settore.
 
 
 ## 9 — Scrivete introduzioni corpose ##
 
 Nowadays, reading a mathematics paper from top to bottom is a rare event. If we wish our paper to be read, we had better provide our prospective readers with strong motivation to do so. A lengthy introduction, summarizing the history of the subject, giving everybody his due, and perhaps enticingly outlining the content of the paper in a discursive manner, will go some of the way towards getting us a couple of readers.
-As the editor of the journal Advances in Mathematics, I have often sent submitted papers back to the authors with the recommendation that they lengthen their introduction. On occasion I received by return mail a message from the author, stating that the same paper had been previously rejected by Annals of Mathematics because the introduction was already too long.
+
+In quanto editor della rivista "Advances in Mathematics", ho spesso respinto
+articoli agli autori raccomandando di allungare l'introduzione. Una volta
+ricevetti risposta dall'autore, il quale disse che lo stesso articolo era
+stato rifiutato da "Annals of Mathematics" perché l'introduzione era troppo
+lunga.
 
 
 ## 10 — Siate pronti per la vecchiaia ##
