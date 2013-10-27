@@ -26,11 +26,20 @@ I seguenti quattro requisiti di una buona lezione non sembrano essere ovvi,
 almeno a giudicare dalle lezioni di matematica a cui ho assistito negli 
 scorsi quarantasei anni.
 
-### _a. Every lecture should make only one main point_ ###
+### _a. Ogni lezione deve enunciare un solo concetto_ ###
 
-The German philosopher G. W. F. Hegel wrote that any philosopher who uses the word "and" too often cannot be a good philosopher. I think he was right, at least insofar as lecturing goes. Every lecture should state one main point and repeat it over and over, like a theme with variations. An audience is like a herd of cows, moving slowly in the direction they are being driven towards. If we make one point, we have a good chance that the audience will take the right direction; if we make several points, then the cows will scatter all over the field. The audience will lose interest and everyone will go back to the thoughts they interrupted in order to come to our lecture.
+Il filosofo tedesco G. W. F. Hegel scrisse che ogni filosofo che faccia uso
+troppo spesso della congiunzione "e" non può essere un buon filosofo. Penso
+avesse ragione, perlomeno per quanto riguarda fare lezione. Ogni lezione
+deve enunciare un unico concetto e ripeterlo più volte, come se fosse un tema
+musicale con variazioni. Il pubblico è come una mandria di mucche che si
+muove lentamente nella direzione in cui viene guidato. Enunciando un solo
+concetto, è probabile che il pubblico si incammini nella direzione giusta;
+enunciando più concetti, le mucche si sparpaglieranno per il prato. Il
+pubblico perderà interesse e tutti ritornerrano ai pensieri che avevano
+interrotto per seguire la vostra lezione.
 
-### _b. Never run overtime_ ###
+### _b. Non sforare i tempi_ ###
 
 Finire in ritardo è l'errore imperdonabile numero uno che un professore possa
 fare. Dopo cinquanta minuti (un microsecolo, come diceva von Neumann)
@@ -44,7 +53,6 @@ As you enter the lecture hall, try to spot someone in the audience with whose wo
 
 Tutti gli ascoltatori sono venuti a sentire la tua lezione nella segreta
 speranza che menzionate il loro lavoro.
-
 
 ### _d. Date loro qualcosa da portare a casa_ ###
 
@@ -86,7 +94,11 @@ Similarly, Hilbert's Foundations of Geometry, the book that made Hilbert's name 
 
 Again, Hilbert's Zahlbericht, a fundamental contribution that revolutionized the field of number theory, was originally a survey that Hilbert was commissioned to write for publication in the Bulletin ofthe German Mathematical Society.
 
-William Feller is another example. Feller is remembered as the author of the most successful treatise on probability ever written. Few probabilists of our day are able to cite more than a couple of Feller's research papers; most mathematicians are not even aware that Feller had a previous life in convex geometry.
+William Feller è un ulteriore esempio. Feller è ricordato come l'autore del
+trattato di probabilità di maggior successo mai scritto. Pochi probabilisti
+odierni sono in grado di citare più di un paio di articoli originali di
+Feller; la maggiore parte dei matematici non sa neanche che Feller
+originariamente pubblicava nel campo della geometria convessa.
 
 Allow me to digress with a personal reminiscence. I sometimes publish in a branch of philosophy called phenomenology. After publishing my first paper in this subject, I felt deeply hurt when, at a meeting of the Society for Phenomenology and Existential Philosophy, I was rudely told in no uncertain terms that everything I wrote in my paper was well known. This scenario occurred more than once, and I was eventually forced to reconsider my publishing standards in phenomenology.
 
@@ -95,13 +107,27 @@ It so happens that the fundamental treatises of phenomenology are written in thi
 
 ## 5 — Ogni matematico conosce pochi trucchi ##
 
-A long time ago an older and well known number theorist made some disparaging remarks about Paul Erdos' work. You admire contributions to mathematics as much as I do, and I felt annoyed when the older mathematician flatly and definitively stated that all of Erdos' work could be reduced to a few tricks which Erdos repeatedly relied on in his proofs. What the number theorist did not realize is that other mathematicians, even the very best, also rely on a few tricks which they use over and over. Take Hilbert. The second volume of Hilbert's collected papers contains Hilbert's papers in invariant theory. I have made a point of reading some of these papers with care. It is sad to note that some of Hilbert's beautiful results have been completely forgotten. But on reading the proofs of Hilbert's striking and deep theorems in invariant theory, it was surprising to verify that Hilbert's proofs relied on the same few tricks. Even Hilbert had only a few tricks!
+Tanto tempo fa un teorico dei numeri vecchio e famoso ebbe da ridire
+sull'opera di Paul Erdős. Voi probabilmente apprezzate i contributi alla
+matematica quanto me, e mi ha infastidito che il vecchio matematico
+osservasse seccamente che tutti i lavori di Erdős potevano essere ridotti a
+pochi trucchi che Erdős usava ripetutamente nelle proprie dimostrazioni.
+Quello che il teorico dei numeri non capiva è che anche gli altri matematici,
+persino i migliori, fanno affidamente a pochi trucchi che usano dappertutto.
+Prendete ad esempio Hilbert. Il secondo volume della raccolta degli articoli
+di Hilbert contiene quelli sulla teoria degli invarianti. Mi sono messo in
+testa di leggere alcuni di questi con attenzione. È triste osservare che
+alcuni bei risultati di Hilbert sono stati completamente dimenticati. Ma
+leggendo le dimostrazioni dei risultati straordinari e profondi nella teoria
+degli invarianti, è stato sorprendente osservare che le dimostrazioni di
+Hilbert si basano sugli stessi pochi trucchi. Persino Hilbert conosceva
+soltanto pochi trucchi!
 
 
 ## 6 — Non preoccupatevi dei vostri errori ##
 
 Permettetemi ancora una volta di cominciare con Hilbert. Quando i tedeschi
-vollero pubblicare una raccolta degli artcoli di Hilbert come regalo per uno
+vollero pubblicare una raccolta degli articoli di Hilbert come regalo per uno
 dei suoi ultimi compleanni, capirono di non poter pubblicarli nella versione
 originale perché pieni di errori, alcuni dei quali piuttosto gravi. Pertanto
 assunsero una giovane matematica disoccupata, Olga Taussky-Todd, affinché
