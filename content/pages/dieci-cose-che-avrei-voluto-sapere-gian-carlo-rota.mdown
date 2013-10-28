@@ -20,38 +20,41 @@ qualcosa da portare a casa. Ma cosa? TODO
 Dirk Struik was right: a speaker should try to give his audience something they can take home. But what? I have been collecting some random bits of advice that I keep repeating to myself, do's and don'ts of which I have been and will always be guilty. Some of you have been exposed to one or more of these tidbits. Collecting these items and presenting them in one speech may be one of the less obnoxious among options of equal presumptuousness. The advice we give others is the advice that we ourselves need. Since it is too late for me to learn these lessons, I will discharge my unfulfilled duty by dishing them out to you. They will be stated in order of increasing controversiality.
 
 
-## 1 — Fare lezione  ##
+## 1 — Tenere un seminario ##
 
-I seguenti quattro requisiti di una buona lezione non sembrano essere ovvi,
-almeno a giudicare dalle lezioni di matematica a cui ho assistito negli 
+I seguenti quattro requisiti di una buon seminario non sembrano essere ovvi,
+almeno a giudicare dai seminari di matematica a cui ho assistito negli 
 scorsi quarantasei anni.
 
-### _a. Ogni lezione deve enunciare un solo concetto_ ###
+### _a. Ogni seminario deve enunciare un solo concetto_ ###
 
 Il filosofo tedesco G. W. F. Hegel scrisse che ogni filosofo che faccia uso
 troppo spesso della congiunzione "e" non può essere un buon filosofo. Penso
-avesse ragione, perlomeno per quanto riguarda fare lezione. Ogni lezione
+avesse ragione, perlomeno per quanto riguarda tenere seminari. Ogni seminario
 deve enunciare un unico concetto e ripeterlo più volte, come se fosse un tema
 musicale con variazioni. Il pubblico è come una mandria di mucche che si
 muove lentamente nella direzione in cui viene guidato. Enunciando un solo
 concetto, è probabile che il pubblico si incammini nella direzione giusta;
 enunciando più concetti, le mucche si sparpaglieranno per il prato. Il
 pubblico perderà interesse e tutti ritornerrano ai pensieri che avevano
-interrotto per seguire la vostra lezione.
+interrotto per seguire il vostro seminario.
 
 ### _b. Non sforare i tempi_ ###
 
 Finire in ritardo è l'errore imperdonabile numero uno che un professore possa
 fare. Dopo cinquanta minuti (un microsecolo, come diceva von Neumann)
 l'attenzione dei presenti si rivolgerà altrove anche se stiamo cercando di
-dimostrare l'ipotesi di Riemann. Sforare di un minuto può annientare la
-migliore delle lezioni.
+dimostrare l'ipotesi di Riemann. Sforare di un minuto può annientare il
+miglior seminario.
 
 ### _c. Relate to your audience_ ###
 
+Quando entrate nell'aula in cui terrete il seminario, aguzzate lo sguardo
+per vedere se nel pubblico TODO
+
 As you enter the lecture hall, try to spot someone in the audience with whose work you have some familiarity. Quickly rearrange your presentation so as to manage to mention some of that person's work. In this way, you will guarantee that at least one person will follow with rapt attention, and you will make a friend to boot.
 
-Tutti gli ascoltatori sono venuti a sentire la tua lezione nella segreta
+Tutti gli ascoltatori sono venuti a sentire il vostro seminario nella segreta
 speranza che menzionate il loro lavoro.
 
 ### _d. Date loro qualcosa da portare a casa_ ###
@@ -69,12 +72,22 @@ Darò due suggerimenti.
 
 It is particularly important to erase those distracting whirls that are left when we run the eraser over the blackboard in a non uniform fashion.
 
-Cominciando con una lavagna immacolata darete l'impressione che la lezione
-che state per svolgere sia analogamente priva d'imperfezioni.
+Cominciando con una lavagna immacolata darete l'impressione che il seminario
+che state per svolgere sia analogamente privo d'imperfezioni.
 
 ### _b. Cominciate a scrivere dall'angolo in alto a sinistra_ ###
 
-What we write on the blackboard should correspond to what we want an attentive listener to take down in his notebook. It is preferable to write slowly and in a large handwriting, with no abbreviations. Those members of the audience who are taking notes are doing us a favor, and it is up to us to help them with their copying. When slides are used instead of the blackboard, the speaker should spend some time explaining each slide, preferably by adding sentences that are inessential, repetitive or superfluous, so as to allow any member of the audience time to copy our slide. We all fall prey to the illusion that a listener will find the time to read the copy of the slides we hand them after the lecture. This is wishful thinking.
+Quello che scriviamo sulla lavagna dovrebbe corrispondere a quello che
+vorremmo un ascoltatore attento scrivesse nei propri appunti. È preferibile
+scrivere lentamente e in caratteri grandi, senza usare abbreviazioni. I
+membri del pubblico che stanno prendendo appunti ci stanno facendo un favore,
+quindi sta a noi aiutarli nel compito. Quando si preferiscono le
+trasparenze alla lavagna, chi parla dovrebbe perdere un po' di tempo su
+ciascuna di esse, preferibilmente aggiungendo frasi non essenziali, ripetitive
+o superflue, di modo da permettere che ogni membro del pubblico abbia abbastanza
+tempo da ricopiarla. Cadiamo tutti preda dell'illusione per cui l'ascoltatore
+troverà il tempo di leggere la copia delle trasparenze che gli diamo alla fine
+del seminario. Ma è un'utopia.
 
 
 ## 3 — Pubblica lo stesso risultato più volte ##
