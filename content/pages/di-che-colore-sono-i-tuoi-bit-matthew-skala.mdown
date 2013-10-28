@@ -65,7 +65,9 @@ Il problema è che gli esseri umani in generale non sono Daltonici. La legge non
 è Daltonica. È importante non solo quali bit tu possegga, ma anche da dove
 provengano. Sul sito internet dell'Osservatorio della Marina degli Stati Uniti
 troviamo un esempio di bit Colorati. Su quel sito danno informazioni sull'ora
-dell'alba, del tramonto e cose del genere… ma le danno TODO
+dell'alba, del tramonto e cose del genere… ma le danno sotto condizione che non
+sia lecito usare queste informazioni in tribunale. Se devi sapere quando il
+sole è sorto o tramontato TODO
 
 The trouble is, human beings are not in general Colour-blind.  The law is not Colour-blind.  It makes a difference not only what bits you have, but where they came from.  There's a very interesting Web page illustrating the Coloured nature of bits in law on the US Naval Observatory Web site.  They provide information on that site about when the Sun rises and sets and so on...  but they also provide it under a disclaimer saying that this information is not suitable for use in court.  If you need to know when the Sun rose or set for use in a court case, then you need an expert witness - because you don't actually just need the bits that say when the Sun rose.  You need those bits to be Coloured with the Colour that allows them to be admissible in court, and the USNO doesn't provide that.  It's not just a question of accuracy - we all know perfectly well that the USNO's numbers are good.  It's a question of where the numbers came from.  It makes perfect sense to a lawyer that where the information came from is important, in fact maybe more important than the information itself.  The law sees Colour.
 
@@ -76,13 +78,42 @@ casualmente. Magari avevate idee simili alle mie e avete messo insieme le parole
 in modo simile. Se è così, bene. Ma magari avete scritto il "vostro" articolo
 copiando e incollando dal "mio" — in tal caso, le parole possiedono quel Colore
 che obbliga ad attribuire le citazioni, a preoccuparsi dello stato di "lavoro
-derivato" secondo la legge sul copyright e così via. TODO
+derivato" secondo la legge sul copyright e così via. Esattamente le stesse
+parole — rappresentate su un computer con esattamente gli stessi bit — possono
+avere Colore e conseguenze diverse. Usando le stesse parole senza metterle fra
+virgolette puoi essere un autore o un plagiatore, a seconda di dove tu le abbia
+prese, anche se sono le stesse parole. È importante da dove vengano quei bit.
 
-Suppose you publish an article that happens to contain a sentence identical to one from this article, like "The law sees Colour." That's just four words, all of them common, and it might well occur by random chance.  Maybe you were thinking about similar ideas to mine and happened to put the words together in a similar way.  If so, fine.  But maybe you wrote "your" article by cutting and pasting from "mine" - in that case, the words have the Colour that obligates you to follow quotation procedures and worry about "deri vative work" status under copyright law and so on.  Exactly the same words - represented on a computer by the same bits - can vary in Colour and have differing consequences.  When you use those words without quotation marks, either you're an author or a plagiarist depending on where you got them, even though they are the same words.  It matters where the bits came from.
+Penso che ciò che i programmatori di [Monolith](monolith.sourceforge.com) stiano
+sfidando sia il Colore, sebbene abbia paura che la loro comprensione del
+problema sia superficiale sia sul lato informatico sia su quello legale. L'idea
+di Monolith è di combinare matematicamente due file con l'operazione di or
+esclusivo. Prendete un file su cui qualcuno vanta del copyright, fondetelo con
+un file pubblico di dominio pubblico, e il risultato, spazzatura apparentemente
+priva di informazione, TODO
 
-I think Colour is what the designers of Monolith are trying to challenge, although I'm afraid I think their understanding of the issues is superficial on both the legal and computer-science sides.  The idea of Monolith is that it will mathematically combine two files with the exclusive-or operation.  You take a file to which someone claims copyright, mix it up with a public file, and then the result, which is mixed-up garbage supposedly containing no information, is supposedly free of copyright claims even though someone else can later undo the mixing operation and produce a copy of the copyright-encumbered file you started with.  Oh, happy day!  The lawyers will just have to all go away now, because we've demonstrated the absurdity of intellectual property!
+I think Colour is what the designers of [Monolith](monolith.sourceforge.com) are trying to challenge, although I'm afraid I think their understanding of the issues is superficial on both the legal and computer-science sides.  The idea of Monolith is that it will mathematically combine two files with the exclusive-or operation.  You take a file to which someone claims copyright, mix it up with a public file, and then the result, which is mixed-up garbage supposedly containing no information, is supposedly free of copyright claims even though someone else can later undo the mixing operation and produce a copy of the copyright-encumbered file you started with.  Oh, happy day!  The lawyers will just have to all go away now, because we've demonstrated the absurdity of intellectual property!
 
-The fallacy of Monolith is that it's playing fast and loose with Colour, attempting to use legal rules one moment and math rules another moment as convenient.  When you have a copyrighted file at the start, that file clearly has the "covered by copyright" Colour, and you're not cleared for it, Citizen.  When it's scrambled by Monolith, the claim is that the resulting file has no Colour - how could it have the copyright Colour?  It's just random bits!  Then when it's descrambled, it still can't have the copyright Colour because it came from public inputs.  The problem is that there are two conflicting sets of rules there.  Under the lawyer's rules, Colour is not a mathematical function of the bits that you can determine by examining the bits.  It matters where the bits came from. The scrambled file still has the copyright Colour because it came from the copyrighted input file.  It doesn't matter that it looks like, or maybe even is bit-for-bit identical with, some other file that you could get from a random number generator.  It happens that you didn't get it from a random number generator.  You got it from copyrighted material; it is copyrighted.  The randomly-generated file, even if bit-for-bit identical, would have a different Colour.  The Colour inherits through all scrambling and descrambling operations and you're distributing a copyrighted work, you Commie Mutant Traitor.
+Il punto debole di Monolith è che sta prendendo sottogamba il Colore, provando a
+usare regole del mondo legale un istante e regole del mondo matematico l'istante
+successivo, secondo come faccia più comodo. Quando all'inizio possedevate un
+file coperto da copyright, quel file chiaramente ha il Colore "coperto da
+copyright", e voi non potete averci a che fare, Cittadino. Quando è crittato
+con Monolith, gli autori sostengono che il file risultante non possiede Colore —
+come potrebbe avere il Colore del copyright? Sono solo bit casuali! Quando poi
+è decrittato, non può possedere il Colore del copyright perché proviene da file
+in pubblico dominio. Il problema è che qui ci sono due insiemi di regole in
+conflitto. Secondo le regole dell'avvocato, il Colore non è una funzione
+matematica dei bit, che può essere determinata andandoli a esaminare. _Quel che
+conta è da dove questi bit provengano_. Il file crittato ha ancora il Colore del
+copyright perché proviene da un file coperto da copyright. Non importa che
+aspetto abbia, o il fatto che sia identico bit a bit a un file che potresti
+ottenere da un generatore di numeri casuali. Quel che conta è che non l'hai
+ottenuto così. Lo hai ottenuto da materiale coperto da copyright; quindi è
+coperto da copyright. Il file generato casualmente, anche se è uguale bit a bit,
+ha Colore diverso. Il Colore si conserva per i processi di crittazione e
+decrittazione, e tu stai distribuendo del materiale coperto da copyright,
+Mutante Traditore Comunista.
 
 To a computer scientist, on the other hand, bits are bits are bits and it is absolutely fundamental that two identical chunks of bits cannot be distinguished.  Colour does not exist.  I've seen computer people claim (indeed, one did this to me just today in the very discussion that inspired this posting) that copyright law inescapably leads to nonsense conclusions like "If I own copyright on one thing, and copyright inherits through XOR, then I own copyright on everything because everything can be obtained from my one thing by XORing it with the right file." That sounds profound only if you're a Colour-blind computer scientist; it would be boring nonsense to a lawyer because lawyers are trained to believe in and use Colour, and it's obvious to a lawyer that the Colour doesn't magically bleed to the entire universe through the hypothetical random files that might be created some day.  You could create the file randomly, but you didn't. Maybe you could create a file identical to the complete works of Shakespeare by XORing together two files of apparently random garbage.  "Why, so can I, or so can any man;" but that doesn't mean that I am William Shakespeare.
 
