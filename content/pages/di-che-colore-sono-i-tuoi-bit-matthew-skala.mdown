@@ -37,9 +37,16 @@ dove vengono? Dove stanno andando? Sono copie di altri bit? A queste domande si
 può dare risposta con dei "metadati", ma TODO
 
 I bit, per loro natura, non hanno Colore. Il Colore, in questo senso, non fa
-parte dell'universo. TODO
-
-Bits do not naturally have Colour.  Colour, in this sense, is not part of the natural universe.  Most importantly, you cannot look at bits and observe what Colour they are.  I encountered an amusing example of bit Colour recently:  one of my friends was talking about how he'd performed John Cage's famous silent musical composition 4'33" for MP3.  Okay, we said, (paraphrasing the conversation here) so you took an appropriate-sized file of zeroes out of /dev/zero and compressed that with an MP3 compressor?  No, no, he said.  If I did that, it wouldn't really be 4'33" because to perform the composition, you have to make the silence in a certain way, according to the rules laid down by the composer.  It's not just four minutes and thirty-three seconds of any old silence.
+parte dell'universo. Cosa più importante, non puoi guardare direttamente i bit
+e osservare di che Colore sono. Recentemente mi sono imbattuto in un esempio
+divertente di Colore dei bit: un mio amico stava parlando di come avesse
+eseguito 4'33", il famoso brano muto di John Cage, per MP3. Ok, abbiamo detto,
+(sto parafrasando la conversazione), insomma hai preso un file di zeri della
+dimensione giusta da `/dev/zero` e lo hai compresso con un compressore MP3? No,
+no, ha detto. Se lo avessi avessi fatto, non sarebbe davvero 4'33", perché per
+eseguire quel brano devi creare il silenzio in un particolare modo, secondo le
+regole redatte dal compositore. Non si tratta di quattro minuti e trentatre
+secondi di un silenzio qualunque.
 
 Il mio amico aveva messo in atto un procedimento elaborato che in sostanza
 consisteva nel riprodurre da un sintetizzatore software con il volume impostato
@@ -70,12 +77,17 @@ dobbiamo esserne ben coscienti di ciò per svolgere il nostro lavoro.
 Il problema è che gli esseri umani in generale non sono Daltonici. La legge non
 è Daltonica. È importante non solo quali bit tu possegga, ma anche da dove
 provengano. Sul sito internet dell'Osservatorio della Marina degli Stati Uniti
-troviamo un esempio di bit Colorati. Su quel sito danno informazioni sull'ora
-dell'alba, del tramonto e cose del genere… ma le danno sotto condizione che non
-sia lecito usare queste informazioni in tribunale. Se devi sapere quando il
-sole è sorto o tramontato TODO
-
-The trouble is, human beings are not in general Colour-blind.  The law is not Colour-blind.  It makes a difference not only what bits you have, but where they came from.  There's a very interesting Web page illustrating the Coloured nature of bits in law on the US Naval Observatory Web site.  They provide information on that site about when the Sun rises and sets and so on...  but they also provide it under a disclaimer saying that this information is not suitable for use in court.  If you need to know when the Sun rose or set for use in a court case, then you need an expert witness - because you don't actually just need the bits that say when the Sun rose.  You need those bits to be Coloured with the Colour that allows them to be admissible in court, and the USNO doesn't provide that.  It's not just a question of accuracy - we all know perfectly well that the USNO's numbers are good.  It's a question of where the numbers came from.  It makes perfect sense to a lawyer that where the information came from is important, in fact maybe more important than the information itself.  The law sees Colour.
+(USNO) troviamo un esempio di bit Colorati. Su quel sito danno informazioni
+sull'ora dell'alba, del tramonto e cose del genere… ma le danno sotto
+condizione che non sia lecito usare queste informazioni in tribunale. Se devi
+sapere quando il sole è sorto o tramontato in una causa hai bisogno di un
+perito — perché non ti bastano i bit dell'ora dell'alba. Hai bisogno che quei
+bit siano Colorati del Colore che permetta loro di essere usati in tribunale, e
+l'USNO questo non lo permette. Non è soltanto una questione di precisione —
+sappiamo benissimo che i numeri dell'USNO vanno benissimo. È una questione
+dell'origine di questi numeri. Ha perfettamente senso per un avvocato che la
+provenienza di un informazione sia importante, in effetti forse più importante
+dell'informazione stessa. La legge vede i Colori.
 
 Supponiamo che pubblichiate un articolo che per caso contenga una frase identica
 a una di questa articolo, ad esempio "La legge vede i Colori". Sono soltanto
@@ -91,9 +103,9 @@ virgolette puoi essere un autore o un plagiatore, a seconda di dove tu le abbia
 prese, anche se sono le stesse parole. È importante da dove vengano quei bit.
 
 Penso che ciò che i programmatori di [Monolith](monolith.sourceforge.com) stiano
-sfidando sia il Colore, sebbene abbia paura che la loro comprensione del
-problema sia superficiale sia sul lato informatico sia su quello legale. L'idea
-di Monolith è di combinare matematicamente due file con l'operazione di or
+sfidando sia il Colore, sebbene io tema che la loro comprensione del problema
+sia superficiale sia sul lato informatico sia su quello legale. L'idea di
+Monolith è di combinare matematicamente due file con l'operazione di or
 esclusivo. Prendete un file su cui qualcuno vanta del copyright, fondetelo con
 un file pubblico di dominio pubblico, e il risultato, spazzatura apparentemente
 priva di informazione, TODO
@@ -141,6 +153,9 @@ Other important questions which you may or may not be able to answer by examinin
 
 Child pornography is an interesting case because I find myself, and I think many people in the computing community will find themselves, on the opposite side of the Colourful/Colour-blind gap from where I would normally be.  In copyright I spend a lot of time explaining why Colour doesn't exist and it doesn't matter where the bits came from.  But when it comes to child pornography, I think maybe Colour should make a difference - if we're going to ban it at all, it should matter where it came from.  Whether any children were actually involved, who did or didn't give consent, in short:  what Colour the bits are.  The other side takes the opposite tack:  child pornography is dangerous by its very existence, and it doesn't matter where it came from.  They're claiming that whether some bits are child pornography or not, and if so, whether they're illegal or not, should be entirely determined by (strictly a function of) the bits themselves.  Legality, at least under the obscenity law, should not involve Colour distinctions.
 
+Penso che gli informatici possano capire molto meglio il Colore di noi perché
+in certe aree dell'informatica il Colore conta. TODO
+
 I think computer scientists could actually understand Colour a lot better than we do, because there are places in computer science where Colour does matter.  I already mentioned the idea of quoting and plagiarism - identical words are or are not okay to use without quote marks in an academic paper depending on their Colour.  Those of us with degrees are able to follow the rules for that because people who aren't get kicked out of school before finishing their degrees.  That's a general academic application of Colour.
 
 If you've any exposure to metrology - not "meteorology", I mean the science of measurement - you'll be familiar with the idea of tracing the pedigree of standards.  Down in the chemistry lab they have a big jar of buffer solution with a label asserting that it not only has a pH of exactly 7.00, but that its pH is "traceable" to such-and-such primary standard, through a chain that probably terminates at the National Bureau of Standards in Boulder, Colorado, USA. That's Colour.  Not only do you know the pH of the buffer solution, but you know where it came from.  Someone other than the National Bureau of Standards might be able to produce a buffer solution that is just as good and just as accurately 7.00 pH. If you have a sample of good pH 7.00 buffer solution it might be indistinguishable from the real traceable standard solution; but it wouldn't really be the traceable solution unless it had the intangible Colour to make it authentic.
@@ -149,7 +164,13 @@ The computer science applications of Colour seem to be mostly specific to securi
 
 When we use Colour like that to protect ourselves against viruses or malicious input, we're using the Colour to conservatively approximate a difficult or impossible to compute function of the bits.  Either our operating system is infected, or it is not.  A given sequence of bits either is an infected file or isn't, and the same sequence of bits will always be either infected or not.  Disinfecting a file changes the bits.  Infected or not is a function, not a Colour.  The trouble is that because any of our files might be infected including the tools we would use to test for infection, we can't reliably compute the "is infected" function, so we use Colour to approximate "is infected" with something that we can compute and manage - namely "might be infected".  Note that "might be infected" is not a function; the same file can be "might be infected" or "not (might be infected)" depending on where it came from.  That is a Colour.
 
-But the "might be infected" Colour is clearly a fictional thing we create to help us approximate a tricky function.  It's still easy to argue that Colour doesn't really exist.  I've saved until last what I think is the best example of a Colour in computer science, and I think even the most hardline mathematicians will have to agree that even though this isn't a function and cannot be represented in bits, it's something real that we have to be able to think about and care about.
+Ma il Colore "potrebbe essere infetto" è chiaramente una cosa fittizia che
+creiamo per aiutarci ad approssimare una funzione difficile da approssimare.
+È sempre facile argomentare che il Colore non esiste davvero. Ho lasciato alla
+fine quello che penso essere il miglior esempio di Colore nell'informatica, e
+penso che anche il matematico più purista debba accettare che, sebbene non
+si tratti di una funzione e non possa essere rappresentata in bit, sia qualcosa
+di reale di cui dobbiamo essere in grado di pensare e preoccuparci.
 
 Random numbers have a Colour different from that of non-random numbers.  The question of how to determine whether numbers are random or not by looking at them is one of the recurring flame wars of sci.crypt.  You can't do it.  Here's a number:  2.  Was that a random number?  Well, maybe I got it by rolling a die (a random generator); or maybe I got it by counting my legs (probably not random).  If I give you a file of supposedly random bits, there's no way you can tell whether they are randomly generated or not.  The same file could have been generated by a quantum-mechanical random source, monkeys on typewriters, or by encrypting some well-known non-random file with some scheme that may or may not be generally known.
 
