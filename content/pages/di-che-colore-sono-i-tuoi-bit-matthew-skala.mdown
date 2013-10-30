@@ -4,9 +4,11 @@ _Questo post è una traduzione di ["What Colour are your bits?"][] di Matthew Sk
 
 [Paranoia][] è un classico gioco d'avventura che ha luogo in un mondo futuro
 estremamente <s>repressivo</s> Utopistico amministrato dal Computer, il quale
-è Tuo Amico. TODO
-
-There's a classic adventure game called Paranoia which is set in an extremely repressive Utopian futuristic world run by The Computer, who is Your Friend.  Looking at a recent LawMeme posting and related discussion, it occurred to me that the concept of colour-coded security clearances in Paranoia provides a good metaphor for a lot of copyright and intellectual freedom issues, and it may illuminate why we sometimes have difficulty communicating and understanding the ideologies in these areas.
+è Tuo Amico. Leggendo un recente articolo di Lawmeme e la discussione a esso
+collegata ho capito che i livelli di sicurezza codificati dai colori di Paranoia
+sono una buona metafora per spiegare molti dei problemi di copyright e libertà
+intellettuale, e possono aiutare a capire perché talvolta abbiamo problemi a
+capire e far capire le correnti di pensiero in questi campi.
 
 [...]
 
@@ -34,7 +36,11 @@ termine "bit". I bit sono tutte quelle cose che (in linea di principio) possono
 essere rappresentate da zeri e uni. Gran parte della proprietà intellettuale
 consiste in regole su proprietà intangibili dei bit — Chi ha creato i bit? Da
 dove vengono? Dove stanno andando? Sono copie di altri bit? A queste domande si
-può dare risposta con dei "metadati", ma TODO
+può dare risposta con dei "metadati", ma a mio parere i metadati sono altri bit
+aggiunti ai bit in questione, e io vorrei sottolineare che quello di cui parlo
+qui è qualcosa che non è ben descritto da bit e non lo potrà mai essere.
+Chiamiamolo "Colore", perché risulta funzionare in modo simile ai livelli di
+sicurezza del mondo di Paranoia.
 
 I bit, per loro natura, non hanno Colore. Il Colore, in questo senso, non fa
 parte dell'universo. Cosa più importante, non puoi guardare direttamente i bit
@@ -135,6 +141,16 @@ Mutante Traditore Comunista.
 
 To a computer scientist, on the other hand, bits are bits are bits and it is absolutely fundamental that two identical chunks of bits cannot be distinguished.  Colour does not exist.  I've seen computer people claim (indeed, one did this to me just today in the very discussion that inspired this posting) that copyright law inescapably leads to nonsense conclusions like "If I own copyright on one thing, and copyright inherits through XOR, then I own copyright on everything because everything can be obtained from my one thing by XORing it with the right file." That sounds profound only if you're a Colour-blind computer scientist; it would be boring nonsense to a lawyer because lawyers are trained to believe in and use Colour, and it's obvious to a lawyer that the Colour doesn't magically bleed to the entire universe through the hypothetical random files that might be created some day.  You could create the file randomly, but you didn't. Maybe you could create a file identical to the complete works of Shakespeare by XORing together two files of apparently random garbage.  "Why, so can I, or so can any man;" but that doesn't mean that I am William Shakespeare.
 
+Questa idea del Colore è un problema di comunicazione fra chi di noi lavora nel
+mondo dei computer, in cui il Colore non esiste, e chi di noi lavora nel mondo
+della legge, dove il Colore esiste ed è importante. Gli avvocati porranno agli 
+informatici domande su come scoprire il Colore di certi bit (ad esempio "Come
+può l'Amico Computer evitare che i Mutanti Traditori Comunisti facciano copie
+illegali, permettendo comunque ai fedeli Troubleshooter di usare i propri
+dispositivi di copia?"), e gli informatici troveranno difficile rispondere in
+modo che che gli avvocati capiscano — perché gran parte dell'informatica sta nel
+capire che il Colore non esiste. TODO
+
 This idea of Colour is a problem for communication between those of us who work in the world of computers, where Colour does not exist, and those of us who work in the law, where Colour exists and is important.  Lawyers will ask computer scientists questions about how to determine the Colour of bits (like "How can Friend Computer prevent the Commie Mutant Traitors from making illegal copies of files, while still allowing loyal Troubleshooters to use disk-copying equipment?"), and computer scientists will find it difficult to say anything in response that the lawyers can comprehend - because a big part of computer science is about understanding that Colour does not exist.  Someone who cares a lot about what Colour the bits are, and spends a lot of resources on trying to answer that question, is a dangerous idiot if not a Commie Mutant Traitor.  In intellectual property law the Colour of bits exists and is of absolutely paramount importance.  A computer scientist who won't tell what Colour the bits are is being deliberately unhelpful, and a computer scientist who denies the very existence of Colour (as any conscientious computer scientist must eventually do) is a dangerous idiot and/or a Commie Mutant Traitor.
 
 There are several ways we could try to avoid the issue.  Computer scientists who want to try to be helpful may say, "Okay, you, the lawyer, are a dangerous idiot, but I have to work with you or be thrown in jail as a Commie Mutant Traitor as happened to Dmitry Sklyarov, so I'll try to address your concerns.  You say there is some special property of some bits and we need to know which bits have this property.  Fine.  We'll attach tags to the files to say what Colour they are." In the copyright realm, that's the "rights management information" solution.  It's what they do with DVDs (region coding), VHS tapes (Macrovision), Adobe eBooks ("you may not read this file aloud"), CDs (SCMS), and many other formats.  The trouble is, if we (as computer scientists) are intellectually honest about it, we'll have to admit that it can't really work.
@@ -158,7 +174,18 @@ in certe aree dell'informatica il Colore conta. TODO
 
 I think computer scientists could actually understand Colour a lot better than we do, because there are places in computer science where Colour does matter.  I already mentioned the idea of quoting and plagiarism - identical words are or are not okay to use without quote marks in an academic paper depending on their Colour.  Those of us with degrees are able to follow the rules for that because people who aren't get kicked out of school before finishing their degrees.  That's a general academic application of Colour.
 
+Se aveste esperienza di metrologia — non "metereologia", intendo la scienza
+delle misurazioni — TODO
+
 If you've any exposure to metrology - not "meteorology", I mean the science of measurement - you'll be familiar with the idea of tracing the pedigree of standards.  Down in the chemistry lab they have a big jar of buffer solution with a label asserting that it not only has a pH of exactly 7.00, but that its pH is "traceable" to such-and-such primary standard, through a chain that probably terminates at the National Bureau of Standards in Boulder, Colorado, USA. That's Colour.  Not only do you know the pH of the buffer solution, but you know where it came from.  Someone other than the National Bureau of Standards might be able to produce a buffer solution that is just as good and just as accurately 7.00 pH. If you have a sample of good pH 7.00 buffer solution it might be indistinguishable from the real traceable standard solution; but it wouldn't really be the traceable solution unless it had the intangible Colour to make it authentic.
+
+Parrebbe che le applicazioni del Colore all'informatica siano principalmente
+nel campo della sicurezza. Supponete che il vostro computer sia stato
+infettato da un qualche worm o virus, e che voi vogliate disinfettarlo. Cosa
+fate? Caricate il sistema operativo dal dispositivo aperto soltanto in
+scrittura che avete usato per installarlo. Certo, il vostro hard disk contiene
+già una copia del sistema operativo, ma voi non potete usare quella copia — è
+del Colore sbagliato. TODO
 
 The computer science applications of Colour seem to be mostly specific to security.  Suppose your computer is infected with a worm or virus.  You want to disinfect it.  What do you do?  You boot it up from original write-protected install media.  Sure, you have a copy of the operating system on the drive already, but you can't use that copy - it's the wrong Colour.  Then you go through a process of replacing files, maybe examining files, swapping disks around and carefully write-protecting them; throughout, you're maintaining information on the Colour of each part of the system and each disk until you've isolated the questionable files and everything else is known to be the "not infected with virus" Colour.  Note that developers of Web applications in Perl use a similar scorekeeping system to keep track of which bits are "tainted" by influence from user input.
 
@@ -174,7 +201,22 @@ di reale di cui dobbiamo essere in grado di pensare e preoccuparci.
 
 Random numbers have a Colour different from that of non-random numbers.  The question of how to determine whether numbers are random or not by looking at them is one of the recurring flame wars of sci.crypt.  You can't do it.  Here's a number:  2.  Was that a random number?  Well, maybe I got it by rolling a die (a random generator); or maybe I got it by counting my legs (probably not random).  If I give you a file of supposedly random bits, there's no way you can tell whether they are randomly generated or not.  The same file could have been generated by a quantum-mechanical random source, monkeys on typewriters, or by encrypting some well-known non-random file with some scheme that may or may not be generally known.
 
-There are statistical tests you can do; for instance, if you look at the file and discover that it contains a copy of the works of Shakespeare, then it doesn't look much like you would expect randomly generated numbers to look.  But it could still be randomly generated.  The test tells you whether the file has the statistical properties expected from randomly generated files, not whether the file really is randomly generated or not.  It's not even correct to say "the probability of this being from a random generator is very low" because that's not true - it either was or was not randomly generated, that's not open to probability.  At best you could say "If we ran a random generator to produce a file this size, the probability of it generating this file would be very low", which sounds almost the same, but is not.
+Potreste effettuare dei test statistici; ad esempio, se scopriste che nel file
+è contenuta un'intera copia delle opere di Shakespeare, allora non avrebbe
+l'aspetto che dovrebbero avere i numeri generati casualmente. Ma potrebbe
+comunque esserlo. Il test ci dice se quel file possiede le proprietà statistiche
+di un file generato casualmente, ma non garantisce che lo sia stato. Non è
+neanche corretto dire che "la probabilità che questo testo sia stato generato
+casualmente è molto bassa" perché non è vero — o lo è stato o non lo è stato,
+non è questione di probabilità. Al più potreste dire "se chiedessimo a un
+generatore casuale di produrre un file di queste dimensioni, la probabilità
+di generare questo file sarebbe molto bassa", che suona la stessa cosa, ma non
+lo è.
+
+Fate attenzione ai termini che ho usato — ho detto numeri "generati
+casualmente". I crittografi zelanti evitano di dire "numeri casuali".
+Correggeranno costantemente e fastidiosamente con "numeri generati casualmente",
+perché non sono i numeri a essere o meno casuali, ma la loro sorgente. TODO
 
 Note my terminology - I spoke of "randomly generated" numbers.  Conscientious cryptographers refuse to use the term "random numbers".  They'll persistently and annoyingly correct you to say "randomly generated numbers" instead, because it's not the numbers that are or are not random, it's the source of the numbers that is or is not random.  If you have numbers that are supposed to come from a random source and you start testing them to make sure they're really "random", and you throw out the ones that seem not to be, then you end up reducing the Shannon entropy of the source, violating the constraints of the one-time pad if that's relevant to your application, and generally harming security.  I just threw a bunch of math terms at you in that sentence and I don't plan to explain them here, but all cryptographers understand that it's not the numbers that matter when you're talking about randomness.  What matters is where the numbers came from - that is, exactly, their Colour.
 
@@ -185,6 +227,8 @@ per spiegare meglio agli avvocati perché debbano abbandonare il proprio sogno
 di pretendere l'esistenza del Colore all'interno dell'Amico Computer, in cui il
 colore non c'è e non può esistere. Magari allora smetteranno di provare a
 spararci in quanto Mutanti Traditori Comunisti.
+
+[...]
 
 ["What Colour are your bits?"]: http://ansuz.sooke.bc.ca/entry/23
 [Paranoia]: http://www.mongoosepublishing.com/rpgs/paranoia.html
