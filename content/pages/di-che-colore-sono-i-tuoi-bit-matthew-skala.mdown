@@ -4,7 +4,7 @@ _Questo post è una traduzione di ["What Colour are your bits?"][] di Matthew Sk
 
 [Paranoia][] è un classico gioco d'avventura che ha luogo in un mondo futuro
 estremamente <s>repressivo</s> Utopistico amministrato dal Computer, il quale
-è Tuo Amico. Leggendo un recente articolo di Lawmeme e la discussione a esso
+è Tuo Amico. Leggendo un recente [articolo di LawMeme][] e la discussione a esso
 collegata ho capito che i livelli di sicurezza codificati dai colori di Paranoia
 sono una buona metafora per spiegare molti dei problemi di copyright e libertà
 intellettuale, e possono aiutare a capire perché talvolta abbiamo problemi a
@@ -114,9 +114,11 @@ sia superficiale sia sul lato informatico sia su quello legale. L'idea di
 Monolith è di combinare matematicamente due file con l'operazione di or
 esclusivo. Prendete un file su cui qualcuno vanta del copyright, fondetelo con
 un file pubblico di dominio pubblico, e il risultato, spazzatura apparentemente
-priva di informazione, TODO
-
-I think Colour is what the designers of [Monolith](monolith.sourceforge.com) are trying to challenge, although I'm afraid I think their understanding of the issues is superficial on both the legal and computer-science sides.  The idea of Monolith is that it will mathematically combine two files with the exclusive-or operation.  You take a file to which someone claims copyright, mix it up with a public file, and then the result, which is mixed-up garbage supposedly containing no information, is supposedly free of copyright claims even though someone else can later undo the mixing operation and produce a copy of the copyright-encumbered file you started with.  Oh, happy day!  The lawyers will just have to all go away now, because we've demonstrated the absurdity of intellectual property!
+priva di informazione, è apparantemente non coperta da copyright sebbene
+chiunque in seguito possa disfare l'operazione e produrre una copia del file
+coperto da copyright da cui eravate partiti. Oh gioia! Gli avvocati ora ci
+dovranno lasciare stare, ora che abbiamo dimostrato l'assurdità della
+proprietà intellettuale!
 
 Il punto debole di Monolith è che sta prendendo sottogamba il Colore, provando a
 usare regole del mondo legale un istante e regole del mondo matematico l'istante
@@ -139,7 +141,22 @@ ha Colore diverso. Il Colore si conserva per i processi di crittazione e
 decrittazione, e tu stai distribuendo del materiale coperto da copyright,
 Mutante Traditore Comunista.
 
-To a computer scientist, on the other hand, bits are bits are bits and it is absolutely fundamental that two identical chunks of bits cannot be distinguished.  Colour does not exist.  I've seen computer people claim (indeed, one did this to me just today in the very discussion that inspired this posting) that copyright law inescapably leads to nonsense conclusions like "If I own copyright on one thing, and copyright inherits through XOR, then I own copyright on everything because everything can be obtained from my one thing by XORing it with the right file." That sounds profound only if you're a Colour-blind computer scientist; it would be boring nonsense to a lawyer because lawyers are trained to believe in and use Colour, and it's obvious to a lawyer that the Colour doesn't magically bleed to the entire universe through the hypothetical random files that might be created some day.  You could create the file randomly, but you didn't. Maybe you could create a file identical to the complete works of Shakespeare by XORing together two files of apparently random garbage.  "Why, so can I, or so can any man;" but that doesn't mean that I am William Shakespeare.
+Per un informatico, d'altra parte, i bit sono bit e basta, ed è fondamentale che
+due porzioni identiche di bit non possano essere distinte l'una dall'altra. Il
+Colore non esiste. Ho visto informatici sostenere (in effetti, uno lo ha fatto
+proprio oggi nella discussione che ha stimolato questo post) che la legge sul
+copyright porta sempre a conclusioni prive di senso come: "Se io possiedo il
+copyright su una cosa, e il copyright si conserva attraverso uno XOR, allora
+io possiedo il copyright su tutto perché tutto può essere ottenuto dalla mia
+cosa facendo XOR con il file opportuno". Questo suona profondo solo se siete un
+informatico Daltonico; sarebbe noioso e privo di senso per un avvocato perché
+agli avvocati è insegnato di credere e usare il Colore, ed è ovvio per un
+avvocato che il Colore non si spande magicamente all'intero universo attraverso
+file casuali ipotetici che un giorno potrebbero essere creati. _Avreste potuto
+creare quel file casualmente, ma non lo avete fatto_. Magari potreste creare un
+file identico alle opere complete di Shakespeare facendo XOR di due file
+apparentemente contenenti spazzatura casuale. "Perché, così come posso io, può
+chiunque"; ma questo non fa di me William Shakespare.
 
 Questa idea del Colore è un problema di comunicazione fra chi di noi lavora nel
 mondo dei computer, in cui il Colore non esiste, e chi di noi lavora nel mondo
@@ -149,15 +166,53 @@ può l'Amico Computer evitare che i Mutanti Traditori Comunisti facciano copie
 illegali, permettendo comunque ai fedeli Troubleshooter di usare i propri
 dispositivi di copia?"), e gli informatici troveranno difficile rispondere in
 modo che che gli avvocati capiscano — perché gran parte dell'informatica sta nel
-capire che il Colore non esiste. TODO
+capire che il Colore non esiste. Chi si preoccupa molto del Colore dei bit, e
+spende risorse provando a rispondere a questa domanda, è un pericoloso idiota
+se non un Mutante Traditore Comunista. Nella proprietà intellettuale il Colore
+dei bit esiste ed è di importanza capitale. Un informatico che non dica di che
+Colore sono i bit sta facendo ostruzionismo, e un informatico che nega
+l'esistenza stessa del Colore (come ogni informatico zelante dovrebbe prima o
+poi fare) è un pericoloso idiota e/o un Mutante Traditore Comunista.
 
-This idea of Colour is a problem for communication between those of us who work in the world of computers, where Colour does not exist, and those of us who work in the law, where Colour exists and is important.  Lawyers will ask computer scientists questions about how to determine the Colour of bits (like "How can Friend Computer prevent the Commie Mutant Traitors from making illegal copies of files, while still allowing loyal Troubleshooters to use disk-copying equipment?"), and computer scientists will find it difficult to say anything in response that the lawyers can comprehend - because a big part of computer science is about understanding that Colour does not exist.  Someone who cares a lot about what Colour the bits are, and spends a lot of resources on trying to answer that question, is a dangerous idiot if not a Commie Mutant Traitor.  In intellectual property law the Colour of bits exists and is of absolutely paramount importance.  A computer scientist who won't tell what Colour the bits are is being deliberately unhelpful, and a computer scientist who denies the very existence of Colour (as any conscientious computer scientist must eventually do) is a dangerous idiot and/or a Commie Mutant Traitor.
+Ci sono svariate tattiche che potremmo provare per evitare il problema. Gli
+informatici che vogliano provare ad essere d'aiuto potrebbero dire: "Ok, tu,
+l'avvocato, sei un pericoloso idiota, ma io devo lavorare con te oppure essere
+buttato in prigione in quanto Mutante Traditore Comunista come è successo a
+Dmitry Sklyarov, quindi proverò a risolvere il tuo problema. Tu dici che esiste
+una qualche proprietà speciale di alcuni bit e che abbiamo bisogno di sapere
+quali bit abbiano questa proprietà. Bene. Aggiungeremo un po' di tag a quei
+file per dire di che Colore sono". Nel mondo del copyright questa è la soluzione
+dei "DRM". È quello che fanno con i DVD (ristretti per regione), cassette VHS
+(Macrovision), Adobe eBooks ("non puoi leggere questo file ad alta voce"), CD
+(SCMS) e molti altri formati. Il problema è che se noi (come informatici)
+fossimo intellettualmente onesti in proposito, dovremmo ammettere che non può
+davvero funzionare.
 
-There are several ways we could try to avoid the issue.  Computer scientists who want to try to be helpful may say, "Okay, you, the lawyer, are a dangerous idiot, but I have to work with you or be thrown in jail as a Commie Mutant Traitor as happened to Dmitry Sklyarov, so I'll try to address your concerns.  You say there is some special property of some bits and we need to know which bits have this property.  Fine.  We'll attach tags to the files to say what Colour they are." In the copyright realm, that's the "rights management information" solution.  It's what they do with DVDs (region coding), VHS tapes (Macrovision), Adobe eBooks ("you may not read this file aloud"), CDs (SCMS), and many other formats.  The trouble is, if we (as computer scientists) are intellectually honest about it, we'll have to admit that it can't really work.
+I tag sono soltanto più bit. Puoi scrivere un tag che dice "questo è un tag
+Arancione", ma sarebbe fatto di bit e quindi non potrebbe davvero avere un
+Colore perché il Colore non esiste. Sarebbe soltanto un tag privo di Colore
+che dice "questo è un tag Arancione". Sarebbe oggetto di tutte le conseguenze
+del fatto che il Colore non esista — come il fatto che il tag possa essere
+tolto più in là. Gli informatici lo sanno; dobbiamo esserlo, perché sapere
+che il Colore non esiste è quello che ci rende informatici in primo luogo.
 
-The tags are just more bits.  You can write a tag that says "this is an Orange tag", but it will be made out of bits and so it can't really have a Colour because Colour does not exist.  It will just be a Colour-less tag saying "this is an Orange tag".  It will be subject to all the consequences of the fact that Colour does not exist - such as the fact that the tag could be stripped out somewhere down the line.  The computer scientists are aware of that; we have to be, because knowing about the non-existence of Colour is what makes us computer scientists in the first place.
-
-What we are doing with rights management information is simulating Colour in a computer-sciencey way.  But lawyers will seize on the possibility of doing this kind of simulation and say, "See!  You admit it!  You can recognize the Colour of bits after all!" and then conclude from there that all the other rules they want to make (such as "Red Troubleshooters may not walk down Orange hallways") are meaningful in the computer science realm.  They'll say "You can recognize the Colour of bits after all!" rather than "Colour exists after all!" because the idea of Colour not existing in the first place is not within their imagination.  The "fact" that Colour is something real is so fundamental to law that it can't be challenged.  Of course Colour exists.  We lawyers think about Colour so much that we think we can see it.  Why can't you?  Maybe there is something wrong with your eyes.  As computer scientists, we need to make clear that Colour simulated by Colour-less tags saying "this is an Orange tag" and such, is still only a simulation.  The properties that Colour is supposed to have do not automatically come with the tags, because those properties are Colour, the tags are bits, and bits do not have Colour.  Even bits that talk about Colour do not have Colour themselves.  There is no such thing as Colour.
+Quello che facciamo con i DRM è simulare il Colore in modo informatichese. Ma
+gli avvocati sfruttano la possibilità di fare questo tipo di simulazione e
+dicono: "Visto! Lo ammettete! Potete riconoscere il Colore dei bit, dopotutto!"
+e poi ne ricavano tutte le altre regole che vogliono imporre (come "I
+Troubleshooter di livello Rosso non possono camminare in corridoi Arancione")
+abbiano senso nel mondo dell'informatica. Diranno "Puoi riconoscere il colore
+dei bit, dopotutto!" invece di "Il colore esiste, dopotutto!" perché l'idea
+che il colore non esista non sfiora neanche la loro immaginazione. Il "fatto"
+che il Colore sia qualcosa di reale è così fondamentale per la legge che non
+può essere messo in discussione. Ovviamente il Colore esiste. Noi avvocati
+pensiamo al Colore così spesso che pensiamo di poterlo vedere. Come mai non
+puoi? Magari i tuoi occhi hanno qualcosa che non va. Come informatici, dobbiamo
+mettere in chiaro che il Colore simulato da tag privi di Colore che dicano
+"questo è un tag Arancione" e simili, è comunque soltanto una simulazione. Le
+proprietà che il colore dovrebbe avere non derivano dai tag, perché queste
+proprietà sono Colore, i tag sono bit, e i bit non hanno Colore. Anche i bit
+che parlano di Colore non hanno Colore. Il Colore non esiste.
 
 Another thing computer scientists will try to do is to treat Colour as a function (in the strict mathematical sense of "function") of the bits - maybe an uncomputable function (in the strict mathematical sense of "uncomputable"), maybe intractable, but a function nevertheless.  We either do that because we mistakenly believe that Colour really is a function, or because we're a little more sophisticated, we know that it's not a function, but we think that we can fake it closely enough with a function to get the lawyers off our backs.  Either way, the idea is that we should be able to look at bits and somehow determine, from the bits themselves, what Colour they ought to be.
 
@@ -170,9 +225,12 @@ Other important questions which you may or may not be able to answer by examinin
 Child pornography is an interesting case because I find myself, and I think many people in the computing community will find themselves, on the opposite side of the Colourful/Colour-blind gap from where I would normally be.  In copyright I spend a lot of time explaining why Colour doesn't exist and it doesn't matter where the bits came from.  But when it comes to child pornography, I think maybe Colour should make a difference - if we're going to ban it at all, it should matter where it came from.  Whether any children were actually involved, who did or didn't give consent, in short:  what Colour the bits are.  The other side takes the opposite tack:  child pornography is dangerous by its very existence, and it doesn't matter where it came from.  They're claiming that whether some bits are child pornography or not, and if so, whether they're illegal or not, should be entirely determined by (strictly a function of) the bits themselves.  Legality, at least under the obscenity law, should not involve Colour distinctions.
 
 Penso che gli informatici possano capire molto meglio il Colore di noi perché
-in certe aree dell'informatica il Colore conta. TODO
-
-I think computer scientists could actually understand Colour a lot better than we do, because there are places in computer science where Colour does matter.  I already mentioned the idea of quoting and plagiarism - identical words are or are not okay to use without quote marks in an academic paper depending on their Colour.  Those of us with degrees are able to follow the rules for that because people who aren't get kicked out of school before finishing their degrees.  That's a general academic application of Colour.
+in certe aree dell'informatica il Colore conta. Ho già parlato il problema
+delle citazioni e del plagio — parole identiche possono o non possono essere 
+lecite senza le virgolette in un articolo a seconda del loro Colore. Chi di noi
+possiede una laurea è in grado di seguire queste regole perché le persone che
+non lo fanno vengono espulse prima di conseguire il titolo. Ecco qua 
+un'applicazione del Colore al mondo accademico.
 
 Se aveste esperienza di metrologia — non "metereologia", intendo la scienza
 delle misurazioni — TODO
@@ -185,9 +243,13 @@ infettato da un qualche worm o virus, e che voi vogliate disinfettarlo. Cosa
 fate? Caricate il sistema operativo dal dispositivo aperto soltanto in
 scrittura che avete usato per installarlo. Certo, il vostro hard disk contiene
 già una copia del sistema operativo, ma voi non potete usare quella copia — è
-del Colore sbagliato. TODO
-
-The computer science applications of Colour seem to be mostly specific to security.  Suppose your computer is infected with a worm or virus.  You want to disinfect it.  What do you do?  You boot it up from original write-protected install media.  Sure, you have a copy of the operating system on the drive already, but you can't use that copy - it's the wrong Colour.  Then you go through a process of replacing files, maybe examining files, swapping disks around and carefully write-protecting them; throughout, you're maintaining information on the Colour of each part of the system and each disk until you've isolated the questionable files and everything else is known to be the "not infected with virus" Colour.  Note that developers of Web applications in Perl use a similar scorekeeping system to keep track of which bits are "tainted" by influence from user input.
+del Colore sbagliato. A questo punto cominciate a rimpiazzare file, magari
+esaminandoli, cambiate dischi e li proteggete in scrittura; nel frattempo
+state tenendo traccia del Colore di ogni parte del sistema e di ogni disco
+finché non avete isolato i file sospetti e tutto il resto possiede il Colore
+"non infetto da virus". È interessante osservare che gli sviluppari di
+applicazioni web in Perl usano un sistema simile per tenere traccia di quali
+bit sono "contaminati" dall'input degli utenti.
 
 When we use Colour like that to protect ourselves against viruses or malicious input, we're using the Colour to conservatively approximate a difficult or impossible to compute function of the bits.  Either our operating system is infected, or it is not.  A given sequence of bits either is an infected file or isn't, and the same sequence of bits will always be either infected or not.  Disinfecting a file changes the bits.  Infected or not is a function, not a Colour.  The trouble is that because any of our files might be infected including the tools we would use to test for infection, we can't reliably compute the "is infected" function, so we use Colour to approximate "is infected" with something that we can compute and manage - namely "might be infected".  Note that "might be infected" is not a function; the same file can be "might be infected" or "not (might be infected)" depending on where it came from.  That is a Colour.
 
@@ -215,10 +277,17 @@ lo è.
 
 Fate attenzione ai termini che ho usato — ho detto numeri "generati
 casualmente". I crittografi zelanti evitano di dire "numeri casuali".
-Correggeranno costantemente e fastidiosamente con "numeri generati casualmente",
-perché non sono i numeri a essere o meno casuali, ma la loro sorgente. TODO
-
-Note my terminology - I spoke of "randomly generated" numbers.  Conscientious cryptographers refuse to use the term "random numbers".  They'll persistently and annoyingly correct you to say "randomly generated numbers" instead, because it's not the numbers that are or are not random, it's the source of the numbers that is or is not random.  If you have numbers that are supposed to come from a random source and you start testing them to make sure they're really "random", and you throw out the ones that seem not to be, then you end up reducing the Shannon entropy of the source, violating the constraints of the one-time pad if that's relevant to your application, and generally harming security.  I just threw a bunch of math terms at you in that sentence and I don't plan to explain them here, but all cryptographers understand that it's not the numbers that matter when you're talking about randomness.  What matters is where the numbers came from - that is, exactly, their Colour.
+Correggono costantemente e fastidiosamente con "numeri generati casualmente",
+perché non sono i numeri a essere o meno casuali, ma la loro sorgente. Se vi
+stessero dando numeri da una sorgente casuale e voi li metteste alla prova per
+vedere se sono davvero "casuali", buttando via quelli che non sembrano esserlo,
+allora finireste per diminuire l'entropia di Shannon della sorgente, violando
+i vincoli del cifrario di Vernam se la vostra applicazione si basa su di esso,
+e in generale diminuendo la sicurezza. Nella precedente frase vi ho tirato
+addosso un po' di termini matematici e non ho in mente di spiegarli qui, ma i
+crittografi capiscono che non sono i numeri a contare quando parliamo di
+casualità. Quel che conta è da dove vengano questi numeri — cioè, esattamente,
+il loro Colore.
 
 Perciò se pensiamo di capire la crittografia, dovremmo essere in grado di
 capire che il Colore è qualcosa di reale sebbene i bit non posseggano Colore.
@@ -232,3 +301,4 @@ spararci in quanto Mutanti Traditori Comunisti.
 
 ["What Colour are your bits?"]: http://ansuz.sooke.bc.ca/entry/23
 [Paranoia]: http://www.mongoosepublishing.com/rpgs/paranoia.html
+[Articolo di LawMeme]: http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=1487
