@@ -1,15 +1,15 @@
 # Di che colore sono i tuoi bit? #
 
-_Questo post è una traduzione di ["What Colour are your bits?"][] di Matthew 
-Skala._
+_Questo post è una traduzione di ["What Colour are your bits?"](http://ansuz.sooke.bc.ca/entry/23) di Matthew Skala._
 
-[Paranoia][] è un classico gioco d'avventura che ha luogo in un mondo futuro
-estremamente <s>repressivo</s> Utopistico amministrato dal Computer, il quale
-è Tuo Amico. Leggendo un recente [articolo di LawMeme][] e la discussione a esso
-collegata ho capito che i livelli di sicurezza codificati dai colori di Paranoia
-sono una buona metafora per spiegare molti dei problemi di copyright e libertà
-intellettuale, e possono aiutare a capire perché talvolta abbiamo problemi a
-capire e far capire le correnti di pensiero in questi campi.
+[Paranoia](http://www.mongoosepublishing.com/rpgs/paranoia.html) è un classico
+gioco d'avventura che ha luogo in un mondo futuro estremamente <s>repressivo</s>
+Utopistico amministrato dal Computer, il quale è Tuo Amico. Leggendo un recente
+[articolo di LawMeme](http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=1487) e la discussione a esso collegata ho capito che i livelli di
+sicurezza codificati dai colori di Paranoia sono una buona metafora per spiegare
+molti dei problemi di copyright e libertà intellettuale, e possono aiutare a
+capire perché talvolta abbiamo problemi a capire e far capire le correnti di
+pensiero in questi campi.
 
 [...]
 
@@ -232,7 +232,7 @@ funzione dei bit, non possiamo avere più di un Colore per una data sequenza di
 bit. Monolith si basa sullo sfruttare questo problema: suppone che ogni file
 possa avere solo un Colore, afferma che il colore del file in uscita sia il
 Colore "puoi copiare questo file" per via dell'osservazione (corretta) secondo
-cui TODO
+cui assegnare qualunque altro Colore immutabile creerebbe problemi legali, TODO
 
 Treating Colour as a function is almost the same as attaching tags to the bits - the difference is that when the Colour is a function of the bits, we don't have to worry about the tags being detached; on the other hand, when the Colour is a function of the bits, we can never have more than one possible Colour for a given sequence of bits.  Monolith depends on exploiting this problem:  it assumes that one file can only ever have one Colour, asserts that the Colour of its output file is the "you may copy this" Colour because of the (correct) claim that fixing any other single unchangeable Colour would raise legal problems, and then follows the logic to a claim that it can produce what would otherwise be an illegal copy of the copyrighted input, without breaking copyright law.  One Colour per file was never one of the lawyers' rules of Colour; it's merely a consequence of "Colour is a function", and Colour being a function is just something we computer people decided to believe because functions make sense to our training and Colour doesn't.  Colour is not actually a function at all.
 
@@ -241,9 +241,11 @@ da fare finché i bit sono legati ad oggetti fisici. Potete esaminare un
 documento di carta per scoprire se è l'originale oppure una copia. Potete
 probabilmente esaminare qualcosa che sembri una fotografia e determinare se
 si tratti di una fotografia reale o qualcosa di più complicato. Ma anche nel
-mondo analogico, determinare il Colore TODO
-
-Trying to infer the Colour from the bits may seem like an okay thing to do as long as bits are tied to physical objects.  You can examine a paper document and determine whether it is an original or a photocopy.  You can probably examine something purporting to be a photograph and determine whether it is a photograph of a real scene, or something more complicated.  But even in the analog realm, determining Colour by examination is not always possible.  You can't determine by looking at a photograph of two people having sex whether they consented to the sex or not, let alone whether they consented to the making of the photograph.  That's a Colour distinction that is not a function of the bits that make up the photograph - and it's true even of analog photographs.
+mondo analogico, determinare il Colore con qualche analisi non è sempre
+possibile. Guardando una foto di due persone che fanno sesso non si può capire
+se fossero consezienti o meno, o addirittura se fossero d'accordo a essere
+fotografati. Questa è una differenza di Colore, non una funzione dei bit che
+compongono la foto — ed è vero anche delle foto analogiche.
 
 Altre domande importanti a cui potreste o non potreste essere in grado di
 rispondere esaminando una fotografia sono "Quelle cose sono davvero esseri
@@ -354,7 +356,3 @@ colore non c'è e non può esistere. Magari allora smetteranno di provare a
 spararci in quanto Mutanti Traditori Comunisti.
 
 [...]
-
-["What Colour are your bits?"]: http://ansuz.sooke.bc.ca/entry/23
-[Paranoia]: http://www.mongoosepublishing.com/rpgs/paranoia.html
-[articolo di LawMeme]: http://research.yale.edu/lawmeme/modules.php?name=News&file=article&sid=1487
