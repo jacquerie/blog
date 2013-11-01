@@ -258,10 +258,16 @@ seconda della vostra opinione, potrebbe contare la provenienza dei bit nel
 determinare se sono Rosa (illegali) o Verdi (legali). Gli stessi bit potrebbero
 avere Colori diversi.
 
+La pedopornografia è un caso interessante perché mi trovo, e penso molti
+informatici si trovino, sul lato opposto del divario fra Colore e Daltonismo da
+quello su cui normalmente sto. Parlando di copyright passo un sacco di tempo a
+spiegare che il Colore non esiste e che non importa da dove provengano i bit.
+Ma, quando si parla di pedopornografia, TODO
+
 Child pornography is an interesting case because I find myself, and I think many people in the computing community will find themselves, on the opposite side of the Colourful/Colour-blind gap from where I would normally be.  In copyright I spend a lot of time explaining why Colour doesn't exist and it doesn't matter where the bits came from.  But when it comes to child pornography, I think maybe Colour should make a difference - if we're going to ban it at all, it should matter where it came from.  Whether any children were actually involved, who did or didn't give consent, in short:  what Colour the bits are.  The other side takes the opposite tack:  child pornography is dangerous by its very existence, and it doesn't matter where it came from.  They're claiming that whether some bits are child pornography or not, and if so, whether they're illegal or not, should be entirely determined by (strictly a function of) the bits themselves.  Legality, at least under the obscenity law, should not involve Colour distinctions.
 
 Penso che gli informatici possano capire molto meglio il Colore di noi perché
-in certe aree dell'informatica il Colore conta. Ho già parlato il problema
+in certe aree dell'informatica il Colore conta. Ho già parlato dei problemi
 delle citazioni e del plagio — parole identiche possono o non possono essere 
 lecite senza le virgolette in un articolo a seconda del loro Colore. Chi di noi
 possiede una laurea è in grado di seguire queste regole perché le persone che
@@ -269,9 +275,19 @@ non lo fanno vengono espulse prima di conseguire il titolo. Ecco qua
 un'applicazione del Colore al mondo accademico.
 
 Se aveste esperienza di metrologia — non "metereologia", intendo la scienza
-delle misurazioni — TODO
-
-If you've any exposure to metrology - not "meteorology", I mean the science of measurement - you'll be familiar with the idea of tracing the pedigree of standards.  Down in the chemistry lab they have a big jar of buffer solution with a label asserting that it not only has a pH of exactly 7.00, but that its pH is "traceable" to such-and-such primary standard, through a chain that probably terminates at the National Bureau of Standards in Boulder, Colorado, USA. That's Colour.  Not only do you know the pH of the buffer solution, but you know where it came from.  Someone other than the National Bureau of Standards might be able to produce a buffer solution that is just as good and just as accurately 7.00 pH. If you have a sample of good pH 7.00 buffer solution it might be indistinguishable from the real traceable standard solution; but it wouldn't really be the traceable solution unless it had the intangible Colour to make it authentic.
+che studia le misurazioni — avreste già incontrato l'idea di tenere traccia
+del pedigree degli standard. Il laboratorio di chimica qui sotto ha un grosso
+barattolo di soluzione tampone la cui etichetta afferma che non solo possiede
+un pH di esattemente 7.00, ma che il suo pH si può far risalire al tale
+standard primario tramite una catena che probabilmente termina al National
+Bureau of Standards sito in Boulder, stato del Colorado degli Stati Uniti
+d'America. Questo è Colore. Non solo conosci il pH della soluzione tampone, ma
+sai anche da dove proviene. Qualcun altro che non sia il National Bureau of
+Standards potrebbe essere in grado di produrre una soluzione tampone che sia
+altrettanto buona e di pH 7.00 con la stessa precisione. Se possedeste un
+campione di soluzione tampone di pH 7.00 sarebbe indistinguibile dalla vera
+soluzione con pedigree; ma non sarebbe la stessa cosa per via del Colore
+intangibile che la rende autentica.
 
 Parrebbe che le applicazioni del Colore all'informatica siano principalmente
 nel campo della sicurezza. Supponete che il vostro computer sia stato
