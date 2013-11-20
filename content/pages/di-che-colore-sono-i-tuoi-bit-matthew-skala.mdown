@@ -232,9 +232,13 @@ funzione dei bit, non possiamo avere più di un Colore per una data sequenza di
 bit. Monolith si basa sullo sfruttare questo problema: suppone che ogni file
 possa avere solo un Colore, afferma che il colore del file in uscita sia il
 Colore "puoi copiare questo file" per via dell'osservazione (corretta) secondo
-cui assegnare qualunque altro Colore immutabile creerebbe problemi legali, TODO
-
-Treating Colour as a function is almost the same as attaching tags to the bits - the difference is that when the Colour is a function of the bits, we don't have to worry about the tags being detached; on the other hand, when the Colour is a function of the bits, we can never have more than one possible Colour for a given sequence of bits.  Monolith depends on exploiting this problem:  it assumes that one file can only ever have one Colour, asserts that the Colour of its output file is the "you may copy this" Colour because of the (correct) claim that fixing any other single unchangeable Colour would raise legal problems, and then follows the logic to a claim that it can produce what would otherwise be an illegal copy of the copyrighted input, without breaking copyright law.  One Colour per file was never one of the lawyers' rules of Colour; it's merely a consequence of "Colour is a function", and Colour being a function is just something we computer people decided to believe because functions make sense to our training and Colour doesn't.  Colour is not actually a function at all.
+cui assegnare qualunque altro Colore immutabile creerebbe problemi legali, e
+quindi seguono questo ragionamento fino a sostenere che si possa creare un file
+altrimenti coperto da copyright senza infrangerlo. Un solo Colore per file non
+è mai stata una delle regole; è solo una conseguenza di "il Colore è una
+funzione", e che il Colore lo sia è una cosa che noi informatici abbiamo deciso
+di credere perché, per quello che ci è stato insegnato, le funzioni hanno senso
+ma il Colore no. Il Colore non è assolutamente una funzione.
 
 Provare a scoprire il Colore dai bit potrebbe sembrare una cosa accettabile
 da fare finché i bit sono legati ad oggetti fisici. Potete esaminare un
@@ -253,7 +257,7 @@ umani, o una qualche simulazione?" e "Quanti anni hanno?". Queste domande
 erano già difficili nel mondo analogico; sono diventate ancora più difficili
 in quello digitale. È facile immaginare che qualcuno possa creare con mezzi
 innocenti (disegnando, simulando o che so io) un'immagine identica bit a bit
-a una del Colore (probabilmente Rosa) di pedopornografia. In quel caso, a
+a una del Colore (probabilmente Rosa) della pedopornografia. In quel caso, a
 seconda della vostra opinione, potrebbe contare la provenienza dei bit nel
 determinare se sono Rosa (illegali) o Verdi (legali). Gli stessi bit potrebbero
 avere Colori diversi.
@@ -262,9 +266,16 @@ La pedopornografia è un caso interessante perché mi trovo, e penso molti
 informatici si trovino, sul lato opposto del divario fra Colore e Daltonismo da
 quello su cui normalmente sto. Parlando di copyright passo un sacco di tempo a
 spiegare che il Colore non esiste e che non importa da dove provengano i bit.
-Ma, quando si parla di pedopornografia, TODO
-
-Child pornography is an interesting case because I find myself, and I think many people in the computing community will find themselves, on the opposite side of the Colourful/Colour-blind gap from where I would normally be.  In copyright I spend a lot of time explaining why Colour doesn't exist and it doesn't matter where the bits came from.  But when it comes to child pornography, I think maybe Colour should make a difference - if we're going to ban it at all, it should matter where it came from.  Whether any children were actually involved, who did or didn't give consent, in short:  what Colour the bits are.  The other side takes the opposite tack:  child pornography is dangerous by its very existence, and it doesn't matter where it came from.  They're claiming that whether some bits are child pornography or not, and if so, whether they're illegal or not, should be entirely determined by (strictly a function of) the bits themselves.  Legality, at least under the obscenity law, should not involve Colour distinctions.
+Ma, quando si parla di pedopornografia, penso che il Colore faccia la
+differenza — se abbiamo davvero intenzione di proibirla, dovrebbe fare
+differenza da dove provenga. Se dei bambini vi abbiano davvero preso parte, chi
+ha dato il consenso e chi no, in breve: di che Colore siano i bit. L'altra
+fazione si schiera sul versante opposto: la pedopornografia è pericolosa di
+per sè, e non importa da dove provenga. Sostengono che il fatto che si tratti o
+meno di pedopornografia, e, in caso affermativo, se sia illegale o meno, sia
+interamente determinato da (una funzione dei) bit stessi. La legalità, almeno
+secondo le leggi sul buon costume, non dovrebbe comportare distinzioni di
+Colore.
 
 Penso che gli informatici possano capire molto meglio il Colore di noi perché
 in certe aree dell'informatica il Colore conta. Ho già parlato dei problemi
