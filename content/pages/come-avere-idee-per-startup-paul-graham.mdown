@@ -2,60 +2,59 @@
 
 _Questo post è una traduzione di ["How to Get Startup Ideas"][] di Paul Graham._
 
-Il modo per avere idee per startup è non provare a pensare a idee per 
-startup. È cercare problemi, preferibilmente problemi che avete
-voi stessi.
+Il modo per avere idee per startup è non provare a pensare a idee per startup.
+È cercare problemi, preferibilmente problemi che avete voi stessi.
 
-Le idee per startup davvero migliori tendono ad avere tre cose in comune:
-sono qualcosa di desiderato dal fondatore, lui stesso è in grado di
-realizzarle, pochi altri capiscono che valga la pena farlo.
-Microsoft, Apple, Yahoo, Google e Facebook sono tutte nate in questo modo.
+Le idee per startup davvero migliori tendono ad avere tre cose in comune: sono
+qualcosa di desiderato dal fondatore, lui stesso è in grado di realizzarle,
+pochi altri capiscono che valga la pena farlo.  Microsoft, Apple, Yahoo, Google
+e Facebook sono tutte nate in questo modo.
 
 ## I problemi ##
 
 Perché è così importante lavorare sui problemi che avete? Fra le altre cose,
 perché garantisce che il problema esista davvero. Potrà sembrare ovvio che
-dobbiate lavorare solo su problemi esistenti. Eppure il problema commesso
-più frequentemente dalle startup è lavorare su un problema che nessuno ha.
+dobbiate lavorare solo su problemi esistenti. Eppure il problema commesso più
+frequentemente dalle startup è lavorare su un problema che nessuno ha.
 
 L'ho commesso io stesso. Nel 1995 fondai un'azienda per mettere online le
 gallerie d'arte. Ma le gallerie non volevano essere online. Non è così che
-funzionano gli affari nel mondo dell'arte. Perché quindi ho speso sei mesi
-a lavorare a questa stupida idea? Perché non ho prestato attenzione agli
-utenti. Avevo inventato un modello del mondo che non corrispondeva alla
-realtà, e lavoravo a partire da quello. Non capii che il mio modello era
-sbagliato finché non ho provato a convincere gli utenti a pagare per ciò
-che avevamo fatto. Persino allora ci misi un lasso di tempo 
-imbarazzantemente lungo per capirlo. Ero affezionato alla mia visione del
-mondo, e avevo speso un sacco di tempo su quel software. Dovevano volerlo!
+funzionano gli affari nel mondo dell'arte. Perché quindi ho speso sei mesi a
+lavorare a questa stupida idea? Perché non ho prestato attenzione agli utenti.
+Avevo inventato un modello del mondo che non corrispondeva alla realtà, e
+lavoravo a partire da quello. Non capii che il mio modello era sbagliato finché
+non ho provato a convincere gli utenti a pagare per ciò che avevamo fatto.
+Persino allora ci misi un lasso di tempo imbarazzantemente lungo per capirlo.
+Ero affezionato alla mia visione del mondo, e avevo speso un sacco di tempo su
+quel software. Dovevano volerlo!
 
 Perché così tanti fondatori costruiscono cose che nessuno vuole? Perché
 cominciano a pensare a idee per startup. Questo modus operandi è doppiamente
 pericoloso: non soltanto produce poche buone idee; produce cattive idee che
 suonano abbastanza plausibili da indurvi a lavorarci.
 
-A YCombinator chiamiamo queste idee "artificiali" o "da serie TV". Pensate
-a uno dei protagonisti di una serie TV che provi a fondare una startup. Gli
+A YCombinator chiamiamo queste idee "artificiali" o "da serie TV". Pensate a
+uno dei protagonisti di una serie TV che provi a fondare una startup. Gli
 sceneggiatori dovranno pur inventare qualcosa da fargli fare. Ma avere buone
-idee per startup è difficile. Non può essere fatto a comando. Perciò (a meno
-di colossali colpi di fortuna) gli sceneggiatori produrranno un'idea che
-suoni plausibile, ma in realtà cattiva.
+idee per startup è difficile. Non può essere fatto a comando. Perciò (a meno di
+colossali colpi di fortuna) gli sceneggiatori produrranno un'idea che suona
+plausibile, ma è in realtà cattiva.
 
-Per esempio, un social network per proprietari di animali. Non suona
-ovviamente sbagliata. Milioni di persone possiedono un animale. Spesso ci
-tengono parecchio e spendono un mucchio di soldi per esso. Sicuramente ad
-alcuni di questi piacerebbe un sito in cui parlare ad altri proprietari di
-animali. Magari non tutti, ma se soltanto il 2 o 3 per cento fossero
-visitatori regolari, avreste milioni di utenti. Potreste a questo punto
-dare loro offerte mirate, o magari farli pagare per feature extra. [1]
+Per esempio, un social network per proprietari di animali. Non suona ovviamente
+sbagliata. Milioni di persone possiedono un animale. Spesso ci tengono
+parecchio e spendono un mucchio di soldi per esso. Sicuramente ad alcuni di
+questi piacerebbe un sito in cui parlare ad altri proprietari di animali.
+Magari non tutti, ma se soltanto il 2 o 3 per cento fossero visitatori
+regolari, avreste milioni di utenti. Potreste a questo punto dare loro offerte
+mirate, o magari farli pagare per feature extra. [1]
 
 Il pericolo di un'idea del genere è che, quando chiedete ai vostri amici
-proprietari di animali, non vi dicono: "Non lo userei _mai_". Vi diranno:
-"Uh, mi immagino che potrebbe tornarmi utile, talvolta". Anche quando la
-startup avrà lanciato il proprio prodotto, suonerà plausibile a un sacco di
-gente. Non vorranno usarlo a propria volta, perlomeno non ora, ma si
-immaginano che qualcuno potrebbe volerlo. Sommate questa reazione su tutta
-la popolazione, ed ecco che avrete zero utenti. [2]
+proprietari di animali, non vi dicono: "Non lo userei _mai_". Vi diranno: "Uh,
+immagino che potrebbe tornarmi utile, talvolta". Anche quando la startup avrà
+lanciato il proprio prodotto, suonerà plausibile a un sacco di gente. Non
+vorranno usarlo a propria volta, perlomeno non ora, ma si immaginano che
+qualcuno potrebbe volerlo. Sommate questa reazione su tutta la popolazione, ed
+ecco che avrete zero utenti. [2]
 
 ## Il pozzo ##
 
@@ -71,17 +70,17 @@ qualcosa che molte persone vogliono poco, oppure qualcosa che poche persone
 vogliono molto. Scegliete la seconda. Non tutte le idee di questo tipo sono
 buone, ma praticamente tutte quelle buone sono di questo tipo.
 
-Immaginate un grafico in cui l'asse delle ascisse rappresenti tutte le
-persone che potrebbero volere il vostro prodotto, e l'asse delle ordinate
-quanto esse lo vogliano. Invertendo la scala sul secondo asse, potete pensare
-alle aziende come a dei buchi. Google è un immenso cratere: centinaia di
-milioni di persone lo usano, e ne hanno molto bisogno. Una startup appena
-partita non si può aspettare di scavare così tanto. Perciò avete due scelte
-per la forma del buco da scavare: uno largo ma superficiale, oppure uno
-stretto ma profondo, come un pozzo.
+Immaginate un grafico in cui l'asse delle ascisse rappresenti tutte le persone
+che potrebbero volere il vostro prodotto, e l'asse delle ordinate quanto esse
+lo vogliano. Invertendo la scala sul secondo asse, potete pensare alle aziende
+come a dei buchi. Google è un immenso cratere: centinaia di milioni di persone
+lo usano, e ne hanno molto bisogno. Una startup appena partita non si può
+aspettare di scavare così tanto. Perciò avete due scelte per la forma del buco
+da scavare: uno largo ma superficiale, oppure uno stretto ma profondo, come un
+pozzo.
 
-Le idee artificiali sono tipicamente del primo tipo. Molte persone sono un
-poco interessate a un social network per proprietari di animali.
+Le idee artificiali sono tipicamente del primo tipo. Molte persone sono un poco
+interessate a un social network per proprietari di animali.
 
 Quasi tutte le buone idee per startup sono del secondo tipo. Microsoft era un
 pozzo quando creò il Basic per l'Altair. Esistevano poche migliaia di
@@ -91,64 +90,64 @@ loro primo sito era dedicato esclusivamente agli studenti di Harvard, i quali
 erano poche migliaia, ma lo volevano molto.
 
 Quando vi viene un'idea per una startup, chiedetevi: chi la vuole in questo
-momento? Chi lo vuole al punto da usarlo anche quando è una versione di
-merda fatta da una startup di un paio di persone che non hanno mai sentito
-prima? Se non potete rispondere a questa domanda, è probabilmente una
-cattiva idea. [3]
+momento? Chi lo vuole al punto da usarlo anche quando è una versione di merda
+fatta da una startup di un paio di persone che non hanno mai sentito prima? Se
+non potete rispondere a questa domanda, è probabilmente una cattiva idea. [3]
 
-Non avete intrinsecamente bisogno che il pozzo sia stretto. Avete bisogno
-che sia profondo; otterrete un piccolo diametro perché starete
-ottimizzandone la profondità (e la velocità con cui scavate). Ma quasi sempre
-la otterrete. In pratica il collegamento fra profondità e larghezza è così
-forte che è un buon segno sapere che un'idea attrarrà irresistibilmente
-un particolare gruppo o tipo di utenti.
+Non avete intrinsecamente bisogno che il pozzo sia stretto. Avete bisogno che
+sia profondo; otterrete un piccolo diametro perché starete ottimizzandone la
+profondità (e la velocità con cui scavate). Ma quasi sempre la otterrete. In
+pratica il collegamento fra profondità e larghezza è così forte che è un buon
+segno sapere che un'idea attrarrà irresistibilmente un particolare gruppo o
+tipo di utenti.
 
 Sebbene la richiesta a forma di pozzo sia quasi una condizione necessaria
-affinché un'idea per startup sia buona, non è sufficiente. Se Mark
-Zuckerberg avesse costruito qualcosa di utile soltanto agli studenti di
-Harvard, non sarebbe stata una buona idea per startup. Facebook era una
-buona idea perché ha cominciato con un piccolo mercato da cui si poteva
-uscire velocemente. Le università sono abbastanza simili che, se costruite
-un Facebook che funzioni ad Harvard, funzionerà in ogni altra università. E
-dunque vi diffondete rapidamente fra tutte le università. Una volta che
-avete tutti gli studenti, avrete tutti semplicemente facendoli entrare.
+affinché un'idea per startup sia buona, non è sufficiente. Se Mark Zuckerberg
+avesse costruito qualcosa di utile soltanto agli studenti di Harvard, non
+sarebbe stata una buona idea per startup. Facebook era una buona idea perché ha
+cominciato con un piccolo mercato da cui si poteva uscire velocemente. Le
+università sono abbastanza simili che, se costruite un Facebook che funzioni ad
+Harvard, funzionerà in ogni altra università. E dunque vi diffondete
+rapidamente fra tutte le università. Una volta che avete tutti gli studenti,
+avrete tutti semplicemente facendoli entrare.
 
 Funzionò allo stesso modo per Microsoft: prima Basic per l'Altair, poi Basic
-per altre macchine, successivamente altri linguaggi oltre al Basic, poi 
-arrivarono i sistemi operativi, i programmi applicativi e infine la 
-quotazione in borsa. 
+per altre macchine, successivamente altri linguaggi oltre al Basic, poi
+arrivarono i sistemi operativi, i programmi applicativi e infine la quotazione
+in borsa. 
 
 ## TODO ##
 
 Come fate a dire che si possa uscire facilmente da un'idea? Come fate a
-distinguere un prodotto di nicchia dal germe di un colosso? Spesso non
-potete. I fondatori di AirBnb all'inizio non capirono quanto grande fosse
-il mercato a cui attingevano. Inizialmente avevano un'idea molto più
-ristretta. Avevano intenzione di permettere a chiunque di accogliere
-ospiti sui propri pavimenti in occasione di convention. Non prevedevano
-l'espansione di questa idea; si fece strada con la forza gradualmente. Tutto
-quello che sapevano è che fossero sulla buona strada. Questo è tutto quello
-che probabilmente sapevano Bill Gates o Mark Zuckerberg all'inizio.
+distinguere un prodotto di nicchia dal germe di un colosso? Spesso non potete.
+I fondatori di AirBnb all'inizio non capirono quanto grande fosse il mercato a
+cui attingevano. Inizialmente avevano un'idea molto più ristretta. Avevano
+intenzione di permettere a chiunque di accogliere ospiti sui propri pavimenti
+in occasione di convention. Non prevedevano l'espansione di questa idea; si
+fece strada con la forza gradualmente. Tutto quello che sapevano è che fossero
+sulla buona strada. Questo è tutto quello che probabilmente sapevano Bill Gates
+o Mark Zuckerberg all'inizio.
 
 In certi casi è ovvio sin dall'inizio che esista un cammino che porti fuori
 dalla nicchia. E talvolta vedo un cammino che non è immediatamente ovvio;
-questa è una delle specialità di YCombinator. Ma ci sono limiti a quanto 
-questo possa essere fatto bene, non importa quanta esperienza abbiate. La
-cosa più importante da capire a proposito di questi cammini è il fatto che
-siano difficili da vedere.
+questa è una delle specialità di YCombinator. Ma ci sono limiti a quanto questo
+possa essere fatto bene, non importa quanta esperienza abbiate. La cosa più
+importante da capire a proposito di questi cammini è il fatto che siano
+difficili da vedere.
 
-TODO
+Se dunque non c'è modo di vedere in anticipo questi cammini, come si fa a
+scegliere un'idea? La verità è deludente ma interessante: se siete il tipo di
+persona giusto avrete il tipo di idee giusto.
 
-Nello _Zen e l'arte della manutenzione della motocicletta_, Robert Pirsig
-dice:
+Nello _Zen e l'arte della manutenzione della motocicletta_, Robert Pirsig dice:
 
     _Volete dipingere il quadro perfetto? È facile. Diventate perfetti e poi
     dipingete naturalmente._
 
-Mi sono interrogato su questo passaggio da quando lo lessi alle superiori.
-Non so quanto utile sia questo consiglio per la pittura in particolare, ma
-si adatta bene alla situazione. Esperienza insegna che il modo per avere
-buone idee per startup sia diventare il tipo di persona che le ha.
+Mi sono interrogato su questo passaggio da quando lo lessi alle superiori.  Non
+so quanto utile sia questo consiglio per la pittura in particolare, ma si
+adatta bene alla situazione. Esperienza insegna che il modo per avere buone
+idee per startup sia diventare il tipo di persona che le ha.
 
 Essere ai confini estremi di un campo non significa che dobbiate essere fra
 quelli che lo sorpasseranno. Potreste essere ai confini come utenti. TODO
@@ -194,7 +193,7 @@ startup, fareste meglio a trovare un lavoro in un campo totalmente diverso.
 [8]
 
 Oppure non fate altri corsi, e semplicemente costruite cose. Non è un caso
-che sia Microsoft sia Facebook sono iniziate in gennaio. Ad Harward quello è
+che sia Microsoft sia Facebook sono iniziate in gennaio. Ad Harvard quello è
 (o era) il Tempo dello Studio, in cui gli studenti non dovevano seguire corsi
 perché ci si aspettava studiassero per gli esami. [9]
 
