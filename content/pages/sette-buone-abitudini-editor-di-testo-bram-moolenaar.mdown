@@ -1,5 +1,111 @@
-# Sette buone abitudini nell'uso di un editor di testo #
+# Sette buone abitudini per usare efficacemente un editor di testo #
 
-_Questo post è una traduzione di "Seven habits of effective text editing" di Bram Moolenaar._
+_Questo post è una traduzione di ["Seven habits of effective text editing"][] di Bram Moolenaar._
+
+Se passate molto tempo a scrivere testo, programmi o HTML potete risparmiarne
+parecchio usando un buon editor di testo e usandolo efficacemente. Questo post
+presenta linee guida e suggerimenti per fare il vostro lavoro più velocemente e
+con meno errori.
+
+L'editor di testo Vim (Vi IMproved) verrà usato per presentare le idee sull'uso
+efficace di un editor di testo, ma queste si applicano altrettanto bene ad
+altri editor. Scegliere l'editor giusto è in realtà il primo passo verso l'uso
+efficace. La discussione su quale editor di testo sia meglio per voi
+prenderebbe troppo spazio ed è quindi evitata. Se non sapete quale editor usare
+o non siete soddisfatti del vostro attuale, provate a usare Vim; non ne
+rimarrete delusi.
+
+I comandi di Vim verranno scritti con `questo font`.
+
+## Parte 1: modificare un file ##
+
+### 1. Muoversi velocemente ###
+
+Passiamo la maggior parte del tempo leggendo, cercando errori o il posto giusto
+in cui lavorare, piuttosto che inserendo nuovo testo o modificandolo. Ci
+muoviamo spesso nel testo, quindi dobbiamo imparare a farlo velocemente.
+
+Spesso volete cercare del testo che sapete essere contenuto nel file, o
+analizzare tutte le linee in cui una certa parola o frase è stata usata.
+Potreste semplicemente usare il comando di ricerca `/pattern` per farlo, ma ci
+sono modi più furbi:
+
+* Se vedete una specifica parola e volete cercare tutte le occorrenze, usate il
+comando `*`: prende la parola sotto il cursore e ne cerca il successivo uso.
+* Usando l'opzione `incsearch`, Vim vi mostrerà la prima occorrenza del pattern
+mentre lo state scrivendo. Questo vi permetterà di accorgervi velocemente di un
+errore di battitura.
+* Usando l'opzione `hlsearch`, Vim evidenzierà tutte le altre occorrenze con
+uno sfondo giallo. Questo permette di avere una visione d'insieme di dove porta
+il comando di ricerca, e nel codice sorgente mostra dove viene usata una certa
+variabile, senza dover muovere il cursore.
+
+Nel testo strutturato ci sono ancora più possibilità per muoversi velocemente.
+Vim ha comandi specifici per programmi in C (e linguaggi simili come C++ e
+Java):
+
+* Usare `%` per saltare da una parentesi aperta alla corrispondente parentesi
+chiusa, oda un "#if" al corrispondente "#endif". In effetti, `%` può saltare a
+svariati oggetti corrispondenti. Torna molto utile per verificare che le
+parentesi tonde e graffe siano correttamente bilanciate.
+* Usare `[{` per saltare indietro all'inizio del blocco corrente.
+* Usare `gd` per saltare dall'uso di una variabile alla sua dichiarazione locale.
+
+Ci sono **tre passi base**:
+
+1. Quando scrivete, tenete d'occhio le azioni che ripetete e/o su cui passate
+un po' di tempo.
+2. Cercate se esiste un comando del vostro editor che fa questa azione più
+velocemente. Leggete la documentazione, chiedete a un amico, osservate come la
+fanno gli altri.
+3. Allenatevi a usare il comando. Fatelo finché le vostre dita non lo scrivono
+senza pensarci.
+
+Mostriamo come funziona con un esempio:
+
+1. Osservate che, scrivendo programmi C, passate spesso tempo a cercare dove
+sia definita una funzione. Attualmente usate il comando `*` per cercare dove
+appare il nome della funzione, ma finite per trovare più spesso dove la
+funzione è usata invece di dove è definita. Vi viene l'idea che ci debba essere
+un modo per farlo più velocemente.
+2. Guardando la documentazione rapida trovate un'osservazione sul saltare a una
+tag. La documentazione mostra che questo può essere usato per saltare alla
+definizione di una funzione, proprio quello che vi serve!
+3. Fate qualche esperimento per generare un file delle tag usando il programma
+ctags incluso in Vim. Imparate a usare il comando `CTRL-J`, osservate che
+risparmiate un sacco di tempo. Per renderlo ancora più facile, aggiungete
+qualche riga al Makefile per generare automaticamente il file delle tag.
+
+Un paio di cose da tenere presente quando usate questi tre passi:
+
+* TODO
+* TODO
+
+TODO
+
+### 2. Non scriverlo due volte ###
+
+### 3. Correggilo quando è sbagliato ###
+
+È normale commettere errori quando si scrive. Nessuno è in grado di evitarli. Il trucco
+è accorgersene in fretta e correggerli. L'editor dovrebbe essere in grado di aiutarvi a
+farlo, ma dovrete dirgli cosa è giusto e cosa è sbagliato.
+
+## Parte 2: modificare più file ##
+
+### 4. Un file raramente va da solo ###
+
+### 5. Lavoriamo insieme ###
+
+### 6. Il testo ha struttura ###
+
+## Parte 3: TODO ##
+
+### 7. Rendila un'abitudine ###
+
+Imparare a guidare una macchina richiede impegno. È una buona ragione per continuare ad
+andare in bici? TODO
+
+D'altro canto non devi provare a imparare ogni comando offerto dal tuo editor.
 
 ["Seven habits of effective text editing"]: http://www.moolenaar.net/habits.html
