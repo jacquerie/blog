@@ -1,0 +1,52 @@
+Date: 30 June 2014
+Summary: Una startup di nome tNotice sta pubblicizzando il proprio prodotto, una sorta di raccomandata elettronica, con una campagna dal titolo "#RENZIAGGIUNGICENTOEURO". La cosa però non mi convince molto.
+
+# Perché non mi iscriverò a tNotice (e nemmeno tu dovresti farlo) #
+
+Una startup di nome tNotice sta pubblicizzando il proprio prodotto, una sorta
+di raccomandata elettronica, con una campagna dal titolo
+["#RENZIAGGIUNGI100EURO"](http://renziaggiungi100euro.it/wordpress/). La tesi è
+che l'amministrazione pubblica italiana spende ogni anno due miliardi e mezzo
+di euro nella spedizione di raccomandate; se passasse al prodotto di tNotice
+risparmierebbe un miliardo di euro, che potrebbero essere utilizzati dal
+governo Renzi per un ulteriore aumento in busta paga.
+
+La cosa però non mi convince molto. La mia opinione è (tanto per
+cambiare) di minoranza: molti giornalisti hanno espresso apprezzamento per
+l'idea, fra cui [Diana
+Letizia](http://www.ilsecoloxix.it/p/blog/2014/05/16/ARggAMI-renziaggiungi_culturadigitale_vuole.shtml)
+del Secolo XIX e [Giovanni Maria
+Riccio](http://giovannimariariccio.nova100.ilsole24ore.com/2013/05/stanchi-dei-vecchi-servizi-postali.html)
+del Sole 24 Ore.
+
+Un problema che tNotice dovrebbe risolvere è garantire la genuinità delle
+comunicazioni: vogliamo essere sicuri che il messaggio ricevuto sia stato
+effettivamente scritto dal mittente. Questo verrebbe risolto da
+[SHA-7](http://www.tnotice.com/per-approfondire/#sicurezza), un algoritmo di
+crittografia inventato dal CEO di tNotice, Claudio Anastasio.
+
+Chi sa qualcosa di crittografia ha appena aggrottato le sopracciglia: gli
+algoritmi della famiglia SHA (da SHA-0 a SHA-3) sono infatti standard
+pubblicati dal NIST, un organo statunitense. Ognuno di questi standard è stato
+oggetto di pluriennale analisi da parte dell'intera comunità crittografica
+mondiale, che inoltre ha più volte trovato [difetti nella loro
+implementazione](https://en.wikipedia.org/wiki/Side_channel_attack).
+
+Tutt'altra storia nel caso di tNotice: l'algoritmo SHA-7 non è stato pubblicato
+su una rivista peer-reviewed e non è stato oggetto di analisi crittografica, né
+teoricamente né a livello implementativo. Un protocollo crittografico non può
+dipendere dalla propria segretezza per essere efficace; dobbiamo sempre
+assumere che chi vuole intercettare o modificare le nostre comunicazioni non
+sia avvantaggiato se riesce a scoprire il protocollo usato. In effetti i
+protocolli crittografici usati per navigare e commerciare su internet sono
+pubblici, e spesso lo sono anche le loro implementazioni.
+
+Non può rassicurare il fatto che sia stato [presentato un
+brevetto](http://www.uibm.gov.it/uibm/dati/Avanzata.aspx?load=info_list_uno&id=2120737&table=Invention&#ancoraSearch):
+un brevetto garantisce infatti che il richiedente è dotato di abbastanza soldi,
+ma [non garantisce la rilevanza
+scientifica](https://encrypted.google.com/patents/US5443036) di quanto
+brevettato.
+
+Finché tNotice non avrà superato il vaglio della comunità crittografica non
+affiderò ad essa i miei dati personali, e sconsiglio a chiunque di farlo.
