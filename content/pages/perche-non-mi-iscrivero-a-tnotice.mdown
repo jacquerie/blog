@@ -24,8 +24,8 @@ di Repubblica.
 Un problema che tNotice dovrebbe risolvere è garantire la genuinità delle
 comunicazioni: vogliamo essere sicuri che il messaggio ricevuto sia stato
 effettivamente scritto dal mittente. Questo verrebbe risolto da
-[SHA-7](http://www.tnotice.com/per-approfondire/#sicurezza), un algoritmo di
-crittografia inventato dal CEO di tNotice, Claudio Anastasio.
+[SHA-7](https://archive.today/eFaIo), un algoritmo di crittografia inventato
+dal CEO di tNotice, Claudio Anastasio.
 
 Chi sa qualcosa di crittografia ha appena aggrottato le sopracciglia: gli
 algoritmi della famiglia SHA (da SHA-0 a SHA-3) sono infatti standard
