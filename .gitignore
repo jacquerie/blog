@@ -1,5 +1,6 @@
 ._*
 .*.swp
 .bundle
+.env
 .DS_Store
 .sass-cache
