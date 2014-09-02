@@ -1,0 +1,77 @@
+Date: 02 Sep 2014
+Summary: A seguito del mio precedente post e di qualche scambio di tweet oggi ho ricevuto la mia prima tNotice, dal titolo "ATTO DI DIFFIDA".
+
+# tNotice: come una email, ma più "ATTO DI DIFFIDA" #
+
+tNotice è una startup che offre una sorta di raccomandata elettronica,
+alternativa alla PEC e alla raccomandata cartacea. Nel [precedente
+post](http://www.jacquerie.it/perche-non-mi-iscrivero-a-tnotice) ho espresso
+preoccupazione per la crittografia da questi usata, mentre [un post sul blog
+"Crypto
+Myths"](http://cryptomyths.blogspot.it/2014/07/e-semplice-e-non-funziona.html)
+ha sviscerato questa e altre affermazioni dubbie presenti nel loro sito.
+
+A seguito del mio precedente post e di qualche [scambio di
+tweet](https://twitter.com/Jaconotar/status/505073250209378304) oggi ho
+ricevuto la mia prima tNotice, dal titolo "ATTO DI DIFFIDA":
+
+<img src="/attachments/claudio_anastasio_atto_di_diffida.jpg"
+  alt="La tNotice di Claudio Anastasio dal titolo 'ATTO DI DIFFIDA'"/>
+Diffida a fare cosa? Non lo so e non conto di scoprirlo a breve. Infatti per
+poterlo sapere dovrei iscrivermi a tNotice, ma, come ho già scritto, non mi
+iscriverò a tNotice finché, come suggerisce
+[@stefanokess](https://twitter.com/stefanokess/status/504197132531015680), non
+sarà effettuato "un audit indipendente che riveli l'assenza di criticità".
+
+Nel frattempo chiunque volesse mandarmi una email con garanzia di
+confidenzialità è invitato a usare la mia chiave PGP:
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: SKS 1.1.4
+    Comment: Hostname: pgp.mit.edu
+
+    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
+    igmY3qVUXtviNNTO7ixN/776+l3z4lc=
+    =f+6c
+    -----END PGP PUBLIC KEY BLOCK-----
+
