@@ -1,0 +1,74 @@
+Date: 5 Oct 2014
+Summary: TODO
+
+# Report sulle startup italiane, 29/09/2014 #
+
+TODO
+
+## Le province con più startup ##
+
+Non avrebbe molto senso stilare una classifica delle province ordinate per il
+numero assoluto di startup: [alcune province ne avrebbero di più per il
+semplice fatto di essere più popolose](https://xkcd.com/1138/). Avremmo infatti:
+
+    1. Milano          377
+    2. Roma            213
+    3. Torino 	       150
+    4. Trento           99
+    5. Bologna          78
+
+Meglio quindi ordinarle per il numero di startup diviso per la popolazione
+residente. Ecco quindi le prime cinque in questa nuova classifica:
+
+    1. Trento
+    2. Trieste
+    3. Milano
+    4. Cagliari
+    5. Pisa
+
+Osserviamo molte più città di piccole dimensioni. A occhio parrebbe esserci una
+correlazione fra un'Università con una buona facoltà scientifica e un elevato
+numero di startup nella provincia.
+
+## Forme societarie ##
+
+    SOCIETA' A RESPONSABILITA' LIMITATA                       2140
+    SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA           282
+    SOCIETA' A RESPONSABILITA' LIMITATA CON UNICO SOCIO        123
+    SOCIETA' COOPERATIVA                                        49
+    SOCIETA' PER AZIONI                                         44
+    SOCIETA' A RESPONSABILITA' LIMITATA A CAPITALE RIDOTTO      13
+    SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA               3
+    COOPERATIVA SOCIALE                                          1
+
+Non sorprende che la stragrande maggioranza delle startup abbia optato per una
+delle varianti della [società a responsabilità
+limitata](https://it.wikipedia.org/wiki/Societ%C3%A0_a_responsabilit%C3%A0_limitata).
+Sorprende invece vedere 50
+[cooperative](https://it.wikipedia.org/wiki/Societ%C3%A0_cooperativa) e più di
+40 [società per azioni](https://it.wikipedia.org/wiki/Societ%C3%A0_per_azioni):
+le prime perché mancano del fine di speculazione privata e le seconde per
+l'elevato capitale sottoscritto iniziale.
+
+Mi chiedo se esistano best practices per quanto riguarda l'incorporazione come
+società: la S.r.l. è davvero la migliore forma societaria? Esistono regioni,
+province o comuni dove è preferibile creare la società per questioni fiscali od
+operative (un po' come incorporarsi in Delaware negli Stati Uniti?).
+
+## Fatturato e numero di dipendenti ##
+
+TODO
+
+## TODO ##
+
+TODO
+
+## TODO ##
+
+TODO
+
+## Note ##
+
+<ol>
+  <li id="fn1-02102014"><p></p></li>
+</ol>
