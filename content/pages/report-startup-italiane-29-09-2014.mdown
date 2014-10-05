@@ -76,6 +76,11 @@ TODO
 
 TODO
 
+<img src="/attachments/startup_classes.jpg" alt="Una tabella che incrocia le
+classi di produzione e di numero di dipendenti delle startup italiane,
+aggiornata al 29/09/2014."/>
+Come prevedibile le due quantità sono fortemente correlate. TODO
+
 ## Stima della crescita delle startup ##
 
 Se accettiamo che [Startup = Growth](http://paulgraham.com/growth.html) allora
