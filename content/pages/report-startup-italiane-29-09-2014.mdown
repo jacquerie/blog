@@ -1,9 +1,22 @@
 Date: 5 Oct 2014
-Summary: TODO
+Summary: Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto crescono? Possiamo rispondere a queste e ad altre domande consultando startup.registroimprese.it, il sito che raccoglie le imprese che soddisfano i requisiti della legge 221/2012.
 
 # Report sulle startup italiane, 29/09/2014 #
 
-TODO
+Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto
+crescono? Possiamo rispondere a queste e ad altre domande consultando
+[startup.registroimprese.it](http://startup.registroimprese.it/), il sito che
+raccoglie le imprese che soddisfano i requisiti della legge 221/2012.
+
+Purtroppo tale sito non è granché navigabile (è infatti impossibile linkare a
+una specifica pagina all'interno del sito) e, per giunta, i dati che ci
+interessano sono disponibili soltanto in formato `.xls` o `.pdf`.
+
+Nel tentativo di "liberare" questi dati e cominciare a interpretarli ho
+rilasciato su GitHub
+[italian-startup-report](https://github.com/jacquerie/italian-startups-report).
+In questo post raccolgo alcune osservazioni informate dai dati che sono
+riuscito a ricavare.
 
 ## Le province con più startup ##
 
@@ -59,13 +72,31 @@ operative (un po' come incorporarsi in Delaware negli Stati Uniti?).
 
 TODO
 
-## TODO ##
+## Startup più e meno efficienti ##
 
 TODO
 
-## TODO ##
+## Stima della crescita delle startup ##
 
-TODO
+Se accettiamo che [Startup = Growth](http://paulgraham.com/growth.html) allora
+l'unica misura del successo di una startup è la sua crescita. I dati permettono
+di stimarla in maniera un po' grossolana: abbiamo a disposizione la data di
+inizio effettivo dell'attività e la classe di produzione, che possiamo
+interpretare come una stima inferiore del reddito generato.
+
+Possiamo allora stimare la crescita mese su mese supponendo che questa sia
+stata costante, ottenendo la seguente lista delle startup ad alta crescita:
+
+* THALLOSJET S.R.L. ([thallosjet.com](http://xenuspharma.it/))
+* XENUS S.R.L. ([xenuspharma.it](http://xenuspharma.it/))
+* FIVE FOR CASTING S.R.L. ([fiveforcasting.it](http://www.fiveforcasting.it/))
+* MOBTIMIZE S.R.L. ([hicmobile.com/](http://www.hicmobile.com/))
+* ENVI-POWER GROUP S.R.L. ([envipower.it/](http://www.envipower.it/))
+* ISOLCERAM S.R.L. ([isolceram.it](http://www.isolceram.it/))
+* LEAP FACTORY S.R.L. ([leapfactory.it](http://www.leapfactory.it/))
+* DOVECONVIENE S.R.L. ([doveconviene.it/](http://www.doveconviene.it/))
+* BRANDON FERRARI S.R.L. ([brandonferrari.com](http://www.brandonferrari.com/))
+* IDEAS & MOTION S.R.L. ([ideasandmotion.com](http://www.ideasandmotion.com/))
 
 ## Note ##
 
