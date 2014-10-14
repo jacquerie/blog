@@ -1,7 +1,7 @@
-Date: 5 Oct 2014
+Date: 14 Oct 2014
 Summary: Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto crescono? Possiamo rispondere a queste e ad altre domande consultando startup.registroimprese.it, il sito che raccoglie le imprese che soddisfano i requisiti della legge 221/2012.
 
-# Report sulle startup italiane, 29/09/2014 #
+# Report sulle startup italiane, 13/10/2014 #
 
 Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto
 crescono? Possiamo rispondere a queste e ad altre domande consultando
@@ -15,8 +15,7 @@ interessano sono disponibili soltanto in formato `.xls` o `.pdf`.
 Nel tentativo di "liberare" questi dati e cominciare a interpretarli ho
 rilasciato su GitHub
 [italian-startup-report](https://github.com/jacquerie/italian-startups-report).
-In questo post raccolgo alcune osservazioni informate dai dati che sono
-riuscito a ricavare.
+In questo post raccolgo alcune osservazioni che ho ricavato dai dati.
 
 ## Le province con più startup ##
 
@@ -24,11 +23,11 @@ Non avrebbe molto senso stilare una classifica delle province ordinate per il
 numero assoluto di startup: [alcune province ne avrebbero di più per il
 semplice fatto di essere più popolose](https://xkcd.com/1138/). Avremmo infatti:
 
-    1. Milano          377
-    2. Roma            213
-    3. Torino 	       150
+    1. Milano          387
+    2. Roma            221
+    3. Torino 	       151
     4. Trento           99
-    5. Bologna          78
+    5. Bologna          79
 
 Meglio quindi ordinarle per il numero di startup diviso per la popolazione
 residente. Ecco quindi le prime cinque in questa nuova classifica:
@@ -45,12 +44,12 @@ numero di startup nella provincia.
 
 ## Forme societarie ##
 
-    SOCIETA' A RESPONSABILITA' LIMITATA                       2140
-    SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA           282
-    SOCIETA' A RESPONSABILITA' LIMITATA CON UNICO SOCIO        123
+    SOCIETA' A RESPONSABILITA' LIMITATA                       2182
+    SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA           296
+    SOCIETA' A RESPONSABILITA' LIMITATA CON UNICO SOCIO        124
     SOCIETA' COOPERATIVA                                        49
-    SOCIETA' PER AZIONI                                         44
-    SOCIETA' A RESPONSABILITA' LIMITATA A CAPITALE RIDOTTO      13
+    SOCIETA' PER AZIONI                                         47
+    SOCIETA' A RESPONSABILITA' LIMITATA A CAPITALE RIDOTTO      14
     SOCIETA' CONSORTILE A RESPONSABILITA' LIMITATA               3
     COOPERATIVA SOCIALE                                          1
 
@@ -58,10 +57,11 @@ Non sorprende che la stragrande maggioranza delle startup abbia optato per una
 delle varianti della [società a responsabilità
 limitata](https://it.wikipedia.org/wiki/Societ%C3%A0_a_responsabilit%C3%A0_limitata).
 Sorprende invece vedere 50
-[cooperative](https://it.wikipedia.org/wiki/Societ%C3%A0_cooperativa) e più di
-40 [società per azioni](https://it.wikipedia.org/wiki/Societ%C3%A0_per_azioni):
-le prime perché mancano del fine di speculazione privata e le seconde per
-l'elevato capitale sottoscritto iniziale.
+[cooperative](https://it.wikipedia.org/wiki/Societ%C3%A0_cooperativa) e quasi
+altrettante [società per
+azioni](https://it.wikipedia.org/wiki/Societ%C3%A0_per_azioni): le prime perché
+mancano del fine di speculazione privata e le seconde per l'elevato capitale
+sottoscritto iniziale.
 
 Mi chiedo se esistano best practices per quanto riguarda l'incorporazione come
 società: la S.r.l. è davvero la migliore forma societaria? Esistono regioni,
@@ -76,9 +76,9 @@ TODO
 
 TODO
 
-<img src="/attachments/startup_classes.jpg" alt="Una tabella che incrocia le
+<img src="/attachments/startup_classes.png" alt="Una tabella che incrocia le
 classi di produzione e di numero di dipendenti delle startup italiane,
-aggiornata al 29/09/2014."/>
+aggiornata al 13/10/2014."/>
 Come prevedibile le due quantità sono fortemente correlate. TODO
 
 ## Stima della crescita delle startup ##
@@ -92,19 +92,21 @@ interpretare come una stima inferiore del reddito generato.
 Possiamo allora stimare la crescita mese su mese supponendo che questa sia
 stata costante, ottenendo la seguente lista delle startup ad alta crescita:
 
+* CONSOL S.R.L. ([consolsrl.eu](http://www.consolsrl.eu/))
+* FORMULA E S.R.L.
 * THALLOSJET S.R.L. ([thallosjet.com](http://xenuspharma.it/))
-* XENUS S.R.L. ([xenuspharma.it](http://xenuspharma.it/))
-* FIVE FOR CASTING S.R.L. ([fiveforcasting.it](http://www.fiveforcasting.it/))
 * MOBTIMIZE S.R.L. ([hicmobile.com/](http://www.hicmobile.com/))
 * ENVI-POWER GROUP S.R.L. ([envipower.it/](http://www.envipower.it/))
-* ISOLCERAM S.R.L. ([isolceram.it](http://www.isolceram.it/))
+* XENUS S.R.L. ([xenuspharma.it](http://xenuspharma.it/))
+* FIVE FOR CASTING S.R.L. ([fiveforcasting.it](http://www.fiveforcasting.it/))
 * LEAP FACTORY S.R.L. ([leapfactory.it](http://www.leapfactory.it/))
-* DOVECONVIENE S.R.L. ([doveconviene.it/](http://www.doveconviene.it/))
 * BRANDON FERRARI S.R.L. ([brandonferrari.com](http://www.brandonferrari.com/))
-* IDEAS & MOTION S.R.L. ([ideasandmotion.com](http://www.ideasandmotion.com/))
+* REDBIT GAMES S.R.L. ([redbitgames.it](http://www.redbitgames.it/))
+
+TODO
 
 ## Note ##
 
 <ol>
-  <li id="fn1-02102014"><p></p></li>
+  <li id="fn1-14102014"><p></p></li>
 </ol>
