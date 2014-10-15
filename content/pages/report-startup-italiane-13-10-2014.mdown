@@ -68,10 +68,6 @@ società: la S.r.l. è davvero la migliore forma societaria? Esistono regioni,
 province o comuni dove è preferibile creare la società per questioni fiscali od
 operative (un po' come incorporarsi in Delaware negli Stati Uniti?).
 
-## Fatturato e numero di dipendenti ##
-
-TODO
-
 ## Startup più e meno efficienti ##
 
 I dati rilasciati non contengono numeri precisi sul fatturato e sul numero di
@@ -90,7 +86,7 @@ mentre il significato delle classi di numero di dipendenti è il seguente:
     B: da 5 a 9
     C: da 10 a 19
     D: da 20 a 49
-    E: da 50 in poi
+    E: più di 50
 
 Vediamo come sono legate fra loro le classi rappresentando il numero di startup
 per tutte le possibili combinazioni in una tabella:
@@ -141,6 +137,40 @@ mentre le seguenti startup sono _più efficienti_:
 * LEANPRODUCTS S.R.L. ([leanproducts.eu](http://www.leanproducts.eu/))
 * TODO
 
+## Fatturato, numero di dipendenti e capitali ##
+
+Dagli stessi dati possiamo ricavare stime inferiori e superiori del fatturato totale generato dalle startup e del numero di dipendenti. Abbiamo infatti:
+
+    Fatturato totale minimo:  € 106.500.000
+    Fatturato totale massimo: € 421.300.000
+
+e
+
+    Minimo totale dipendenti:  1.065
+    Massimo totale dipendenti: 5.257
+
+TODO
+
+I dati rilasciati contengono inoltre delle stime del capitale sociale con
+etichette da `1` a `9` dal seguente significato:
+
+    1: € 1
+    2: da € 1 a € 5.000
+    3: da € 5.000 a € 10.000
+    4: da € 10.000 a € 50.000
+    5: da € 50.000 a € 100.000
+    6: da € 100.000 a € 250.000
+    7: da € 250.000 a € 500.000
+    8: da € 500.000 a € 1.000.000
+    9: più di € 1.000.000
+
+Possiamo quindi stimare il capitale totale, ottenendo:
+
+    Capitale totale minimo:  € 52.315.420
+    Capitale totale massimo: € 123.775.091
+
+TODO
+
 ## Stima della crescita delle startup ##
 
 Se accettiamo che [Startup = Growth](http://paulgraham.com/growth.html) allora
@@ -153,15 +183,20 @@ Possiamo allora stimare la crescita mese su mese supponendo che questa sia
 stata costante, ottenendo la seguente lista delle startup ad alta crescita:
 
 * CONSOL S.R.L. ([consolsrl.eu](http://www.consolsrl.eu/))
-* FORMULA E S.R.L.
+* **FORMULA E S.R.L.**
 * THALLOSJET S.R.L. ([thallosjet.com](http://xenuspharma.it/))
 * MOBTIMIZE S.R.L. ([hicmobile.com/](http://www.hicmobile.com/))
 * ENVI-POWER GROUP S.R.L. ([envipower.it/](http://www.envipower.it/))
 * XENUS S.R.L. ([xenuspharma.it](http://xenuspharma.it/))
 * FIVE FOR CASTING S.R.L. ([fiveforcasting.it](http://www.fiveforcasting.it/))
 * LEAP FACTORY S.R.L. ([leapfactory.it](http://www.leapfactory.it/))
-* BRANDON FERRARI S.R.L. ([brandonferrari.com](http://www.brandonferrari.com/))
-* REDBIT GAMES S.R.L. ([redbitgames.it](http://www.redbitgames.it/))
+* **BRANDON FERRARI S.R.L.** ([brandonferrari.com](http://www.brandonferrari.com/))
+* **REDBIT GAMES S.R.L.** ([redbitgames.it](http://www.redbitgames.it/))
+
+In grassetto abbiamo evidenziato le startup che avevamo individuato come _più
+efficienti_. TODO
+
+## Conclusioni ##
 
 TODO
 
