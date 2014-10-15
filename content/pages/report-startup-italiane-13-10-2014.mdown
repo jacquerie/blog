@@ -1,4 +1,4 @@
-Date: 14 Oct 2014
+Date: 15 Oct 2014
 Summary: Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto crescono? Possiamo rispondere a queste e ad altre domande consultando startup.registroimprese.it, il sito che raccoglie le imprese che soddisfano i requisiti della legge 221/2012.
 
 # Report sulle startup italiane, 13/10/2014 #
@@ -99,7 +99,7 @@ interessante vedere quando non lo sono, sia in negativo sia in positivo. In
 particolare chiameremo _meno efficienti_ le startup la cui classe di dipendenti
 sia maggiore di quella del reddito, viceversa _più efficienti_ quelle per cui
 la classe di reddito sia molto maggiore di quella dei dipendenti. <sup
-id="ref1-14102014"><a href="#fn1-14102014">1</a></sup>
+id="ref1-15102014"><a href="#fn1-15102014">1</a></sup>
 
 Le seguenti startup sono _meno efficienti_:
 
@@ -218,14 +218,27 @@ stata costante, ottenendo la seguente lista delle startup ad alta crescita:
 * **REDBIT GAMES S.R.L.** ([redbitgames.it](http://www.redbitgames.it/))
 
 In grassetto abbiamo evidenziato le startup che avevamo individuato come _più
-efficienti_. TODO
+efficienti_.
 
 ## Conclusioni ##
 
-TODO
+Con poche migliaia di persone impiegate e nell'ordine delle centinaia di
+milioni di euro di fatturato totale, la scena startup italiana è ancora
+piuttosto piccola.
+
+Molte "startup" dell'elenco sono in realtà società di consulenza non
+particolarmente incentrate su un unico prodotto: la legge 221/2012 non permette
+di discriminare sufficientemente bene fra queste e le startup "autentiche".
+
+Contrariamente all'immaginario comune, le startup con fatturato e crescita
+migliori operano nel manifatturiero con prodotti ad alta specializzazione;
+quasi assenti le "tipiche" startup che operano esclusivamente su internet
+distribuendo servizi, applicazioni o giochi. <sup id="ref2-15102014"><a
+href="#id2-15102014">2</a></sup>
 
 ## Note ##
 
 <ol>
-  <li id="fn1-14102014"><p>La caratterizzazione è grossolana: è chiaro che alcune aziende hanno per propria natura bisogno di più persone per poter funzionare. D'altro canto una delle startup indicate come <em>poco efficiente</em> dal modello pare non essere più online: EMEDIAMARKETING S.R.L. con <a href="http://affaredelgiorno.it/">affaredelgiorno.it</a> <a href="#ref1-14042014">&#8617;</a></p></li></p></li>
+  <li id="fn1-15102014"><p>La caratterizzazione è grossolana: è chiaro che alcune aziende hanno per propria natura bisogno di più persone per poter funzionare. D'altro canto una delle startup indicate come <em>poco efficiente</em> dal modello pare non essere più online: EMEDIAMARKETING S.R.L. con <a href="http://affaredelgiorno.it/">affaredelgiorno.it</a> <a href="#ref1-15102014">&#8617;</a></p></li>
+  <li id="fn2-15102014"><p>A eccezione ad esempio di REDBIT GAMES S.R.L., società che realizza cloni di giochi popolari sul modello di Zynga. <a href="#ref2-15102014">&#8617;</a></p></li>
 </ol>
