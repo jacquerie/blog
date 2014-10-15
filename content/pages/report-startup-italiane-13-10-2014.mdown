@@ -121,7 +121,7 @@ Le seguenti startup sono _meno efficienti_:
 * STANDARDKESSEL ITALIANA S.R.L. ([standardkessel.it](http://standardkessel.it/))
 * SEMA SAFETY S.R.L.
 * SYOMATICA S.R.L. ([syomatica.com](http://www.syomatica.com/))
-* SMART APPS COOP
+* SMART APPS COOP.
 * DEMETRIX S.R.L. ([demetrix.it](http://www.demetrix.it/))
 * RELIEF ART S.R.L. ([reliefart.it](http://www.reliefart.it))
 * ER SOLUTION S.R.L. ([ersolution.it](http://www.ersolution.it/))
@@ -177,8 +177,6 @@ e
     Minimo totale dipendenti:  1.065
     Massimo totale dipendenti: 5.257
 
-TODO
-
 I dati rilasciati contengono inoltre delle stime del capitale sociale con
 etichette da `1` a `9` dal seguente significato:
 
@@ -196,8 +194,6 @@ Possiamo quindi stimare il capitale totale, ottenendo:
 
     Capitale totale minimo:  € 52.315.420
     Capitale totale massimo: € 123.775.091
-
-TODO
 
 ## Stima della crescita delle startup ##
 
@@ -231,5 +227,5 @@ TODO
 ## Note ##
 
 <ol>
-  <li id="fn1-14102014"><p>La caratterizzazione è grossolana: è chiaro che alcune aziende hanno per propria natura bisogno di più persone per poter funzionare. D'altro canto una delle startup indicate come <em>poco efficiente</em> dal modello pare non essere più online: <a href="http://affaredelgiorno.it/">affaredelgiorno.it</a> <a href="#ref1-14042014">&#8617;</a></p></li></p></li>
+  <li id="fn1-14102014"><p>La caratterizzazione è grossolana: è chiaro che alcune aziende hanno per propria natura bisogno di più persone per poter funzionare. D'altro canto una delle startup indicate come <em>poco efficiente</em> dal modello pare non essere più online: EMEDIAMARKETING S.R.L. con <a href="http://affaredelgiorno.it/">affaredelgiorno.it</a> <a href="#ref1-14042014">&#8617;</a></p></li></p></li>
 </ol>
