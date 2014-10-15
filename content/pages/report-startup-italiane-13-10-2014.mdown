@@ -4,7 +4,7 @@ Summary: Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto 
 # Report sulle startup italiane, 13/10/2014 #
 
 Quante startup ci sono in Italia? Quando sono nate? Cosa fanno? Quanto
-crescono? Possiamo rispondere a queste e ad altre domande consultando
+crescono? Potremmo rispondere a queste e ad altre domande consultando
 [startup.registroimprese.it](http://startup.registroimprese.it/), il sito che
 raccoglie le imprese che soddisfano i requisiti della legge 221/2012.
 
@@ -74,12 +74,72 @@ TODO
 
 ## Startup più e meno efficienti ##
 
-TODO
+I dati rilasciati non contengono numeri precisi sul fatturato e sul numero di
+dipendenti di un'azienda, ma solo una classe da `A` a `E`. Il significato delle
+classi di fatturato è il seguente:
+
+    A: da € 0 a € 100.000
+    B: da € 100.000 a € 500.000
+    C: da € 500.000 a € 1.000.000
+    D: da € 1.000.000 a € 2.000.000
+    E: da € 2.000.000 a € 5.000.000
+
+mentre il significato delle classi di numero di dipendenti è il seguente:
+
+    A: da 0 a 4
+    B: da 5 a 9
+    C: da 10 a 19
+    D: da 20 a 49
+    E: da 50 in poi
+
+Vediamo come sono legate fra loro le classi rappresentando il numero di startup
+per tutte le possibili combinazioni in una tabella:
 
 <img src="/attachments/startup_classes.png" alt="Una tabella che incrocia le
 classi di produzione e di numero di dipendenti delle startup italiane,
 aggiornata al 13/10/2014."/>
-Come prevedibile le due quantità sono fortemente correlate. TODO
+Come prevedibile le due quantità sono fortemente correlate. È quindi
+interessante vedere quando non lo sono, sia in negativo sia in positivo. In
+particolare chiameremo _meno efficienti_ le startup la cui classe di dipendenti
+sia maggiore di quella del reddito, viceversa _più efficienti_ quelle per cui
+la classe di reddito sia molto maggiore di quella dei dipendenti. <sup
+id="ref1-14102014"><a href="#fn1-14102014">1</a></sup>
+
+Le seguenti startup sono _meno efficienti_:
+
+* L.B.F. ENERGY S.R.L.
+* NATURAL GENTLEMAN S.R.L. ([lanieri.com](http://www.lanieri.com))
+* BLOMMING S.R.L. ([blomming.com](http://www.blomming.com/))
+* ALTILIA S.R.L. ([altiliagroup.com](http://www.altiliagroup.com/))
+* FLAZIO S.R.L. ([flazio.com](http://www.flazio.com/))
+* EMEDIAMARKETING S.R.L.
+* SEDAPTA S.R.L. ([sedapta.com](http://www.sedapta.com/))
+* ECHOLIGHTMEDICAL S.R.L. ([echolightmedical.com](http://www.echolightmedical.com/))
+* MADISOFT S.R.L. ([madisoft.it](http://madisoft.it/))
+* SYNBIOFOOD S.R.L. ([synbiofood.com](http://synbiofood.com/))
+* NEWLISI S.P.A. ([newlisi.com](http://www.newlisi.com/))
+* VIRTUAL B S.P.A. ([virtualb.it](http://virtualb.it/))
+* HOLONIX S.R.L. ([holonix.it](http://www.holonix.it/))
+* OMEGA3C S.R.L. ([omega3c.com](http://www.omega3c.com/))
+* SPARKLING 18 S.R.L. ([sparkling18.com](http://sparkling18.com/))
+* STANDARDKESSEL ITALIANA S.R.L. ([standardkessel.it](http://standardkessel.it/))
+* SEMA SAFETY S.R.L.
+* SYOMATICA S.R.L. ([syomatica.com](http://www.syomatica.com/))
+* SMART APPS COOP
+* DEMETRIX S.R.L. ([demetrix.it](http://www.demetrix.it/))
+* RELIEF ART S.R.L. ([reliefart.it](http://www.reliefart.it))
+* ER SOLUTION S.R.L. ([ersolution.it](http://www.ersolution.it/))
+* WELLNESS & WIRELESS S.R.L. ([yukendu.it](http://www.yukendu.it/))
+* NECTO HOLDING S.P.A. ([necto-holding.com](http://necto-holding.com/))
+* T&T ELETTRONICA S.R.L. ([tntelettronica.com/](http://www.tntelettronica.com/))
+* NATURAL BOOKING S.R.L. ([naturalbooking.it](http://www.naturalbooking.it/))
+* MISIEDO S.R.L. ([misiedo.com](http://misiedo.com/))
+
+mentre le seguenti startup sono _più efficienti_:
+
+* FORMULA E S.R.L.
+* LEANPRODUCTS S.R.L. ([leanproducts.eu](http://www.leanproducts.eu/))
+* TODO
 
 ## Stima della crescita delle startup ##
 
@@ -108,5 +168,5 @@ TODO
 ## Note ##
 
 <ol>
-  <li id="fn1-14102014"><p></p></li>
+  <li id="fn1-14102014"><p>La caratterizzazione è grossolana: è chiaro che alcune aziende hanno per propria natura bisogno di più persone per poter funzionare. D'altro canto una delle startup indicate come <em>poco efficiente</em> dal modello pare non essere più online: <a href="http://affaredelgiorno.it/">affaredelgiorno.it</a> <a href="#ref1-14042014">&#8617;</a></p></li></p></li>
 </ol>
