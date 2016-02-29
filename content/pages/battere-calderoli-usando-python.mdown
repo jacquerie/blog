@@ -1,0 +1,162 @@
+Date: 29 February 2016
+Summary: Il senatore Calderoli si avvale di un programma per generare automaticamente migliaia di emendamenti a partire da un testo base. Il suo uso ha in più occasioni provocato non pochi grattacapi ai partiti della maggioranza. In questo post presento l'implementazione Python di un semplice algoritmo per raggruppare automaticamente gli emendamenti simili, in modo da mettere a votazione solo il più generale di essi e rifiutare come inammissibili i restanti.
+
+# Battere Calderoli usando Python #
+
+In queste ultime settimane il dibattito pubblico è stato monopolizzato dal
+cosiddetto ["DDL Cirinnà"](http://www.senato.it/leg/17/BGT/Schede/Ddliter/46051.htm),
+il disegno di legge discusso al Senato per regolamentare le unioni civili tra
+persone dello stesso sesso e dare una disciplina delle convivenze.
+
+Fra molte altre polemiche hanno fatto notizia i [migliaia di emendamenti](http://www.ilpost.it/2016/02/17/emendamenti-ddl-cirinna/)
+dal contenuto frivolo presentati dai partiti dell'opposizione. Si è distinto in
+particolare il senatore Calderoli, autore di più di 4000 di essi.
+
+Non è la prima volta che questo accade: nel caso del DDL Boschi il senatore
+Calderoli presentò [decine di milioni di emendamenti](http://www.repubblica.it/politica/2015/09/23/news/cosi_si_fabbricano_82_milioni_di_emendamenti_la_democrazia_ostaggio_di_un_algoritmo-123525218/)
+generati con un programma sviluppato dal collega Crosio. Tale programma espande
+un testo base in un numero potenzialmente illimitato di emendamenti, tavolta
+variando una singola cifra, talvolta aggiungendo o togliendo una frase, o
+comunque con trasformazioni che non variano nella sostanza il contenuto
+dell'emendamento.
+
+Ad esempio, tornando al caso del DDL Cirinnà, l'[emendamento **1.450**](http://www.senato.it/japp/bgt/showdoc/frame.jsp?tipodoc=Emend&leg=17&id=959401&idoggetto=959097)
+differisce dall'[emendamento **1.451**](http://www.senato.it/japp/bgt/showdoc/frame.jsp?tipodoc=Emend&leg=17&id=959414&idoggetto=959097)
+solo per l'aggiunta di _"e all'articolo 11 sopprimere le parole: «o da un'unione
+civile»"_, e a propria volta l'[emendamento **1.450**](http://www.senato.it/japp/bgt/showdoc/frame.jsp?tipodoc=Emend&leg=17&id=959401&idoggetto=959097)
+differisce dall'[emendamento **1.452**](http://www.senato.it/japp/bgt/showdoc/frame.jsp?tipodoc=Emend&leg=17&id=959402&idoggetto=959097)
+per la mancanza di un paragrafo finale.
+
+La cosa può far sorridere, ma il problema è relativamente serio: se da un lato
+non fu proprio possibile discutere 82 milioni di emendamenti
+([anche votandone uno al minuto sarebbero serviti 156 anni](https://www.google.com/search?q=82000000+minutes+in+years))
+dall'altro già presentarne svariate migliaia ha costituito un ostacolo
+significativo all'approvazione del DDL Cirinnà.
+
+Ricorderete senz'altro che i senatori dell'opposizione proposero di ritirare
+migliaia di emendamenti in cambio del ritiro del superemendamento Marcucci, il
+cosiddetto "supercanguro". Tale proposta non sarebbe stata possibile se, in
+primo luogo, gli emendamenti superflui presentati dall'opposizione fossero stati
+rigettati come inammissibili.
+
+Il regolamento del Senato permette infatti al presidente di bocciare senza
+appello gli emendamenti inutili:
+> Il Presidente può stabilire, con decisione inappellabile, la inammissibilità
+> di emendamenti privi di ogni reale portata modificativa (...) [[articolo 100, comma 8 del Regolamento del Senato](https://www.senato.it/1044?articolo=1093&sezione=152)]
+
+Rimane il problema di individuare tali gruppi di emendamenti simili, di modo che
+soltanto il più generale di essi possa essere messo in votazione, possibilmente
+senza rovinare la vita dei commessi del Senato. Nel resto del post presento
+l'implementazione Python di un semplice algoritmo per fare ciò.
+
+## La soluzione al problema ##
+
+Per prima cosa ci dobbiamo procurare i dati. Il Senato offre un [endpoint SPARQL](http://dati.senato.it/23)
+che forse potrebbe fare al caso nostro, ma ci scoraggiamo soltanto a leggere gli
+esempi di query proposti. Ce ne andiamo da quella pagina, mugugnando fra i denti
+che questa cosa del "web semantico" in fondo non ci aveva mai convinto.
+
+Ci rivolgiamo allora a [Scrapy](http://scrapy.org/), l'ottimo framework per
+scrivere spider. Nel giro di un paio d'ore, dopo aver abbandonato l'idea di
+parsare l'HTML malformato presentato dal sito del Senato, riusciamo a produrre
+il seguente codice, il quale scarica nella cartella `data` un file XML per
+ciascun emendamento:
+<script src="https://gist.github.com/jacquerie/15ba4d0f20a64d199196.js"></script>
+
+Ora che abbiamo i dati possiamo passare alla parte più interessante: risolvere
+davvero il problema. Decidiamo di continuare in un [Jupyter notebook](http://jupyter.org/),
+il quale ci consente di esplorare i dati in maniera interattiva.
+
+I file XML che abbiamo scaricato sono strutturati secondo lo standard [Akoma Ntoso](http://www.akomantoso.org/),
+uno schema nato per descrivere documenti di natura legale. Non riusciamo a
+trovare alcuna libreria Python che permetta di manipolarli, quindi ci dovremo
+sporcare un altro po' le mani per scrivere le espressioni XPath che estraggano
+le parti che ci interessano: il numero identificativo dell'emendamento, i suoi
+autori e il testo dell'emendamento.
+<script src="https://gist.github.com/jacquerie/5dcdd21cb194ca03bd63.js"></script>
+
+Riconosciamo che il problema che vogliamo risolvere è un clustering non
+supervisionato in un numero ignoto di cluster. Il tipico approccio per risolvere
+questo problema è una delle varianti di [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+insieme a un'euristica per tagliare il dendrogramma risultante all'altezza
+giusta per produrre i cluster cercati.
+
+Per poter applicare questo algoritmo abbiamo bisogno di definire una distanza
+fra emendamenti, cioè una funzione che, dati due emendamenti, restituisce un
+numero non negativo tanto più grande quanto i due emendamenti sono diversi.
+
+Per evitare di introdurre bias decidiamo di utilizzare soltanto il testo
+dell'emendamento e non i suoi autori, sebbene sia evidente che questi abbiano un
+alto potere predittivo sulla probabilità che due emendamenti siano simili.
+
+Dobbiamo allora definire una distanza su due testi scritti (si spera) nella
+stessa lingua. Non ci viene in mente niente di meglio della [Distanza di Jaccard](https://en.wikipedia.org/wiki/Jaccard_index)
+fra i token dei due testi, dove definiamo _token_ una sottostringa contigua di
+caratteri alfanumerici. L'implementazione è davvero semplice:
+<script src="https://gist.github.com/jacquerie/36b8824b3dbde4186f6c.js"></script>
+
+Così facendo stiamo scartando la punteggiatura, la formattazione e persino
+l'ordine e il numero di ripetizioni delle parole nel testo. Sono sicuro che si
+possa fare di meglio, ma non conosco abbastanza bene gli algoritmi tipicamente
+usati in Natural Language Processing per azzardarmi a usarne uno.
+
+A questo punto abbiamo tutto quello che ci serve per applicare Hierarchical
+Clustering ai nostri emendamenti. Decidiamo di usare l'implementazione contenuta
+in [SciPy](http://www.scipy.org/), piuttosto che metterci a scrivere la nostra.
+Decidiamo inoltre di applicare l'algoritmo ai solo primi 100 emendamenti, in
+modo da poter ispezionare più facilmente il risultato. Ce la sbrighiamo in poche
+righe di codice:
+<script src="https://gist.github.com/jacquerie/c625f2bcf77b2ec8cbdc.js"></script>
+
+Il risultato è il seguente dendrogramma, in cui SciPy ha evidenziato con colori
+diversi quelli che lui ritiene essere cluster diversi.
+<img src="/attachments/dendrogram.png" alt="Il dendogramma prodotto applicando l'algoritmo descritto ai primi cento emendamenti del DDL Cirinnà"/>
+
+Andiamo a ispezionare l'ultimo di essi, il sottoalbero di colore verde:
+<script src="https://gist.github.com/jacquerie/515a624e63a2a0c456cb.js"></script>
+```
+77: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15. C
+72: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+68: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+64: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+60: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+56: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+52: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+48: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+92: Sopprimere gli articoli 1, 2, 3, 4, S, 6, 7, 8, 9, 10, 11. Conseguentemente,
+89: Sopprimere gli articoli 1, 2, 3,4, S, 6, 7, 8, 9, 10, 11, 12. Conseguentemen
+84: Sopprimere gli articoli 1, 2, 3, 4, S, 6, 7, 8, 9, 10, 11, 12, 13. Conseguen
+80: Sopprimere gli articoli 1, 2, 3, 4, S, 6, 7, 8, 9, 10, 11, 12, 13, 14. Conse
+96: Sopprimere gli articoli 1,2, 3,4, 5, 6, 7, 8, 9, 10. Conseguentemente, sosti
+```
+Il risultato pare promettente: tutti questi emendamenti sono evidentemente
+generati a partire da un emendamento che elenca tutti gli articoli come articoli
+da sopprimere.
+
+Proviamo con il penultimo cluster, il sottoalbero di colore rosso:
+<script src="https://gist.github.com/jacquerie/eebdc7b129f51b6d582a.js"></script>
+```
+78: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.
+73: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+69: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+65: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+61: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+57: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+53: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+49: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 1
+93: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.
+90: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12.
+85: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13.
+81: Sopprimere gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14.
+```
+Ancora un risultato soddisfacente. Osserviamo inoltre che questo cluster
+differisce dal precedente soltanto per l'aggiunta di una frase finale, e infatti
+Hierarchical Clustering finirà per fondere insieme i due cluster.
+
+Per ora ci fermiamo qui. Il lettore interessato può trovare tutto il codice
+sviluppato sul [mio GitHub](https://github.com/jacquerie/senato.py), distribuito
+con licenza assai permissiva (MIT).
+
+Penso di aver dimostrato che battere lo stratagemma usato da Calderoli sia
+estremamente facile, e mi auguro che in futuro questi non possa più adottarlo
+per ottenere un'influenza soverchiante sul processo legislativo.
