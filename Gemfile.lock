@@ -21,7 +21,7 @@ GEM
       sassc (>= 2.2)
       sinatra (~> 2.0)
       tilt (~> 2.0)
-    rack (2.2.3)
+    rack (2.2.6.4)
     rack-protection (2.1.0)
       rack
     rdiscount (2.2.0.2)
